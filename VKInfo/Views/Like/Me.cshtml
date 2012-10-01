@@ -181,300 +181,6 @@
 						<div id="posts-by-month-chart">
 				</div>
 			</div>*@
-<<<<<<< HEAD
-<<<<<<< HEAD
-        </section>
-    </div>
-    <div class="tab-pane fade" id="like-you">
-        <section id="i-liked">
-            <div id="top-liked-users" class="well">
-                <h2>Пользователи, <small>которые мне понравились:</small>
-                </h2>
-                <div id="favourite-users-rating" data-bind="foreach: showedUsers, visible: showedUsers().length > 0">
-                    <div class="content-container">
-                        <a data-bind="attr: {href: link}" target="_blank">
-                            <div class="content">
-                                <img data-bind="attr: {src: photo}" />
-                                <div class="content-header">
-                                    <p data-bind="text: displayed">
-                                    </p>
-                                </div>
-                            </div>
-                        </a>
-                        <div>
-                            <p>
-                                <button data-bind="click: favouriteUsersRatingModal" class="btn btn-secondary likes-list">
-                                    <span><i class="icon-heart"></i></span>&nbsp<span data-bind="text: contentCount">
-                                    </span>
-                                </button>
-                                <button data-bind="click: analyzeUser" class="btn btn-primary manology-open">Анализировать</button>
-                            </p>
-                            <div style="clear: both"></div>
-                        </div>
-                    </div>
-                    <div class="modal hide fade">
-                        <div class="modal-header">
-                            <button type="button" class="close" data-dismiss="modal">
-                                ×</button>
-                            <h3 data-bind="text: displayed"></h3>
-                        </div>
-                        <div class="modal-body">
-                            <h4>Лайки:</h4>
-                            <div data-bind="foreach: contentList">
-                                <p>
-                                    <a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
-                                    </a>
-                                </p>
-                            </div>
-                        </div>
-                        <div class="modal-footer">
-                            <button class="btn btn-danger" data-dismiss="modal">
-                                Закрыть</button>
-                        </div>
-                    </div>
-                </div>
-                <div style="clear: both">
-                </div>
-                <div class="form-actions">
-                    <button class="btn expander" data-bind="click: expand, visible: currentLength() < maxLength()">
-                        Еще</button>
-                    <button class="btn collapser" data-bind="click: collapse, visible: currentLength() > 4">
-                        Свернуть</button>
-                </div>
-            </div>
-            <div id="top-liked-pages" class="well">
-                <h2>Страницы, <small>которые мне понравились:</small>
-                </h2>
-                <div id="favourite-groups-rating" data-bind="foreach: showedGroups, visible: showedGroups().length > 0">
-                    <div class="content-container">
-                        <div class="content">
-                            <a data-bind="attr: {href: link}" target="_blank">
-                                <img data-bind="attr: {src: photo}" />
-                                <div class="content-header">
-                                    <p data-bind="text: displayed">
-                                    </p>
-                                </div>
-                            </a>
-                        </div>
-                        <div>
-                            <p>
-                                <button data-bind="click: favouriteGroupsRatingModal" class="btn btn-secondary likes-list" style="float: none; width: 100%;">
-                                    <span><i class="icon-heart"></i></span>&nbsp<span data-bind="text: contentCount">
-                                    </span>
-                                </button>
-                            </p>
-                        </div>
-                    </div>
-                    <div class="modal hide fade">
-                        <div class="modal-header">
-                            <button type="button" class="close" data-dismiss="modal">
-                                ×</button>
-                            <h3 data-bind="text: displayed"></h3>
-                        </div>
-                        <div class="modal-body">
-                            <h4>Лайки:</h4>
-                            <div data-bind="foreach: contentList">
-                                <p>
-                                    <a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
-                                    </a>
-                                </p>
-                            </div>
-                        </div>
-                        <div class="modal-footer">
-                            <button class="btn btn-danger" data-dismiss="modal">
-                                Закрыть</button>
-                        </div>
-                    </div>
-                </div>
-                <div style="clear: both">
-                </div>
-                <div class="form-actions">
-                    <button class="btn expander" data-bind="click: expand, visible: currentLength() < maxLength()">
-                        Еще</button>
-                    <button class="btn collapser" data-bind="click: collapse, visible: currentLength() > 4">
-                        Свернуть</button>
-                </div>
-            </div>
-        </section>
-    </div>
-    <div class="tab-pane fade" id="home-linguistic">
-        <section id="dictionary-power">
-            <div class="well" id="word-stat">
-                <h2>Статистика:</h2>
-            </div>
-        </section>
-    </div>
-    <div class="tab-pane fade in active" id="home-hobbies">
-        <div id="chart-container-invisible">
-        </div>
-        <section id="hobbies">
-            <div class="container-border" id="charts">
-                <div class="small-charts">
-                    <div>
-                        <div class="small-chart-container" id="hobbies-chart">
-                            <div class="text-like-highcharts">Увлечения</div>
-                            <img src="/Content/images/activity.png" />
-                        </div>
-                        <div class="small-chart-container" id="group-reposts-chart">
-                            <p><strong>Репосты групп - нет данных</strong></p>
-                        </div>
-                        <div style="clear: both"></div>
-                    </div>
-                    <div>
-                        <div class="small-chart-container" id="posts-by-month-chart">
-                            <p>Популярность - нет данных</p>
-                        </div>
-                        <div class="small-chart-container" id="contentType-chart">
-                            <p>Типы постов - нет данных</p>
-                        </div>
-
-                        <div style="clear: both"></div>
-                    </div>
-                </div>
-                <div style="float: right">
-                    <div class="big-chart-container" id="target-chart-container">
-                        <div id="activities-container"></div>
-                    </div>
-                    <div id="chart-comment" class="well">
-                        <div id="reposts-comment">
-                            <div class="modal hide fade" id="bad-language-posts-modal">
-                                <div class="modal-header">
-                                    <button type="button" class="close" data-dismiss="modal">
-                                        ×</button>
-                                </div>
-                                <div class="modal-body">
-                                    <h4>Посты:</h4>
-                                    <div data-bind="foreach: badLanguagePosts">
-                                        <p>
-                                            <a data-bind="attr: {href: link}" target="_blank">
-                                                <span data-bind="text: text"></span>
-                                            </a>
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="modal-footer">
-                                    <button class="btn btn-danger" data-dismiss="modal">
-                                        Закрыть</button>
-                                </div>
-                            </div>
-                            <a data-bind="visible: badLanguageWordsCount() > 0" data-toggle="modal" href="#bad-language-posts-modal">Количество мата в записях пользователя: <span data-bind="text: badLanguageWordsCount"></span>
-                            </a>
-                            <span data-bind="visible: badLanguageWordsCount() == 0">Количество мата в записях пользователя: <span data-bind="text: badLanguageWordsCount"></span>
-                            </span>
-                        </div>
-                        <div id="likes-comment">
-                        </div>
-                        <div id="content-type-comment">
-                        </div>
-                        <div id="hobbies-comment">
-                        </div>
-                    </div>
-                </div>
-                <div style="clear: both"></div>
-            </div>
-            <div id="top-posts" class="container-border">
-                <div class="well" style="float: left; width: 300px;">
-                    <ul class="nav nav-list bs-docs-sidenav" id="chart-navigation">
-                        <li class="nav-header" id="hobbies-tab">Записи на стене по темам</li>
-                        <li class="nav-header" id="wall-tab">Записи на стене по типам содержимого</li>
-                        <li class="nav-header" id="subscribes-tab">Записи на стене по сообществам</li>
-                    </ul>
-                </div>
-                <div style="float: right; width: 520px;">
-                    <div class="links">
-                    </div>
-                </div>
-                <div style="clear: both;"></div>
-            </div>
-        </section>
-    </div>
-    <div class="tab-pane fade" id="home-friends">
-        <section id="friends">
-            <div id="top-universities" class="well">
-                <h2>Топ 3 ВУЗов друзей:</h2>
-                <table class="table table-bordered">
-                    <thead>
-                        <tr>
-                            <th>Место
-                            </th>
-                            <th>Университет
-                            </th>
-                            <th>Кол-во друзей
-                            </th>
-                        </tr>
-                    </thead>
-                    <tbody data-bind="foreach: showedUniversities, visible: showedUniversities().length > 0">
-                        <tr>
-                            <td data-bind="text: rank"></td>
-                            <td data-bind="text: universityName"></td>
-                            <td data-bind="text: friendsCount"></td>
-                        </tr>
-                    </tbody>
-                </table>
-                <div class="form-actions">
-                    <button class="btn expander" data-bind="click: expand, visible: showedUniversities().length === 3">
-                        Показать все</button>
-                    <button class="btn collapser" data-bind="click: collapse, visible: showedUniversities().length != 3">
-                        Свернуть</button>
-                </div>
-            </div>
-            <div id="top-cities" class="well">
-                <h2>Топ 3 городов друзей:</h2>
-                <table class="table table-bordered">
-                    <thead>
-                        <tr>
-                            <th>Место
-                            </th>
-                            <th>Город
-                            </th>
-                            <th>Кол-во друзей
-                            </th>
-                        </tr>
-                    </thead>
-                    <tbody data-bind="foreach: showedCities, visible: showedCities().length > 0">
-                        <tr>
-                            <td data-bind="text: rank"></td>
-                            <td data-bind="text: cityName"></td>
-                            <td data-bind="text: friendsCount"></td>
-                        </tr>
-                    </tbody>
-                </table>
-                <div class="form-actions">
-                    <button class="btn expander" data-bind="click: expand, visible: showedCities().length === 3">
-                        Показать все</button>
-                    <button class="btn collapser" data-bind="click: collapse, visible: showedCities().length != 3">
-                        Свернуть</button>
-                </div>
-            </div>
-            <div id="sex-percentage" class="well">
-                <h2>Соотношение полов:</h2>
-                <div id="sex-percentage-chart">
-                </div>
-            </div>
-        </section>
-    </div>
-    <div class="tab-pane fade" id="recently-watched">
-        <section class="well" data-bind="foreach: watchList, visible: watchList().length > 0">
-            <div class="user-container container-border">
-                <button class="btn btn-primary pull-right" data-bind="click: analyzeUser" style="margin: 28px;">Посмотреть в Manology</button>
-                <button class="btn pull-right" data-bind="click: $root.deleteFromWatchList" style="margin: 28px 0;">Удалить</button>
-                <div class="content-container wide">
-                    <a data-bind="attr: {href: link}" target="_blank">
-                        <div class="content pull-left">
-                            <img data-bind="attr: {src: photo_src}" />
-                        </div>
-                        <p class="pull-left" style="margin: 19px;" data-bind="text: user_name">
-                        </p>
-                    </a>
-                </div>
-                <div class="clear"></div>
-            </div>
-        </section>
-        <div class="well" data-bind="visible: watchList().length == 0" style="text-align: center;">
-            <p>Список просмотренных пуст</p>
-        </div>
-    </div>
-=======
 		</section>
 	</div>
 	<div class="tab-pane fade" id="like-you">
@@ -601,218 +307,64 @@
 		</div>
 		<section id="hobbies">
 			<div class="container-border" id="charts">
-				<div class="small-charts">
-					<div>
-						<div class="small-chart-container" id="hobbies-chart">
-							<div class="text-like-highcharts">Увлечения</div>
-							<img src="/Content/images/activity.png"/>
-						</div>
-						<div class="small-chart-container" id="group-reposts-chart">
-							<p><strong>Репосты групп - нет данных</strong></p>
-						</div>
-						<div style="clear: both"></div>
-					</div>
-					<div>
-						<div class="small-chart-container" id="posts-by-month-chart">
-							<p>Популярность - нет данных</p>
-						</div>
-						<div class="small-chart-container" id="contentType-chart">
-							<p>Типы постов - нет данных</p>
-						</div>
 
-=======
-		</section>
-	</div>
-	<div class="tab-pane fade" id="like-you">
-		<section id="i-liked">
-			<div id="top-liked-users" class="well">
-				<h2>Пользователи, <small>которые мне понравились:</small>
-				</h2>
-				<div id="favourite-users-rating" data-bind="foreach: showedUsers, visible: showedUsers().length > 0">
-					<div class="content-container">
-						<a data-bind="attr: {href: link}" target="_blank">
-							<div class="content">
-								<img data-bind="attr: {src: photo}" />
-								<div class="content-header">
-									<p data-bind="text: displayed">
-									</p>
-								</div>
-							</div>
-						</a>
-						<div>
-							<p>
-								<button data-bind="click: favouriteUsersRatingModal" class="btn btn-secondary likes-list">
-									<span><i class="icon-heart"></i></span>&nbsp<span data-bind="text: contentCount">
-									</span>
-								</button>
-								<button data-bind="click: analyzeUser" class="btn btn-primary manology-open">Анализировать</button>
-							</p>
-							<div style="clear: both"></div>
+				<div class="tabbable tabs-left">
+					<ul id="main-page-tabs" class="nav nav-tabs" style="width: 300px;">
+						<li class="active"><a data-target="hobbies-chart" href="#lA" data-toggle="tab">
+							<img src="@Url.Content("~/Content/images/activity_2.png")"/>Увлечения</a></li>
+						<li class=""><a data-target="group-reposts-chart" href="#lB" data-toggle="tab">
+							<img src="@Url.Content("~/Content/images/retweet.png")"/>Репосты</a></li>
+						<li class=""><a data-target="posts-by-month-chart" href="#lC" data-toggle="tab">
+							<img src="@Url.Content("~/Content/images/like.png")"/>Лайки</a></li>
+						<li class=""><a data-target="contentType-chart" href="#lD" data-toggle="tab">
+							<img src="@Url.Content("~/Content/images/post.png")"/>Посты</a></li>
+						<li class=""><a data-target="psy-chart" href="#lE" data-toggle="tab">
+							<img src="@Url.Content("~/Content/images/psy.png")"/>Психотип</a></li>
+					</ul>
+					<div style="float: right">
+						<div class="big-chart-container" id="target-chart-container">
+							<div id="activities-container"></div>
 						</div>
-					</div>
-					<div class="modal hide fade">
-						<div class="modal-header">
-							<button type="button" class="close" data-dismiss="modal">
-								×</button>
-							<h3 data-bind="text: displayed"></h3>
-						</div>
-						<div class="modal-body">
-							<h4>Лайки:</h4>
-							<div data-bind="foreach: contentList">
-								<p>
-									<a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
-									</a>
-								</p>
-							</div>
-						</div>
-						<div class="modal-footer">
-							<button class="btn btn-danger" data-dismiss="modal">
-								Закрыть</button>
-						</div>
-					</div>
-				</div>
-				<div style="clear: both">
-				</div>
-				<div class="form-actions">
-					<button class="btn expander" data-bind="click: expand, visible: currentLength() < maxLength()">
-						Еще</button>
-					<button class="btn collapser" data-bind="click: collapse, visible: currentLength() > 4">
-						Свернуть</button>
-				</div>
-			</div>
-			<div id="top-liked-pages" class="well">
-				<h2>Страницы, <small>которые мне понравились:</small>
-				</h2>
-				<div id="favourite-groups-rating" data-bind="foreach: showedGroups, visible: showedGroups().length > 0">
-					<div class="content-container">
-						<div class="content">
-							<a data-bind="attr: {href: link}" target="_blank">
-								<img data-bind="attr: {src: photo}" />
-								<div class="content-header">
-									<p data-bind="text: displayed">
-									</p>
-								</div>
-							</a>
-						</div>
-						<div>
-							<p>
-								<button data-bind="click: favouriteGroupsRatingModal" class="btn btn-secondary likes-list" style="float: none; width: 100%;">
-									<span><i class="icon-heart"></i></span>&nbsp<span data-bind="text: contentCount">
-									</span>
-								</button>
-							</p>
-						</div>
-					</div>
-					<div class="modal hide fade">
-						<div class="modal-header">
-							<button type="button" class="close" data-dismiss="modal">
-								×</button>
-							<h3 data-bind="text: displayed"></h3>
-						</div>
-						<div class="modal-body">
-							<h4>Лайки:</h4>
-							<div data-bind="foreach: contentList">
-								<p>
-									<a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
-									</a>
-								</p>
-							</div>
-						</div>
-						<div class="modal-footer">
-							<button class="btn btn-danger" data-dismiss="modal">
-								Закрыть</button>
-						</div>
-					</div>
-				</div>
-				<div style="clear: both">
-				</div>
-				<div class="form-actions">
-					<button class="btn expander" data-bind="click: expand, visible: currentLength() < maxLength()">
-						Еще</button>
-					<button class="btn collapser" data-bind="click: collapse, visible: currentLength() > 4">
-						Свернуть</button>
-				</div>
-			</div>
-		</section>
-	</div>
-	<div class="tab-pane fade" id="home-linguistic">
-		<section id="dictionary-power">
-			<div class="well" id="word-stat">
-				<h2>Статистика:</h2>
-			</div>
-		</section>
-	</div>
-	<div class="tab-pane fade in active" id="home-hobbies">
-		<div id="chart-container-invisible">
-		</div>
-		<section id="hobbies">
-			<div class="container-border" id="charts">
-				<div class="small-charts">
-					<div>
-						<div class="small-chart-container" id="hobbies-chart">
-							<div class="text-like-highcharts">Увлечения</div>
-							<img src="/Content/images/activity.png"/>
-						</div>
-						<div class="small-chart-container" id="group-reposts-chart">
-							<p><strong>Репосты групп - нет данных</strong></p>
-						</div>
-						<div style="clear: both"></div>
-					</div>
-					<div>
-						<div class="small-chart-container" id="posts-by-month-chart">
-							<p>Популярность - нет данных</p>
-						</div>
-						<div class="small-chart-container" id="contentType-chart">
-							<p>Типы постов - нет данных</p>
-						</div>
-
->>>>>>> parent of 400d919... ������ ���������� �� js
-						<div style="clear: both"></div>
-					</div>
-				</div>
-				<div style="float: right">
-					<div class="big-chart-container" id="target-chart-container">
-						<div id="activities-container"></div>
-					</div>
-					<div id="chart-comment" class="well">
-						<div id="reposts-comment">
-							<div class="modal hide fade" id="bad-language-posts-modal">
-								<div class="modal-header">
-									<button type="button" class="close" data-dismiss="modal">
-										×</button>
-								</div>
-								<div class="modal-body">
-									<h4>Посты:</h4>
-									<div data-bind="foreach: badLanguagePosts">
-										<p>
-											<a data-bind="attr: {href: link}" target="_blank">
-												<span data-bind="text: text"></span>
-											</a>
-										</p>
+						<div id="chart-comment" class="well">
+							<div id="reposts-comment">
+								<div class="modal hide fade" id="bad-language-posts-modal">
+									<div class="modal-header">
+										<button type="button" class="close" data-dismiss="modal">
+											×</button>
+									</div>
+									<div class="modal-body">
+										<h4>Посты:</h4>
+										<div data-bind="foreach: badLanguagePosts">
+											<p>
+												<a data-bind="attr: {href: link}" target="_blank">
+													<span data-bind="text: text"></span>
+												</a>
+											</p>
+										</div>
+									</div>
+									<div class="modal-footer">
+										<button class="btn btn-danger" data-dismiss="modal">
+											Закрыть</button>
 									</div>
 								</div>
-								<div class="modal-footer">
-									<button class="btn btn-danger" data-dismiss="modal">
-										Закрыть</button>
-								</div>
+								<a data-bind="visible: badLanguageWordsCount() > 0" data-toggle="modal" href="#bad-language-posts-modal">Количество мата в записях пользователя: <span data-bind="text: badLanguageWordsCount"></span>
+								</a>
+								<span data-bind="visible: badLanguageWordsCount() == 0">Количество мата в записях пользователя: <span data-bind="text: badLanguageWordsCount"></span>
+								</span>
 							</div>
-							<a data-bind="visible: badLanguageWordsCount() > 0" data-toggle="modal" href="#bad-language-posts-modal">Количество мата в записях пользователя: <span data-bind="text: badLanguageWordsCount"></span>
-							</a>
-							<span data-bind="visible: badLanguageWordsCount() == 0">Количество мата в записях пользователя: <span data-bind="text: badLanguageWordsCount"></span>
-							</span>
-						</div>
-						<div id="likes-comment">
-						</div>
-						<div id="content-type-comment">
-						</div>
-						<div id="hobbies-comment">
+							<div id="likes-comment">
+							</div>
+							<div id="content-type-comment">
+							</div>
+							<div id="hobbies-comment">
+							</div>
 						</div>
 					</div>
 				</div>
 				<div style="clear: both"></div>
 			</div>
 			<div id="top-posts" class="container-border">
-				<div class="well" style="float: left; width: 300px;">
+				<div style="float: left; width: 350px;">
 					<ul class="nav nav-list bs-docs-sidenav" id="chart-navigation">
 						<li class="nav-header" id="hobbies-tab">Записи на стене по темам</li>
 						<li class="nav-header" id="wall-tab">Записи на стене по типам содержимого</li>
@@ -909,12 +461,10 @@
 				<div class="clear"></div>
 			</div>
 		</section>
-		<div class="well" data-bind="visible: watchList().length == 0" style="text-align: center;"><p>Список просмотренных пуст</p></div>
+		<div class="well" data-bind="visible: watchList().length == 0" style="text-align: center;">
+			<p>Список просмотренных пуст</p>
+		</div>
 	</div>
-<<<<<<< HEAD
->>>>>>> d40a99fd43bc017ca874aebeab50519d33a6b8af
-=======
->>>>>>> parent of 400d919... ������ ���������� �� js
 </div>
 <div class="modal hide" id="show-other-person">
 	<div class="modal-header">

@@ -1,20 +1,13 @@
 ﻿/// <reference path="jquery-1.7.2-vsdoc.js" />
 
 var app = {
-	appId: 3016703,
-	appSecret: "Zz8fFBdaRDyMBQ0NDElV",
-	redirectUri: "http://manology.info/User/Auth"
+	//appId: 3016703,
+	//appSecret: "Zz8fFBdaRDyMBQ0NDElV",
+	//redirectUri: "http://manology.info/User/Auth"
 
-<<<<<<< HEAD
-	/*appId: 2995743,
+	appId: 2995743,
 	appSecret: "5pxH8x5L8rT977WflGn0",
-	redirectUri: "http://127.0.0.1:4621/User/Auth"*/
-
-=======
-	//appId: 2995743,
-	//appSecret: "5pxH8x5L8rT977WflGn0",
-	//redirectUri: "http://127.0.0.1:4621/User/Auth"
->>>>>>> parent of 400d919... ������ ���������� �� js
+	redirectUri: "http://127.0.0.1:4621/User/Auth"
 }
 
 getSVG = function (charts) {
@@ -205,7 +198,7 @@ function loadData(userId) {
 				}
 
 				allPosts = JSON.parse(userObj.AllPosts);
-				
+
 				if (allPosts) {
 
 					renderContentTypeInfo(allPosts);
@@ -213,7 +206,7 @@ function loadData(userId) {
 					renderGroupReposts(allPosts);
 					wordSplitter(allPosts);
 
-					
+
 
 					renderPostsAndLikesByMonthsGraph(JSON.parse(userObj.LikedContent));
 				}
