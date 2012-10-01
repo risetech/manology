@@ -1,190 +1,187 @@
 ﻿@model VKInfo.Models.Language
 @{
-    ViewBag.Title = "Manology.info";
+	ViewBag.Title = "Manology.info";
 }
 <script type="text/javascript" src="http://highcharts.com/js/testing-exporting.js"></script>
-
-<script src='@Url.Content("~/Scripts/Psy/Mass.js")'></script>
-<script src='@Url.Content("~/Scripts/Psy/Code.js")'></script>
-
 <div class="well" id="search-warning">
-    <h2 class="alert alert-error">На данный момент поддерживается поиск только по <strong>ВКонтакте</strong>.
-    </h2>
-    <p class="alert alert-info">
-        Анализ профайлов <b>Facebook, Twitter, LiveJournal</b> скоро будет!
-    </p>
+	<h2 class="alert alert-error">На данный момент поддерживается поиск только по <strong>ВКонтакте</strong>.
+	</h2>
+	<p class="alert alert-info">
+		Анализ профайлов <b>Facebook, Twitter, LiveJournal</b> скоро будет!
+	</p>
 </div>
 <div class="well" id="search-error">
-    <h2 class="alert alert-error">Пользователь с таким ID <strong>не найден</strong>.
-    </h2>
-    <p class="alert alert-info">
-        Попробуйте еще раз.
-    </p>
+	<h2 class="alert alert-error">Пользователь с таким ID <strong>не найден</strong>.
+	</h2>
+	<p class="alert alert-info">
+		Попробуйте еще раз.
+	</p>
 </div>
 <div class="user-container" id="current-user">
-    <div class="row well user-header">
-        <button class="btn btn-inverse pull-right" id="recalculate-button" onclick="backToMyStats()" style="margin: 28px; margin-left: 2px;">
-            Перейти к моему рейтингу</button>
-        <button class="btn pull-right" onclick="recalculateStats()" style="margin: 28px; margin-right: 2px;">Пересчитать</button>
-        <div class="content-container wide">
-            <a data-bind="attr: {href: link}" target="_blank">
-                <div class="content pull-left">
-                    <img data-bind="attr: {src: photo_src}" />
-                </div>
-                <p id="current-user-name" class="pull-left" style="text-decoration: underline;" data-bind="text: user_name">
-                </p>
-            </a>
-        </div>
-    </div>
+	<div class="row well user-header">
+		<button class="btn btn-inverse pull-right" id="recalculate-button" onclick="backToMyStats()" style="margin: 28px; margin-left: 2px;">
+			Перейти к моему рейтингу</button>
+		<button class="btn pull-right" onclick="recalculateStats()" style="margin: 28px; margin-right: 2px;">Пересчитать</button>
+		<div class="content-container wide">
+			<a data-bind="attr: {href: link}" target="_blank">
+				<div class="content pull-left">
+					<img data-bind="attr: {src: photo_src}" />
+				</div>
+				<p id="current-user-name" class="pull-left" style="text-decoration: underline;" data-bind="text: user_name">
+				</p>
+			</a>
+		</div>
+	</div>
 </div>
 <header class="subhead custom">
-    <div class="subnav subnav-fixed">
-        <ul class="nav nav-fixed nav-pills" id="tab-navigation">
-            <li class="active"><a href="#home-hobbies" data-toggle="tab">Анализ стены</a></li>
-            <li><a href="#like-me" data-toggle="tab">Популярность</a></li>
-            <li><a href="#like-you" data-toggle="tab">Мне нравится</a></li>
-            <li><a href="#recently-watched" data-toggle="tab">Недавно просмотренные</a></li>
-            @*<li><a href="#home-linguistic" data-toggle="tab">Словарный запас</a></li>*@
-            @*<li><a href="#home-friends" data-toggle="tab">Друзья</a></li>*@
-        </ul>
+	<div class="subnav subnav-fixed">
+		<ul class="nav nav-fixed nav-pills" id="tab-navigation">
+			<li class="active"><a href="#home-hobbies" data-toggle="tab">Анализ стены</a></li>
+			<li><a href="#like-me" data-toggle="tab">Популярность</a></li>
+			<li><a href="#like-you" data-toggle="tab">Мне нравится</a></li>
+			<li><a href="#recently-watched" data-toggle="tab">Недавно просмотренные</a></li>
+			@*<li><a href="#home-linguistic" data-toggle="tab">Словарный запас</a></li>*@
+			@*<li><a href="#home-friends" data-toggle="tab">Друзья</a></li>*@
+		</ul>
 
-        @*<a data-toggle="modal" href="#show-other-person" class="btn pull-right" style="margin-left: 20px">Посмотреть другого человека</a>*@
-    </div>
+		@*<a data-toggle="modal" href="#show-other-person" class="btn pull-right" style="margin-left: 20px">Посмотреть другого человека</a>*@
+	</div>
 </header>
 <div class="clear">
 </div>
 <div class="alert alert-error" id="error-bar" style="display: none">
-    Популярные пользователи на данный момент могут анализироваться неверно.
+	Популярные пользователи на данный момент могут анализироваться неверно.
 </div>
 <div class="loader well">
-    <p>Данные загружаются, пожалуйста, подождите...</p>
+	<p>Данные загружаются, пожалуйста, подождите...</p>
 </div>
 <div class="tab-content">
-    <div class="tab-pane fade" id="like-me">
-        <div id="groups-container">
-        </div>
-        <section id="liked-me">
-            <div id="top-liked-me-users" class="well">
-                <h2>Пользователи, <small>которым я понравился:</small>
-                </h2>
-                <div id="likedme-rating" data-bind="foreach: showedLikedMe, visible: showedLikedMe().length > 0">
-                    <div class="content-container">
-                        <a data-bind="attr: {href: link}" target="_blank">
-                            <div class="content">
-                                <img data-bind="attr: {src: photo}" />
-                                <div class="content-header">
-                                    <p data-bind="text: username">
-                                    </p>
-                                </div>
-                            </div>
-                        </a>
-                        <button data-bind="click: likedMeRatingModal" class="btn btn-secondary likes-list">
-                            <span><i class="icon-heart"></i></span>&nbsp<span data-bind="text: likesCount">
-                            </span>&nbsp&nbsp&nbsp<span><i class="icon-retweet"></i></span>&nbsp<span
-                                data-bind="text: repostsCount"></span>
-                        </button>
-                        <button data-bind="click: analyzeUser" class="btn btn-primary manology-open">Анализировать</button>
-                        <div class="clear"></div>
-                    </div>
-                    <div class="modal hide fade">
-                        <div class="modal-header">
-                            <button type="button" class="close" data-dismiss="modal">
-                                ×</button>
-                            <h3 data-bind="text: username"></h3>
-                        </div>
-                        <div class="modal-body">
-                            <h4>Лайки:</h4>
-                            <div data-bind="foreach: likedContentList">
-                                <p>
-                                    <a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
-                                    </a>
-                                </p>
-                            </div>
-                            <h4 data-bind="visible: repostedContentList().length > 0">Репосты:</h4>
-                            <div data-bind="foreach: repostedContentList">
-                                <p>
-                                    <a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
-                                    </a>
-                                </p>
-                            </div>
-                        </div>
-                        <div class="modal-footer">
-                            <button class="btn btn-danger" data-dismiss="modal">
-                                Закрыть</button>
-                        </div>
-                    </div>
-                </div>
-                <div style="clear: both">
-                </div>
-                <div class="form-actions">
-                    <button class="btn expander" data-bind="click: expand, visible: currentLength() < maxLength()">
-                        Еще</button>
-                    <button class="btn collapser" data-bind="click: collapse, visible: currentLength() > 4">
-                        Свернуть</button>
-                </div>
-            </div>
-            <div id="most-liked-photo" class="well">
-                <h2>Рейтинг моих фотографий:</h2>
-                <div id="likedphotos-rating" data-bind="foreach: showedLikedPhotos, visible: showedLikedPhotos().length > 0">
-                    <div class="content-container">
-                        <a data-bind="attr: {href: link}" target="_blank">
-                            <div class="content">
-                                <img data-bind="attr: {src: source}" />
-                                <div class="content-footer">
-                                    <p>
-                                        <span><i class="icon-heart icon-white"></i></span>&nbsp<span data-bind="text: likesCount">
-                                        </span>&nbsp&nbsp&nbsp@*<span><i class="icon-retweet icon-white"></i></span>&nbsp<span
+	<div class="tab-pane fade" id="like-me">
+		<div id="groups-container">
+		</div>
+		<section id="liked-me">
+			<div id="top-liked-me-users" class="well">
+				<h2>Пользователи, <small>которым я понравился:</small>
+				</h2>
+				<div id="likedme-rating" data-bind="foreach: showedLikedMe, visible: showedLikedMe().length > 0">
+					<div class="content-container">
+						<a data-bind="attr: {href: link}" target="_blank">
+							<div class="content">
+								<img data-bind="attr: {src: photo}" />
+								<div class="content-header">
+									<p data-bind="text: username">
+									</p>
+								</div>
+							</div>
+						</a>
+						<button data-bind="click: likedMeRatingModal" class="btn btn-secondary likes-list">
+							<span><i class="icon-heart"></i></span>&nbsp<span data-bind="text: likesCount">
+							</span>&nbsp&nbsp&nbsp<span><i class="icon-retweet"></i></span>&nbsp<span
+								data-bind="text: repostsCount"></span>
+						</button>
+						<button data-bind="click: analyzeUser" class="btn btn-primary manology-open">Анализировать</button>
+						<div class="clear"></div>
+					</div>
+					<div class="modal hide fade">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal">
+								×</button>
+							<h3 data-bind="text: username"></h3>
+						</div>
+						<div class="modal-body">
+							<h4>Лайки:</h4>
+							<div data-bind="foreach: likedContentList">
+								<p>
+									<a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
+									</a>
+								</p>
+							</div>
+							<h4 data-bind="visible: repostedContentList().length > 0">Репосты:</h4>
+							<div data-bind="foreach: repostedContentList">
+								<p>
+									<a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
+									</a>
+								</p>
+							</div>
+						</div>
+						<div class="modal-footer">
+							<button class="btn btn-danger" data-dismiss="modal">
+								Закрыть</button>
+						</div>
+					</div>
+				</div>
+				<div style="clear: both">
+				</div>
+				<div class="form-actions">
+					<button class="btn expander" data-bind="click: expand, visible: currentLength() < maxLength()">
+						Еще</button>
+					<button class="btn collapser" data-bind="click: collapse, visible: currentLength() > 4">
+						Свернуть</button>
+				</div>
+			</div>
+			<div id="most-liked-photo" class="well">
+				<h2>Рейтинг моих фотографий:</h2>
+				<div id="likedphotos-rating" data-bind="foreach: showedLikedPhotos, visible: showedLikedPhotos().length > 0">
+					<div class="content-container">
+						<a data-bind="attr: {href: link}" target="_blank">
+							<div class="content">
+								<img data-bind="attr: {src: source}" />
+								<div class="content-footer">
+									<p>
+										<span><i class="icon-heart icon-white"></i></span>&nbsp<span data-bind="text: likesCount">
+										</span>&nbsp&nbsp&nbsp@*<span><i class="icon-retweet icon-white"></i></span>&nbsp<span
 											data-bind="text: repostsCount"> </span>*@
-                                    </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div style="clear: both">
-                </div>
-                <div class="form-actions">
-                    <button class="btn expander" data-bind="click: expand, visible: currentLength() < maxLength()">
-                        Еще</button>
-                    <button class="btn collapser" data-bind="click: collapse, visible: currentLength() > 4">
-                        Свернуть</button>
-                </div>
-            </div>
-            <div id="most-liked-post" class="well">
-                <h2>Рейтинг моих постов:</h2>
-                <div id="likedposts-rating" data-bind="foreach: showedLikedPosts, visible: showedLikedPosts().length > 0">
-                    <div class="content-container">
-                        <a data-bind="attr: {href: link}" target="_blank">
-                            <div class="content">
-                                <img data-bind="attr: {src: picsrc}" />
-                                <p class="content-header" data-bind="text: displayed, visible: displayed()">
-                                </p>
-                                <div class="content-footer">
-                                    <p>
-                                        <span><i class="icon-heart icon-white"></i></span>&nbsp<span data-bind="text: likesCount">
-                                        </span>&nbsp&nbsp&nbsp<span><i class="icon-retweet icon-white"></i></span>&nbsp<span
-                                            data-bind="text: repostsCount"> </span>
-                                    </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div style="clear: both">
-                </div>
-                <div class="form-actions">
-                    <button class="btn expander" data-bind="click: expand, visible: currentLength() < maxLength()">
-                        Еще</button>
-                    <button class="btn collapser" data-bind="click: collapse, visible: currentLength() > 4">
-                        Свернуть</button>
-                </div>
-            </div>
-            @*<div id="posts-by-month" class="well">
+									</p>
+								</div>
+							</div>
+						</a>
+					</div>
+				</div>
+				<div style="clear: both">
+				</div>
+				<div class="form-actions">
+					<button class="btn expander" data-bind="click: expand, visible: currentLength() < maxLength()">
+						Еще</button>
+					<button class="btn collapser" data-bind="click: collapse, visible: currentLength() > 4">
+						Свернуть</button>
+				</div>
+			</div>
+			<div id="most-liked-post" class="well">
+				<h2>Рейтинг моих постов:</h2>
+				<div id="likedposts-rating" data-bind="foreach: showedLikedPosts, visible: showedLikedPosts().length > 0">
+					<div class="content-container">
+						<a data-bind="attr: {href: link}" target="_blank">
+							<div class="content">
+								<img data-bind="attr: {src: picsrc}" />
+								<p class="content-header" data-bind="text: displayed, visible: displayed()">
+								</p>
+								<div class="content-footer">
+									<p>
+										<span><i class="icon-heart icon-white"></i></span>&nbsp<span data-bind="text: likesCount">
+										</span>&nbsp&nbsp&nbsp<span><i class="icon-retweet icon-white"></i></span>&nbsp<span
+											data-bind="text: repostsCount"> </span>
+									</p>
+								</div>
+							</div>
+						</a>
+					</div>
+				</div>
+				<div style="clear: both">
+				</div>
+				<div class="form-actions">
+					<button class="btn expander" data-bind="click: expand, visible: currentLength() < maxLength()">
+						Еще</button>
+					<button class="btn collapser" data-bind="click: collapse, visible: currentLength() > 4">
+						Свернуть</button>
+				</div>
+			</div>
+			@*<div id="posts-by-month" class="well">
 					<h2>
 						Посты на стене:</h2>
 						<div id="posts-by-month-chart">
 				</div>
 			</div>*@
+<<<<<<< HEAD
 <<<<<<< HEAD
         </section>
     </div>
@@ -623,6 +620,153 @@
 							<p>Типы постов - нет данных</p>
 						</div>
 
+=======
+		</section>
+	</div>
+	<div class="tab-pane fade" id="like-you">
+		<section id="i-liked">
+			<div id="top-liked-users" class="well">
+				<h2>Пользователи, <small>которые мне понравились:</small>
+				</h2>
+				<div id="favourite-users-rating" data-bind="foreach: showedUsers, visible: showedUsers().length > 0">
+					<div class="content-container">
+						<a data-bind="attr: {href: link}" target="_blank">
+							<div class="content">
+								<img data-bind="attr: {src: photo}" />
+								<div class="content-header">
+									<p data-bind="text: displayed">
+									</p>
+								</div>
+							</div>
+						</a>
+						<div>
+							<p>
+								<button data-bind="click: favouriteUsersRatingModal" class="btn btn-secondary likes-list">
+									<span><i class="icon-heart"></i></span>&nbsp<span data-bind="text: contentCount">
+									</span>
+								</button>
+								<button data-bind="click: analyzeUser" class="btn btn-primary manology-open">Анализировать</button>
+							</p>
+							<div style="clear: both"></div>
+						</div>
+					</div>
+					<div class="modal hide fade">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal">
+								×</button>
+							<h3 data-bind="text: displayed"></h3>
+						</div>
+						<div class="modal-body">
+							<h4>Лайки:</h4>
+							<div data-bind="foreach: contentList">
+								<p>
+									<a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
+									</a>
+								</p>
+							</div>
+						</div>
+						<div class="modal-footer">
+							<button class="btn btn-danger" data-dismiss="modal">
+								Закрыть</button>
+						</div>
+					</div>
+				</div>
+				<div style="clear: both">
+				</div>
+				<div class="form-actions">
+					<button class="btn expander" data-bind="click: expand, visible: currentLength() < maxLength()">
+						Еще</button>
+					<button class="btn collapser" data-bind="click: collapse, visible: currentLength() > 4">
+						Свернуть</button>
+				</div>
+			</div>
+			<div id="top-liked-pages" class="well">
+				<h2>Страницы, <small>которые мне понравились:</small>
+				</h2>
+				<div id="favourite-groups-rating" data-bind="foreach: showedGroups, visible: showedGroups().length > 0">
+					<div class="content-container">
+						<div class="content">
+							<a data-bind="attr: {href: link}" target="_blank">
+								<img data-bind="attr: {src: photo}" />
+								<div class="content-header">
+									<p data-bind="text: displayed">
+									</p>
+								</div>
+							</a>
+						</div>
+						<div>
+							<p>
+								<button data-bind="click: favouriteGroupsRatingModal" class="btn btn-secondary likes-list" style="float: none; width: 100%;">
+									<span><i class="icon-heart"></i></span>&nbsp<span data-bind="text: contentCount">
+									</span>
+								</button>
+							</p>
+						</div>
+					</div>
+					<div class="modal hide fade">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal">
+								×</button>
+							<h3 data-bind="text: displayed"></h3>
+						</div>
+						<div class="modal-body">
+							<h4>Лайки:</h4>
+							<div data-bind="foreach: contentList">
+								<p>
+									<a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
+									</a>
+								</p>
+							</div>
+						</div>
+						<div class="modal-footer">
+							<button class="btn btn-danger" data-dismiss="modal">
+								Закрыть</button>
+						</div>
+					</div>
+				</div>
+				<div style="clear: both">
+				</div>
+				<div class="form-actions">
+					<button class="btn expander" data-bind="click: expand, visible: currentLength() < maxLength()">
+						Еще</button>
+					<button class="btn collapser" data-bind="click: collapse, visible: currentLength() > 4">
+						Свернуть</button>
+				</div>
+			</div>
+		</section>
+	</div>
+	<div class="tab-pane fade" id="home-linguistic">
+		<section id="dictionary-power">
+			<div class="well" id="word-stat">
+				<h2>Статистика:</h2>
+			</div>
+		</section>
+	</div>
+	<div class="tab-pane fade in active" id="home-hobbies">
+		<div id="chart-container-invisible">
+		</div>
+		<section id="hobbies">
+			<div class="container-border" id="charts">
+				<div class="small-charts">
+					<div>
+						<div class="small-chart-container" id="hobbies-chart">
+							<div class="text-like-highcharts">Увлечения</div>
+							<img src="/Content/images/activity.png"/>
+						</div>
+						<div class="small-chart-container" id="group-reposts-chart">
+							<p><strong>Репосты групп - нет данных</strong></p>
+						</div>
+						<div style="clear: both"></div>
+					</div>
+					<div>
+						<div class="small-chart-container" id="posts-by-month-chart">
+							<p>Популярность - нет данных</p>
+						</div>
+						<div class="small-chart-container" id="contentType-chart">
+							<p>Типы постов - нет данных</p>
+						</div>
+
+>>>>>>> parent of 400d919... ������ ���������� �� js
 						<div style="clear: both"></div>
 					</div>
 				</div>
@@ -767,44 +911,40 @@
 		</section>
 		<div class="well" data-bind="visible: watchList().length == 0" style="text-align: center;"><p>Список просмотренных пуст</p></div>
 	</div>
+<<<<<<< HEAD
 >>>>>>> d40a99fd43bc017ca874aebeab50519d33a6b8af
+=======
+>>>>>>> parent of 400d919... ������ ���������� �� js
 </div>
 <div class="modal hide" id="show-other-person">
-    <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal">
-            ×</button>
-        <h3>Просмотр другого человека</h3>
-    </div>
-    <div class="modal-body">
-        <p style="vertical-align: middle;">
-            <label style="height: 30px; line-height: 30px; float: left; margin-right: 10px">
-                Ссылка на человека:</label><input type="text" class="span3 search-query" id="modal-person-href"
-                    placeholder="Например, vk.com/id5">
-        </p>
-    </div>
-    <div class="modal-footer">
-        <a href="#" class="btn" data-dismiss="modal">Закрыть</a> <a id="modal-person-submit"
-            data-dismiss="modal" href="#" onclick="showOtherPerson()" class="btn btn-primary">Просмотреть</a>
-    </div>
+	<div class="modal-header">
+		<button type="button" class="close" data-dismiss="modal">
+			×</button>
+		<h3>Просмотр другого человека</h3>
+	</div>
+	<div class="modal-body">
+		<p style="vertical-align: middle;">
+			<label style="height: 30px; line-height: 30px; float: left; margin-right: 10px">
+				Ссылка на человека:</label><input type="text" class="span3 search-query" id="modal-person-href"
+					placeholder="Например, vk.com/id5">
+		</p>
+	</div>
+	<div class="modal-footer">
+		<a href="#" class="btn" data-dismiss="modal">Закрыть</a> <a id="modal-person-submit"
+			data-dismiss="modal" href="#" onclick="showOtherPerson()" class="btn btn-primary">Просмотреть</a>
+	</div>
 </div>
 <script type="text/javascript">
-    $(function () {
-        if (access_token) {
-            var $loader = $('.loader');
-            $loader.prepend('<p class="progressbar"><img src="/content/images/progress.gif" /></p>')
+	$(function () {
+		if (access_token) {
+			var $loader = $('.loader');
+			$loader.prepend('<p class="progressbar"><img src="/content/images/progress.gif" /></p>')
 					.show();
-            getData();
-            //getFriends();
-        }
-        else {
-            location.href = '/';
-        }
-    });
-
-    
-
-    $(function () {
-        getDescription("сказать весёллой множество красив сказать весёллой множество красив сказать весёллой множество красив сказать весёллой множество красив", Alert);
-    })
-
+			getData();
+			//getFriends();
+		}
+		else {
+			location.href = '/';
+		}
+	});
 </script>

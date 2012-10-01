@@ -5,10 +5,16 @@ var app = {
 	appSecret: "Zz8fFBdaRDyMBQ0NDElV",
 	redirectUri: "http://manology.info/User/Auth"
 
+<<<<<<< HEAD
 	/*appId: 2995743,
 	appSecret: "5pxH8x5L8rT977WflGn0",
 	redirectUri: "http://127.0.0.1:4621/User/Auth"*/
 
+=======
+	//appId: 2995743,
+	//appSecret: "5pxH8x5L8rT977WflGn0",
+	//redirectUri: "http://127.0.0.1:4621/User/Auth"
+>>>>>>> parent of 400d919... ������ ���������� �� js
 }
 
 getSVG = function (charts) {
