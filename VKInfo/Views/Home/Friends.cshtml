@@ -1,0 +1,88 @@
+﻿@model VKInfo.Models.Language
+@{
+	ViewBag.Title = "Friends";
+}
+<div id="friends">
+	<div id="top-universities" class="well">
+		<h2>
+			Топ 3 ВУЗов друзей:</h2>
+		<button class="btn expander" data-bind="click: expand">
+			Показать все</button>
+		<button class="btn collapser" data-bind="click: collapse">
+			Показать 3</button>
+		<table class="table table-bordered">
+			<thead>
+				<tr>
+					<th>
+						Место
+					</th>
+					<th>
+						Университет
+					</th>
+					<th>
+						Кол-во друзей
+					</th>
+				</tr>
+			</thead>
+			<tbody data-bind="foreach: showedUniversities, visible: showedUniversities().length > 0">
+				<tr>
+					<td data-bind="text: rank">
+					</td>
+					<td data-bind="text: universityName">
+					</td>
+					<td data-bind="text: friendsCount">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<div id="top-cities" class="well">
+		<h2>
+			Топ 3 городов друзей:</h2>
+		<button class="btn expander" data-bind="click: expand">
+			Показать все</button>
+		<button class="btn collapser" data-bind="click: collapse">
+			Показать 3</button>
+		<table class="table table-striped">
+			<thead>
+				<tr>
+					<th>
+						Место
+					</th>
+					<th>
+						Город
+					</th>
+					<th>
+						Кол-во друзей
+					</th>
+				</tr>
+			</thead>
+			<tbody data-bind="foreach: showedCities, visible: showedCities().length > 0">
+				<tr>
+					<td data-bind="text: rank">
+					</td>
+					<td data-bind="text: cityName">
+					</td>
+					<td data-bind="text: friendsCount">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<div id="sex-percentage" class="well">
+		<h2>
+			Соотношение полов:</h2>
+		<div id="sex-percentage-chart">
+		</div>
+	</div>
+</div>
+<script>
+	$(function () {
+		if (access_token) {
+			getFriends();
+		}
+		else {
+			location.href = '/';
+		}
+	});
+</script>

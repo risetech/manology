@@ -1,0 +1,117 @@
+﻿@model VKInfo.Models.Language
+@{
+	ViewBag.Title = "LikeYou";
+}
+<div id="liked-me">
+	<h2>
+		knockout</h2>
+	<div id="top-liked-me-users" class="well">
+		<h2>
+			Топ 5 людей, которые лайкали меня <small><a href='#' expanded="false">Показать всех</a></small>
+		</h2>
+		<table class="table">
+			<thead>
+				<tr>
+					<th>
+						Место
+					</th>
+					<th>
+						Пользователь
+					</th>
+					<th>
+						Кол-во лайков
+					</th>
+					<th>
+						Кол-во репостов
+					</th>
+				</tr>
+			</thead>
+			<tbody id="likedme-rating" data-bind="foreach: likedMe, visible: likedMe().length > 0">
+				<tr>
+					<td data-bind="text: rank">
+					</td>
+					<td>
+						<a data-bind="attr: {href: link}" target="_blank">
+							<img data-bind="attr: {src: photo }" />
+							&nbsp&nbsp<span data-bind="text: username"></span></a>
+					</td>
+					<td data-bind="text: likesCount">
+					</td>
+					<td data-bind="text: repostsCount">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<div id="most-liked-photo" class="well">
+		<h2>
+			Моя самая лайкнутая фотография:</h2>
+		<table class="table">
+			<thead>
+				<tr>
+					<th>
+						Место
+					</th>
+					<th>
+						Фотография
+					</th>
+					<th>
+						Кол-во лайков
+					</th>
+				</tr>
+			</thead>
+			<tbody id="likedphotos-rating" data-bind="foreach: likedPhotos, visible: likedPhotos().length > 0">
+				<tr>
+					<td data-bind="text: rank">
+					</td>
+					<td>
+						<a data-bind="attr: {href: link}" target="_blank">
+							<img data-bind="attr: {src: source}" />
+						</a>
+					</td>
+					<td data-bind="text: likesCount">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<div id="most-liked-post" class="well">
+		<h2>
+			Мой самый лайкнутый пост:</h2>
+		<table class="table">
+			<thead>
+				<tr>
+					<th>
+						Место
+					</th>
+					<th>
+						Пост
+					</th>
+					<th>
+						Кол-во лайков
+					</th>
+					<th>
+						Кол-во репостов
+					</th>
+				</tr>
+			</thead>
+			<tbody id="likedposts-rating" data-bind="foreach: likedPosts, visible: likedPosts().length > 0">
+				<tr>
+					<td data-bind="text: rank">
+					</td>
+					<td data-bind="text: post">
+					</td>
+					<td data-bind="text: likesCount">
+					</td>
+					<td data-bind="text: repostsCount">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<div id="posts-by-month-chart">
+		</div>
+		<br />
+		<div id="posts-by-month-chart2">
+		</div>
+	</div>
+</div>

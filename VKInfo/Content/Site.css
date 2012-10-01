@@ -1,0 +1,652 @@
+.bs-docs-sidenav {
+	width: 228px;
+	margin: 30px 0 0;
+	padding: 0;
+	background-color: #fff;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	-webkit-box-shadow: 0 1px 4px rgba(0,0,0,.065);
+	-moz-box-shadow: 0 1px 4px rgba(0,0,0,.065);
+	box-shadow: 0 1px 4px rgba(0,0,0,.065);
+}
+
+	.bs-docs-sidenav > li > a {
+		display: block;
+		*width: 190px;
+		margin: 0 0 -1px;
+		padding: 8px 14px;
+		border: 1px solid #e5e5e5;
+	}
+
+	.bs-docs-sidenav > li:first-child > a {
+		-webkit-border-radius: 6px 6px 0 0;
+		-moz-border-radius: 6px 6px 0 0;
+		border-radius: 6px 6px 0 0;
+	}
+
+	.bs-docs-sidenav > li:last-child > a {
+		-webkit-border-radius: 0 0 6px 6px;
+		-moz-border-radius: 0 0 6px 6px;
+		border-radius: 0 0 6px 6px;
+	}
+
+	.bs-docs-sidenav > .active > a {
+		position: relative;
+		z-index: 2;
+		padding: 9px 15px;
+		border: 0;
+		text-shadow: 0 1px 0 rgba(0,0,0,.15);
+		-webkit-box-shadow: inset 1px 0 0 rgba(0,0,0,.1), inset -1px 0 0 rgba(0,0,0,.1);
+		-moz-box-shadow: inset 1px 0 0 rgba(0,0,0,.1), inset -1px 0 0 rgba(0,0,0,.1);
+		box-shadow: inset 1px 0 0 rgba(0,0,0,.1), inset -1px 0 0 rgba(0,0,0,.1);
+	}
+	/* Chevrons */
+	.bs-docs-sidenav .icon-chevron-right {
+		float: right;
+		margin-top: 2px;
+		margin-right: -6px;
+		opacity: .25;
+	}
+
+	.bs-docs-sidenav > li > a:hover {
+		background-color: #f5f5f5;
+	}
+
+	.bs-docs-sidenav a:hover .icon-chevron-right {
+		opacity: .5;
+	}
+
+	.bs-docs-sidenav .active .icon-chevron-right,
+	.bs-docs-sidenav .active a:hover .icon-chevron-right {
+		background-image: url("images/glyphicons-halflings-white.png");
+		opacity: 1;
+	}
+
+	.bs-docs-sidenav.affix {
+		top: 40px;
+	}
+
+	.bs-docs-sidenav.affix-bottom {
+		position: absolute;
+		top: auto;
+		bottom: 270px;
+	}
+
+
+body {
+	background-image: url("/content/images/content_bg.png");
+	background-repeat: repeat-x;
+	font-size: 14px;
+	padding-top: 60px;
+}
+
+div, p, ul, li {
+	line-height: 1.7;
+}
+
+#friends table th:nth-child(1) {
+	width: 75px;
+}
+
+#friends table th:nth-child(2) {
+	width: 600px;
+}
+
+sup {
+	color: #09E;
+}
+
+.row {
+	border-bottom: 1px solid #eee;
+	padding-bottom: 17px;
+	margin-bottom: 18px;
+}
+
+.auth h1 {
+	color: #000;
+}
+
+.auth h2, .auth h3 {
+	color: #000;
+}
+
+#vk_icon {
+	margin: auto;
+	width: 300px;
+}
+
+	#vk_icon:hover {
+		cursor: pointer;
+	}
+
+.nav-home {
+	background-image: url("images/twitter_web_sprite_icons.png");
+	background-position: 0px -111px;
+	width: 20px;
+	height: 19px;
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.navbar .brand {
+	padding-left: 0;
+}
+
+.auth .nav h3 {
+	color: #333;
+	display: inline-block;
+	font-size: 16px;
+}
+
+.auth .nav small {
+	color: #777;
+}
+
+.connectButton {
+	background: #6D8FB3 url(/content/images/vk_logo.png) left top;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	border-radius: 7px;
+	color: #fff;
+	display: block;
+	height: 30px;
+	width: 175px;
+	padding: 10px;
+	text-indent: -9999px;
+}
+
+	.connectButton:hover {
+		background-position-y: -52px;
+		color: #fff;
+		text-decoration: none;
+	}
+
+	.connectButton:active {
+		position: relative;
+		top: 1px;
+	}
+
+.image-main-wrapper {
+	background: #000;
+	position: relative;
+	text-align: right;
+}
+
+.over {
+	color: #fff;
+	position: absolute;
+}
+
+.over-left {
+	left: 30px;
+	top: 30px;
+	text-align: right !important;
+}
+
+.over-right {
+	right: 30px;
+	top: 30px;
+}
+
+.over p {
+	line-height: 1.2;
+	margin-bottom: 20px;
+	text-align: justify;
+}
+
+.over-left p {
+	text-align: justify;
+}
+
+p.size-x {
+	font-size: 1.8em;
+}
+
+p.size-m {
+	font-size: 1.4em;
+}
+
+.body-info {
+	margin-top: 5px;
+}
+
+.container header {
+	margin-top: 15px;
+}
+
+@media (min-width: 1210px) {
+
+	/* Update subnav container */
+	.subnav-fixed .nav {
+		width: 960px; /* 2px less to account for left/right borders being removed when in fixed mode */
+	}
+}
+
+.container section h1, .container section h2, .container section h3 {
+	font-weight: normal;
+}
+
+.progressbar {
+	text-align: center;
+}
+
+.search {
+	position: absolute;
+	top: 3px;
+	right: 5px;
+}
+
+.content {
+	position: relative; /*width: 100%; /* for IE 6 */
+	width: 200px;
+	height: 200px;
+	overflow: hidden;
+	text-align: center;
+	border: 1px groove;
+}
+
+	.content:hover {
+		outline: 1px groove;
+	}
+
+.content-container {
+	float: left;
+	padding: 10px;
+	width: 200px;
+}
+
+	.content-container a:hover {
+		text-decoration: none;
+	}
+
+.wide {
+	width: auto;
+}
+
+.content-footer {
+	width: 100%;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	text-align: center;
+}
+
+.content-header {
+	width: 100%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	text-align: center;
+}
+
+.content-header, .content-footer {
+	color: white;
+	font: 18px/45px Helvetica, Sans-Serif;
+	letter-spacing: -1px;
+	background: rgb(0, 0, 0); /* fallback color */
+	background: rgba(0, 0, 0, 0.7);
+	margin: 0px;
+}
+
+.post-text {
+	text-align: left;
+	padding: 5px;
+}
+
+.content img {
+	height: 200px;
+}
+
+.content i {
+	vertical-align: baseline;
+}
+
+.form-actions {
+	display: none;
+	text-align: center;
+}
+
+#likedme-rating, #likedphotos-rating, #likedposts-rating, #favourite-users-rating, #favourite-groups-rating {
+	display: none;
+	overflow: hidden;
+}
+
+	#likedme-rating .content-footer:hover, #favourite-users-rating .content-footer:hover, #favourite-groups-rating .content-footer:hover {
+		cursor: pointer;
+		background: rgba(0, 0, 0, 0.9); /* fallback color */
+	}
+
+#search-warning, #search-error {
+	text-align: center;
+	display: none;
+}
+
+.modal-footer {
+	text-align: center;
+}
+
+#current-user {
+	display: none;
+}
+
+.user-container .content {
+	width: 60px;
+	height: 60px;
+}
+
+.user-container img {
+	height: 60px;
+}
+
+#current-user-name {
+	padding-left: 14px;
+	font-size: xx-large;
+	margin: 0;
+	line-height: 60px;
+}
+
+.user-header {
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+.small-chart-container {
+	text-align: center;
+	border: 1px groove;
+	outline: 0px;
+	height: 150px;
+	width: 150px;
+	background: rgba(0,0,0,0);
+	position: relative;
+	margin: 5px;
+	display: block;
+	float: left;
+}
+
+	.small-chart-container:hover {
+		outline: 1px groove;
+		cursor: pointer;
+	}
+
+	.small-chart-container.active {
+		outline: 1px groove;
+	}
+
+.big-chart-container {
+	text-align: center;
+	border: 1px groove;
+	outline: 1px groove;
+	margin: 3px;
+	width: 528px;
+	height: 271px;
+	overflow: hidden;
+	position: relative;
+}
+
+#chart-comment {
+	width: 496px;
+	border: 1px groove;
+	/*outline: 1px groove;
+	padding: 2px;
+	margin: 1px;*/
+}
+
+	#chart-comment p {
+		margin: auto;
+		line-height: 1;
+	}
+
+#chart-container-invisible {
+	display: none;
+}
+
+#chart-navigation {
+	/*padding: 0px;*/
+	width: 300px;
+}
+
+	#chart-navigation .nav-header {
+		padding: 3px 20px;
+	}
+
+#bad-language-posts-modal p {
+	line-height: 1.7 !important;
+}
+
+.small-charts {
+	float: left;
+}
+
+.links {
+	overflow: hidden;
+}
+
+.image-wall {
+	width: 160px;
+	height: 120px;
+	margin: 0px 5px 5px 0px;
+	line-height: 120px;
+	text-align: center;
+	float: left;
+	border: 1px solid #ccc;
+}
+
+	.image-wall img {
+		max-width: 160px;
+		max-height: 120px;
+	}
+
+.container-border {
+	border: 1px solid #ccc;
+	padding: 17px;
+	margin-bottom: 10px;
+	background-color: White;
+}
+
+.clear {
+	clear: both;
+}
+
+.text-wall {
+	font-size: 14px;
+	cursor: pointer;
+	border: 1px solid #ccc;
+	line-height: 20px;
+	margin-bottom: 5px;
+	padding: 5px;
+}
+
+	.text-wall:hover {
+		background-color: #ddd;
+	}
+
+	.text-wall a {
+		font-size: 11px;
+	}
+
+.text-like-highcharts {
+	font-family: 'lucida grande', 'lucida sans unicode', verdana, arial, helvetica, sans-serif;
+	font-size: 16px;
+	color: #3E576F;
+	margin-top: 7px;
+}
+
+#secondPlace {
+	width: 102px;
+	height: 188px;
+	position: absolute;
+	left: 112px;
+}
+
+#firstPlace {
+	width: 102px;
+	height: 169px;
+	position: absolute;
+	left: 214px;
+}
+
+#thirdPlace {
+	width: 100px;
+	height: 206px;
+	position: absolute;
+	left: 316px;
+}
+
+.place-text {
+	position: absolute;
+	bottom: 0;
+	width: 100px;
+}
+
+	.place-text > div {
+		font-size: 13px;
+	}
+
+#user-link {
+	border-color: #c6c6c6;
+	border-top-left-radius: 4px;
+	border-bottom-left-radius: 4px;
+	padding-left: 9px;
+	/*border-bottom-color: #E3A038;
+	border-top-color: #E3A038;*/
+}
+
+#user-link-go-button {
+	border-bottom-right-radius: 4px;
+	border-top-right-radius: 4px;
+	border-color: #c6c6c6;
+	margin: 5px 0 5px 0;
+}
+
+.loading-wrapper {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-color: red;
+	z-index: 1;
+}
+
+.brand {
+	line-height: 1.6 !important;
+}
+
+.loading-wrapper {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background-color: rgba(80,80,80,0.3);
+	z-index: 100;
+}
+
+.loader {
+	/*width: 400px;*/
+	height: 230px;
+	/*border: groove 2px;*/
+	background-color: #F6F6F6;
+	margin: auto;
+	text-align: center;
+	display: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+	.loader p {
+		font-size: 24px;
+	}
+
+.navbar .nav > li > a {
+	line-height: 2.3;
+}
+
+#hobbies {
+	display: none;
+}
+
+#tab-navigation {
+	display: none;
+}
+
+.manology-open {
+	width: 202px;
+	float: left;
+}
+
+.likes-list {
+	width: 202px;
+}
+
+#chart-comment {
+	display: none;
+}
+
+.activityContainer {
+	border: 1px solid #ccc;
+	display: inline-block;
+	margin: 2px;
+}
+
+	.activityContainer a {
+		text-decoration: none;
+		cursor: pointer;
+	}
+
+.activityUlContainer {
+	float: right;
+	overflow: hidden;
+	width: 264px;
+}
+
+	.activityUlContainer > ul {
+		list-style-type: none;
+		margin: 0px;
+		margin-top: 5px;
+		overflow: hidden;
+	}
+/*.activityUlContainer > ul > li {
+			line-height: 1;
+		}*/
+
+.activityTitleContainer {
+	float: left;
+	width: 258px;
+}
+
+.last-check {
+	position: absolute;
+	left: 85px;
+	top: 55px;
+	font-size: 12px;
+	color: #777;
+}
+
+#chart-navigation li span:nth-child(2) {
+	color: black;
+}
+
+#tell-friends {
+	background: url(http://pruffigraph.com/img/tell_friends_flag.png) 0 0 no-repeat;
+	position: fixed;
+	width: 205px;
+	height: 132px;
+	right: 0;
+	top: 40%;
+	text-align: center;
+}
+
+	#tell-friends > div {
+		position: relative;
+		height: 100%;
+	}
+
+		#tell-friends > div > p {
+			margin-top: 10%;
+			font: 23px/24px 'opensansregular', Arial, Helvetica, sans-serif;
+			color: #9DE9FE;
+		}
+
+		#tell-friends > div > a {
+		}

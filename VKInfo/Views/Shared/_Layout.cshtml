@@ -1,0 +1,95 @@
+﻿@model VKInfo.Models.Language
+<!DOCTYPE html>
+<html>
+<head>
+	<title>@ViewBag.Title</title>@*<link href="@Url.Content("~/Content/docs.css")" rel="stylesheet" type="text/css" />*@
+	@*<link href="@Url.Content("~/Content/docs.css")" rel="stylesheet" type="text/css" />*@
+	<link href="@Url.Content("~/Content/bootstrap.css")" rel="stylesheet" type="text/css" />
+	<link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+	<script src="@Url.Content("~/Scripts/jquery-1.7.2.min.js")" type="text/javascript"></script>
+	<script src="@Url.Content("~/Scripts/bootstrap-tab.js")" type="text/javascript"></script>
+	<script src="@Url.Content("~/Scripts/bootstrap-scrollspy.js")" type="text/javascript"></script>
+	<script src="@Url.Content("~/Scripts/js_highcharts/highcharts.js")" type="text/javascript"></script>
+	<script src="@Url.Content("~/Scripts/js_highstock/highstock.js")" type="text/javascript"></script>
+	<script src="@Url.Content("~/Scripts/knockout-2.1.0.js")" type="text/javascript"></script>
+	<script src="@Url.Content("~/Scripts/app.js")?v8" type="text/javascript"></script>
+	<script src="@Url.Content("~/Scripts/bootstrap.js")" type="text/javascript"></script>
+	<script type="text/javascript" src="http://vkontakte.ru/js/api/share.js?9" charset="windows-1251"></script>
+
+	@RenderSection("scripts", false)
+</head>
+<body>
+	@*<div class="loading-wrapper">
+		<div class="loader">
+			<p>Данные загружаются, пожалуйста, подождите...</p>
+		</div>
+	</div>*@
+	<div class="navbar navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="container">
+				<div class="container-fluid">
+					<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span
+						class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+					</a><a class="brand" href="/"><i class="nav-home"></i>Manology<sup title="Альфа-версия">α</sup></a>
+					<div class="nav-collapse">
+						<div class="navbar-search">
+							<div class="input-append">
+								<input id="user-link" type="text" class="span4 search-query" placeholder="@Model.SearchPlaceholder" /><button class="btn btn-inverse" id="user-link-go-button" type="submit" onclick="showOtherPerson()">Go!</button>
+								@*<img src="/content/images/i-search.png" alt="search" class="search" />*@
+							</div>
+						</div>
+						<ul class="nav pull-right">
+							@*<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><span>
+								Русский</span> <b class="caret"></b></a>
+								<ul class="dropdown-menu">
+									<li><a data-lang="ru" href="#" onclick="changeLang('ru')">Русский</a></li>
+									<li><a data-lang="en" href="#" onclick="changeLang('en')">English</a></li>
+								</ul>
+							</li>*@
+						</ul>
+					</div>
+					<!--/.nav-collapse -->
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="tell-friends">
+		<div>
+			<p>Рассказать друзьям</p>
+		</div>
+	</div>
+	<div class="container">
+		@RenderBody()
+	</div>
+	<div class="footer well">
+		<p style="text-align: center;">
+			© Разработка и сопровождение <a href="http://rise-tech.com">Rise Technology</a>, @DateTime.Today.Year
+		</p>
+	</div>
+
+	<script type="text/javascript">
+		var reformalOptions = {
+			project_id: 70254,
+			project_host: "manology.reformal.ru",
+			tab_orientation: "left",
+			tab_indent: "50%",
+			tab_bg_color: "#333333",
+			tab_border_color: "#FFFFFF",
+			tab_image_url: "http://tab.reformal.ru/T9GC0LfRi9Cy0Ysg0Lgg0L%252FRgNC10LTQu9C%252B0LbQtdC90LjRjw==/FFFFFF/2a94cfe6511106e7a48d0af3904e3090/left/1/tab.png",
+			tab_border_width: 1
+		};
+
+		(function () {
+			var script = document.createElement('script');
+			script.type = 'text/javascript'; script.async = true;
+			script.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'media.reformal.ru/widgets/v3/reformal.js';
+			document.getElementsByTagName('head')[0].appendChild(script);
+		})();
+	</script>
+	<noscript>
+		<a href="http://reformal.ru">
+			<img src="http://media.reformal.ru/reformal.png" /></a><a href="http://manology.reformal.ru">Oтзывы
+				и предложения для Manology</a>
+	</noscript>
+</body>
+</html>

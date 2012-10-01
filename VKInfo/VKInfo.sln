@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VKInfo", "VKInfo.csproj", "{2E61CCB0-DA3F-43A4-8237-6401F0AB4A27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextClassifierLib", "..\TextClassifierLib\TextClassifierLib.csproj", "{E423974C-1D5F-4111-A21B-3E8E8C5B9CA0}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://zion:8080/tfs/defaultcollection
+		SccProjectUniqueName0 = VKInfo.csproj
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ..\\TextClassifierLib\\TextClassifierLib.csproj
+		SccProjectName1 = ../TextClassifierLib
+		SccLocalPath1 = ..\\TextClassifierLib
+		SccLocalPath2 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E61CCB0-DA3F-43A4-8237-6401F0AB4A27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E61CCB0-DA3F-43A4-8237-6401F0AB4A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E61CCB0-DA3F-43A4-8237-6401F0AB4A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E61CCB0-DA3F-43A4-8237-6401F0AB4A27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E423974C-1D5F-4111-A21B-3E8E8C5B9CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E423974C-1D5F-4111-A21B-3E8E8C5B9CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E423974C-1D5F-4111-A21B-3E8E8C5B9CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E423974C-1D5F-4111-A21B-3E8E8C5B9CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

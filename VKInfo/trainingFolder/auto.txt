@@ -1,0 +1,1398 @@
+﻿<Words>
+
+<Word Stem="гараж" Weight="0.508274789932503">
+<Allolog Form="гараж"/>
+<Allolog Form="гаража"/>
+<Allolog Form="гаражи"/>
+<Allolog Form="гараже"/>
+<Allolog Form="гаражах"/>
+<Allolog Form="гаражу"/>
+<Allolog Form="гаражом"/>
+<Allolog Form="гаражей"/>
+</Word>
+
+<Word Stem="автомобил" Weight="1.43303822735351">
+<Allolog Form="автомобилей"/>
+<Allolog Form="автомобиль"/>
+<Allolog Form="автомобиля"/>
+<Allolog Form="автомобилях"/>
+<Allolog Form="автомобилем"/>
+<Allolog Form="автомобилю"/>
+<Allolog Form="автомобиле"/>
+<Allolog Form="автомобилями"/>
+<Allolog Form="автомобилям"/>
+</Word>
+
+<Word Stem="автолюбител" Weight="0.0551163980557687">
+<Allolog Form="автолюбителей"/>
+<Allolog Form="автолюбители"/>
+<Allolog Form="автолюбитель"/>
+<Allolog Form="автолюбителю"/>
+<Allolog Form="автолюбителям"/>
+</Word>
+
+<Word Stem="автомобильн" Weight="0.514958471664104">
+<Allolog Form="автомобильной"/>
+<Allolog Form="автомобильный"/>
+<Allolog Form="автомобильного"/>
+<Allolog Form="автомобильные"/>
+<Allolog Form="автомобильном"/>
+<Allolog Form="автомобильная"/>
+<Allolog Form="автомобильную"/>
+<Allolog Form="автомобильное"/>
+<Allolog Form="автомобильным"/>
+</Word>
+
+<Word Stem="заднеприводн" Weight="0.0615438731133282">
+<Allolog Form="заднеприводный"/>
+<Allolog Form="заднеприводными"/>
+<Allolog Form="заднеприводные"/>
+<Allolog Form="заднеприводного"/>
+<Allolog Form="заднеприводном"/>
+<Allolog Form="заднеприводная"/>
+<Allolog Form="заднеприводной"/>
+<Allolog Form="заднеприводным"/>
+</Word>
+
+<Word Stem="кузов" Weight="0.106242770821557">
+<Allolog Form="кузовом"/>
+<Allolog Form="кузова"/>
+<Allolog Form="кузову"/>
+<Allolog Form="кузовов"/>
+<Allolog Form="кузове"/>
+<Allolog Form="кузовах"/>
+<Allolog Form="кузовами"/>
+</Word>
+
+<Word Stem="мотор" Weight="0.067880384754024">
+<Allolog Form="мотором"/>
+<Allolog Form="мотор"/>
+<Allolog Form="моторами"/>
+<Allolog Form="мотора"/>
+<Allolog Form="моторе"/>
+<Allolog Form="моторов"/>
+<Allolog Form="моторы"/>
+<Allolog Form="мотору"/>
+<Allolog Form="моторо"/>
+<Allolog Form="моторам"/>
+<Allolog Form="мотори"/>
+</Word>
+
+<Word Stem="автомобильных" Weight="0.504129833578806">
+<Allolog Form="автомобильных"/>
+</Word>
+
+<Word Stem="гонк" Weight="0.0539788394405136">
+<Allolog Form="гонка"/>
+<Allolog Form="гонках"/>
+<Allolog Form="гонку"/>
+<Allolog Form="гонки"/>
+<Allolog Form="гонкам"/>
+<Allolog Form="гонке"/>
+<Allolog Form="гонкой"/>
+</Word>
+
+<Word Stem="автомоб" Weight="0.54589833031092">
+<Allolog Form="автомобили"/>
+<Allolog Form="автомоби"/>
+<Allolog Form="автомоб"/>
+</Word>
+
+<Word Stem="бензин" Weight="0.109581833884152">
+<Allolog Form="бензина"/>
+<Allolog Form="бензин"/>
+<Allolog Form="бензины"/>
+<Allolog Form="бензинов"/>
+<Allolog Form="бензинах"/>
+<Allolog Form="бензине"/>
+<Allolog Form="бензину"/>
+<Allolog Form="бензино"/>
+<Allolog Form="бензином"/>
+</Word>
+
+<Word Stem="багажник" Weight="0.0940315689396456">
+<Allolog Form="багажника"/>
+<Allolog Form="багажником"/>
+<Allolog Form="багажнике"/>
+<Allolog Form="багажник"/>
+<Allolog Form="багажники"/>
+<Allolog Form="багажникам"/>
+</Word>
+
+<Word Stem="двигател" Weight="0.791275590471653">
+<Allolog Form="двигателя"/>
+<Allolog Form="двигателей"/>
+<Allolog Form="двигатель"/>
+<Allolog Form="двигателем"/>
+<Allolog Form="двигателе"/>
+<Allolog Form="двигателю"/>
+<Allolog Form="двигателям"/>
+<Allolog Form="двигателями"/>
+<Allolog Form="двигатели"/>
+<Allolog Form="двигателях"/>
+</Word>
+
+<Word Stem="подвеск" Weight="0.127890010433196">
+<Allolog Form="подвески"/>
+<Allolog Form="подвесках"/>
+<Allolog Form="подвеска"/>
+<Allolog Form="подвеской"/>
+<Allolog Form="подвеске"/>
+<Allolog Form="подвеску"/>
+</Word>
+
+<Word Stem="водител" Weight="0.782827620493637">
+<Allolog Form="водителей"/>
+<Allolog Form="водителя"/>
+<Allolog Form="водитель"/>
+<Allolog Form="водителями"/>
+<Allolog Form="водителе"/>
+<Allolog Form="водителю"/>
+<Allolog Form="водители"/>
+<Allolog Form="водителем"/>
+<Allolog Form="водителям"/>
+<Allolog Form="водителях"/>
+</Word>
+
+<Word Stem="иномарк" Weight="0.0534535686876439">
+<Allolog Form="иномарки"/>
+<Allolog Form="иномарка"/>
+<Allolog Form="иномарках"/>
+<Allolog Form="иномарками"/>
+</Word>
+
+<Word Stem="колес" Weight="0.338485108471303">
+<Allolog Form="колеса"/>
+<Allolog Form="колесом"/>
+<Allolog Form="колес"/>
+<Allolog Form="колесо"/>
+<Allolog Form="колесе"/>
+<Allolog Form="колесах"/>
+<Allolog Form="колесами"/>
+<Allolog Form="колесу"/>
+<Allolog Form="колесам"/>
+</Word>
+
+<Word Stem="старт" Weight="0.066735572995321">
+<Allolog Form="старте"/>
+<Allolog Form="старт"/>
+<Allolog Form="старта"/>
+<Allolog Form="стартом"/>
+<Allolog Form="старту"/>
+<Allolog Form="стартов"/>
+</Word>
+
+<Word Stem="гонщик" Weight="0.0716167817856229">
+<Allolog Form="гонщику"/>
+<Allolog Form="гонщиков"/>
+<Allolog Form="гонщика"/>
+<Allolog Form="гонщик"/>
+<Allolog Form="гонщики"/>
+<Allolog Form="гонщиком"/>
+<Allolog Form="гонщикам"/>
+<Allolog Form="гонщиками"/>
+</Word>
+
+<Word Stem="угна" Weight="0.0525116863182865">
+<Allolog Form="угнать"/>
+<Allolog Form="угнали"/>
+<Allolog Form="угнан"/>
+<Allolog Form="угнана"/>
+<Allolog Form="угнанной"/>
+<Allolog Form="угнаться"/>
+</Word>
+
+<Word Stem="наддув" Weight="0.069734678215108">
+<Allolog Form="наддува"/>
+<Allolog Form="наддув"/>
+<Allolog Form="наддувом"/>
+</Word>
+
+<Word Stem="мотоциклист" Weight="0.0519186492709133">
+<Allolog Form="мотоциклистов"/>
+<Allolog Form="мотоциклист"/>
+<Allolog Form="мотоциклиста"/>
+<Allolog Form="мотоциклистом"/>
+</Word>
+
+<Word Stem="мотоцикл" Weight="0.0537782631796446">
+<Allolog Form="мотоциклах"/>
+<Allolog Form="мотоциклы"/>
+<Allolog Form="мотоцикл"/>
+<Allolog Form="мотоциклов"/>
+<Allolog Form="мотоциклом"/>
+<Allolog Form="мотоциклами"/>
+<Allolog Form="мотоцикле"/>
+</Word>
+
+<Word Stem="вожден" Weight="0.0799427965598817">
+<Allolog Form="вождения"/>
+<Allolog Form="вождение"/>
+<Allolog Form="вождении"/>
+<Allolog Form="вождением"/>
+<Allolog Form="вождению"/>
+</Word>
+
+<Word Stem="автопилот" Weight="0.0599897963661563">
+<Allolog Form="автопилот"/>
+<Allolog Form="автопилоте"/>
+<Allolog Form="автопилота"/>
+<Allolog Form="автопилоты"/>
+<Allolog Form="автопилотом"/>
+<Allolog Form="автопилотов"/>
+<Allolog Form="автопилотам"/>
+<Allolog Form="автопилоту"/>
+<Allolog Form="автопилотами"/>
+</Word>
+
+<Word Stem="дорожн" Weight="0.578165571015514">
+<Allolog Form="дорожные"/>
+<Allolog Form="дорожного"/>
+<Allolog Form="дорожной"/>
+<Allolog Form="дорожно"/>
+<Allolog Form="дорожными"/>
+<Allolog Form="дорожном"/>
+<Allolog Form="дорожный"/>
+<Allolog Form="дорожную"/>
+<Allolog Form="дорожное"/>
+<Allolog Form="дорожным"/>
+<Allolog Form="дорожная"/>
+</Word>
+
+<Word Stem="toyota" Weight="0.0531337938091584">
+<Allolog Form="toyota"/>
+</Word>
+
+<Word Stem="седа" Weight="0.0591391831762871">
+<Allolog Form="седан"/>
+<Allolog Form="седаны"/>
+<Allolog Form="седана"/>
+</Word>
+
+<Word Stem="авар" Weight="0.528219052353601">
+<Allolog Form="аварий"/>
+<Allolog Form="аварии"/>
+<Allolog Form="авария"/>
+<Allolog Form="аварию"/>
+<Allolog Form="аварией"/>
+<Allolog Form="авариях"/>
+<Allolog Form="аваров"/>
+<Allolog Form="авариям"/>
+<Allolog Form="авариями"/>
+</Word>
+
+<Word Stem="водительск" Weight="0.0716167817856229">
+<Allolog Form="водительской"/>
+<Allolog Form="водительского"/>
+<Allolog Form="водительских"/>
+<Allolog Form="водительском"/>
+<Allolog Form="водительский"/>
+<Allolog Form="водительское"/>
+<Allolog Form="водительским"/>
+<Allolog Form="водительские"/>
+<Allolog Form="водительскую"/>
+<Allolog Form="водительскими"/>
+</Word>
+
+<Word Stem="грузовик" Weight="0.0595986784947552">
+<Allolog Form="грузовика"/>
+<Allolog Form="грузовиками"/>
+<Allolog Form="грузовик"/>
+<Allolog Form="грузовиком"/>
+<Allolog Form="грузовиков"/>
+<Allolog Form="грузовики"/>
+<Allolog Form="грузовиках"/>
+<Allolog Form="грузовикам"/>
+<Allolog Form="грузовике"/>
+</Word>
+
+<Word Stem="торможен" Weight="0.147522414552125">
+<Allolog Form="торможении"/>
+<Allolog Form="торможения"/>
+<Allolog Form="торможений"/>
+<Allolog Form="торможениями"/>
+<Allolog Form="торможение"/>
+<Allolog Form="торможением"/>
+<Allolog Form="торможению"/>
+<Allolog Form="торможениях"/>
+</Word>
+
+<Word Stem="передач" Weight="0.0161308171349203">
+<Allolog Form="передачи"/>
+<Allolog Form="передач"/>
+<Allolog Form="передачу"/>
+<Allolog Form="передача"/>
+<Allolog Form="передачах"/>
+<Allolog Form="передачей"/>
+<Allolog Form="передаче"/>
+<Allolog Form="передачами"/>
+</Word>
+
+<Word Stem="ferrari" Weight="0.0522110148741001">
+<Allolog Form="ferrari"/>
+</Word>
+
+<Word Stem="тормозных" Weight="0.0597181816559282">
+<Allolog Form="тормозных"/>
+</Word>
+
+<Word Stem="трансмисс" Weight="0.0648712148752541">
+<Allolog Form="трансмиссией"/>
+<Allolog Form="трансмиссию"/>
+<Allolog Form="трансмиссии"/>
+<Allolog Form="трансмиссия"/>
+<Allolog Form="трансмисси"/>
+<Allolog Form="трансмиссий"/>
+</Word>
+
+<Word Stem="жигул" Weight="0.057205593928541">
+<Allolog Form="жигулях"/>
+<Allolog Form="жигулей"/>
+<Allolog Form="жигули"/>
+<Allolog Form="жигулями"/>
+<Allolog Form="жигул"/>
+<Allolog Form="жигуль"/>
+</Word>
+
+<Word Stem="угонщик" Weight="0.0630172973611193">
+<Allolog Form="угонщиков"/>
+<Allolog Form="угонщики"/>
+<Allolog Form="угонщикам"/>
+<Allolog Form="угонщика"/>
+<Allolog Form="угонщик"/>
+<Allolog Form="угонщиком"/>
+<Allolog Form="угонщику"/>
+</Word>
+
+<Word Stem="рулен" Weight="0.0757723678809188">
+<Allolog Form="руление"/>
+<Allolog Form="рулении"/>
+<Allolog Form="руления"/>
+<Allolog Form="рулению"/>
+<Allolog Form="рулением"/>
+<Allolog Form="руленой"/>
+</Word>
+
+<Word Stem="парковк" Weight="0.051299215402939">
+<Allolog Form="парковка"/>
+<Allolog Form="парковке"/>
+<Allolog Form="парковки"/>
+<Allolog Form="парковку"/>
+</Word>
+
+<Word Stem="аккумулятор" Weight="0.512387355725145">
+<Allolog Form="аккумуляторами"/>
+<Allolog Form="аккумулятор"/>
+<Allolog Form="аккумуляторе"/>
+<Allolog Form="аккумулятора"/>
+<Allolog Form="аккумулятору"/>
+<Allolog Form="аккумуляторах"/>
+<Allolog Form="аккумуляторы"/>
+<Allolog Form="аккумуляторов"/>
+<Allolog Form="аккумулятором"/>
+</Word>
+
+<Word Stem="впрыск" Weight="0.0803224897019437">
+<Allolog Form="впрыска"/>
+<Allolog Form="впрыск"/>
+<Allolog Form="впрыском"/>
+<Allolog Form="впрыске"/>
+</Word>
+
+<Word Stem="противоугон" Weight="0.0608111715439287">
+<Allolog Form="противоугон"/>
+<Allolog Form="противоугонной"/>
+<Allolog Form="противоугонного"/>
+<Allolog Form="противоугонная"/>
+<Allolog Form="противоугонную"/>
+<Allolog Form="противоугонные"/>
+<Allolog Form="противоугонное"/>
+</Word>
+
+<Word Stem="lada" Weight="0.0541073306614366">
+<Allolog Form="lada"/>
+</Word>
+
+<Word Stem="стеклоподъемник" Weight="0.0525116863182865">
+<Allolog Form="стеклоподъемника"/>
+<Allolog Form="стеклоподъемники"/>
+<Allolog Form="стеклоподъемниками"/>
+<Allolog Form="стеклоподъемников"/>
+</Word>
+
+<Word Stem="автом" Weight="0.0810821181887951">
+<Allolog Form="автомо"/>
+<Allolog Form="автома"/>
+<Allolog Form="автомов"/>
+</Word>
+
+<Word Stem="рулев" Weight="0.574622904727408">
+<Allolog Form="рулевым"/>
+<Allolog Form="рулевое"/>
+<Allolog Form="рулевого"/>
+<Allolog Form="рулевую"/>
+<Allolog Form="рулевой"/>
+<Allolog Form="рулевом"/>
+<Allolog Form="рулевые"/>
+<Allolog Form="рулевая"/>
+</Word>
+
+<Word Stem="плафон" Weight="0.0544403025983993">
+<Allolog Form="плафона"/>
+<Allolog Form="плафон"/>
+<Allolog Form="плафонов"/>
+<Allolog Form="плафоны"/>
+</Word>
+
+<Word Stem="моторн" Weight="0.0535948953597895">
+<Allolog Form="моторный"/>
+<Allolog Form="моторное"/>
+<Allolog Form="моторного"/>
+<Allolog Form="моторном"/>
+<Allolog Form="моторные"/>
+<Allolog Form="моторным"/>
+<Allolog Form="моторно"/>
+<Allolog Form="моторной"/>
+<Allolog Form="моторными"/>
+<Allolog Form="моторная"/>
+<Allolog Form="моторную"/>
+</Word>
+
+<Word Stem="торсион" Weight="0.0525116863182865">
+<Allolog Form="торсионов"/>
+<Allolog Form="торсионы"/>
+<Allolog Form="торсионную"/>
+<Allolog Form="торсионная"/>
+<Allolog Form="торсион"/>
+</Word>
+
+<Word Stem="топливн" Weight="0.105873392404475">
+<Allolog Form="топливного"/>
+<Allolog Form="топливном"/>
+<Allolog Form="топливно"/>
+<Allolog Form="топливной"/>
+<Allolog Form="топливный"/>
+<Allolog Form="топливную"/>
+<Allolog Form="топливная"/>
+<Allolog Form="топливным"/>
+<Allolog Form="топливные"/>
+</Word>
+
+<Word Stem="акселератор" Weight="0.0565008351767415">
+<Allolog Form="акселератора"/>
+<Allolog Form="акселератор"/>
+</Word>
+
+<Word Stem="прикуривател" Weight="0.0544403025983993">
+<Allolog Form="прикуриватель"/>
+<Allolog Form="прикуривателя"/>
+<Allolog Form="прикуриватели"/>
+<Allolog Form="прикуривателю"/>
+</Word>
+
+<Word Stem="габарит" Weight="0.0534535686876439">
+<Allolog Form="габаритам"/>
+<Allolog Form="габаритами"/>
+<Allolog Form="габарита"/>
+<Allolog Form="габаритов"/>
+<Allolog Form="габаритах"/>
+<Allolog Form="габариты"/>
+</Word>
+
+<Word Stem="коленчат" Weight="0.0814620487374908">
+<Allolog Form="коленчатого"/>
+<Allolog Form="коленчатый"/>
+<Allolog Form="коленчато"/>
+<Allolog Form="коленчатое"/>
+<Allolog Form="коленчатом"/>
+</Word>
+
+<Word Stem="оборот" Weight="0.522707098218913">
+<Allolog Form="оборотов"/>
+<Allolog Form="обороты"/>
+<Allolog Form="оборотах"/>
+<Allolog Form="оборот"/>
+<Allolog Form="оборота"/>
+<Allolog Form="оборотам"/>
+<Allolog Form="оборотами"/>
+<Allolog Form="обороту"/>
+<Allolog Form="обороте"/>
+<Allolog Form="оборотом"/>
+<Allolog Form="оборотясь"/>
+<Allolog Form="оборотилась"/>
+<Allolog Form="оборотиться"/>
+</Word>
+
+<Word Stem="спидометр" Weight="0.0537782631796446">
+<Allolog Form="спидометр"/>
+<Allolog Form="спидометра"/>
+<Allolog Form="спидометре"/>
+<Allolog Form="спидометром"/>
+<Allolog Form="спидометрами"/>
+</Word>
+
+<Word Stem="бензонасос" Weight="0.0544403025983993">
+<Allolog Form="бензонасоса"/>
+<Allolog Form="бензонасос"/>
+<Allolog Form="бензонасосы"/>
+<Allolog Form="бензонасосах"/>
+<Allolog Form="бензонасосе"/>
+<Allolog Form="бензонасосу"/>
+</Word>
+
+<Word Stem="габаритн" Weight="0.056151305844322">
+<Allolog Form="габаритного"/>
+<Allolog Form="габаритно"/>
+<Allolog Form="габаритные"/>
+<Allolog Form="габаритными"/>
+</Word>
+
+<Word Stem="тормозн" Weight="0.127020684690876">
+<Allolog Form="тормозной"/>
+<Allolog Form="тормозную"/>
+<Allolog Form="тормозные"/>
+<Allolog Form="тормозная"/>
+<Allolog Form="тормозного"/>
+<Allolog Form="тормозными"/>
+<Allolog Form="тормозным"/>
+<Allolog Form="тормозно"/>
+<Allolog Form="тормозном"/>
+<Allolog Form="тормозное"/>
+</Word>
+
+<Word Stem="аккумуляторн" Weight="0.0619112879226902">
+<Allolog Form="аккумуляторной"/>
+<Allolog Form="аккумуляторная"/>
+<Allolog Form="аккумуляторную"/>
+<Allolog Form="аккумуляторные"/>
+<Allolog Form="аккумуляторными"/>
+<Allolog Form="аккумуляторный"/>
+</Word>
+
+<Word Stem="двиг" Weight="0.0711344131927438">
+<Allolog Form="двига"/>
+<Allolog Form="двигаясь"/>
+<Allolog Form="двиг"/>
+<Allolog Form="двигая"/>
+</Word>
+
+<Word Stem="заслонк" Weight="0.062279355333845">
+<Allolog Form="заслонки"/>
+<Allolog Form="заслонкой"/>
+<Allolog Form="заслонку"/>
+<Allolog Form="заслонками"/>
+<Allolog Form="заслонке"/>
+<Allolog Form="заслонка"/>
+</Word>
+
+<Word Stem="стартер" Weight="0.0689833416098596">
+<Allolog Form="стартер"/>
+<Allolog Form="стартера"/>
+<Allolog Form="стартере"/>
+<Allolog Form="стартером"/>
+<Allolog Form="стартеру"/>
+</Word>
+
+<Word Stem="стоянк" Weight="0.0678650304390588">
+<Allolog Form="стоянка"/>
+<Allolog Form="стоянке"/>
+<Allolog Form="стоянку"/>
+<Allolog Form="стоянки"/>
+<Allolog Form="стоянках"/>
+<Allolog Form="стоянкам"/>
+</Word>
+
+<Word Stem="габаритных" Weight="0.0525116863182865">
+<Allolog Form="габаритных"/>
+</Word>
+
+<Word Stem="противотума" Weight="0.0531337938091584">
+<Allolog Form="противотуманные"/>
+<Allolog Form="противотуман"/>
+<Allolog Form="противотуманная"/>
+<Allolog Form="противотуманного"/>
+<Allolog Form="противотуманный"/>
+<Allolog Form="противотуманной"/>
+<Allolog Form="противотуманными"/>
+</Word>
+
+<Word Stem="колодок" Weight="0.0544403025983993">
+<Allolog Form="колодок"/>
+</Word>
+
+<Word Stem="бензобак" Weight="0.0541073306614366">
+<Allolog Form="бензобак"/>
+<Allolog Form="бензобаке"/>
+<Allolog Form="бензобака"/>
+<Allolog Form="бензобаки"/>
+</Word>
+
+<Word Stem="бампер" Weight="0.0608111715439287">
+<Allolog Form="бамперам"/>
+<Allolog Form="бамперу"/>
+<Allolog Form="бампера"/>
+<Allolog Form="бамперы"/>
+<Allolog Form="бампер"/>
+<Allolog Form="бампером"/>
+<Allolog Form="бамперов"/>
+<Allolog Form="бамперах"/>
+<Allolog Form="бампере"/>
+</Word>
+
+<Word Stem="втулк" Weight="0.0544403025983993">
+<Allolog Form="втулки"/>
+<Allolog Form="втулкой"/>
+<Allolog Form="втулку"/>
+<Allolog Form="втулка"/>
+</Word>
+
+<Word Stem="радиатор" Weight="0.523881261665861">
+<Allolog Form="радиатора"/>
+<Allolog Form="радиатор"/>
+<Allolog Form="радиаторе"/>
+<Allolog Form="радиатором"/>
+<Allolog Form="радиатору"/>
+<Allolog Form="радиаторов"/>
+</Word>
+
+<Word Stem="колесных" Weight="0.0528195802329073">
+<Allolog Form="колесных"/>
+</Word>
+
+<Word Stem="колодк" Weight="0.0600816298053443">
+<Allolog Form="колодки"/>
+<Allolog Form="колодку"/>
+<Allolog Form="колодке"/>
+<Allolog Form="колодками"/>
+<Allolog Form="колодкам"/>
+<Allolog Form="колодкой"/>
+<Allolog Form="колодках"/>
+</Word>
+
+<Word Stem="протектор" Weight="0.0554588666353081">
+<Allolog Form="протектор"/>
+<Allolog Form="протектора"/>
+<Allolog Form="протектором"/>
+<Allolog Form="протекторе"/>
+<Allolog Form="протекторов"/>
+</Word>
+
+<Word Stem="дорожных" Weight="0.506500835176741">
+<Allolog Form="дорожных"/>
+</Word>
+
+<Word Stem="этилирова" Weight="0.0519186492709133">
+<Allolog Form="этилирован"/>
+<Allolog Form="этилированный"/>
+<Allolog Form="этилированные"/>
+<Allolog Form="этилированными"/>
+<Allolog Form="этилированного"/>
+</Word>
+
+<Word Stem="гидропривод" Weight="0.0528195802329073">
+<Allolog Form="гидропривода"/>
+<Allolog Form="гидропривод"/>
+<Allolog Form="гидроприводе"/>
+<Allolog Form="гидроприводом"/>
+</Word>
+
+<Word Stem="кронштейн" Weight="0.0582747899325029">
+<Allolog Form="кронштейне"/>
+<Allolog Form="кронштейна"/>
+<Allolog Form="кронштейн"/>
+<Allolog Form="кронштейном"/>
+<Allolog Form="кронштейну"/>
+</Word>
+
+<Word Stem="форсунк" Weight="0.0537782631796446">
+<Allolog Form="форсунки"/>
+<Allolog Form="форсунке"/>
+<Allolog Form="форсунку"/>
+<Allolog Form="форсунка"/>
+</Word>
+
+<Word Stem="клапа" Weight="0.077666500805411">
+<Allolog Form="клапан"/>
+<Allolog Form="клапанной"/>
+<Allolog Form="клапанного"/>
+<Allolog Form="клапана"/>
+<Allolog Form="клапанном"/>
+<Allolog Form="клапаны"/>
+<Allolog Form="клапанным"/>
+<Allolog Form="клапанный"/>
+</Word>
+
+<Word Stem="глушител" Weight="0.0531337938091584">
+<Allolog Form="глушитель"/>
+<Allolog Form="глушителя"/>
+<Allolog Form="глушители"/>
+<Allolog Form="глушителей"/>
+<Allolog Form="глушителем"/>
+</Word>
+
+<Word Stem="хэтчбек" Weight="0.0547767750813772">
+<Allolog Form="хэтчбек"/>
+<Allolog Form="хэтчбека"/>
+</Word>
+
+<Word Stem="буксируем" Weight="0.0723709521483888">
+<Allolog Form="буксируемого"/>
+<Allolog Form="буксируемая"/>
+<Allolog Form="буксируемой"/>
+<Allolog Form="буксируемый"/>
+</Word>
+
+<Word Stem="сцепн" Weight="0.0519186492709133">
+<Allolog Form="сцепного"/>
+<Allolog Form="сцепное"/>
+<Allolog Form="сцепными"/>
+<Allolog Form="сцепные"/>
+<Allolog Form="сцепным"/>
+</Word>
+
+<Word Stem="бензинов" Weight="0.0529568017724447">
+<Allolog Form="бензиновый"/>
+<Allolog Form="бензиновым"/>
+<Allolog Form="бензинового"/>
+<Allolog Form="бензиновыми"/>
+<Allolog Form="бензиновой"/>
+<Allolog Form="бензиновые"/>
+<Allolog Form="бензиновую"/>
+<Allolog Form="бензиновая"/>
+</Word>
+
+<Word Stem="поршн" Weight="0.534217610304139">
+<Allolog Form="поршня"/>
+<Allolog Form="поршне"/>
+<Allolog Form="поршни"/>
+<Allolog Form="поршнем"/>
+<Allolog Form="поршней"/>
+<Allolog Form="поршню"/>
+<Allolog Form="поршнями"/>
+<Allolog Form="поршнев"/>
+</Word>
+
+<Word Stem="крутя" Weight="0.0799427965598817">
+<Allolog Form="крутящий"/>
+<Allolog Form="крутящем"/>
+<Allolog Form="крутящего"/>
+<Allolog Form="крутящийся"/>
+</Word>
+
+<Word Stem="гидравлическ" Weight="0.0558039140445127">
+<Allolog Form="гидравлическая"/>
+<Allolog Form="гидравлическим"/>
+<Allolog Form="гидравлического"/>
+<Allolog Form="гидравлический"/>
+<Allolog Form="гидравлическом"/>
+<Allolog Form="гидравлическими"/>
+<Allolog Form="гидравлическое"/>
+<Allolog Form="гидравлические"/>
+<Allolog Form="гидравлических"/>
+</Word>
+
+<Word Stem="амортизатор" Weight="0.0822221311536484">
+<Allolog Form="амортизатор"/>
+<Allolog Form="амортизаторов"/>
+<Allolog Form="амортизаторы"/>
+<Allolog Form="амортизатором"/>
+<Allolog Form="амортизаторами"/>
+<Allolog Form="амортизаторах"/>
+<Allolog Form="амортизатора"/>
+<Allolog Form="амортизаторам"/>
+<Allolog Form="амортизаторе"/>
+</Word>
+
+<Word Stem="клапан" Weight="0.103610976347991">
+<Allolog Form="клапанов"/>
+<Allolog Form="клапанами"/>
+<Allolog Form="клапанах"/>
+<Allolog Form="клапаном"/>
+<Allolog Form="клапане"/>
+<Allolog Form="клапану"/>
+<Allolog Form="клапанам"/>
+</Word>
+
+<Word Stem="легков" Weight="0.071239965982867">
+<Allolog Form="легкового"/>
+<Allolog Form="легковой"/>
+<Allolog Form="легковые"/>
+<Allolog Form="легковым"/>
+<Allolog Form="легково"/>
+<Allolog Form="легковом"/>
+<Allolog Form="легковую"/>
+<Allolog Form="легковая"/>
+</Word>
+
+<Word Stem="автовладельц" Weight="0.0525116863182865">
+<Allolog Form="автовладельцем"/>
+<Allolog Form="автовладельцу"/>
+<Allolog Form="автовладельцам"/>
+<Allolog Form="автовладельцев"/>
+<Allolog Form="автовладельца"/>
+<Allolog Form="автовладельцы"/>
+</Word>
+
+<Word Stem="присадк" Weight="0.0528195802329073">
+<Allolog Form="присадками"/>
+<Allolog Form="присадку"/>
+<Allolog Form="присадка"/>
+<Allolog Form="присадки"/>
+<Allolog Form="присадкам"/>
+</Word>
+
+<Word Stem="антифриз" Weight="0.0534535686876439">
+<Allolog Form="антифриз"/>
+<Allolog Form="антифризов"/>
+<Allolog Form="антифризе"/>
+<Allolog Form="антифриза"/>
+<Allolog Form="антифризом"/>
+<Allolog Form="антифризам"/>
+</Word>
+
+<Word Stem="тосол" Weight="0.0575605152351123">
+<Allolog Form="тосол"/>
+<Allolog Form="тосола"/>
+<Allolog Form="тосолом"/>
+</Word>
+
+<Word Stem="ралл" Weight="0.0525116863182865">
+<Allolog Form="ралли"/>
+<Allolog Form="раллий"/>
+</Word>
+
+<Word Stem="асфальт" Weight="0.0562362748609437">
+<Allolog Form="асфальте"/>
+<Allolog Form="асфальт"/>
+<Allolog Form="асфальту"/>
+<Allolog Form="асфальта"/>
+<Allolog Form="асфальтом"/>
+</Word>
+
+<Word Stem="тормозит" Weight="0.0516890783914047">
+<Allolog Form="тормозит"/>
+<Allolog Form="тормозится"/>
+</Word>
+
+<Word Stem="ступенчат" Weight="0.0534535686876439">
+<Allolog Form="ступенчатый"/>
+<Allolog Form="ступенчатого"/>
+<Allolog Form="ступенчатым"/>
+<Allolog Form="ступенчатом"/>
+<Allolog Form="ступенчатое"/>
+<Allolog Form="ступенчато"/>
+<Allolog Form="ступенчатую"/>
+<Allolog Form="ступенчатой"/>
+<Allolog Form="ступенчатые"/>
+<Allolog Form="ступенчатая"/>
+</Word>
+
+<Word Stem="дросселирован" Weight="0.0551163980557687">
+<Allolog Form="дросселированием"/>
+<Allolog Form="дросселирование"/>
+<Allolog Form="дросселирования"/>
+<Allolog Form="дросселирований"/>
+<Allolog Form="дросселировании"/>
+</Word>
+
+<Word Stem="дроссел" Weight="0.0547767750813772">
+<Allolog Form="дросселя"/>
+<Allolog Form="дроссель"/>
+<Allolog Form="дросселе"/>
+<Allolog Form="дросселей"/>
+<Allolog Form="дросселем"/>
+<Allolog Form="дроссели"/>
+</Word>
+
+<Word Stem="передаточн" Weight="0.0545423532208195">
+<Allolog Form="передаточные"/>
+<Allolog Form="передаточным"/>
+<Allolog Form="передаточного"/>
+<Allolog Form="передаточное"/>
+<Allolog Form="передаточными"/>
+<Allolog Form="передаточном"/>
+<Allolog Form="передаточный"/>
+<Allolog Form="передаточной"/>
+</Word>
+
+<Word Stem="перегазовк" Weight="0.0528195802329073">
+<Allolog Form="перегазовку"/>
+<Allolog Form="перегазовка"/>
+<Allolog Form="перегазовки"/>
+<Allolog Form="перегазовкой"/>
+</Word>
+
+<Word Stem="покрышк" Weight="0.0522110148741001">
+<Allolog Form="покрышками"/>
+<Allolog Form="покрышка"/>
+<Allolog Form="покрышкой"/>
+<Allolog Form="покрышки"/>
+<Allolog Form="покрышках"/>
+<Allolog Form="покрышке"/>
+</Word>
+
+<Word Stem="шосс" Weight="0.058994253411452">
+<Allolog Form="шоссе"/>
+<Allolog Form="шоссей"/>
+</Word>
+
+<Word Stem="перестро" Weight="0.00114087763296664">
+<Allolog Form="перестроиться"/>
+<Allolog Form="перестроившись"/>
+<Allolog Form="перестроить"/>
+<Allolog Form="перестроил"/>
+<Allolog Form="перестроим"/>
+<Allolog Form="перестроилась"/>
+<Allolog Form="перестроились"/>
+<Allolog Form="перестроился"/>
+<Allolog Form="перестроены"/>
+</Word>
+
+<Word Stem="перекрестк" Weight="0.0750155319226693">
+<Allolog Form="перекрестки"/>
+<Allolog Form="перекрестка"/>
+<Allolog Form="перекрестках"/>
+<Allolog Form="перекрестку"/>
+<Allolog Form="перекрестке"/>
+<Allolog Form="перекрестком"/>
+<Allolog Form="перекрестков"/>
+<Allolog Form="перекрестками"/>
+</Word>
+
+<Word Stem="автомобилист" Weight="0.264954878661974">
+<Allolog Form="автомобилиста"/>
+<Allolog Form="автомобилистов"/>
+<Allolog Form="автомобилистами"/>
+<Allolog Form="автомобилист"/>
+<Allolog Form="автомобилисту"/>
+<Allolog Form="автомобилисты"/>
+</Word>
+
+<Word Stem="гибдд" Weight="0.0913612438890265">
+<Allolog Form="гибдд"/>
+</Word>
+
+<Word Stem="автошкол" Weight="0.0547767750813772">
+<Allolog Form="автошколы"/>
+<Allolog Form="автошколу"/>
+<Allolog Form="автошкола"/>
+<Allolog Form="автошкол"/>
+<Allolog Form="автошколе"/>
+<Allolog Form="автошколах"/>
+</Word>
+
+<Word Stem="ступиц" Weight="0.0597181816559282">
+<Allolog Form="ступицы"/>
+<Allolog Form="ступицами"/>
+<Allolog Form="ступицу"/>
+<Allolog Form="ступицах"/>
+<Allolog Form="ступиц"/>
+<Allolog Form="ступице"/>
+<Allolog Form="ступицей"/>
+</Word>
+
+<Word Stem="карбюратор" Weight="0.0894549777939937">
+<Allolog Form="карбюраторов"/>
+<Allolog Form="карбюратора"/>
+<Allolog Form="карбюраторе"/>
+<Allolog Form="карбюратор"/>
+<Allolog Form="карбюраторы"/>
+<Allolog Form="карбюратору"/>
+<Allolog Form="карбюратором"/>
+<Allolog Form="карбюраторами"/>
+</Word>
+
+<Word Stem="угоня" Weight="0.0525116863182865">
+<Allolog Form="угоняемые"/>
+<Allolog Form="угоняют"/>
+<Allolog Form="угонять"/>
+<Allolog Form="угоняется"/>
+<Allolog Form="угонял"/>
+</Word>
+
+<Word Stem="тюнинг" Weight="0.0554588666353081">
+<Allolog Form="тюнинг"/>
+<Allolog Form="тюнинга"/>
+<Allolog Form="тюнингом"/>
+<Allolog Form="тюнинге"/>
+<Allolog Form="тюнингуй"/>
+</Word>
+
+<Word Stem="колесн" Weight="0.0535836787546642">
+<Allolog Form="колесный"/>
+<Allolog Form="колесной"/>
+<Allolog Form="колесным"/>
+<Allolog Form="колесном"/>
+<Allolog Form="колесные"/>
+<Allolog Form="колесного"/>
+<Allolog Form="колесная"/>
+<Allolog Form="колесную"/>
+<Allolog Form="колесными"/>
+</Word>
+
+<Word Stem="маховик" Weight="0.0544616197649973">
+<Allolog Form="маховик"/>
+<Allolog Form="маховике"/>
+<Allolog Form="маховику"/>
+<Allolog Form="маховика"/>
+<Allolog Form="маховиком"/>
+</Word>
+
+<Word Stem="легковых" Weight="0.504776775081377">
+<Allolog Form="легковых"/>
+</Word>
+
+<Word Stem="ходов" Weight="0.076150969028149">
+<Allolog Form="ходовой"/>
+<Allolog Form="ходовая"/>
+<Allolog Form="ходовые"/>
+<Allolog Form="ходовым"/>
+<Allolog Form="ходовое"/>
+<Allolog Form="ходового"/>
+<Allolog Form="ходовыми"/>
+</Word>
+
+<Word Stem="распределител" Weight="0.0600816298053443">
+<Allolog Form="распределитель"/>
+<Allolog Form="распределителя"/>
+<Allolog Form="распределителе"/>
+<Allolog Form="распределителю"/>
+<Allolog Form="распределителей"/>
+<Allolog Form="распределителем"/>
+</Word>
+
+<Word Stem="карда" Weight="0.504107330661437">
+<Allolog Form="карданная"/>
+<Allolog Form="карданную"/>
+<Allolog Form="карданной"/>
+<Allolog Form="карданного"/>
+<Allolog Form="кардан"/>
+<Allolog Form="карданный"/>
+<Allolog Form="карданные"/>
+<Allolog Form="карданным"/>
+<Allolog Form="кардана"/>
+<Allolog Form="карданное"/>
+<Allolog Form="кардано"/>
+</Word>
+
+<Word Stem="грузов" Weight="0.0593556993019771">
+<Allolog Form="грузовым"/>
+<Allolog Form="грузового"/>
+<Allolog Form="грузовые"/>
+<Allolog Form="грузовой"/>
+<Allolog Form="грузови"/>
+<Allolog Form="грузовом"/>
+<Allolog Form="грузовыми"/>
+<Allolog Form="грузовая"/>
+<Allolog Form="грузовую"/>
+</Word>
+
+<Word Stem="бензиновых" Weight="0.0522110148741001">
+<Allolog Form="бензиновых"/>
+</Word>
+
+<Word Stem="автомашин" Weight="0.0515852555348429">
+<Allolog Form="автомашинах"/>
+<Allolog Form="автомашин"/>
+<Allolog Form="автомашины"/>
+<Allolog Form="автомашину"/>
+<Allolog Form="автомашина"/>
+<Allolog Form="автомашине"/>
+<Allolog Form="автомашиной"/>
+<Allolog Form="автомашинами"/>
+</Word>
+
+<Word Stem="транспортном" Weight="0.0519186492709133">
+<Allolog Form="транспортному"/>
+</Word>
+
+<Word Stem="дисков" Weight="0.0845040027600386">
+<Allolog Form="дисковые"/>
+<Allolog Form="дисковый"/>
+<Allolog Form="дисковая"/>
+</Word>
+
+<Word Stem="джип" Weight="0.0559438154012576">
+<Allolog Form="джип"/>
+<Allolog Form="джипы"/>
+<Allolog Form="джипов"/>
+<Allolog Form="джипах"/>
+<Allolog Form="джипами"/>
+<Allolog Form="джипа"/>
+<Allolog Form="джипе"/>
+</Word>
+
+<Word Stem="дизельн" Weight="0.504915666352943">
+<Allolog Form="дизельного"/>
+<Allolog Form="дизельное"/>
+<Allolog Form="дизельными"/>
+<Allolog Form="дизельный"/>
+<Allolog Form="дизельным"/>
+<Allolog Form="дизельном"/>
+<Allolog Form="дизельные"/>
+</Word>
+
+<Word Stem="светофор" Weight="0.0626923243314665">
+<Allolog Form="светофорами"/>
+<Allolog Form="светофора"/>
+<Allolog Form="светофор"/>
+<Allolog Form="светофоре"/>
+<Allolog Form="светофоров"/>
+<Allolog Form="светофоры"/>
+<Allolog Form="светофором"/>
+<Allolog Form="светофорах"/>
+<Allolog Form="светофору"/>
+</Word>
+
+<Word Stem="транспортных" Weight="0.511911247102004">
+<Allolog Form="транспортных"/>
+</Word>
+
+<Word Stem="грузовых" Weight="0.501918649270913">
+<Allolog Form="грузовых"/>
+</Word>
+
+<Word Stem="автодром" Weight="0.0537782631796446">
+<Allolog Form="автодроме"/>
+<Allolog Form="автодромах"/>
+<Allolog Form="автодромы"/>
+<Allolog Form="автодрома"/>
+</Word>
+
+<Word Stem="переднеприводн" Weight="0.0701106871466713">
+<Allolog Form="переднеприводные"/>
+<Allolog Form="переднеприводными"/>
+<Allolog Form="переднеприводном"/>
+<Allolog Form="переднеприводного"/>
+<Allolog Form="переднеприводным"/>
+<Allolog Form="переднеприводная"/>
+<Allolog Form="переднеприводной"/>
+<Allolog Form="переднеприводный"/>
+</Word>
+
+<Word Stem="автопоезд" Weight="0.0544403025983993">
+<Allolog Form="автопоезда"/>
+<Allolog Form="автопоезд"/>
+<Allolog Form="автопоездом"/>
+<Allolog Form="автопоездами"/>
+</Word>
+
+<Word Stem="автомагистрал" Weight="0.0519186492709133">
+<Allolog Form="автомагистралях"/>
+<Allolog Form="автомагистраль"/>
+</Word>
+
+<Word Stem="автомагистра" Weight="0.0522110148741001">
+<Allolog Form="автомагистрали"/>
+</Word>
+
+<Word Stem="въезд" Weight="0.0519186492709133">
+<Allolog Form="въезда"/>
+<Allolog Form="въезде"/>
+<Allolog Form="въезд"/>
+<Allolog Form="въездов"/>
+<Allolog Form="въездах"/>
+</Word>
+
+<Word Stem="перекресток" Weight="0.0547767750813772">
+<Allolog Form="перекресток"/>
+</Word>
+
+<Word Stem="автосервис" Weight="0.0522110148741001">
+<Allolog Form="автосервиса"/>
+<Allolog Form="автосервисе"/>
+<Allolog Form="автосервисах"/>
+<Allolog Form="автосервис"/>
+</Word>
+
+<Word Stem="иномарок" Weight="0.0537782631796446">
+<Allolog Form="иномарок"/>
+</Word>
+
+<Word Stem="дроссельн" Weight="0.0554588666353081">
+<Allolog Form="дроссельную"/>
+<Allolog Form="дроссельной"/>
+<Allolog Form="дроссельными"/>
+</Word>
+
+<Word Stem="поршен" Weight="0.505458866635308">
+<Allolog Form="поршень"/>
+</Word>
+
+<Word Stem="тоуоt" Weight="0.0522110148741001">
+<Allolog Form="тоуоtа"/>
+</Word>
+
+<Word Stem="nissan" Weight="0.0554588666353081">
+<Allolog Form="nissan"/>
+</Word>
+
+<Word Stem="микроавтобус" Weight="0.0524563733780217">
+<Allolog Form="микроавтобуса"/>
+<Allolog Form="микроавтобусы"/>
+<Allolog Form="микроавтобус"/>
+<Allolog Form="микроавтобусе"/>
+<Allolog Form="микроавтобусом"/>
+<Allolog Form="микроавтобусов"/>
+<Allolog Form="микроавтобусами"/>
+<Allolog Form="микроавтобусах"/>
+</Word>
+
+<Word Stem="запчаст" Weight="0.0528195802329073">
+<Allolog Form="запчасти"/>
+<Allolog Form="запчастей"/>
+<Allolog Form="запчасть"/>
+<Allolog Form="запчастями"/>
+</Word>
+
+<Word Stem="дизельных" Weight="0.0519186492709133">
+<Allolog Form="дизельных"/>
+</Word>
+
+<Word Stem="дизел" Weight="0.0521575116005547">
+<Allolog Form="дизели"/>
+<Allolog Form="дизелей"/>
+<Allolog Form="дизель"/>
+<Allolog Form="дизелях"/>
+<Allolog Form="дизеля"/>
+<Allolog Form="дизелем"/>
+<Allolog Form="дизеле"/>
+<Allolog Form="дизел"/>
+<Allolog Form="дизелю"/>
+<Allolog Form="дизелями"/>
+</Word>
+
+<Word Stem="турбин" Weight="0.502180799768309">
+<Allolog Form="турбинами"/>
+<Allolog Form="турбиной"/>
+<Allolog Form="турбины"/>
+<Allolog Form="турбина"/>
+<Allolog Form="турбин"/>
+<Allolog Form="турбине"/>
+<Allolog Form="турбину"/>
+<Allolog Form="турбинах"/>
+<Allolog Form="турбинного"/>
+</Word>
+
+<Word Stem="коленва" Weight="0.0522110148741001">
+<Allolog Form="коленвала"/>
+<Allolog Form="коленвал"/>
+</Word>
+
+<Word Stem="mercedes" Weight="0.0519186492709133">
+<Allolog Form="mercedes"/>
+</Word>
+
+<Word Stem="поршнев" Weight="0.0522110148741001">
+<Allolog Form="поршневой"/>
+<Allolog Form="поршневую"/>
+<Allolog Form="поршневые"/>
+<Allolog Form="поршневыми"/>
+<Allolog Form="поршневого"/>
+<Allolog Form="поршневая"/>
+<Allolog Form="поршнева"/>
+<Allolog Form="поршневым"/>
+<Allolog Form="поршневом"/>
+</Word>
+
+<Word Stem="автосалон" Weight="0.056151305844322">
+<Allolog Form="автосалонов"/>
+<Allolog Form="автосалонами"/>
+<Allolog Form="автосалонах"/>
+<Allolog Form="автосалоном"/>
+<Allolog Form="автосалоне"/>
+<Allolog Form="автосалону"/>
+<Allolog Form="автосалоны"/>
+<Allolog Form="автосалон"/>
+<Allolog Form="автосалона"/>
+</Word>
+
+<Word Stem="пусков" Weight="0.0510450652551438">
+<Allolog Form="пусковым"/>
+<Allolog Form="пусковые"/>
+<Allolog Form="пусковой"/>
+<Allolog Form="пусковыми"/>
+<Allolog Form="пусковую"/>
+<Allolog Form="пусковая"/>
+<Allolog Form="пусковое"/>
+<Allolog Form="пускового"/>
+</Word>
+
+<Word Stem="октанов" Weight="0.0531337938091584">
+<Allolog Form="октановое"/>
+<Allolog Form="октановым"/>
+<Allolog Form="октанового"/>
+</Word>
+
+<Word Stem="распределительн" Weight="0.105608360301303">
+<Allolog Form="распределительный"/>
+<Allolog Form="распределительного"/>
+<Allolog Form="распределительно"/>
+<Allolog Form="распределительным"/>
+<Allolog Form="распределительными"/>
+<Allolog Form="распределительной"/>
+<Allolog Form="распределительные"/>
+<Allolog Form="распределительная"/>
+<Allolog Form="распределительное"/>
+<Allolog Form="распределительность"/>
+</Word>
+
+<Word Stem="суппорт" Weight="0.0558039140445127">
+<Allolog Form="суппортов"/>
+<Allolog Form="суппорта"/>
+<Allolog Form="суппорт"/>
+<Allolog Form="суппортах"/>
+<Allolog Form="суппорты"/>
+<Allolog Form="суппортом"/>
+<Allolog Form="суппорту"/>
+</Word>
+
+<Word Stem="иммобилайзер" Weight="0.0568523188246903">
+<Allolog Form="иммобилайзером"/>
+<Allolog Form="иммобилайзер"/>
+<Allolog Form="иммобилайзеры"/>
+<Allolog Form="иммобилайзера"/>
+<Allolog Form="иммобилайзеру"/>
+<Allolog Form="иммобилайзеров"/>
+</Word>
+
+<Word Stem="мультлок" Weight="0.0531337938091584">
+<Allolog Form="мультлок"/>
+<Allolog Form="мультлоком"/>
+<Allolog Form="мультлоками"/>
+<Allolog Form="мультлоки"/>
+<Allolog Form="мультлока"/>
+</Word>
+
+<Word Stem="тонировк" Weight="0.0522110148741001">
+<Allolog Form="тонировки"/>
+<Allolog Form="тонировка"/>
+<Allolog Form="тонировке"/>
+<Allolog Form="тонировку"/>
+</Word>
+
+<Word Stem="форсировк" Weight="0.0528195802329073">
+<Allolog Form="форсировка"/>
+<Allolog Form="форсировке"/>
+<Allolog Form="форсировкой"/>
+<Allolog Form="форсировки"/>
+</Word>
+
+<Word Stem="турбонаддув" Weight="0.0519186492709133">
+<Allolog Form="турбонаддув"/>
+<Allolog Form="турбонаддувом"/>
+</Word>
+
+<Word Stem="верхнеклапа" Weight="0.0689833416098596">
+<Allolog Form="верхнеклапанный"/>
+</Word>
+
+<Word Stem="госавтоинспектор" Weight="0.066735572995321">
+<Allolog Form="госавтоинспекторы"/>
+</Word>
+
+<Word Stem="огибдд" Weight="0.0519186492709133">
+<Allolog Form="огибдд"/>
+</Word>
+
+</Words>

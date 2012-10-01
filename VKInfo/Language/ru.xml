@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<SearchPlaceholder>Вставьте ссылку на человека</SearchPlaceholder>
+	<SubheadMe>Лайкают меня</SubheadMe>
+	<SubheadYou>Лайкаю я</SubheadYou>
+	<SubheadLinguistic>Лингвистический анализ</SubheadLinguistic>
+	<SubheadHobbies>Увлечения</SubheadHobbies>
+	<SubheadFriends>Мои друзья</SubheadFriends>
+
+	<PageHeaderH1>Психологические портреты людей</PageHeaderH1>
+	<PageHeaderSmall>по профилю в соцсетях</PageHeaderSmall>
+	<Span5Well>
+		Сервис Manology анализирует профили в социальной сети и показывает закономерности,
+		о которых вы даже не догадывались!
+	</Span5Well>
+	<Span7HeartH1>Анализ лайков и популярности</Span7HeartH1>
+	<Span7BookH1>Лингвистический анализ</Span7BookH1>
+	<Span7EyeH1>Выявление увлечений</Span7EyeH1>
+	<Span7UserH1> Сравнение профилей</Span7UserH1>
+	<Span7HeartSmall>
+		Кто ставит Вам больше всего лайков?  Насколько популярен человек ?
+	</Span7HeartSmall>
+	<Span7BookSmall>
+		Каков
+		словарный
+		запас?
+	</Span7BookSmall>
+	<Span7EyeSmall>
+		О чем поговорить с человеком на первой встрече?  Что действительно интересует человека?
+	</Span7EyeSmall>
+	<Span7UserSmall>
+		Чем похожи два человека, Какие у них общие друзья и увлечения ?
+	</Span7UserSmall>
+
+	<Span12>Войти ВКонтакте</Span12>
+
+	<ImageKnow>
+		ХОТИТЕ ЗНАТЬ
+	</ImageKnow>
+	<ImageKnowBR>ВСЕ О КЛИЕНТЕ</ImageKnowBR>
+	
+	<ImageFind>ИЩИТЕ СОТРУДНИКА</ImageFind>
+	
+	<ImagePrepare>ГОТОВИТЕСЬ</ImagePrepare>
+	<ImagePrepareBR>К ПЕРЕГОВОРАМ</ImagePrepareBR>
+	
+	<ImageGo>ИДЕТЕ НА СВИДАНИЕ</ImageGo>
+	<ImageChoose>ВЫБИРАЕТЕ</ImageChoose>
+	<ImageChooseBR>СПУТНИКА ЖИЗНИ</ImageChooseBR>
+	<ImageSee>ХОТИТЕ УДИВИТЬ</ImageSee>
+	<ImageSeeBR>ЗНАКОМОГО</ImageSeeBR>
+</root>

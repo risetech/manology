@@ -1,0 +1,24 @@
+﻿@{
+	ViewBag.Title = "Hobbies";
+}
+<div id="hobbies">
+	<div class="well" id="chart-container">
+		<div class="">
+			<h2>
+				Увлечения</h2>
+			<div id="hobbies-chart" class="">
+			</div>
+			<h2>
+				Содержимое</h2>
+			<div id="contentType-chart" class="">
+			</div>
+		</div>
+		<div id="top-posts">
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+	$(function () {
+		loadAllPosts(0);
+	});
+</script>

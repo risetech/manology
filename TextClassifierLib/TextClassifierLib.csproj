@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E423974C-1D5F-4111-A21B-3E8E8C5B9CA0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TextClassifierLib</RootNamespace>
+    <AssemblyName>TextClassifierLib</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Extender.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resource.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TextClassificatorEntityes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TextClassificatorEntityes.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="WordStatus.cs" />
+    <Compile Include="Stemming.cs" />
+    <Compile Include="TextClassificator.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.Config" />
+    <EntityDeploy Include="TextClassificatorEntityes.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>TextClassificatorEntityes.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\auto.export" />
+    <None Include="Resources\biologiy.export" />
+    <None Include="Resources\culinariy.export" />
+    <None Include="Resources\cultura.export" />
+    <None Include="Resources\economica.export" />
+    <None Include="Resources\himiy.export" />
+    <None Include="Resources\it.export" />
+    <None Include="Resources\mathematics.export" />
+    <None Include="Resources\medicine.export" />
+    <None Include="Resources\muzica.export" />
+    <None Include="Resources\philosof.export" />
+    <None Include="Resources\phizica.export" />
+    <None Include="Resources\policy.export" />
+    <None Include="Resources\psy.export" />
+    <None Include="Resources\sport.export" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tp.export.txt" />
+    <None Include="Resources\sport.export.txt" />
+    <None Include="Resources\psy.export.txt" />
+    <None Include="Resources\stopwords.txt" />
+    <None Include="Resources\separators.txt" />
+    <None Include="Resources\tp.export" />
+    <None Include="Resources\tp.txt" />
+    <None Include="Resources\auto.txt" />
+    <None Include="Resources\biologiy.txt" />
+    <None Include="Resources\culinariy.txt" />
+    <None Include="Resources\cultura.txt" />
+    <None Include="Resources\economica.txt" />
+    <None Include="Resources\himiy.txt" />
+    <None Include="Resources\mathematics.txt" />
+    <None Include="Resources\medicine.txt" />
+    <None Include="Resources\muzica.txt" />
+    <None Include="Resources\philosof.txt" />
+    <None Include="Resources\phizica.txt" />
+    <None Include="Resources\policy.txt" />
+    <None Include="Resources\auto.export.txt" />
+    <None Include="Resources\biologiy.export.txt" />
+    <None Include="Resources\culinariy.export.txt" />
+    <None Include="Resources\cultura.export.txt" />
+    <None Include="Resources\economica.export.txt" />
+    <None Include="Resources\himiy.export.txt" />
+    <None Include="Resources\it.export.txt" />
+    <None Include="Resources\mathematics.export.txt" />
+    <None Include="Resources\medicine.export.txt" />
+    <None Include="Resources\muzica.export.txt" />
+    <None Include="Resources\philosof.export.txt" />
+    <None Include="Resources\phizica.export.txt" />
+    <None Include="Resources\policy.export.txt" />
+    <Content Include="Resources\psy %28articles%29.txt" />
+    <None Include="Resources\psy.txt" />
+    <None Include="Resources\sport.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resource.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

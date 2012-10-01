@@ -1,0 +1,117 @@
+﻿@model VKInfo.Models.Language
+@{
+	ViewBag.Title = "You";
+}
+<div id="i-liked">
+	<div id="top-liked-users" class="well">
+		<h2>
+			Топ людей, которых я лайкал:
+		</h2>
+		<div id="favourite-users-rating" data-bind="foreach: showedUsers, visible: showedUsers().length > 0">
+			<div class="content-container">
+				<div class="content">
+					<a data-bind="attr: {href: link}" target="_blank">
+						<img data-bind="attr: {src: photo}" />
+						<div class="content-header">
+							<p data-bind="text: displayed">
+							</p>
+						</div>
+					</a>
+					<div class="content-footer" data-bind="click: favouriteUsersRatingModal">
+						<p>
+							<span><i class="icon-heart icon-white"></i></span>&nbsp<span data-bind="text: contentCount">
+							</span>
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="modal hide fade">
+				<div class="modal-header">
+					<button type="button" class="close">
+						×</button>
+					<h3 data-bind="text: displayed">
+					</h3>
+				</div>
+				<div class="modal-body">
+					<h4>
+						Лайки:</h4>
+					<div data-bind="foreach: contentList">
+						<p>
+							<a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
+							</a>
+						</p>
+					</div>
+				</div>
+				<div class="modal-footer">
+					<button class="btn btn-danger" data-dismiss="modal">
+						Закрыть</button>
+				</div>
+			</div>
+		</div>
+		<div style="clear: both">
+		</div>
+		<div class="form-actions">
+			<button class="btn expander" data-bind="click: expand">
+				Еще</button>
+			<button class="btn collapser" data-bind="click: collapse">
+				Свернуть</button></div>
+	</div>
+</div>
+<div id="top-liked-pages" class="well">
+	<h2>
+		Топ страниц, которые я лайкал:
+	</h2>
+	<div id="favourite-groups-rating" data-bind="foreach: showedGroups, visible: showedGroups().length > 0">
+		<div class="content-container">
+			<div class="content">
+				<a data-bind="attr: {href: link}" target="_blank">
+					<img data-bind="attr: {src: photo}" />
+					<div class="content-header">
+						<p data-bind="text: displayed">
+						</p>
+					</div>
+				</a>
+				<div class="content-footer" data-bind="click: favouriteGroupsRatingModal">
+					<p>
+						<span><i class="icon-heart icon-white"></i></span>&nbsp<span data-bind="text: contentCount">
+						</span>
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="modal hide fade">
+			<div class="modal-header">
+				<button type="button" class="close">
+					×</button>
+				<h3 data-bind="text: displayed">
+				</h3>
+			</div>
+			<div class="modal-body">
+				<h4>
+					Лайки:</h4>
+				<div data-bind="foreach: contentList">
+					<p>
+						<a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
+						</a>
+					</p>
+				</div>
+			</div>
+			<div class="modal-footer">
+				<button class="btn btn-danger" data-dismiss="modal">
+					Закрыть</button>
+			</div>
+		</div>
+	</div>
+	<div style="clear: both">
+	</div>
+	<div class="form-actions">
+		<button class="btn expander" data-bind="click: expand">
+			Еще</button>
+		<button class="btn collapser" data-bind="click: collapse">
+			Свернуть</button></div>
+</div>
+<script>	$(function () {
+		if (access_token) { getFavourites(); } else {
+			location.href = '/';
+		}
+	}); </script>

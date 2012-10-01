@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceConfiguration serviceName="VKInfo.Azure1" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="1" osVersion="*" schemaVersion="2012-05.1.7">
+  <Role name="VKInfo">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=wonder42;AccountKey=i8AwLYkTnGLA7L5bwa4WUAGQ7Jx4NzA906RmygN0OtXpUQCjoF2j80rmM5bguFfP6CxCvTueJEFLfmZnkeCe5w==" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.Enabled" value="true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountUsername" value="legat" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountEncryptedPassword" value="MIIBnQYJKoZIhvcNAQcDoIIBjjCCAYoCAQAxggFOMIIBSgIBADAyMB4xHDAaBgNVBAMME1dpbmRvd3MgQXp1cmUgVG9vbHMCECX5nYLuY3aRT8+uxPuQKu8wDQYJKoZIhvcNAQEBBQAEggEAj9c5AMfXgIMCRiUhCNTn+pLE3mRPfqa44Pu5UQH7SbnPaBDBw0bsUZHX2lLk3IfZCDsnP5PEpzLzkLJiMnMQLhQV3JKNYWVUFlQSUEwt/Kg5FYFn/PaxkDaiwj8Esz+hE8BlIFewaaB+bcC0zYjqBr9wX3WLj45hkP07TCXumWoiHKiupqWSmQh93Up+gmZ3ich9NHwVu7xDcxa7OFi1E8IcBhsP0k9hw4RpUT8b+Fq0tFRu7BSpUpXq/5n9HhllLXlgtk3IUpYxj/w1FZhe7CZhJoynZ16hnT+fWoHljvSsK1yV/x4ZVTen11vBFkYu03fFyu8eD0Ccb2qKsyDUNTAzBgkqhkiG9w0BBwEwFAYIKoZIhvcNAwcECGgGKawoyAwhgBCsuAHUi8W+B1eO9Un98z5F" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountExpiration" value="2013-09-03T23:59:59.0000000+06:00" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteForwarder.Enabled" value="true" />
+    </ConfigurationSettings>
+    <Certificates>
+      <Certificate name="Microsoft.WindowsAzure.Plugins.RemoteAccess.PasswordEncryption" thumbprint="9DE5CA6E83221FDADCF4C9DDA16EA8E7D635D7E6" thumbprintAlgorithm="sha1" />
+    </Certificates>
+  </Role>
+</ServiceConfiguration>

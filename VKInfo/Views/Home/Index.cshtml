@@ -1,0 +1,72 @@
+﻿@model VKInfo.Models.Language
+@{
+	ViewBag.Title = "Manology.info";
+}
+<script>
+	$(function () {
+		if (access_token) {
+			location.href = '/Like/Me';
+		}
+	});
+</script>
+<div class="page-header" id="header">
+	<h1>@Model.PageHeaderH1 <small>@Model.PageHeaderSmall</small></h1>
+</div>
+<div class="auth">
+	<div class="row">
+		<div class="span5">
+			<p class="well">
+				@Model.Span5Well<br /><br />
+						Manology – узнай лучше себя и других людей!
+			</p>
+		</div>
+		<div class="span7">
+			<ul class="nav nav-list">
+				<li><h3><i class="icon-heart"></i>&nbsp;@Model.Span7HeartH1&nbsp;<br /><small>@Model.Span7HeartSmall</small></h3>
+				</li>
+				@*<li><i class="icon-book"></i>&nbsp;<h3>
+					@Model.Span7BookH1&nbsp;<small>@Model.Span7BookSmall</small></h3>
+				</li>*@
+				<li><h3><i class="icon-eye-open"></i>&nbsp;@Model.Span7EyeH1&nbsp;<br /><small>@Model.Span7EyeSmall</small></h3>
+				</li>
+				<li><h3><i class="icon-user"></i>&nbsp;@Model.Span7UserH1&nbsp;<br /><small>@Model.Span7UserSmall</small></h3>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="row">
+		<div class="span12">
+            <div style="text-align: center;">
+                <p><small style="font-size:16px">Для начала работы необходимо авторизироваться</small></p>
+			    <a href="#" class="connectButton" onclick="auth()" style="margin: auto">@Model.Span12</a>
+            </div>
+		</div>
+	</div>
+</div>
+<div class="image-main-wrapper">
+	<div class="over over-left">
+		<p class="size-x">
+			@Model.ImageKnow<br />
+			@Model.ImageKnowBR
+		</p>
+		<p class="size-m">
+			@Model.ImageFind</p>
+		<p class="size-x">
+			@Model.ImagePrepare<br />
+			@Model.ImagePrepareBR
+		</p>
+	</div>
+	<img src="/content/images/girl.jpg" alt="socialmask" />
+	<div class="over over-right">
+		<p class="size-m">
+			@Model.ImageGo</p>
+		<p class="size-x">
+			@Model.ImageChoose<br />
+			@Model.ImageChooseBR
+		</p>
+		<p class="size-x">
+			@Model.ImageSee<br />
+			@Model.ImageSeeBR
+		</p>
+	</div>
+</div>

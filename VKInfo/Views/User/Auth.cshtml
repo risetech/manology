@@ -1,0 +1,35 @@
+﻿@{
+	ViewBag.Title = "Авторизация";
+}
+<script>
+	function setCookie(name, value, props) {
+		props = props || {}
+		var exp = props.expires
+		if (typeof exp == "number" && exp) {
+			var d = new Date()
+			d.setTime(d.getTime() + exp * 1000)
+			exp = props.expires = d
+		}
+		if (exp && exp.toUTCString) { props.expires = exp.toUTCString() }
+		value = encodeURIComponent(value)
+		var updatedCookie = name + "=" + value
+		for (var propName in props) {
+			updatedCookie += "; " + propName
+			var propValue = props[propName]
+			if (propValue !== true) { updatedCookie += "=" + propValue }
+		}
+		document.cookie = updatedCookie
+	}
+</script>
+<script>
+	var str = location.href;
+	str = str.split('#')[1];
+	token = str.split('&')[0].split('=')[1];
+	expires = str.split('&')[1].split('=')[1];
+	var expiresDate = new Date(1970, 0, 1);
+	var mills = Date.now() + expires * 1000;
+	expiresDate.setMilliseconds(mills);
+	setCookie('access_token', token, { expires: expiresDate, path: '/' });
+	localStorage['viewer_id'] = str.split('&')[2].split('=')[1];
+	location.href = "/Like/Me";
+</script>

@@ -1,0 +1,25 @@
+﻿@model VKInfo.Models.Language
+@{
+	ViewBag.Title = "Linguistic";
+}
+<section id="dictionary-power">
+	<div class="well" id="word-stat">
+		<h2>Статистика</h2>
+		<table id="word-counts" class="table">
+		</table>
+	</div>
+	<div class="well" id="top-words">
+		<h2>Частоиспользуемые слова&nbsp;<small>включая репосты</small></h2>
+		<table id="top-used-words" class="table">
+		</table></div>
+</section>
+<script type="text/javascript">
+	$(function () {
+		if (access_token) {
+			renderLinguisticAnalysis(0);
+		}
+		else {
+			location.href = '/';
+		} 
+	});
+</script>

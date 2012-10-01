@@ -1,0 +1,554 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="TextClassificatorModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="TextClassificatorModelStoreContainer">
+          <EntitySet Name="Allolog" EntityType="TextClassificatorModel.Store.Allolog" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Theme" EntityType="TextClassificatorModel.Store.Theme" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="ThemeGroup" EntityType="TextClassificatorModel.Store.ThemeGroup" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Word" EntityType="TextClassificatorModel.Store.Word" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="WordCandidatesInTheme" EntityType="TextClassificatorModel.Store.WordCandidatesInTheme" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="WordInTheme" EntityType="TextClassificatorModel.Store.WordInTheme" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="WordNotInTheme" EntityType="TextClassificatorModel.Store.WordNotInTheme" store:Type="Tables" Schema="dbo" />
+          <AssociationSet Name="FK_Allolog_Word" Association="TextClassificatorModel.Store.FK_Allolog_Word">
+            <End Role="Word" EntitySet="Word" />
+            <End Role="Allolog" EntitySet="Allolog" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Theme_ThemeGroup" Association="TextClassificatorModel.Store.FK_Theme_ThemeGroup">
+            <End Role="ThemeGroup" EntitySet="ThemeGroup" />
+            <End Role="Theme" EntitySet="Theme" />
+          </AssociationSet>
+          <AssociationSet Name="FK_WordCandidatesInTheme_Theme" Association="TextClassificatorModel.Store.FK_WordCandidatesInTheme_Theme">
+            <End Role="Theme" EntitySet="Theme" />
+            <End Role="WordCandidatesInTheme" EntitySet="WordCandidatesInTheme" />
+          </AssociationSet>
+          <AssociationSet Name="FK_WordCandidatesInTheme_Word" Association="TextClassificatorModel.Store.FK_WordCandidatesInTheme_Word">
+            <End Role="Word" EntitySet="Word" />
+            <End Role="WordCandidatesInTheme" EntitySet="WordCandidatesInTheme" />
+          </AssociationSet>
+          <AssociationSet Name="FK_WordInTheme_Theme" Association="TextClassificatorModel.Store.FK_WordInTheme_Theme">
+            <End Role="Theme" EntitySet="Theme" />
+            <End Role="WordInTheme" EntitySet="WordInTheme" />
+          </AssociationSet>
+          <AssociationSet Name="FK_WordInTheme_Word" Association="TextClassificatorModel.Store.FK_WordInTheme_Word">
+            <End Role="Word" EntitySet="Word" />
+            <End Role="WordInTheme" EntitySet="WordInTheme" />
+          </AssociationSet>
+          <AssociationSet Name="FK_WordNotInTheme_Theme" Association="TextClassificatorModel.Store.FK_WordNotInTheme_Theme">
+            <End Role="Theme" EntitySet="Theme" />
+            <End Role="WordNotInTheme" EntitySet="WordNotInTheme" />
+          </AssociationSet>
+          <AssociationSet Name="FK_WordNotInTheme_Word" Association="TextClassificatorModel.Store.FK_WordNotInTheme_Word">
+            <End Role="Word" EntitySet="Word" />
+            <End Role="WordNotInTheme" EntitySet="WordNotInTheme" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Allolog">
+          <Key>
+            <PropertyRef Name="Allolog_id" />
+          </Key>
+          <Property Name="Allolog_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Allolog_name" Type="varchar" Nullable="false" MaxLength="800" />
+          <Property Name="Word_id" Type="bigint" Nullable="false" />
+          <Property Name="System_InsDT" Type="datetime2" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Theme">
+          <Key>
+            <PropertyRef Name="Theme_id" />
+          </Key>
+          <Property Name="Theme_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Theme_name" Type="varchar" Nullable="false" MaxLength="800" />
+          <Property Name="Theme_caption" Type="varchar" Nullable="false" MaxLength="900" />
+          <Property Name="System_InsDT" Type="datetime2" Nullable="false" />
+          <Property Name="ThemeGroup_id" Type="bigint" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ThemeGroup">
+          <Key>
+            <PropertyRef Name="ThemeGroup_id" />
+          </Key>
+          <Property Name="ThemeGroup_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="ThemeGroup_name" Type="varchar" Nullable="false" MaxLength="900" />
+        </EntityType>
+        <EntityType Name="Word">
+          <Key>
+            <PropertyRef Name="Word_id" />
+          </Key>
+          <Property Name="Word_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Word_name" Type="varchar" Nullable="false" MaxLength="900" />
+          <Property Name="System_InsDT" Type="datetime2" Nullable="false" />
+        </EntityType>
+        <EntityType Name="WordCandidatesInTheme">
+          <Key>
+            <PropertyRef Name="WordCandidatesInTheme_id" />
+          </Key>
+          <Property Name="WordCandidatesInTheme_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Word_id" Type="bigint" Nullable="false" />
+          <Property Name="Theme_id" Type="bigint" Nullable="false" />
+          <Property Name="WordCandidatesInTheme_Visible" Type="bit" Nullable="false" />
+          <Property Name="System_InsDT" Type="datetime2" Nullable="false" />
+        </EntityType>
+        <EntityType Name="WordInTheme">
+          <Key>
+            <PropertyRef Name="WordInTheme_id" />
+          </Key>
+          <Property Name="WordInTheme_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="WordInTheme_isLexicalizedWord" Type="bit" Nullable="false" />
+          <Property Name="Word_id" Type="bigint" Nullable="false" />
+          <Property Name="Theme_id" Type="bigint" Nullable="false" />
+          <Property Name="System_InsDT" Type="datetime2" Nullable="false" />
+        </EntityType>
+        <EntityType Name="WordNotInTheme">
+          <Key>
+            <PropertyRef Name="WordNotInTheme_id" />
+          </Key>
+          <Property Name="WordNotInTheme_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Word_id" Type="bigint" Nullable="false" />
+          <Property Name="Theme_id" Type="bigint" Nullable="false" />
+          <Property Name="System_InsDT" Type="datetime2" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_Allolog_Word">
+          <End Role="Word" Type="TextClassificatorModel.Store.Word" Multiplicity="1" />
+          <End Role="Allolog" Type="TextClassificatorModel.Store.Allolog" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Word">
+              <PropertyRef Name="Word_id" />
+            </Principal>
+            <Dependent Role="Allolog">
+              <PropertyRef Name="Word_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Theme_ThemeGroup">
+          <End Role="ThemeGroup" Type="TextClassificatorModel.Store.ThemeGroup" Multiplicity="1" />
+          <End Role="Theme" Type="TextClassificatorModel.Store.Theme" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ThemeGroup">
+              <PropertyRef Name="ThemeGroup_id" />
+            </Principal>
+            <Dependent Role="Theme">
+              <PropertyRef Name="ThemeGroup_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_WordCandidatesInTheme_Theme">
+          <End Role="Theme" Type="TextClassificatorModel.Store.Theme" Multiplicity="1" />
+          <End Role="WordCandidatesInTheme" Type="TextClassificatorModel.Store.WordCandidatesInTheme" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Theme">
+              <PropertyRef Name="Theme_id" />
+            </Principal>
+            <Dependent Role="WordCandidatesInTheme">
+              <PropertyRef Name="Theme_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_WordCandidatesInTheme_Word">
+          <End Role="Word" Type="TextClassificatorModel.Store.Word" Multiplicity="1" />
+          <End Role="WordCandidatesInTheme" Type="TextClassificatorModel.Store.WordCandidatesInTheme" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Word">
+              <PropertyRef Name="Word_id" />
+            </Principal>
+            <Dependent Role="WordCandidatesInTheme">
+              <PropertyRef Name="Word_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_WordInTheme_Theme">
+          <End Role="Theme" Type="TextClassificatorModel.Store.Theme" Multiplicity="1" />
+          <End Role="WordInTheme" Type="TextClassificatorModel.Store.WordInTheme" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Theme">
+              <PropertyRef Name="Theme_id" />
+            </Principal>
+            <Dependent Role="WordInTheme">
+              <PropertyRef Name="Theme_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_WordInTheme_Word">
+          <End Role="Word" Type="TextClassificatorModel.Store.Word" Multiplicity="1" />
+          <End Role="WordInTheme" Type="TextClassificatorModel.Store.WordInTheme" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Word">
+              <PropertyRef Name="Word_id" />
+            </Principal>
+            <Dependent Role="WordInTheme">
+              <PropertyRef Name="Word_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_WordNotInTheme_Theme">
+          <End Role="Theme" Type="TextClassificatorModel.Store.Theme" Multiplicity="1" />
+          <End Role="WordNotInTheme" Type="TextClassificatorModel.Store.WordNotInTheme" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Theme">
+              <PropertyRef Name="Theme_id" />
+            </Principal>
+            <Dependent Role="WordNotInTheme">
+              <PropertyRef Name="Theme_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_WordNotInTheme_Word">
+          <End Role="Word" Type="TextClassificatorModel.Store.Word" Multiplicity="1" />
+          <End Role="WordNotInTheme" Type="TextClassificatorModel.Store.WordNotInTheme" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Word">
+              <PropertyRef Name="Word_id" />
+            </Principal>
+            <Dependent Role="WordNotInTheme">
+              <PropertyRef Name="Word_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="TextClassificatorModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="TextClassificatorEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Allolog" EntityType="TextClassificatorModel.Allolog" />
+          <EntitySet Name="Theme" EntityType="TextClassificatorModel.Theme" />
+          <EntitySet Name="Word" EntityType="TextClassificatorModel.Word" />
+          <EntitySet Name="WordCandidatesInTheme" EntityType="TextClassificatorModel.WordCandidatesInTheme" />
+          <EntitySet Name="WordInTheme" EntityType="TextClassificatorModel.WordInTheme" />
+          <EntitySet Name="WordNotInTheme" EntityType="TextClassificatorModel.WordNotInTheme" />
+          <AssociationSet Name="FK_Allolog_Word" Association="TextClassificatorModel.FK_Allolog_Word">
+            <End Role="Word" EntitySet="Word" />
+            <End Role="Allolog" EntitySet="Allolog" />
+          </AssociationSet>
+          <AssociationSet Name="FK_WordCandidatesInTheme_Theme" Association="TextClassificatorModel.FK_WordCandidatesInTheme_Theme">
+            <End Role="Theme" EntitySet="Theme" />
+            <End Role="WordCandidatesInTheme" EntitySet="WordCandidatesInTheme" />
+          </AssociationSet>
+          <AssociationSet Name="FK_WordInTheme_Theme" Association="TextClassificatorModel.FK_WordInTheme_Theme">
+            <End Role="Theme" EntitySet="Theme" />
+            <End Role="WordInTheme" EntitySet="WordInTheme" />
+          </AssociationSet>
+          <AssociationSet Name="FK_WordNotInTheme_Theme" Association="TextClassificatorModel.FK_WordNotInTheme_Theme">
+            <End Role="Theme" EntitySet="Theme" />
+            <End Role="WordNotInTheme" EntitySet="WordNotInTheme" />
+          </AssociationSet>
+          <AssociationSet Name="FK_WordCandidatesInTheme_Word" Association="TextClassificatorModel.FK_WordCandidatesInTheme_Word">
+            <End Role="Word" EntitySet="Word" />
+            <End Role="WordCandidatesInTheme" EntitySet="WordCandidatesInTheme" />
+          </AssociationSet>
+          <AssociationSet Name="FK_WordInTheme_Word" Association="TextClassificatorModel.FK_WordInTheme_Word">
+            <End Role="Word" EntitySet="Word" />
+            <End Role="WordInTheme" EntitySet="WordInTheme" />
+          </AssociationSet>
+          <AssociationSet Name="FK_WordNotInTheme_Word" Association="TextClassificatorModel.FK_WordNotInTheme_Word">
+            <End Role="Word" EntitySet="Word" />
+            <End Role="WordNotInTheme" EntitySet="WordNotInTheme" />
+          </AssociationSet>
+          <EntitySet Name="ThemeGroup" EntityType="TextClassificatorModel.ThemeGroup" />
+          <AssociationSet Name="FK_Theme_ThemeGroup" Association="TextClassificatorModel.FK_Theme_ThemeGroup">
+            <End Role="ThemeGroup" EntitySet="ThemeGroup" />
+            <End Role="Theme" EntitySet="Theme" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Allolog">
+          <Key>
+            <PropertyRef Name="Allolog_id" />
+          </Key>
+          <Property Name="Allolog_id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Allolog_name" Type="String" Nullable="false" MaxLength="800" Unicode="false" FixedLength="false" />
+          <Property Name="Word_id" Type="Int64" Nullable="false" />
+          <Property Name="System_InsDT" Type="DateTime" Nullable="false" Precision="7" />
+          <NavigationProperty Name="Word" Relationship="TextClassificatorModel.FK_Allolog_Word" FromRole="Allolog" ToRole="Word" />
+        </EntityType>
+        <EntityType Name="Theme">
+          <Key>
+            <PropertyRef Name="Theme_id" />
+          </Key>
+          <Property Name="Theme_id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Theme_name" Type="String" Nullable="false" MaxLength="800" Unicode="false" FixedLength="false" />
+          <Property Name="Theme_caption" Type="String" Nullable="false" MaxLength="900" Unicode="false" FixedLength="false" />
+          <Property Name="System_InsDT" Type="DateTime" Nullable="false" Precision="7" />
+          <NavigationProperty Name="WordCandidatesInTheme" Relationship="TextClassificatorModel.FK_WordCandidatesInTheme_Theme" FromRole="Theme" ToRole="WordCandidatesInTheme" />
+          <NavigationProperty Name="WordInTheme" Relationship="TextClassificatorModel.FK_WordInTheme_Theme" FromRole="Theme" ToRole="WordInTheme" />
+          <NavigationProperty Name="WordNotInTheme" Relationship="TextClassificatorModel.FK_WordNotInTheme_Theme" FromRole="Theme" ToRole="WordNotInTheme" />
+          <Property Type="Int64" Name="ThemeGroup_id" Nullable="false" />
+          <NavigationProperty Name="ThemeGroup" Relationship="TextClassificatorModel.FK_Theme_ThemeGroup" FromRole="Theme" ToRole="ThemeGroup" />
+        </EntityType>
+        <EntityType Name="Word">
+          <Key>
+            <PropertyRef Name="Word_id" />
+          </Key>
+          <Property Name="Word_id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Word_name" Type="String" Nullable="false" MaxLength="900" Unicode="false" FixedLength="false" />
+          <Property Name="System_InsDT" Type="DateTime" Nullable="false" Precision="7" />
+          <NavigationProperty Name="Allolog" Relationship="TextClassificatorModel.FK_Allolog_Word" FromRole="Word" ToRole="Allolog" />
+          <NavigationProperty Name="WordCandidatesInTheme" Relationship="TextClassificatorModel.FK_WordCandidatesInTheme_Word" FromRole="Word" ToRole="WordCandidatesInTheme" />
+          <NavigationProperty Name="WordInTheme" Relationship="TextClassificatorModel.FK_WordInTheme_Word" FromRole="Word" ToRole="WordInTheme" />
+          <NavigationProperty Name="WordNotInTheme" Relationship="TextClassificatorModel.FK_WordNotInTheme_Word" FromRole="Word" ToRole="WordNotInTheme" />
+        </EntityType>
+        <EntityType Name="WordCandidatesInTheme">
+          <Key>
+            <PropertyRef Name="WordCandidatesInTheme_id" />
+          </Key>
+          <Property Name="WordCandidatesInTheme_id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Word_id" Type="Int64" Nullable="false" />
+          <Property Name="Theme_id" Type="Int64" Nullable="false" />
+          <Property Name="WordCandidatesInTheme_Visible" Type="Boolean" Nullable="false" />
+          <Property Name="System_InsDT" Type="DateTime" Nullable="false" Precision="7" />
+          <NavigationProperty Name="Theme" Relationship="TextClassificatorModel.FK_WordCandidatesInTheme_Theme" FromRole="WordCandidatesInTheme" ToRole="Theme" />
+          <NavigationProperty Name="Word" Relationship="TextClassificatorModel.FK_WordCandidatesInTheme_Word" FromRole="WordCandidatesInTheme" ToRole="Word" />
+        </EntityType>
+        <EntityType Name="WordInTheme">
+          <Key>
+            <PropertyRef Name="WordInTheme_id" />
+          </Key>
+          <Property Name="WordInTheme_id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="WordInTheme_isLexicalizedWord" Type="Boolean" Nullable="false" />
+          <Property Name="Word_id" Type="Int64" Nullable="false" />
+          <Property Name="Theme_id" Type="Int64" Nullable="false" />
+          <Property Name="System_InsDT" Type="DateTime" Nullable="false" Precision="7" />
+          <NavigationProperty Name="Theme" Relationship="TextClassificatorModel.FK_WordInTheme_Theme" FromRole="WordInTheme" ToRole="Theme" />
+          <NavigationProperty Name="Word" Relationship="TextClassificatorModel.FK_WordInTheme_Word" FromRole="WordInTheme" ToRole="Word" />
+        </EntityType>
+        <EntityType Name="WordNotInTheme">
+          <Key>
+            <PropertyRef Name="WordNotInTheme_id" />
+          </Key>
+          <Property Name="WordNotInTheme_id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Word_id" Type="Int64" Nullable="false" />
+          <Property Name="Theme_id" Type="Int64" Nullable="false" />
+          <Property Name="System_InsDT" Type="DateTime" Nullable="false" Precision="7" />
+          <NavigationProperty Name="Theme" Relationship="TextClassificatorModel.FK_WordNotInTheme_Theme" FromRole="WordNotInTheme" ToRole="Theme" />
+          <NavigationProperty Name="Word" Relationship="TextClassificatorModel.FK_WordNotInTheme_Word" FromRole="WordNotInTheme" ToRole="Word" />
+        </EntityType>
+        <Association Name="FK_Allolog_Word">
+          <End Role="Word" Type="TextClassificatorModel.Word" Multiplicity="1" />
+          <End Role="Allolog" Type="TextClassificatorModel.Allolog" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Word">
+              <PropertyRef Name="Word_id" />
+            </Principal>
+            <Dependent Role="Allolog">
+              <PropertyRef Name="Word_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_WordCandidatesInTheme_Theme">
+          <End Role="Theme" Type="TextClassificatorModel.Theme" Multiplicity="1" />
+          <End Role="WordCandidatesInTheme" Type="TextClassificatorModel.WordCandidatesInTheme" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Theme">
+              <PropertyRef Name="Theme_id" />
+            </Principal>
+            <Dependent Role="WordCandidatesInTheme">
+              <PropertyRef Name="Theme_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_WordInTheme_Theme">
+          <End Role="Theme" Type="TextClassificatorModel.Theme" Multiplicity="1" />
+          <End Role="WordInTheme" Type="TextClassificatorModel.WordInTheme" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Theme">
+              <PropertyRef Name="Theme_id" />
+            </Principal>
+            <Dependent Role="WordInTheme">
+              <PropertyRef Name="Theme_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_WordNotInTheme_Theme">
+          <End Role="Theme" Type="TextClassificatorModel.Theme" Multiplicity="1" />
+          <End Role="WordNotInTheme" Type="TextClassificatorModel.WordNotInTheme" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Theme">
+              <PropertyRef Name="Theme_id" />
+            </Principal>
+            <Dependent Role="WordNotInTheme">
+              <PropertyRef Name="Theme_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_WordCandidatesInTheme_Word">
+          <End Role="Word" Type="TextClassificatorModel.Word" Multiplicity="1" />
+          <End Role="WordCandidatesInTheme" Type="TextClassificatorModel.WordCandidatesInTheme" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Word">
+              <PropertyRef Name="Word_id" />
+            </Principal>
+            <Dependent Role="WordCandidatesInTheme">
+              <PropertyRef Name="Word_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_WordInTheme_Word">
+          <End Role="Word" Type="TextClassificatorModel.Word" Multiplicity="1" />
+          <End Role="WordInTheme" Type="TextClassificatorModel.WordInTheme" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Word">
+              <PropertyRef Name="Word_id" />
+            </Principal>
+            <Dependent Role="WordInTheme">
+              <PropertyRef Name="Word_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_WordNotInTheme_Word">
+          <End Role="Word" Type="TextClassificatorModel.Word" Multiplicity="1" />
+          <End Role="WordNotInTheme" Type="TextClassificatorModel.WordNotInTheme" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Word">
+              <PropertyRef Name="Word_id" />
+            </Principal>
+            <Dependent Role="WordNotInTheme">
+              <PropertyRef Name="Word_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="ThemeGroup">
+          <Key>
+            <PropertyRef Name="ThemeGroup_id" />
+          </Key>
+          <Property Type="Int64" Name="ThemeGroup_id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Type="String" Name="ThemeGroup_name" Nullable="false" MaxLength="900" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Theme" Relationship="TextClassificatorModel.FK_Theme_ThemeGroup" FromRole="ThemeGroup" ToRole="Theme" />
+        </EntityType>
+        <Association Name="FK_Theme_ThemeGroup">
+          <End Type="TextClassificatorModel.ThemeGroup" Role="ThemeGroup" Multiplicity="1" />
+          <End Type="TextClassificatorModel.Theme" Role="Theme" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ThemeGroup">
+              <PropertyRef Name="ThemeGroup_id" />
+            </Principal>
+            <Dependent Role="Theme">
+              <PropertyRef Name="ThemeGroup_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="TextClassificatorModelStoreContainer" CdmEntityContainer="TextClassificatorEntities">
+          <EntitySetMapping Name="Allolog"><EntityTypeMapping TypeName="TextClassificatorModel.Allolog"><MappingFragment StoreEntitySet="Allolog">
+            <ScalarProperty Name="Allolog_id" ColumnName="Allolog_id" />
+            <ScalarProperty Name="Allolog_name" ColumnName="Allolog_name" />
+            <ScalarProperty Name="Word_id" ColumnName="Word_id" />
+            <ScalarProperty Name="System_InsDT" ColumnName="System_InsDT" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+          <EntitySetMapping Name="Theme"><EntityTypeMapping TypeName="TextClassificatorModel.Theme"><MappingFragment StoreEntitySet="Theme">
+            <ScalarProperty Name="ThemeGroup_id" ColumnName="ThemeGroup_id" />
+                <ScalarProperty Name="Theme_id" ColumnName="Theme_id" />
+            <ScalarProperty Name="Theme_name" ColumnName="Theme_name" />
+            <ScalarProperty Name="Theme_caption" ColumnName="Theme_caption" />
+            <ScalarProperty Name="System_InsDT" ColumnName="System_InsDT" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+          <EntitySetMapping Name="Word"><EntityTypeMapping TypeName="TextClassificatorModel.Word"><MappingFragment StoreEntitySet="Word">
+            <ScalarProperty Name="Word_id" ColumnName="Word_id" />
+            <ScalarProperty Name="Word_name" ColumnName="Word_name" />
+            <ScalarProperty Name="System_InsDT" ColumnName="System_InsDT" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+          <EntitySetMapping Name="WordCandidatesInTheme"><EntityTypeMapping TypeName="TextClassificatorModel.WordCandidatesInTheme"><MappingFragment StoreEntitySet="WordCandidatesInTheme">
+            <ScalarProperty Name="WordCandidatesInTheme_id" ColumnName="WordCandidatesInTheme_id" />
+            <ScalarProperty Name="Word_id" ColumnName="Word_id" />
+            <ScalarProperty Name="Theme_id" ColumnName="Theme_id" />
+            <ScalarProperty Name="WordCandidatesInTheme_Visible" ColumnName="WordCandidatesInTheme_Visible" />
+            <ScalarProperty Name="System_InsDT" ColumnName="System_InsDT" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+          <EntitySetMapping Name="WordInTheme"><EntityTypeMapping TypeName="TextClassificatorModel.WordInTheme"><MappingFragment StoreEntitySet="WordInTheme">
+            <ScalarProperty Name="WordInTheme_id" ColumnName="WordInTheme_id" />
+            <ScalarProperty Name="WordInTheme_isLexicalizedWord" ColumnName="WordInTheme_isLexicalizedWord" />
+            <ScalarProperty Name="Word_id" ColumnName="Word_id" />
+            <ScalarProperty Name="Theme_id" ColumnName="Theme_id" />
+            <ScalarProperty Name="System_InsDT" ColumnName="System_InsDT" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+          <EntitySetMapping Name="WordNotInTheme"><EntityTypeMapping TypeName="TextClassificatorModel.WordNotInTheme"><MappingFragment StoreEntitySet="WordNotInTheme">
+            <ScalarProperty Name="WordNotInTheme_id" ColumnName="WordNotInTheme_id" />
+            <ScalarProperty Name="Word_id" ColumnName="Word_id" />
+            <ScalarProperty Name="Theme_id" ColumnName="Theme_id" />
+            <ScalarProperty Name="System_InsDT" ColumnName="System_InsDT" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+          <EntitySetMapping Name="ThemeGroup">
+            <EntityTypeMapping TypeName="TextClassificatorModel.ThemeGroup">
+              <MappingFragment StoreEntitySet="ThemeGroup">
+                <ScalarProperty Name="ThemeGroup_name" ColumnName="ThemeGroup_name" />
+                <ScalarProperty Name="ThemeGroup_id" ColumnName="ThemeGroup_id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="TextClassificatorEntityes">
+        <EntityTypeShape EntityType="TextClassificatorModel.Allolog" Width="1.5" PointX="3" PointY="6" Height="1.9802864583333335" IsExpanded="true" />
+        <EntityTypeShape EntityType="TextClassificatorModel.Theme" Width="1.5" PointX="0.75" PointY="1.75" Height="2.3648893229166674" IsExpanded="true" />
+        <EntityTypeShape EntityType="TextClassificatorModel.Word" Width="1.5" PointX="0.75" PointY="5.75" Height="2.3648893229166648" IsExpanded="true" />
+        <EntityTypeShape EntityType="TextClassificatorModel.WordCandidatesInTheme" Width="1.5" PointX="3" PointY="2.75" Height="2.3648893229166656" IsExpanded="true" />
+        <EntityTypeShape EntityType="TextClassificatorModel.WordInTheme" Width="1.5" PointX="3" PointY="8.75" Height="2.3648893229166639" IsExpanded="true" />
+        <EntityTypeShape EntityType="TextClassificatorModel.WordNotInTheme" Width="1.5" PointX="6" PointY="5.875" Height="2.1725878906249996" IsExpanded="true" />
+        <AssociationConnector Association="TextClassificatorModel.FK_Allolog_Word" ManuallyRouted="false">
+          <ConnectorPoint PointX="2.25" PointY="6.9901432291666667" />
+          <ConnectorPoint PointX="2.5416666666666665" PointY="6.9901432291666659" />
+          <ConnectorPoint PointX="2.7083333333333335" PointY="6.9901432291666667" />
+          <ConnectorPoint PointX="3" PointY="6.9901432291666667" />
+        </AssociationConnector>
+        <AssociationConnector Association="TextClassificatorModel.FK_WordCandidatesInTheme_Theme" ManuallyRouted="false">
+          <ConnectorPoint PointX="2.25" PointY="3.4324446614583337" />
+          <ConnectorPoint PointX="3" PointY="3.4324446614583337" />
+        </AssociationConnector>
+        <AssociationConnector Association="TextClassificatorModel.FK_WordInTheme_Theme" ManuallyRouted="false">
+          <ConnectorPoint PointX="2.25" PointY="4.1148893229166674" />
+          <ConnectorPoint PointX="2.625" PointY="4.4898893229166674" />
+          <ConnectorPoint PointX="2.625" PointY="9.9324446614583319" />
+          <ConnectorPoint PointX="3" PointY="9.9324446614583319" />
+        </AssociationConnector>
+        <AssociationConnector Association="TextClassificatorModel.FK_WordNotInTheme_Theme" ManuallyRouted="false">
+          <ConnectorPoint PointX="2.25" PointY="2.21875" />
+          <ConnectorPoint PointX="6.75" PointY="2.21875" />
+          <ConnectorPoint PointX="6.75" PointY="5.875" />
+        </AssociationConnector>
+        <AssociationConnector Association="TextClassificatorModel.FK_WordCandidatesInTheme_Word" ManuallyRouted="false">
+          <ConnectorPoint PointX="2.25" PointY="5.8123066923076925" />
+          <ConnectorPoint PointX="2.5660744349011204" PointY="5.4962322574065716" />
+          <ConnectorPoint PointX="2.6839255650988791" PointY="5.3783811272088142" />
+          <ConnectorPoint PointX="2.9375" PointY="5.1248066923076934" />
+          <ConnectorPoint PointX="2.9375" PointY="5.1773893229166656" />
+          <ConnectorPoint PointX="3" PointY="5.1148893229166656" />
+        </AssociationConnector>
+        <AssociationConnector Association="TextClassificatorModel.FK_WordInTheme_Word" ManuallyRouted="false">
+          <ConnectorPoint PointX="1.5" PointY="8.1148893229166639" />
+          <ConnectorPoint PointX="1.5" PointY="9.3099698307291661" />
+          <ConnectorPoint PointX="2.5416666666666665" PointY="9.3099698307291661" />
+          <ConnectorPoint PointX="2.7083333333333335" PointY="9.3099698307291661" />
+          <ConnectorPoint PointX="3" PointY="9.3099698307291661" />
+        </AssociationConnector>
+        <AssociationConnector Association="TextClassificatorModel.FK_WordNotInTheme_Word" ManuallyRouted="false">
+          <ConnectorPoint PointX="2.25" PointY="5.90625" />
+          <ConnectorPoint PointX="2.5416666666666665" PointY="5.9062499999999991" />
+          <ConnectorPoint PointX="2.7083333333333335" PointY="5.90625" />
+          <ConnectorPoint PointX="6" PointY="5.90625" />
+        </AssociationConnector>
+        <EntityTypeShape EntityType="TextClassificatorModel.ThemeGroup" Width="1.5" PointX="6.4239965967945745" PointY="7.3305455182355574" />
+        <AssociationConnector Association="TextClassificatorModel.FK_Theme_ThemeGroup" />
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

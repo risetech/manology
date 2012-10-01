@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<SearchPlaceholder>Insert link to man</SearchPlaceholder>
+	<SubheadMe>People liked me</SubheadMe>
+	<SubheadYou>People I like</SubheadYou>
+	<SubheadLinguistic>Linguistic analysis</SubheadLinguistic>
+	<SubheadHobbies>Hobbies</SubheadHobbies>
+	<SubheadFriends>My friends</SubheadFriends>
+
+	<PageHeaderH1>Psychological portraits of people</PageHeaderH1>
+	<PageHeaderSmall>from social networks</PageHeaderSmall>
+	<Span5Well>
+		42wonder service analyzes your profile in social networks and shows patterns
+		that you did not guess!
+	</Span5Well>
+	<Span7HeartH1>Likes analysis</Span7HeartH1>
+	<Span7BookH1>Linguistic analysis</Span7BookH1>
+	<Span7EyeH1>Emotional portrait</Span7EyeH1>
+	<Span7UserH1>Network connections and hobbies</Span7UserH1>
+	<Span7HeartSmall>
+		Who likes you most?
+	</Span7HeartSmall>
+	<Span7BookSmall>
+		What is your vocabulary?
+	</Span7BookSmall>
+	<Span7EyeSmall>
+		What to talk about at the first meeting?
+	</Span7EyeSmall>
+	<Span7UserSmall>
+		Find out her hobbies!
+	</Span7UserSmall>
+
+	<Span12>Login vk.com</Span12>
+
+	<ImageKnow>
+		WANT TO KNOW
+	</ImageKnow>
+	<ImageKnowBR>EVERYTHING ABOUT CLIENT</ImageKnowBR>
+
+	<ImageFind>LOOKING FOR EMPLOYEE</ImageFind>
+
+	<ImagePrepare>PREPARING</ImagePrepare>
+	<ImagePrepareBR>FOR MEETING</ImagePrepareBR>
+
+	<ImageGo>GOING TO DATE</ImageGo>
+	<ImageChoose>CHOOSING</ImageChoose>
+	<ImageChooseBR>HELPMEET</ImageChooseBR>
+	<ImageSee>WANT TO SURPRISE</ImageSee>
+	<ImageSeeBR>YOUR FRIEND</ImageSeeBR>
+</root>
