@@ -106,6 +106,7 @@ namespace VKInfo.Controllers
 			}
 			return Json(result);
 		}
+
 		public class Post
 		{
 			public int ID { get; set; }

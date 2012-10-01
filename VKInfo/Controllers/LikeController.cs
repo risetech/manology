@@ -32,5 +32,17 @@ namespace VKInfo.Views
 			return View();
 		}
 
+		public ActionResult TextAnalisysForGroupText(string groupTextName, string text)
+		{
+			var tc = TextClassifierLib.TextClassificator.CreateLearnedInstance(groupTextName);
+			var result = new List<object>();
+			if (tc != null && text != null)
+			{
+				var checkResult = tc.Check(text);
+				result.Add(checkResult);
+			}
+			return Json(result, JsonRequestBehavior.AllowGet);
+		}
+
 	}
 }

@@ -38,17 +38,10 @@ namespace VKInfo
 			RegisterGlobalFilters(GlobalFilters.Filters);
 			RegisterRoutes(RouteTable.Routes);
 			var tc = TextClassificator.LearnedInstance;
-			/*if (TextClassifierLib.TextClassificator.Instance == null && !Directory.Exists(trainigFolder))
-			{
-			    TextClassifierLib.TextClassificator.Instance = TextClassifierLib.TextClassificator.CreateLearnedInstance();
-			    TextClassifierLib.TextClassificator.Instance.ExportToFolder(trainigFolder,false);
-			}
-			else
-				if (Directory.Exists(trainigFolder))
-				{
-					TextClassifierLib.TextClassificator.Instance = new TextClassifierLib.TextClassificator();
-					TextClassifierLib.TextClassificator.Instance.Import(Directory.GetFiles(trainigFolder));
-				}*/
+			TextClassificator.CreateLearnedInstance("extra-intra");
+			TextClassificator.CreateLearnedInstance("logic-etic");
+			TextClassificator.CreateLearnedInstance("racional-irracional");
+			TextClassificator.CreateLearnedInstance("sensor-intuit");
 		}
 	}
 }

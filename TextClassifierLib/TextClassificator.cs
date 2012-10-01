@@ -33,6 +33,7 @@ namespace TextClassifierLib
 		TextClassificatorEntities _db = new TextClassificatorEntities();				//Коннект к базе
 		public static TextClassificator Instance { get; set; }							//Singleton
 		private static TextClassificator _learnedInstance { get; set; }					//Singleton
+		private static Dictionary<string, TextClassificator> _learnedInstances { get; set; }
 
 		private Dictionary<string, string> _groupsTexts;								//имя группы, все тексты в виде одной строки
 		private Dictionary<string, Dictionary<string, Int64>> _wordsCountInGroups;		//имя группы, <слово, количество вхождений слова в группу>
@@ -52,20 +53,27 @@ namespace TextClassifierLib
 
 		#region Конструктор
 
-		public TextClassificator(List<string> separators, List<string> stopWords)
+		private void Init(List<string> separators, List<string> stopWords)
 		{
 			_separators = separators;
 			_stopWords = stopWords;
 		}
 
+		public TextClassificator(List<string> separators, List<string> stopWords)
+		{
+			Init(separators, stopWords);
+		}
+
 		public TextClassificator()
 		{
-			
+
 			var fs = (string)Resource.ResourceManager.GetObject(TextClassificator.SeparatorsFileName);
-			_separators = fs.Split(new[] { '\n' }, StringSplitOptions.RemoveEmptyEntries).ToList();
+			var separators = fs.Split(new[] { '\n' }, StringSplitOptions.RemoveEmptyEntries).ToList();
 
 			fs = (string)Resource.ResourceManager.GetObject(TextClassificator.StopWordsFileName);
-			_stopWords = fs.Split(new[] { '\n' }, StringSplitOptions.RemoveEmptyEntries).ToList();
+			var stopWords = fs.Split(new[] { '\n' }, StringSplitOptions.RemoveEmptyEntries).ToList();
+
+			Init(separators, stopWords);
 		}
 
 		/// <summary>создать обученный экземпляр классификатора (все значения берутся по умолчанию)
@@ -74,23 +82,19 @@ namespace TextClassifierLib
 		public static TextClassificator CreateLearnedInstance()
 		{
 			var separators = new List<string>();
-			//var fs = new FileStream(SeparatorsFileName, FileMode.Open);
 			var fs = (string)Resource.ResourceManager.GetObject(TextClassificator.SeparatorsFileName);
 			separators = fs.Split(new[] { '\n' }, StringSplitOptions.RemoveEmptyEntries).ToList();
 
 			var stopWords = new List<string>();
-			//fs = new FileStream(StopWordsFileName, FileMode.Open);
 			fs = (string)Resource.ResourceManager.GetObject(TextClassificator.StopWordsFileName);
 			stopWords = fs.Split(new[] { '\n' }, StringSplitOptions.RemoveEmptyEntries).ToList();
 
-			//var folderForLearn = Path.Combine(Path.GetPathRoot(Path.GetPathRoot(Resources.ResourceManager.BaseName.Replace(".", "/"))), LearnFolderName);			
 			var instance = new TextClassificator(separators, stopWords);
 			var themes = new Dictionary<string, string>();
 			foreach (System.Collections.DictionaryEntry file in Resource.ResourceManager.GetResourceSet(new System.Globalization.CultureInfo("ru-RU"), true, true))
 			{
 				if (file.Key.ToString()[0] == '_')
 				{
-					//var filename = Path.GetFileNameWithoutExtension(file.ToString());
 					var text = file.Value.ToString();
 					text = text.ToLower();
 					text = DeleteWords(text, separators, false);
@@ -105,6 +109,30 @@ namespace TextClassifierLib
 			}
 
 			return instance;
+		}
+
+		public static TextClassificator CreateLearnedInstance(string themeGroupName)
+		{
+			if (_learnedInstances == null)
+				_learnedInstances = new Dictionary<string, TextClassificator>();
+			if (!_learnedInstances.ContainsKey(themeGroupName))
+			{
+				var separators = new List<string>();
+				var fs = (string)Resource.ResourceManager.GetObject(TextClassificator.SeparatorsFileName);
+				separators = fs.Split(new[] { '\n' }, StringSplitOptions.RemoveEmptyEntries).ToList();
+
+				var stopWords = new List<string>();
+				fs = (string)Resource.ResourceManager.GetObject(TextClassificator.StopWordsFileName);
+				stopWords = fs.Split(new[] { '\n' }, StringSplitOptions.RemoveEmptyEntries).ToList();
+
+				var instance = new TextClassificator(separators, stopWords);
+				var themes = new Dictionary<string, string>();
+
+				instance.Learn(themeGroupName, themes);
+				_learnedInstances.Add(themeGroupName, instance);
+			}
+
+			return _learnedInstances[themeGroupName];
 		}
 
 		/// <summary>загрузка всех текстров группы
@@ -146,8 +174,8 @@ namespace TextClassifierLib
 				if (file.Key.ToString().Length >= findString.Length && file.Key.ToString().Substring(file.Key.ToString().Length - findString.Length, findString.Length) == findString)
 					files.Add(file);
 			var filesPath = files.ToDictionary(f => f.Key.ToString().Substring(0, f.Key.ToString().IndexOf('_')), f => Resource.ResourceManager.GetObject(f.Key.ToString()).ToString());
-			instance.ImportFromXmlsString(filesPath);	
-			
+			instance.ImportFromXmlsString(filesPath);
+
 			return instance;
 		}
 		public static TextClassificator LearnedInstance
@@ -155,7 +183,7 @@ namespace TextClassifierLib
 			get
 			{
 				if (_learnedInstance == null)
-					_learnedInstance = DefaultLoad();				
+					_learnedInstance = DefaultLoad();
 				return _learnedInstance;
 			}
 		}
@@ -280,7 +308,7 @@ namespace TextClassifierLib
 		public WordStatus GetWordStatus(string themeName, string stem)
 		{
 			var theme = _db.Theme.SingleOrDefault(t => t.Theme_name == themeName);
-			var word = _db.Word.SingleOrDefault(w=>w.Word_name == stem);
+			var word = _db.Word.SingleOrDefault(w => w.Word_name == stem);
 
 			if (theme == null)
 			{
@@ -291,7 +319,7 @@ namespace TextClassifierLib
 
 			if (word == null)
 			{
-				word= new Word{ Word_name = stem, System_InsDT = DateTime.Now };
+				word = new Word { Word_name = stem, System_InsDT = DateTime.Now };
 				_db.Word.AddObject(word);
 				_db.SaveChanges();
 			}
@@ -493,7 +521,7 @@ namespace TextClassifierLib
 				}
 				Application.DoEvents();
 			}
-			
+
 			_wordsCountInGroups = new Dictionary<string, Dictionary<string, Int64>>();
 			_summaryWordsCountInGroup = new Dictionary<string, Int64>();
 			_summaryWordsCountInGroupDistinct = new Dictionary<string, Int64>();
@@ -501,7 +529,7 @@ namespace TextClassifierLib
 			_wordsWeigthsInGroupsIncludingOtherGroupsRemoved = new Dictionary<string, Dictionary<string, double>>();
 
 			GC.Collect();
-			
+
 		}
 
 		#endregion
@@ -705,7 +733,7 @@ namespace TextClassifierLib
 					db.SaveChanges();
 				}
 			}
-		}		
+		}
 
 		/// <summary>импорт из файла всего результата обчучения
 		/// </summary>
