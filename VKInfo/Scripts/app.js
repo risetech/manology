@@ -1,13 +1,13 @@
 ﻿/// <reference path="jquery-1.7.2-vsdoc.js" />
 
 var app = {
-	appId: 3016703,
-	appSecret: "Zz8fFBdaRDyMBQ0NDElV",
-	redirectUri: "http://manology.info/User/Auth"
+	//appId: 3016703,
+	//appSecret: "Zz8fFBdaRDyMBQ0NDElV",
+	//redirectUri: "http://manology.info/User/Auth"
 
-	//appId: 2995743,
-	//appSecret: "5pxH8x5L8rT977WflGn0",
-	//redirectUri: "http://127.0.0.1:4621/User/Auth"
+	appId: 2995743,
+	appSecret: "5pxH8x5L8rT977WflGn0",
+	redirectUri: "http://127.0.0.1:4621/User/Auth"
 }
 
 getSVG = function (charts) {
@@ -198,17 +198,21 @@ function loadData(userId) {
 				}
 
 				allPosts = JSON.parse(userObj.AllPosts);
+				
 				if (allPosts) {
-					renderHobbies(allPosts);
 
 					renderContentTypeInfo(allPosts);
 
 					renderGroupReposts(allPosts);
 					wordSplitter(allPosts);
-					sendWords();
+
+					
 
 					renderPostsAndLikesByMonthsGraph(JSON.parse(userObj.LikedContent));
 				}
+
+				renderInterests(JSON.parse(userObj.Interests));
+				renderThemes(JSON.parse(userObj.Themes));
 
 				dataLoaded();
 			}
@@ -394,13 +398,13 @@ function loadAllPosts(offset) {
 
 				saveDataToMongoDB(JSON.stringify(allPosts), 'AllPosts');
 
-				renderHobbies(allPosts);
+				requestInterests(allPosts);
 
 				renderContentTypeInfo(allPosts);
 
 				renderGroupReposts(allPosts);
 
-				sendWords();
+				requestThemes();
 
 				if (likedContent && likedContent.length == 0) {
 					renderContentRating('post');
@@ -819,7 +823,7 @@ var firstPlace = [],
 	secondPlace = [],
 	thirdPlace = [];
 
-function sendWords() {
+function requestThemes() {
 	var str = '';
 	for (var i = 0; i < allPosts.length; i++) {
 		str += allPosts[i].text + ' ';
@@ -830,29 +834,33 @@ function sendWords() {
 		contentType: 'application/json; charset=utf-8',
 		data: JSON.stringify({ text: str }),
 		success: function (data) {
-			var wordsCount = wallWords.length;
-			var d = data[0];
-			for (var theme in d) {
-				if (theme === 'tp')
-					continue;
-				if (inPlacement1(wordsCount, d[theme])) {
-					firstPlace.push(toNormalTitle(theme));
-				}
-				else if (inPlacement2(wordsCount, d[theme])) {
-					secondPlace.push(toNormalTitle(theme));
-				}
-				else if (inPlacement3(wordsCount, d[theme])) {
-					thirdPlace.push(toNormalTitle(theme));
-				}
-			}
-			renderSmallAndBigChart($('#hobbies-chart'));
-
+			renderThemes(data);
+			saveDataToMongoDB(JSON.stringify(data), "Themes");
 		}
 	});
 }
 
+function renderThemes(data) {
+	var wordsCount = wallWords.length;
+	var d = data[0];
+	for (var theme in d) {
+		if (theme === 'tp')
+			continue;
+		if (inPlacement1(wordsCount, d[theme])) {
+			firstPlace.push(toNormalTitle(theme));
+		}
+		else if (inPlacement2(wordsCount, d[theme])) {
+			secondPlace.push(toNormalTitle(theme));
+		}
+		else if (inPlacement3(wordsCount, d[theme])) {
+			thirdPlace.push(toNormalTitle(theme));
+		}
+	}
+	renderSmallAndBigChart($('#main-page-tabs a[data-target="hobbies-chart"]'));
+}
+
 var hobbies_chart;
-function renderHobbies(posts) {
+function requestInterests(posts) {
 	var temp = [];
 	for (var p in posts) {
 		if (posts[p].text != "")
@@ -864,99 +872,87 @@ function renderHobbies(posts) {
 		contentType: 'application/json; charset=utf-8',
 		data: JSON.stringify({ posts: temp }),
 		success: function (data) {
-			var max = {};
-			var sum = {};
-			var min = {};
-			for (var i in data) {
-				for (var j in data[i].Info) {
-					if (j != "tp")
-						if (max[j]) {
-							if (max[j] < data[i].Info[j])
-								max[j] = data[i].Info[j];
-						}
-						else
-							max[j] = data[i].Info[j];
-					if (sum[j]) {
-						sum[j] += data[i].Info[j];
-					}
-					else
-						sum[j] = data[i].Info[j];
-				}
-			}
-			var sumStat = 0;
-			for (var p in sum)
-				if (p != "tp")
-					sumStat += sum[p];
-			var chartData = [];
-			var axis = {};
-			axis.categories = [];
-			axis.title = { text: "" };
-			axis.labels = { enabled: false };
-			//for (var p in sum) {
-			//	if (p != "tp" && sum[p] > 0) {
-			//		chartData.push({ name: toNormalTitle(p), data: [y = parseFloat((sum[p] * 100 / sumStat).toFixed(2))] });
-			//	}
-			//}
-			var linksOfTheme = []
-			var tabOfTheme = []
-			first = true
-
-			for (var i in data) {
-				for (var j in data[i].Info) {
-					var p = getPostbyID(posts, data[i].ID);
-					if (j != "tp" && inTheme(p.text.split(/\s+|<br>|,|\.|!|;|\)|\(|\:|\?|\-/).length, data[i].Info[j])) {
-						//                    if (j != "tp" && data[i].Info[j] >= 0.6 * max[j] && data[i].Info[j] * 100.0 / Math.max(p.text.length, 100.0) > 1.5) {
-						var link = "http://vk.com/wall" + p.to_id + '_' + p.id;
-						if (linksOfTheme[toNormalTitle(j)]) {
-							linksOfTheme[toNormalTitle(j)].push('<div class="text-wall">' + p.text.cut() + '<a href="' + link + '" target="_blank" >  прочитать</a></div>')
-						}
-						else {
-							linksOfTheme[toNormalTitle(j)] = [];
-							linksOfTheme[toNormalTitle(j)].push('<div class="text-wall">' + p.text.cut() + '<a href="' + link + '" target="_blank" >  прочитать</a></div>')
-							if (first) {
-								tabOfTheme[toNormalTitle(j)] = '<li><a href="#" class="active"><i class="icon-chevron-right"></i>' + toNormalTitle(j) + '</a></li>';
-								first = false;
-							}
-							else
-								tabOfTheme[toNormalTitle(j)] = '<li><a href="#"><i class="icon-chevron-right"></i>' + toNormalTitle(j) + '</a></li>'
-						}
-					}
-				}
-			}
-			for (var l in linksOfTheme) {
-				$template = $(tabOfTheme[l])
-				$template.click(function (item) {
-					$('.active', $(this).parent()).removeClass('active')
-					$(this).addClass('active')
-					$('.links').empty()
-					for (var link in linksOfTheme[$(this).text()]) {
-						$('.links').append($(linksOfTheme[$(this).text()][link]))
-					}
-					return false;
-				});
-				$('#hobbies-tab').after($template);
-			}
-			$($('#chart-navigation li:not(.nav-header)')[0]).click();
-			var tempMass = [];
-			for (var i in sum)
-				if (i != "tp" && sum[i] > 0.3)
-					tempMass.push(i);
-
-			if (sumStat > 0 && tempMass.length > 0) {
-				chartData.sort(function (a, b) {
-					return b.data[0] - a.data[0];
-				});
-			}
-			else
-				if (getCookie("lang") == "en")
-					$('#hobbies-tab').after($("<p>Do you have too few posts, to determine your hobbies.</p>"));
-				else {
-					$('#hobbies-chart').empty();
-					$('#hobbies-chart').append($("<p>У Вас слишком мало постов, чтобы определить Ваши увлечения.</p>"));
-				}
+			renderInterests(data);
+			saveDataToMongoDB(JSON.stringify(data), "Interests");
 		}
 	});
 };
+
+function renderInterests(data) {
+	var max = {};
+	var sum = {};
+	var min = {};
+	for (var i in data) {
+		for (var j in data[i].Info) {
+			if (j != "tp")
+				if (max[j]) {
+					if (max[j] < data[i].Info[j])
+						max[j] = data[i].Info[j];
+				}
+				else
+					max[j] = data[i].Info[j];
+			if (sum[j]) {
+				sum[j] += data[i].Info[j];
+			}
+			else
+				sum[j] = data[i].Info[j];
+		}
+	}
+	var sumStat = 0;
+	for (var p in sum)
+		if (p != "tp")
+			sumStat += sum[p];
+
+	var linksOfTheme = []
+	var tabOfTheme = []
+	first = true
+
+	for (var i in data) {
+		var p = getPostbyID(allPosts, data[i].ID);
+		for (var j in data[i].Info) {
+			if (j != "tp" && inTheme(p.text.split(/\s+|<br>|,|\.|!|;|\)|\(|\:|\?|\-/).length, data[i].Info[j])) {
+				var link = "http://vk.com/wall" + p.to_id + '_' + p.id;
+				var normalTitle = toNormalTitle(j);
+				if (linksOfTheme[normalTitle]) {
+					linksOfTheme[normalTitle].push('<div class="text-wall">' + p.text.cut() + '<a href="' + link + '" target="_blank" >  прочитать</a></div>')
+				}
+				else {
+					linksOfTheme[normalTitle] = [];
+					linksOfTheme[normalTitle].push('<div class="text-wall">' + p.text.cut() + '<a href="' + link + '" target="_blank" >  прочитать</a></div>')
+					if (first) {
+						tabOfTheme[normalTitle] = '<li><a href="#" class="active"><i class="icon-chevron-right"></i>' + normalTitle + '</a></li>';
+						first = false;
+					}
+					else
+						tabOfTheme[normalTitle] = '<li><a href="#"><i class="icon-chevron-right"></i>' + normalTitle + '</a></li>'
+				}
+			}
+		}
+	}
+	for (var l in linksOfTheme) {
+		$template = $(tabOfTheme[l])
+		$template.click(function (item) {
+			$('.active', $(this).parent()).removeClass('active')
+			$(this).addClass('active')
+			$('.links').empty()
+			for (var link in linksOfTheme[$(this).text()]) {
+				$('.links').append($(linksOfTheme[$(this).text()][link]))
+			}
+			return false;
+		});
+		$('#hobbies-tab').after($template);
+	}
+	$($('#chart-navigation li:not(.nav-header)')[0]).click();
+	var tempMass = [];
+	for (var i in sum)
+		if (i != "tp" && sum[i] > 0.3)
+			tempMass.push(i);
+
+	if (sumStat == 0 || tempMass.length == 0) {
+		$('#hobbies-chart').append($("<p>У Вас слишком мало постов, чтобы определить Ваши увлечения.</p>"));
+	}
+}
+
 function renderFriendInfo(mas) {
 	var universities = groupby(mas, "university_name", mas.length);
 	var ages = groupby(mas, "bdate", mas.length, false, function (x) {
@@ -2333,16 +2329,7 @@ function dataLoaded() {
 }
 
 function renderSmallAndBigChart(item) {
-	$('.small-chart-container').removeClass('active');
-	var targetId;
-	if (item.hasClass('small-chart-container')) {
-		targetId = item.attr("id");
-		item.addClass('active');
-	}
-	else {
-		targetId = item.parents('.small-chart-container').attr("id");
-		item.parents('.small-chart-container').addClass('active');
-	}
+	var targetId = item.attr('data-target');
 	$('#target-chart-container').empty();
 	$('#chart-comment>div').hide();
 	try {
@@ -2409,14 +2396,31 @@ function renderSmallAndBigChart(item) {
 					}
 					$('#hobbies-comment').show();
 				}
+			case 'psy-chart':
+				{
+
+				}
 		}
 	}
 	catch (e) {
-		$('#target-chart-container').append('<p><strong>Нет данных</strong></p>');
+		$('#target-chart-container').append($('<div />', {
+			'id': 'activitiesContainer'
+		}));
+		$('#activitiesContainer').append("<p>Нет данных</p>");
+		$('#activitiesContainer').css('margin-top', $('#activitiesContainer').parent().height() / 2 - $('#activitiesContainer').height() / 2)
 	}
 	$('#chart-comment').show();
 }
 
+function renderPsyType(mas, words) {
+	for (var i = 0; i < mas.length; i++) {
+		var item = mas[i];
+		$('#target-chart-container').append($('<div />', {
+			'id': 'activitiesContainer'
+		}));
+		$('#activitiesContainer').append("<p>Невозможно определить увлечения</p>");
+	}
+}
 
 $(function () {
 	var lang = getCookie("lang");
@@ -2522,18 +2526,15 @@ $(function () {
 			}
 		})
 
-		$('.small-chart-container').click(function (item) {
-			renderSmallAndBigChart($(item.target));
-		});
 
-		//$('#hobbies-chart').click();
-		//$('#chart-navigation>li>a')[0].click();
+		$('#main-page-tabs a').click(function () {
+			renderSmallAndBigChart($(this));
+		});
 
 	}
 	else {
 		$('.auth, .image-main-wrapper, #header').show();
 		$('.body-info, .subhead.custom, .navbar-search').hide();
-		//$('.loading-wrapper').hide();
 		$('#tell-friends > div').append(VK.Share.button({
 			url: location.href,
 			title: 'Manology.info'

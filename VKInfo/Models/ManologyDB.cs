@@ -26,6 +26,8 @@ namespace VKInfo.Models
 		public string AllPosts { get; set; }
 		public string LikedContent { get; set; }
         public string Date { get; set; }
+		public string Interests { get; set; }
+		public string Themes { get; set; }
 		public List<string> WatchList { get; set; }
 
 		public ManologyUser()
