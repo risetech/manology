@@ -404,10 +404,7 @@ p.size-m {
 
 #chart-navigation {
 	/*padding: 0px;*/
-	border:1px solid #ccc;
-	padding:15px;
 	width: 300px;
-	margin:0px;
 }
 
 	#chart-navigation .nav-header {
@@ -653,9 +650,3 @@ p.size-m {
 
 		#tell-friends > div > a {
 		}
-
-#main-page-tabs li img
-{
-	margin-right:10px;
-	width:30px;
-}

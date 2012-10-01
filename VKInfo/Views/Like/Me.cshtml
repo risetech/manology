@@ -604,64 +604,71 @@
 		</div>
 		<section id="hobbies">
 			<div class="container-border" id="charts">
-
-				<div class="tabbable tabs-left">
-					<ul id="main-page-tabs" class="nav nav-tabs" style="width: 300px;">
-						<li class="active"><a data-target="hobbies-chart" href="#lA" data-toggle="tab">
-							<img src="@Url.Content("~/Content/images/activity_2.png")"/>Увлечения</a></li>
-						<li class=""><a data-target="group-reposts-chart" href="#lB" data-toggle="tab">
-							<img src="@Url.Content("~/Content/images/retweet.png")"/>Репосты</a></li>
-						<li class=""><a data-target="posts-by-month-chart" href="#lC" data-toggle="tab">
-							<img src="@Url.Content("~/Content/images/like.png")"/>Лайки</a></li>
-						<li class=""><a data-target="contentType-chart" href="#lD" data-toggle="tab">
-							<img src="@Url.Content("~/Content/images/post.png")"/>Посты</a></li>
-						<li class=""><a data-target="psy-chart" href="#lE" data-toggle="tab">
-							<img src="@Url.Content("~/Content/images/psy.png")"/>Психотип</a></li>
-					</ul>
-					<div style="float: right">
-						<div class="big-chart-container" id="target-chart-container">
-							<div id="activities-container"></div>
+				<div class="small-charts">
+					<div>
+						<div class="small-chart-container" id="hobbies-chart">
+							<div class="text-like-highcharts">Увлечения</div>
+							<img src="/Content/images/activity.png"/>
 						</div>
-						<div id="chart-comment" class="well">
-							<div id="reposts-comment">
-								<div class="modal hide fade" id="bad-language-posts-modal">
-									<div class="modal-header">
-										<button type="button" class="close" data-dismiss="modal">
-											×</button>
-									</div>
-									<div class="modal-body">
-										<h4>Посты:</h4>
-										<div data-bind="foreach: badLanguagePosts">
-											<p>
-												<a data-bind="attr: {href: link}" target="_blank">
-													<span data-bind="text: text"></span>
-												</a>
-											</p>
-										</div>
-									</div>
-									<div class="modal-footer">
-										<button class="btn btn-danger" data-dismiss="modal">
-											Закрыть</button>
+						<div class="small-chart-container" id="group-reposts-chart">
+							<p><strong>Репосты групп - нет данных</strong></p>
+						</div>
+						<div style="clear: both"></div>
+					</div>
+					<div>
+						<div class="small-chart-container" id="posts-by-month-chart">
+							<p>Популярность - нет данных</p>
+						</div>
+						<div class="small-chart-container" id="contentType-chart">
+							<p>Типы постов - нет данных</p>
+						</div>
+
+						<div style="clear: both"></div>
+					</div>
+				</div>
+				<div style="float: right">
+					<div class="big-chart-container" id="target-chart-container">
+						<div id="activities-container"></div>
+					</div>
+					<div id="chart-comment" class="well">
+						<div id="reposts-comment">
+							<div class="modal hide fade" id="bad-language-posts-modal">
+								<div class="modal-header">
+									<button type="button" class="close" data-dismiss="modal">
+										×</button>
+								</div>
+								<div class="modal-body">
+									<h4>Посты:</h4>
+									<div data-bind="foreach: badLanguagePosts">
+										<p>
+											<a data-bind="attr: {href: link}" target="_blank">
+												<span data-bind="text: text"></span>
+											</a>
+										</p>
 									</div>
 								</div>
-								<a data-bind="visible: badLanguageWordsCount() > 0" data-toggle="modal" href="#bad-language-posts-modal">Количество мата в записях пользователя: <span data-bind="text: badLanguageWordsCount"></span>
-								</a>
-								<span data-bind="visible: badLanguageWordsCount() == 0">Количество мата в записях пользователя: <span data-bind="text: badLanguageWordsCount"></span>
-								</span>
+								<div class="modal-footer">
+									<button class="btn btn-danger" data-dismiss="modal">
+										Закрыть</button>
+								</div>
 							</div>
-							<div id="likes-comment">
-							</div>
-							<div id="content-type-comment">
-							</div>
-							<div id="hobbies-comment">
-							</div>
+							<a data-bind="visible: badLanguageWordsCount() > 0" data-toggle="modal" href="#bad-language-posts-modal">Количество мата в записях пользователя: <span data-bind="text: badLanguageWordsCount"></span>
+							</a>
+							<span data-bind="visible: badLanguageWordsCount() == 0">Количество мата в записях пользователя: <span data-bind="text: badLanguageWordsCount"></span>
+							</span>
+						</div>
+						<div id="likes-comment">
+						</div>
+						<div id="content-type-comment">
+						</div>
+						<div id="hobbies-comment">
 						</div>
 					</div>
 				</div>
 				<div style="clear: both"></div>
 			</div>
 			<div id="top-posts" class="container-border">
-				<div style="float: left; width: 350px;">
+				<div class="well" style="float: left; width: 300px;">
 					<ul class="nav nav-list bs-docs-sidenav" id="chart-navigation">
 						<li class="nav-header" id="hobbies-tab">Записи на стене по темам</li>
 						<li class="nav-header" id="wall-tab">Записи на стене по типам содержимого</li>
@@ -758,9 +765,7 @@
 				<div class="clear"></div>
 			</div>
 		</section>
-		<div class="well" data-bind="visible: watchList().length == 0" style="text-align: center;">
-			<p>Список просмотренных пуст</p>
-		</div>
+		<div class="well" data-bind="visible: watchList().length == 0" style="text-align: center;"><p>Список просмотренных пуст</p></div>
 	</div>
 >>>>>>> d40a99fd43bc017ca874aebeab50519d33a6b8af
 </div>

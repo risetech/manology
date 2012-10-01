@@ -158,11 +158,6 @@
     <Content Include="Content\images\girl_2.png" />
     <Content Include="Content\images\glyphicons-halflings-white.png" />
     <Content Include="Content\images\glyphicons-halflings.png" />
-    <Content Include="Content\images\activity_2.png" />
-    <Content Include="Content\images\psy.png" />
-    <Content Include="Content\images\like.png" />
-    <Content Include="Content\images\post.png" />
-    <Content Include="Content\images\retweet.png" />
     <Content Include="Content\images\grid-18px-masked.png" />
     <Content Include="Content\images\i-search.png" />
     <Content Include="Content\images\mesto.png" />
