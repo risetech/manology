@@ -494,6 +494,7 @@
 			//getFriends();
 		}
 		else {
+			localStorage['sentUserId'] = location.hash.substring(1);
 			location.href = '/';
 		}
 	});

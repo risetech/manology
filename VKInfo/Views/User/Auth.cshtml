@@ -31,5 +31,5 @@
 	expiresDate.setMilliseconds(mills);
 	setCookie('access_token', token, { expires: expiresDate, path: '/' });
 	localStorage['viewer_id'] = str.split('&')[2].split('=')[1];
-	location.href = "/Like/Me";
+	setOwnerId(localStorage['sentUserId']);
 </script>

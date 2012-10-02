@@ -83,6 +83,7 @@ function setCookie(name, value, props) {
 }
 
 function deleteCookie(name) {
+	localStorage['sentUserId'] = "";
 	localStorage['user_id'] = "";
 	setCookie(name, null, { expires: -100, path: '/' })
 }
