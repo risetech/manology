@@ -49,6 +49,12 @@ namespace VKInfo
 					TextClassifierLib.TextClassificator.Instance = new TextClassifierLib.TextClassificator();
 					TextClassifierLib.TextClassificator.Instance.Import(Directory.GetFiles(trainigFolder));
 				}*/
+			TextClassificator.CreateLearnedInstance("extra-intra");
+			TextClassificator.CreateLearnedInstance("logic-etic");
+
+			TextClassificator.CreateLearnedInstance("racional-irracional");
+
+			TextClassificator.CreateLearnedInstance("sensor-intuit");
 		}
 	}
 }

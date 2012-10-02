@@ -38,6 +38,9 @@ var favouriteUsers = {};   //пользователи, которых я лай�
 var likedMeUsers = {};    //пользователи, которые лайкнули меня
 var likedContent = []; //все, что лайкнули
 
+var psyType = [];
+var psyContent = [];
+
 var viewer_id = localStorage['viewer_id'] || "";
 var user_id = localStorage['user_id'] || "";
 var user_link = localStorage['user_link'] || "";
@@ -214,7 +217,7 @@ function loadData(userId) {
 
 				renderInterests(JSON.parse(userObj.Interests));
 				renderThemes(JSON.parse(userObj.Themes));
-
+				savePsyType(JSON.parse(userObj.PsyResult), JSON.parse(userObj.PsyType));
 				dataLoaded();
 			}
 			else {
@@ -404,9 +407,12 @@ function loadAllPosts(offset) {
 				renderContentTypeInfo(allPosts);
 
 				renderGroupReposts(allPosts);
-
-				requestThemes();
-
+				var str = '';
+				for (var i = 0; i < allPosts.length; i++) {
+					str += allPosts[i].text + ' ';
+				}
+				requestThemes(str);
+				getDescription(str, savePsyType);
 				if (likedContent && likedContent.length == 0) {
 					renderContentRating('post');
 					getLikedPhotos([], 0);
@@ -824,11 +830,7 @@ var firstPlace = [],
 	secondPlace = [],
 	thirdPlace = [];
 
-function requestThemes() {
-	var str = '';
-	for (var i = 0; i < allPosts.length; i++) {
-		str += allPosts[i].text + ' ';
-	}
+function requestThemes(str) {
 	$.ajax({
 		url: "/Home/TextAnalisys",
 		type: "POST",
@@ -2294,7 +2296,7 @@ function setOwnerId(id) {
 			}
 			else {
 				localStorage['user_id'] = "&owner_id=" + data.response[0].uid;
-				localStorage['user_link'] = id;
+				localStorage['user_link'] = data.response[0].uid;
 				addToWatchList(data.response[0].uid);
 			}
 		}
@@ -2396,10 +2398,12 @@ function renderSmallAndBigChart(item) {
 						$('#hobbies-comment').append('<p>Возможно, пользователь заинтересован в темах: <strong>' + result + '</strong></p>');
 					}
 					$('#hobbies-comment').show();
+					break;
 				}
 			case 'psy-chart':
 				{
-
+					renderPsyType();
+					break;
 				}
 		}
 	}
@@ -2412,15 +2416,35 @@ function renderSmallAndBigChart(item) {
 	}
 	$('#chart-comment').show();
 }
+function savePsyType(mas, words) {
+	psyContent = mas;
+	psyType = words;
+}
 
-function renderPsyType(mas, words) {
-	for (var i = 0; i < mas.length; i++) {
-		var item = mas[i];
-		$('#target-chart-container').append($('<div />', {
-			'id': 'activitiesContainer'
-		}));
-		$('#activitiesContainer').append("<p>Невозможно определить увлечения</p>");
+function renderPsyType() {
+	console.log("--------------------------");
+	console.log(psyContent);
+	console.log(psyType);
+	console.log("--------------------------");
+	$('#target-chart-container').append($('<div />', {
+		'id': 'psyContainer'
+	}));
+	//$('#activitiesContainer').append("<p>Невозможно определить увлечения</p>");
+	for (var i in psyType) {
+		$('<span data-target="#psy-modal" data-toggle="modal" data-psy="' + psyType[i] + '">' + psyType[i] + '</span>').appendTo('#psyContainer')
+			.click(function () {
+				var item = $(this).attr('data-psy');
+				$('#psy-modal .modal-header').text(item);
+				$('#psy-modal .modal-body').text(psyTypeText[item]);
+			})
 	}
+
+	//for (var i = 0; i < mas.length; i++) {
+	//	var item = mas[i];
+	//	$('#target-chart-container').append($('<div />', {
+	//		'id': 'activitiesContainer'
+	//	}));
+	//}
 }
 
 $(function () {

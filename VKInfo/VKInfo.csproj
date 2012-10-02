@@ -152,6 +152,7 @@
     <Content Include="Content\images\1341926425_text-editor.png" />
     <Content Include="Content\images\1341926477_emblem-symbolic-link.png" />
     <Content Include="Content\images\activity.png" />
+    <Content Include="Content\images\activity_2.png" />
     <Content Include="Content\images\avi-icon.png" />
     <Content Include="Content\images\content_bg.png" />
     <Content Include="Content\images\girl.jpg" />
@@ -160,8 +161,12 @@
     <Content Include="Content\images\glyphicons-halflings.png" />
     <Content Include="Content\images\grid-18px-masked.png" />
     <Content Include="Content\images\i-search.png" />
+    <Content Include="Content\images\like.png" />
     <Content Include="Content\images\mesto.png" />
+    <Content Include="Content\images\post.png" />
     <Content Include="Content\images\progress.gif" />
+    <Content Include="Content\images\psy.png" />
+    <Content Include="Content\images\retweet.png" />
     <Content Include="Content\images\twitter_web_sprite_icons.png" />
     <Content Include="Content\images\vk_logo.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
@@ -246,6 +251,8 @@
     <Content Include="Scripts\knockout-2.1.0.js" />
     <Content Include="Scripts\md5.js" />
     <Content Include="Scripts\modernizr-2.5.3.js" />
+    <Content Include="Scripts\Psy\Code.js" />
+    <Content Include="Scripts\Psy\Mass.js" />
     <Content Include="trainingFolder\auto.txt" />
     <Content Include="trainingFolder\biologiy.txt" />
     <Content Include="trainingFolder\culinariy.txt" />
