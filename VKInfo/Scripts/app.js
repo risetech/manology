@@ -174,6 +174,11 @@ function loadData(userId) {
 			currentUserModel = JSON.parse(user);
 			if (user != "null" && !recalcUser) {
 				var userObj = JSON.parse(user);
+				if (userObj.PopularityError && userObj.PopularityError == 'yes') {
+					showErrorBar = true;
+					ShowErrorBar();
+				}
+
 				foo = userObj.Date;
 				$('.user-header').prepend('<span class="last-check">Последний пересчет ' + userObj.Date + '</span>');
 				ko.applyBindings(new LinguisticAnalysisModel(JSON.parse(userObj.LinguisticAnalysis)), $('#reposts-comment')[0]);
@@ -201,8 +206,8 @@ function loadData(userId) {
 					}
 				}
 
-				allPosts = JSON.parse(userObj.AllPosts);
 
+				allPosts = JSON.parse(userObj.AllPosts);
 				if (allPosts) {
 
 					renderContentTypeInfo(allPosts);
@@ -218,6 +223,7 @@ function loadData(userId) {
 				renderInterests(JSON.parse(userObj.Interests));
 				renderThemes(JSON.parse(userObj.Themes));
 				savePsyType(JSON.parse(userObj.PsyResult), JSON.parse(userObj.PsyType));
+
 				dataLoaded();
 			}
 			else {
@@ -2306,8 +2312,12 @@ function setOwnerId(id) {
 function ShowErrorBar() {
 	var current_href = $('.nav-pills li[class=active]>a').attr('href');
 	var error_bar = $('#error-bar');
-	if ((current_href === '#like-you' || current_href === '#like-me') && showErrorBar) {
+	if (showErrorBar) {
+		if (error_bar.css('display') == 'none') {
+			saveDataToMongoDB('yes', 'PopularityError');
+		}
 		error_bar.show();
+
 	}
 	else {
 		error_bar.hide();
@@ -2328,7 +2338,6 @@ function dataLoaded() {
 	$('.activityTitleContainer').each(function (i, item) {
 		$(item).css('line-height', $(item).parent('.activityContainer').css('height'));
 	});
-	$('#activitiesContainer').css('margin-top', $('#activitiesContainer').parent().height() / 2 - $('#activitiesContainer').height() / 2)
 }
 
 function renderSmallAndBigChart(item) {
@@ -2341,7 +2350,7 @@ function renderSmallAndBigChart(item) {
 				{
 					$('#content-type-comment').show();
 					contentTypeChart.options.chart.renderTo = 'target-chart-container';
-					contentTypeChart.options.chart.width = '528';
+					contentTypeChart.options.chart.width = '700';
 					contentTypeChart.options.chart.height = '271';
 					contentTypeChart.options.plotOptions.pie.dataLabels.enabled = true;
 					contentTypeChart.options.tooltip.style.padding = '3';
@@ -2353,7 +2362,7 @@ function renderSmallAndBigChart(item) {
 				{
 					$('#likes-comment').show();
 					postsAndLikesChart.options.chart.renderTo = 'target-chart-container';
-					postsAndLikesChart.options.chart.width = '528';
+					postsAndLikesChart.options.chart.width = '700';
 					postsAndLikesChart.options.chart.height = '271';
 					postsAndLikesChart.options.legend.enabled = true;
 					postsAndLikesChart.options.tooltip.style.padding = '3';
@@ -2367,7 +2376,7 @@ function renderSmallAndBigChart(item) {
 				{
 					$('#reposts-comment, #reposts-comment div').show();
 					groupRepostsChart.options.chart.renderTo = 'target-chart-container';
-					groupRepostsChart.options.chart.width = '528';
+					groupRepostsChart.options.chart.width = '700';
 					groupRepostsChart.options.chart.height = '271';
 					groupRepostsChart.options.tooltip.style.padding = '3';
 					groupRepostsChart.options.plotOptions.bar.dataLabels.enabled = true;
@@ -2387,7 +2396,7 @@ function renderSmallAndBigChart(item) {
 					if (firstPlace.length == 0 && secondPlace.length == 0 && thirdPlace.length == 0) {
 						$('#activitiesContainer').append("<p>Невозможно определить увлечения</p>");
 					}
-					$('#activitiesContainer').css('margin-top', $('#activitiesContainer').parent().height() / 2 - $('#activitiesContainer').height() / 2)
+					//$('#activitiesContainer').css('margin-top', $('#activitiesContainer').parent().height() / 2 - $('#activitiesContainer').height() / 2)
 					var result = firstPlace.join(", ");
 					if (result) {
 						$('#hobbies-comment').append('<p>Пользователь имеет интерес в темах: <strong>' + result + '</strong></p>');
@@ -2403,7 +2412,8 @@ function renderSmallAndBigChart(item) {
 			case 'psy-chart':
 				{
 					renderPsyType();
-					break;
+					$('#chart-comment').hide();
+					return;
 				}
 		}
 	}
@@ -2412,13 +2422,33 @@ function renderSmallAndBigChart(item) {
 			'id': 'activitiesContainer'
 		}));
 		$('#activitiesContainer').append("<p>Нет данных</p>");
-		$('#activitiesContainer').css('margin-top', $('#activitiesContainer').parent().height() / 2 - $('#activitiesContainer').height() / 2)
+		//$('#activitiesContainer').css('margin-top', $('#activitiesContainer').parent().height() / 2 - $('#activitiesContainer').height() / 2)
 	}
 	$('#chart-comment').show();
 }
 function savePsyType(mas, words) {
 	psyContent = mas;
 	psyType = words;
+}
+
+function getPsyName(psy) {
+	var str = '';
+
+	str += (psy[0] == 's' ? 'Сенсорно-' : 'Интуитивно-');
+	str += (psy[1] == 'l' ? 'логический ' : 'этический ');
+	str += (psy[2] == 'e' ? 'экстраверт-' : 'интроверт-');
+	str += (psy[3] == 'r' ? 'рационал' : 'иррационал');
+	return str;
+}
+
+function getPsySummary(psyType) {
+	var arr = result.filter(function (item) {
+		return item.type == psyType;
+	});
+	if (arr.length > 0) {
+		return arr[0];
+	}
+	return null;
 }
 
 function renderPsyType() {
@@ -2429,22 +2459,37 @@ function renderPsyType() {
 	$('#target-chart-container').append($('<div />', {
 		'id': 'psyContainer'
 	}));
-	//$('#activitiesContainer').append("<p>Невозможно определить увлечения</p>");
+	$('#psyContainer').append("<span>Определены следующие психотипы: </span>");
 	for (var i in psyType) {
-		$('<span data-target="#psy-modal" data-toggle="modal" data-psy="' + psyType[i] + '">' + psyType[i] + '</span>').appendTo('#psyContainer')
+		$('<a href="#psy-modal" data-toggle="modal" data-psy="' + psyType[i] + '">' + psyType[i] + '</a><span> </span>').appendTo('#psyContainer')
 			.click(function () {
 				var item = $(this).attr('data-psy');
-				$('#psy-modal .modal-header').text(item);
+				$('#psy-modal .modal-header').html('<h2>' + item + '</h2>');
 				$('#psy-modal .modal-body').text(psyTypeText[item]);
 			})
-	}
 
-	//for (var i = 0; i < mas.length; i++) {
-	//	var item = mas[i];
-	//	$('#target-chart-container').append($('<div />', {
-	//		'id': 'activitiesContainer'
-	//	}));
-	//}
+	}
+	$('#psyContainer').append("<br/><p>Возможные психотипы: </p>");
+	for (var i = 0; i < psyContent.length; i++) {
+		var item = psyContent[i];
+		var hr = $('<a href="#psy-modal" data-toggle="modal" data-psy="' + item.type + '">Подробнее</a><span> </span>')
+			.click(function () {
+				var item = $(this).attr('data-psy');
+				$('#psy-modal .modal-header').html('<h2>' + getPsyName(item) + '</h2>');
+				var tempDescr = getPsySummary(item);
+				$('#psy-modal .modal-body').empty();
+				$('#psy-modal .modal-body').append(tempDescr.text);
+				$('#psy-modal .modal-body').append('<ul></ul>');
+				tempDescr.summary.forEach(function (item, idx) {
+					$('#psy-modal .modal-body ul').append('<li>' + item + '</li>');
+				});
+			});
+		var gr = $('<div class="accordion-group"></div>').appendTo($('#psyContainer')).append('<div class="accordion-heading">' +
+			'<a class="accordion-toggle" data-toggle="collapse" data-parent="#psyContainer" href="#' + item.type + '">' + getPsyName(item.type) + '</a></div>' +
+			'<div id="' + item.type + '" class="accordion-body collapse"><div class="accordion-inner">' + item.text + ' ');
+		gr.find('.accordion-inner').append(hr);
+		gr.append('</div></div>');
+	}
 }
 
 $(function () {

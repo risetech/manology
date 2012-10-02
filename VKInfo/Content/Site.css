@@ -379,14 +379,14 @@ p.size-m {
 	border: 1px groove;
 	outline: 1px groove;
 	margin: 3px;
-	width: 528px;
+	width: 700px;
 	height: 271px;
-	overflow: hidden;
+	overflow:auto;
 	position: relative;
 }
 
 #chart-comment {
-	width: 496px;
+	width: 668px;
 	border: 1px groove;
 	/*outline: 1px groove;
 	padding: 2px;
@@ -600,7 +600,7 @@ p.size-m {
 .activityUlContainer {
 	float: right;
 	overflow: hidden;
-	width: 264px;
+	width: 340px;
 }
 
 	.activityUlContainer > ul {
@@ -615,7 +615,7 @@ p.size-m {
 
 .activityTitleContainer {
 	float: left;
-	width: 258px;
+	width: 350px;
 }
 
 .last-check {
@@ -654,8 +654,22 @@ p.size-m {
 		#tell-friends > div > a {
 		}
 
+#main-page-tabs
+{
+	width: 175px;
+}
+
 #main-page-tabs li img
 {
 	margin-right:10px;
 	width:30px;
+}
+#psyContainer
+{
+	text-align:left;
+	padding:10px;
+}
+#charts
+{
+	height:385px;
 }

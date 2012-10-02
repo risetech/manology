@@ -49,20 +49,23 @@
 </header>
 <div class="clear">
 </div>
-<div class="alert alert-error" id="error-bar" style="display: none">
-	Популярные пользователи на данный момент могут анализироваться неверно.
-</div>
+
 <div class="loader well">
 	<p>Данные загружаются, пожалуйста, подождите...</p>
 </div>
+
 <div class="tab-content">
 	<div class="tab-pane fade" id="like-me">
 		<div id="groups-container">
 		</div>
 		<section id="liked-me">
 			<div id="top-liked-me-users" class="well">
+				
 				<h2>Пользователи, <small>которым я понравился:</small>
 				</h2>
+				<div class="alert alert-error" id="error-bar" style="display: none">
+					Популярные пользователи на данный момент могут анализироваться неверно.
+				</div>
 				<div id="likedme-rating" data-bind="foreach: showedLikedMe, visible: showedLikedMe().length > 0">
 					<div class="content-container">
 						<a data-bind="attr: {href: link}" target="_blank">
@@ -309,7 +312,7 @@
 			<div class="container-border" id="charts">
 
 				<div class="tabbable tabs-left">
-					<ul id="main-page-tabs" class="nav nav-tabs" style="width: 300px;">
+					<ul id="main-page-tabs" class="nav nav-tabs">
 						<li class="active"><a data-target="hobbies-chart" href="#lA" data-toggle="tab">
 							<img src="@Url.Content("~/Content/images/activity_2.png")"/>Увлечения</a></li>
 						<li class=""><a data-target="group-reposts-chart" href="#lB" data-toggle="tab">
@@ -485,7 +488,18 @@
 	</div>
 </div>
 <div class="modal hide" id="psy-modal">
-	<div class="modal-header" data-title="PSY">
+	<div class="modal-header">
+		<button type="button" class="close" data-dismiss="modal">
+			×</button>
+	</div>
+	<div class="modal-body">
+	</div>
+	<div class="modal-footer">
+		<a href="#" class="btn" data-dismiss="modal">Закрыть</a>
+	</div>
+</div>
+<div class="modal hide" id="psy-modal-info">
+	<div class="modal-header">
 		<button type="button" class="close" data-dismiss="modal">
 			×</button>
 	</div>
