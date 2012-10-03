@@ -1,6 +1,6 @@
 ﻿<Words>
 
-<Word Stem="культур" Weight="0.971032186039235">
+<Word Stem="культур" Weight="0.837017917847888">
 <Allolog Form="культура"/>
 <Allolog Form="культуры"/>
 <Allolog Form="культуре"/>
@@ -15,7 +15,7 @@
 <Allolog Form="культури"/>
 </Word>
 
-<Word Stem="жанр" Weight="0.5">
+<Word Stem="жанр" Weight="0.05">
 <Allolog Form="жанра"/>
 <Allolog Form="жанров"/>
 <Allolog Form="жанрами"/>
@@ -29,7 +29,7 @@
 <Allolog Form="жанри"/>
 </Word>
 
-<Word Stem="семейных" Weight="0.0510134001734326">
+<Word Stem="семейных" Weight="0.05">
 <Allolog Form="семейных"/>
 </Word>
 
@@ -49,33 +49,34 @@
 <Word Stem="легендарн" Weight="0.05">
 <Allolog Form="легендарная"/>
 <Allolog Form="легендарный"/>
-<Allolog Form="легендарной"/>
-<Allolog Form="легендарного"/>
-<Allolog Form="легендарную"/>
+<Allolog Form="легендарными"/>
 <Allolog Form="легендарное"/>
+<Allolog Form="легендарного"/>
+<Allolog Form="легендарной"/>
+<Allolog Form="легендарную"/>
 <Allolog Form="легендарном"/>
 <Allolog Form="легендарные"/>
 <Allolog Form="легендарным"/>
-<Allolog Form="легендарными"/>
 <Allolog Form="легендарны"/>
+<Allolog Form="легендарно"/>
 </Word>
 
-<Word Stem="культов" Weight="0.0573010171103884">
+<Word Stem="культов" Weight="0.0573981651847427">
 <Allolog Form="культовые"/>
-<Allolog Form="культовую"/>
-<Allolog Form="культовыми"/>
+<Allolog Form="культовом"/>
 <Allolog Form="культовой"/>
+<Allolog Form="культовый"/>
+<Allolog Form="культовыми"/>
+<Allolog Form="культовую"/>
 <Allolog Form="культового"/>
 <Allolog Form="культовым"/>
 <Allolog Form="культовое"/>
 <Allolog Form="культовая"/>
 <Allolog Form="культово"/>
-<Allolog Form="культовый"/>
 <Allolog Form="культовости"/>
-<Allolog Form="культовом"/>
 </Word>
 
-<Word Stem="культурн" Weight="0.592064669510777">
+<Word Stem="культурн" Weight="0.545384599511891">
 <Allolog Form="культурные"/>
 <Allolog Form="культурного"/>
 <Allolog Form="культурная"/>
@@ -83,11 +84,11 @@
 <Allolog Form="культурный"/>
 <Allolog Form="культурную"/>
 <Allolog Form="культурно"/>
-<Allolog Form="культурное"/>
 <Allolog Form="культурном"/>
+<Allolog Form="культурным"/>
+<Allolog Form="культурное"/>
 <Allolog Form="культурности"/>
 <Allolog Form="культурными"/>
-<Allolog Form="культурным"/>
 <Allolog Form="культурностью"/>
 <Allolog Form="культурность"/>
 <Allolog Form="культурна"/>
@@ -97,19 +98,20 @@
 
 <Word Stem="повест" Weight="0.5">
 <Allolog Form="повести"/>
-<Allolog Form="повестях"/>
 <Allolog Form="повесть"/>
+<Allolog Form="повестях"/>
 <Allolog Form="повестей"/>
 <Allolog Form="повестью"/>
 </Word>
 
-<Word Stem="архитектур" Weight="0.535333362379433">
+<Word Stem="архитектур" Weight="0.528927749803866">
 <Allolog Form="архитектура"/>
 <Allolog Form="архитектурой"/>
 <Allolog Form="архитектуры"/>
 <Allolog Form="архитектуре"/>
 <Allolog Form="архитектуру"/>
 <Allolog Form="архитектур"/>
+<Allolog Form="архитектурах"/>
 </Word>
 
 <Word Stem="декоративн" Weight="0.510919283340111">
@@ -129,39 +131,29 @@
 <Allolog Form="декоративным"/>
 </Word>
 
-<Word Stem="хранител" Weight="0.00100155054103284">
-<Allolog Form="хранителя"/>
-<Allolog Form="хранителем"/>
-<Allolog Form="хранитель"/>
-<Allolog Form="хранители"/>
-<Allolog Form="хранителей"/>
-<Allolog Form="хранителями"/>
-<Allolog Form="хранителю"/>
-<Allolog Form="хранителях"/>
-<Allolog Form="хранителям"/>
-<Allolog Form="хранителе"/>
-</Word>
-
-<Word Stem="искусств" Weight="0.560559294112693">
+<Word Stem="искусств" Weight="0.05">
 <Allolog Form="искусство"/>
 <Allolog Form="искусству"/>
 <Allolog Form="искусства"/>
+<Allolog Form="искусств"/>
 <Allolog Form="искусством"/>
 <Allolog Form="искусстве"/>
 <Allolog Form="искусствам"/>
-<Allolog Form="искусств"/>
 <Allolog Form="искусствах"/>
 <Allolog Form="искусствами"/>
 </Word>
 
-<Word Stem="ювелирн" Weight="0.0511258725512272">
+<Word Stem="ювелирн" Weight="0.05">
 <Allolog Form="ювелирной"/>
 <Allolog Form="ювелирная"/>
+<Allolog Form="ювелирную"/>
 <Allolog Form="ювелирные"/>
 <Allolog Form="ювелирное"/>
 <Allolog Form="ювелирного"/>
 <Allolog Form="ювелирном"/>
+<Allolog Form="ювелирным"/>
 <Allolog Form="ювелирными"/>
+<Allolog Form="ювелирный"/>
 <Allolog Form="ювелирно"/>
 </Word>
 
@@ -172,12 +164,12 @@
 <Word Stem="зрител" Weight="0.05">
 <Allolog Form="зрителей"/>
 <Allolog Form="зритель"/>
+<Allolog Form="зрителями"/>
 <Allolog Form="зрителю"/>
 <Allolog Form="зрители"/>
 <Allolog Form="зрителям"/>
 <Allolog Form="зрителя"/>
 <Allolog Form="зрителем"/>
-<Allolog Form="зрителями"/>
 <Allolog Form="зрителях"/>
 </Word>
 
@@ -191,12 +183,12 @@
 <Allolog Form="сценах"/>
 </Word>
 
-<Word Stem="портрет" Weight="0.0540561036303032">
+<Word Stem="портрет" Weight="0.05">
 <Allolog Form="портрет"/>
-<Allolog Form="портретом"/>
-<Allolog Form="портретах"/>
 <Allolog Form="портреты"/>
 <Allolog Form="портрета"/>
+<Allolog Form="портретом"/>
+<Allolog Form="портретах"/>
 <Allolog Form="портретов"/>
 <Allolog Form="портретам"/>
 <Allolog Form="портретами"/>
@@ -206,6 +198,7 @@
 
 <Word Stem="героическ" Weight="0.05">
 <Allolog Form="героически"/>
+<Allolog Form="героическую"/>
 <Allolog Form="героическое"/>
 <Allolog Form="героическими"/>
 <Allolog Form="героический"/>
@@ -216,25 +209,28 @@
 <Allolog Form="героической"/>
 <Allolog Form="героическая"/>
 <Allolog Form="героическим"/>
-<Allolog Form="героическую"/>
 </Word>
 
 <Word Stem="колоссальн" Weight="0.05">
 <Allolog Form="колоссальное"/>
 <Allolog Form="колоссальные"/>
 <Allolog Form="колоссальная"/>
-<Allolog Form="колоссальными"/>
+<Allolog Form="колоссальны"/>
 <Allolog Form="колоссальный"/>
-<Allolog Form="колоссального"/>
-<Allolog Form="колоссальной"/>
-<Allolog Form="колоссальную"/>
-<Allolog Form="колоссально"/>
 <Allolog Form="колоссальным"/>
+<Allolog Form="колоссальной"/>
+<Allolog Form="колоссального"/>
+<Allolog Form="колоссальна"/>
+<Allolog Form="колоссальную"/>
+<Allolog Form="колоссальными"/>
+<Allolog Form="колоссальней"/>
 <Allolog Form="колоссальном"/>
+<Allolog Form="колоссально"/>
 </Word>
 
 <Word Stem="академическ" Weight="0.05">
 <Allolog Form="академически"/>
+<Allolog Form="академические"/>
 <Allolog Form="академический"/>
 <Allolog Form="академического"/>
 <Allolog Form="академических"/>
@@ -244,17 +240,16 @@
 <Allolog Form="академическое"/>
 <Allolog Form="академическую"/>
 <Allolog Form="академическая"/>
-<Allolog Form="академические"/>
 <Allolog Form="академическими"/>
 </Word>
 
-<Word Stem="литературн" Weight="0.0528196919372469">
+<Word Stem="литературн" Weight="0.05">
 <Allolog Form="литературное"/>
-<Allolog Form="литературного"/>
 <Allolog Form="литературной"/>
 <Allolog Form="литературные"/>
-<Allolog Form="литературный"/>
 <Allolog Form="литературным"/>
+<Allolog Form="литературного"/>
+<Allolog Form="литературный"/>
 <Allolog Form="литературная"/>
 <Allolog Form="литературном"/>
 <Allolog Form="литературно"/>
@@ -264,27 +259,28 @@
 
 <Word Stem="создател" Weight="0.05">
 <Allolog Form="создатель"/>
-<Allolog Form="создателем"/>
 <Allolog Form="создателей"/>
-<Allolog Form="создатели"/>
-<Allolog Form="создател"/>
 <Allolog Form="создателя"/>
-<Allolog Form="создателю"/>
+<Allolog Form="создатели"/>
 <Allolog Form="создателями"/>
+<Allolog Form="создателем"/>
+<Allolog Form="создател"/>
+<Allolog Form="создателю"/>
 <Allolog Form="создателям"/>
 <Allolog Form="создателях"/>
 <Allolog Form="создателе"/>
 </Word>
 
-<Word Stem="путешественник" Weight="0.0511258725512272">
+<Word Stem="путешественник" Weight="0.05">
 <Allolog Form="путешественники"/>
 <Allolog Form="путешественников"/>
-<Allolog Form="путешественником"/>
 <Allolog Form="путешественник"/>
+<Allolog Form="путешественника"/>
+<Allolog Form="путешественнике"/>
+<Allolog Form="путешественнику"/>
+<Allolog Form="путешественником"/>
 <Allolog Form="путешественниками"/>
 <Allolog Form="путешественникам"/>
-<Allolog Form="путешественника"/>
-<Allolog Form="путешественнику"/>
 </Word>
 
 <Word Stem="выставк" Weight="0.5">
@@ -295,22 +291,23 @@
 <Allolog Form="выставка"/>
 <Allolog Form="выставке"/>
 <Allolog Form="выставкой"/>
+<Allolog Form="выставкам"/>
 </Word>
 
-<Word Stem="памятник" Weight="0.511171829497821">
+<Word Stem="памятник" Weight="0.5">
 <Allolog Form="памятников"/>
-<Allolog Form="памятникам"/>
+<Allolog Form="памятнике"/>
 <Allolog Form="памятники"/>
+<Allolog Form="памятниками"/>
 <Allolog Form="памятник"/>
 <Allolog Form="памятником"/>
-<Allolog Form="памятниками"/>
-<Allolog Form="памятника"/>
 <Allolog Form="памятниках"/>
-<Allolog Form="памятнике"/>
+<Allolog Form="памятника"/>
+<Allolog Form="памятникам"/>
 <Allolog Form="памятнику"/>
 </Word>
 
-<Word Stem="пословиц" Weight="0.0521907536366682">
+<Word Stem="пословиц" Weight="0.05">
 <Allolog Form="пословицу"/>
 <Allolog Form="пословица"/>
 <Allolog Form="пословицы"/>
@@ -322,27 +319,28 @@
 <Allolog Form="пословицей"/>
 </Word>
 
-<Word Stem="австралийск" Weight="0.0534410950564456">
+<Word Stem="австралийск" Weight="0.0527289283510586">
 <Allolog Form="австралийских"/>
 <Allolog Form="австралийские"/>
+<Allolog Form="австралийской"/>
+<Allolog Form="австралийскую"/>
 <Allolog Form="австралийская"/>
 <Allolog Form="австралийский"/>
-<Allolog Form="австралийском"/>
 <Allolog Form="австралийского"/>
+<Allolog Form="австралийском"/>
 <Allolog Form="австралийскими"/>
 <Allolog Form="австралийское"/>
-<Allolog Form="австралийскую"/>
-<Allolog Form="австралийской"/>
+<Allolog Form="австралийским"/>
 </Word>
 
 <Word Stem="поэт" Weight="0.5">
 <Allolog Form="поэто"/>
-<Allolog Form="поэты"/>
-<Allolog Form="поэтов"/>
-<Allolog Form="поэта"/>
 <Allolog Form="поэт"/>
+<Allolog Form="поэтов"/>
 <Allolog Form="поэтами"/>
 <Allolog Form="поэтом"/>
+<Allolog Form="поэта"/>
+<Allolog Form="поэты"/>
 <Allolog Form="поэти"/>
 <Allolog Form="поэту"/>
 <Allolog Form="поэтам"/>
@@ -350,15 +348,37 @@
 <Allolog Form="поэте"/>
 </Word>
 
+<Word Stem="ставля" Weight="0.0012537992631246">
+<Allolog Form="ставляйте"/>
+<Allolog Form="ставляется"/>
+<Allolog Form="ставляет"/>
+<Allolog Form="ставляющие"/>
+<Allolog Form="ставляют"/>
+<Allolog Form="ставлять"/>
+<Allolog Form="ставлялись"/>
+<Allolog Form="ставляли"/>
+<Allolog Form="ставляющих"/>
+<Allolog Form="ставляющая"/>
+<Allolog Form="ставляются"/>
+<Allolog Form="ставляющий"/>
+<Allolog Form="ставляем"/>
+<Allolog Form="ставляющей"/>
+<Allolog Form="ставлял"/>
+<Allolog Form="ставлялось"/>
+<Allolog Form="ставляющим"/>
+<Allolog Form="ставляющую"/>
+<Allolog Form="ставлявшей"/>
+</Word>
+
 <Word Stem="танц" Weight="0.05">
 <Allolog Form="танция"/>
+<Allolog Form="танце"/>
+<Allolog Form="танца"/>
 <Allolog Form="танцам"/>
 <Allolog Form="танцы"/>
 <Allolog Form="танцев"/>
 <Allolog Form="танцами"/>
-<Allolog Form="танца"/>
 <Allolog Form="танции"/>
-<Allolog Form="танце"/>
 <Allolog Form="танцующие"/>
 <Allolog Form="танцах"/>
 <Allolog Form="танцующего"/>
@@ -371,8 +391,9 @@
 <Allolog Form="танцую"/>
 <Allolog Form="танцю"/>
 <Allolog Form="танцующей"/>
-<Allolog Form="танцию"/>
 <Allolog Form="танцуй"/>
+<Allolog Form="танцующую"/>
+<Allolog Form="танцию"/>
 <Allolog Form="танцующая"/>
 </Word>
 
@@ -381,8 +402,8 @@
 <Allolog Form="силуэта"/>
 <Allolog Form="силуэт"/>
 <Allolog Form="силуэтом"/>
-<Allolog Form="силуэте"/>
 <Allolog Form="силуэтами"/>
+<Allolog Form="силуэте"/>
 </Word>
 
 <Word Stem="искусст" Weight="0.0557026753873787">
@@ -390,36 +411,36 @@
 <Allolog Form="искуссте"/>
 </Word>
 
-<Word Stem="рельеф" Weight="0.0534654590371304">
+<Word Stem="рельеф" Weight="0.0515526391816407">
 <Allolog Form="рельеф"/>
 <Allolog Form="рельефа"/>
-<Allolog Form="рельефах"/>
 <Allolog Form="рельефов"/>
+<Allolog Form="рельефе"/>
+<Allolog Form="рельефом"/>
 <Allolog Form="рельефы"/>
+<Allolog Form="рельефах"/>
 <Allolog Form="рельефами"/>
 <Allolog Form="рельефам"/>
-<Allolog Form="рельефе"/>
 <Allolog Form="рельефу"/>
-<Allolog Form="рельефом"/>
 </Word>
 
-<Word Stem="житейск" Weight="0.0515118278027353">
+<Word Stem="житейск" Weight="0.0511019599432874">
 <Allolog Form="житейские"/>
 <Allolog Form="житейская"/>
-<Allolog Form="житейских"/>
+<Allolog Form="житейского"/>
 <Allolog Form="житейском"/>
 <Allolog Form="житейским"/>
+<Allolog Form="житейских"/>
 <Allolog Form="житейский"/>
 <Allolog Form="житейской"/>
-<Allolog Form="житейского"/>
+<Allolog Form="житейски"/>
 <Allolog Form="житейско"/>
 <Allolog Form="житейское"/>
-<Allolog Form="житейски"/>
 <Allolog Form="житейскую"/>
 <Allolog Form="житейскими"/>
 </Word>
 
-<Word Stem="реализм" Weight="0.0554911942244876">
+<Word Stem="реализм" Weight="0.0561501513627346">
 <Allolog Form="реализм"/>
 <Allolog Form="реализма"/>
 <Allolog Form="реализмом"/>
@@ -439,19 +460,19 @@
 <Allolog Form="балетах"/>
 </Word>
 
-<Word Stem="ирон" Weight="0.052129110154637">
+<Word Stem="ирон" Weight="0.05">
 <Allolog Form="иронией"/>
 <Allolog Form="ирония"/>
-<Allolog Form="иронии"/>
 <Allolog Form="иронию"/>
+<Allolog Form="иронии"/>
 </Word>
 
 <Word Stem="романтик" Weight="0.05">
 <Allolog Form="романтики"/>
-<Allolog Form="романтика"/>
-<Allolog Form="романтику"/>
 <Allolog Form="романтик"/>
+<Allolog Form="романтика"/>
 <Allolog Form="романтикой"/>
+<Allolog Form="романтику"/>
 <Allolog Form="романтиков"/>
 <Allolog Form="романтико"/>
 <Allolog Form="романтикам"/>
@@ -462,19 +483,19 @@
 
 <Word Stem="музыкальн" Weight="0.05">
 <Allolog Form="музыкальные"/>
+<Allolog Form="музыкального"/>
+<Allolog Form="музыкальную"/>
+<Allolog Form="музыкальной"/>
 <Allolog Form="музыкальный"/>
 <Allolog Form="музыкально"/>
 <Allolog Form="музыкальное"/>
-<Allolog Form="музыкального"/>
-<Allolog Form="музыкальной"/>
 <Allolog Form="музыкальность"/>
 <Allolog Form="музыкальны"/>
-<Allolog Form="музыкальную"/>
 <Allolog Form="музыкальная"/>
 <Allolog Form="музыкальном"/>
 <Allolog Form="музыкальным"/>
-<Allolog Form="музыкальна"/>
 <Allolog Form="музыкальными"/>
+<Allolog Form="музыкальна"/>
 <Allolog Form="музыкальности"/>
 <Allolog Form="музыкальностью"/>
 </Word>
@@ -484,11 +505,11 @@
 <Allolog Form="писатель"/>
 <Allolog Form="писателя"/>
 <Allolog Form="писателей"/>
-<Allolog Form="писателями"/>
-<Allolog Form="писателе"/>
 <Allolog Form="писателем"/>
 <Allolog Form="писателю"/>
 <Allolog Form="писателям"/>
+<Allolog Form="писателями"/>
+<Allolog Form="писателе"/>
 <Allolog Form="писателях"/>
 </Word>
 
@@ -516,26 +537,26 @@
 <Allolog Form="классики"/>
 <Allolog Form="классике"/>
 <Allolog Form="классика"/>
-<Allolog Form="классик"/>
+<Allolog Form="классикой"/>
 <Allolog Form="классиков"/>
 <Allolog Form="классику"/>
-<Allolog Form="классикой"/>
+<Allolog Form="классик"/>
 <Allolog Form="классиком"/>
 <Allolog Form="классикам"/>
 <Allolog Form="классиками"/>
 <Allolog Form="классиках"/>
 </Word>
 
-<Word Stem="обнажен" Weight="0.0512970498550543">
+<Word Stem="обнажен" Weight="0.05">
 <Allolog Form="обнаженные"/>
 <Allolog Form="обнажения"/>
 <Allolog Form="обнаженными"/>
+<Allolog Form="обнаженное"/>
 <Allolog Form="обнаженного"/>
+<Allolog Form="обнаженная"/>
 <Allolog Form="обнаженным"/>
 <Allolog Form="обнаженной"/>
-<Allolog Form="обнаженное"/>
 <Allolog Form="обнажен"/>
-<Allolog Form="обнаженная"/>
 <Allolog Form="обнажении"/>
 <Allolog Form="обнаженном"/>
 <Allolog Form="обнаженность"/>
@@ -543,8 +564,8 @@
 <Allolog Form="обнаженно"/>
 <Allolog Form="обнажение"/>
 <Allolog Form="обнаженный"/>
-<Allolog Form="обнажено"/>
 <Allolog Form="обнаженную"/>
+<Allolog Form="обнажено"/>
 <Allolog Form="обнажённое"/>
 </Word>
 
@@ -559,9 +580,9 @@
 <Word Stem="шедевр" Weight="0.05">
 <Allolog Form="шедевр"/>
 <Allolog Form="шедевры"/>
+<Allolog Form="шедевре"/>
 <Allolog Form="шедеврами"/>
 <Allolog Form="шедевров"/>
-<Allolog Form="шедевре"/>
 <Allolog Form="шедевра"/>
 <Allolog Form="шедевром"/>
 <Allolog Form="шедевру"/>
@@ -569,19 +590,19 @@
 <Allolog Form="шедеврах"/>
 </Word>
 
-<Word Stem="интерьер" Weight="0.505066426480522">
+<Word Stem="интерьер" Weight="0.501787016255257">
 <Allolog Form="интерьера"/>
 <Allolog Form="интерьер"/>
 <Allolog Form="интерьеру"/>
-<Allolog Form="интерьером"/>
 <Allolog Form="интерьеров"/>
+<Allolog Form="интерьером"/>
 <Allolog Form="интерьере"/>
 <Allolog Form="интерьерах"/>
 <Allolog Form="интерьеры"/>
 <Allolog Form="интерьерами"/>
 </Word>
 
-<Word Stem="бытов" Weight="0.0515665830009377">
+<Word Stem="бытов" Weight="0.05">
 <Allolog Form="бытовой"/>
 <Allolog Form="бытового"/>
 <Allolog Form="бытовые"/>
@@ -618,28 +639,28 @@
 <Allolog Form="тональностями"/>
 </Word>
 
-<Word Stem="цивилизац" Weight="0.147127808514874">
+<Word Stem="цивилизац" Weight="0.0763625037118204">
 <Allolog Form="цивилизации"/>
 <Allolog Form="цивилизаций"/>
-<Allolog Form="цивилизация"/>
-<Allolog Form="цивилизациях"/>
-<Allolog Form="цивилизацией"/>
 <Allolog Form="цивилизациями"/>
-<Allolog Form="цивилизацию"/>
+<Allolog Form="цивилизацией"/>
+<Allolog Form="цивилизация"/>
 <Allolog Form="цивилизациям"/>
+<Allolog Form="цивилизацию"/>
+<Allolog Form="цивилизациях"/>
 </Word>
 
 <Word Stem="персонаж" Weight="0.5">
 <Allolog Form="персонажи"/>
 <Allolog Form="персонажа"/>
 <Allolog Form="персонажей"/>
+<Allolog Form="персонаж"/>
 <Allolog Form="персонажем"/>
 <Allolog Form="персонажах"/>
 <Allolog Form="персонажами"/>
-<Allolog Form="персонаж"/>
+<Allolog Form="персонаже"/>
 <Allolog Form="персонажу"/>
 <Allolog Form="персонажам"/>
-<Allolog Form="персонаже"/>
 <Allolog Form="персонажы"/>
 </Word>
 
@@ -655,7 +676,7 @@
 <Allolog Form="певцам"/>
 </Word>
 
-<Word Stem="модернизац" Weight="0.0528326746447686">
+<Word Stem="модернизац" Weight="0.0529838326860674">
 <Allolog Form="модернизации"/>
 <Allolog Form="модернизацию"/>
 <Allolog Form="модернизация"/>
@@ -666,22 +687,23 @@
 
 <Word Stem="пьес" Weight="0.05">
 <Allolog Form="пьесы"/>
-<Allolog Form="пьесу"/>
 <Allolog Form="пьесе"/>
+<Allolog Form="пьес"/>
+<Allolog Form="пьесу"/>
 <Allolog Form="пьеса"/>
 <Allolog Form="пьесах"/>
-<Allolog Form="пьес"/>
 <Allolog Form="пьесами"/>
 <Allolog Form="пьесам"/>
 <Allolog Form="пьесой"/>
 </Word>
 
-<Word Stem="письменных" Weight="0.0512974340828428">
+<Word Stem="письменных" Weight="0.05">
 <Allolog Form="письменных"/>
 </Word>
 
 <Word Stem="лирическ" Weight="0.05">
 <Allolog Form="лирических"/>
+<Allolog Form="лирически"/>
 <Allolog Form="лирической"/>
 <Allolog Form="лирического"/>
 <Allolog Form="лирическая"/>
@@ -692,11 +714,11 @@
 <Allolog Form="лирическое"/>
 <Allolog Form="лирическую"/>
 <Allolog Form="лирическом"/>
-<Allolog Form="лирически"/>
 </Word>
 
 <Word Stem="приобщен" Weight="0.05">
 <Allolog Form="приобщение"/>
+<Allolog Form="приобщением"/>
 <Allolog Form="приобщения"/>
 <Allolog Form="приобщенность"/>
 <Allolog Form="приобщении"/>
@@ -705,64 +727,53 @@
 <Allolog Form="приобщено"/>
 <Allolog Form="приобщен"/>
 <Allolog Form="приобщенностью"/>
+<Allolog Form="приобщенным"/>
+<Allolog Form="приобщенная"/>
 </Word>
 
 <Word Stem="расписа" Weight="0.05">
 <Allolog Form="расписали"/>
 <Allolog Form="расписаться"/>
+<Allolog Form="расписана"/>
+<Allolog Form="расписано"/>
 <Allolog Form="расписать"/>
 <Allolog Form="расписал"/>
 <Allolog Form="расписанные"/>
 <Allolog Form="расписанное"/>
 <Allolog Form="расписаны"/>
-<Allolog Form="расписана"/>
 <Allolog Form="расписанной"/>
-<Allolog Form="расписано"/>
 <Allolog Form="расписанный"/>
 <Allolog Form="расписался"/>
 <Allolog Form="расписан"/>
-<Allolog Form="расписала"/>
 <Allolog Form="расписались"/>
+<Allolog Form="расписала"/>
+<Allolog Form="расписалась"/>
 </Word>
 
-<Word Stem="ритуальн" Weight="0.0570740084655579">
+<Word Stem="ритуальн" Weight="0.0564950678414428">
 <Allolog Form="ритуальные"/>
+<Allolog Form="ритуальное"/>
+<Allolog Form="ритуального"/>
 <Allolog Form="ритуальным"/>
 <Allolog Form="ритуальность"/>
 <Allolog Form="ритуальной"/>
 <Allolog Form="ритуальную"/>
-<Allolog Form="ритуальное"/>
 <Allolog Form="ритуальности"/>
 <Allolog Form="ритуальная"/>
 <Allolog Form="ритуально"/>
-<Allolog Form="ритуального"/>
 <Allolog Form="ритуальными"/>
 <Allolog Form="ритуальный"/>
 <Allolog Form="ритуальном"/>
 </Word>
 
-<Word Stem="магическ" Weight="0.0595660998545919">
-<Allolog Form="магических"/>
-<Allolog Form="магические"/>
-<Allolog Form="магической"/>
-<Allolog Form="магическими"/>
-<Allolog Form="магический"/>
-<Allolog Form="магического"/>
-<Allolog Form="магическая"/>
-<Allolog Form="магическом"/>
-<Allolog Form="магическое"/>
-<Allolog Form="магическую"/>
-<Allolog Form="магическим"/>
-</Word>
-
-<Word Stem="живопис" Weight="0.541290448523623">
+<Word Stem="живопис" Weight="0.541621610510362">
 <Allolog Form="живописи"/>
-<Allolog Form="живопис"/>
 <Allolog Form="живописью"/>
+<Allolog Form="живопис"/>
 <Allolog Form="живописующий"/>
 </Word>
 
-<Word Stem="художник" Weight="0.507569144688071">
+<Word Stem="художник" Weight="0.5">
 <Allolog Form="художники"/>
 <Allolog Form="художника"/>
 <Allolog Form="художником"/>
@@ -775,19 +786,21 @@
 <Allolog Form="художниках"/>
 </Word>
 
-<Word Stem="алтар" Weight="0.504436546431593">
+<Word Stem="алтар" Weight="0.00276635553932501">
 <Allolog Form="алтарь"/>
-<Allolog Form="алтаре"/>
 <Allolog Form="алтаря"/>
+<Allolog Form="алтаре"/>
 <Allolog Form="алтарем"/>
 <Allolog Form="алтарей"/>
 <Allolog Form="алтари"/>
-<Allolog Form="алтарям"/>
+<Allolog Form="алтар"/>
 <Allolog Form="алтарю"/>
+<Allolog Form="алтарям"/>
 </Word>
 
-<Word Stem="утилитарн" Weight="0.0534660897885643">
+<Word Stem="утилитарн" Weight="0.0534930609294435">
 <Allolog Form="утилитарную"/>
+<Allolog Form="утилитарная"/>
 <Allolog Form="утилитарный"/>
 <Allolog Form="утилитарность"/>
 <Allolog Form="утилитарной"/>
@@ -800,10 +813,10 @@
 <Allolog Form="утилитарное"/>
 <Allolog Form="утилитарным"/>
 <Allolog Form="утилитарном"/>
-<Allolog Form="утилитарная"/>
+<Allolog Form="утилитарны"/>
 </Word>
 
-<Word Stem="художествен" Weight="0.540193392943432">
+<Word Stem="художествен" Weight="0.523490189291183">
 <Allolog Form="художественные"/>
 <Allolog Form="художественная"/>
 <Allolog Form="художественного"/>
@@ -812,18 +825,19 @@
 <Allolog Form="художественно"/>
 <Allolog Form="художественный"/>
 <Allolog Form="художественную"/>
+<Allolog Form="художественными"/>
 <Allolog Form="художествен"/>
 <Allolog Form="художественности"/>
 <Allolog Form="художественном"/>
 <Allolog Form="художественным"/>
 <Allolog Form="художественна"/>
-<Allolog Form="художественными"/>
 <Allolog Form="художественностью"/>
 <Allolog Form="художественность"/>
 <Allolog Form="художественый"/>
+<Allolog Form="художественны"/>
 </Word>
 
-<Word Stem="сакральн" Weight="0.0511243852750537">
+<Word Stem="сакральн" Weight="0.0511834302050867">
 <Allolog Form="сакральным"/>
 <Allolog Form="сакральное"/>
 <Allolog Form="сакральный"/>
@@ -838,28 +852,28 @@
 <Allolog Form="сакральную"/>
 </Word>
 
-<Word Stem="сюжет" Weight="0.501761026624557">
+<Word Stem="сюжет" Weight="0.5">
 <Allolog Form="сюжета"/>
 <Allolog Form="сюжеты"/>
+<Allolog Form="сюжетом"/>
 <Allolog Form="сюжет"/>
 <Allolog Form="сюжете"/>
 <Allolog Form="сюжетов"/>
-<Allolog Form="сюжетом"/>
 <Allolog Form="сюжетах"/>
 <Allolog Form="сюжетам"/>
 <Allolog Form="сюжету"/>
 <Allolog Form="сюжетами"/>
 </Word>
 
-<Word Stem="эстетическ" Weight="0.511406865005048">
+<Word Stem="эстетическ" Weight="0.510702539437333">
 <Allolog Form="эстетическую"/>
 <Allolog Form="эстетических"/>
+<Allolog Form="эстетическое"/>
+<Allolog Form="эстетического"/>
+<Allolog Form="эстетической"/>
 <Allolog Form="эстетическим"/>
 <Allolog Form="эстетическая"/>
 <Allolog Form="эстетически"/>
-<Allolog Form="эстетического"/>
-<Allolog Form="эстетическое"/>
-<Allolog Form="эстетической"/>
 <Allolog Form="эстетический"/>
 <Allolog Form="эстетические"/>
 <Allolog Form="эстетическими"/>
@@ -871,13 +885,13 @@
 <Allolog Form="художе"/>
 </Word>
 
-<Word Stem="ремесл" Weight="0.502388238081673">
+<Word Stem="ремесл" Weight="0.502823199423434">
 <Allolog Form="ремесла"/>
+<Allolog Form="ремеслу"/>
 <Allolog Form="ремеслом"/>
+<Allolog Form="ремеслами"/>
 <Allolog Form="ремесло"/>
 <Allolog Form="ремеслам"/>
-<Allolog Form="ремеслами"/>
-<Allolog Form="ремеслу"/>
 <Allolog Form="ремеслах"/>
 <Allolog Form="ремесле"/>
 </Word>
@@ -912,11 +926,11 @@
 
 <Word Stem="воспитательн" Weight="0.5">
 <Allolog Form="воспитательной"/>
+<Allolog Form="воспитательном"/>
 <Allolog Form="воспитательные"/>
 <Allolog Form="воспитательный"/>
 <Allolog Form="воспитательную"/>
 <Allolog Form="воспитательного"/>
-<Allolog Form="воспитательном"/>
 <Allolog Form="воспитательная"/>
 <Allolog Form="воспитательное"/>
 <Allolog Form="воспитательными"/>
@@ -929,6 +943,22 @@
 <Allolog Form="ассимиляция"/>
 <Allolog Form="ассимиляцией"/>
 <Allolog Form="ассимиляцию"/>
+</Word>
+
+<Word Stem="переплета" Weight="0.00102135768857423">
+<Allolog Form="переплетающимися"/>
+<Allolog Form="переплетающийся"/>
+<Allolog Form="переплетались"/>
+<Allolog Form="переплетается"/>
+<Allolog Form="переплетают"/>
+<Allolog Form="переплетаются"/>
+<Allolog Form="переплеталась"/>
+<Allolog Form="переплетался"/>
+<Allolog Form="переплетающихся"/>
+<Allolog Form="переплетаться"/>
+<Allolog Form="переплеталось"/>
+<Allolog Form="переплетающиеся"/>
+<Allolog Form="переплетаю"/>
 </Word>
 
 <Word Stem="мозаик" Weight="0.504645705685064">
@@ -944,43 +974,44 @@
 
 <Word Stem="олимпийск" Weight="0.05">
 <Allolog Form="олимпийского"/>
+<Allolog Form="олимпийских"/>
 <Allolog Form="олимпийский"/>
 <Allolog Form="олимпийская"/>
 <Allolog Form="олимпийские"/>
 <Allolog Form="олимпийскими"/>
 <Allolog Form="олимпийской"/>
-<Allolog Form="олимпийских"/>
-<Allolog Form="олимпийским"/>
 <Allolog Form="олимпийское"/>
-<Allolog Form="олимпийском"/>
+<Allolog Form="олимпийским"/>
 <Allolog Form="олимпийскую"/>
+<Allolog Form="олимпийском"/>
 </Word>
 
-<Word Stem="арабск" Weight="0.0540821186800908">
+<Word Stem="арабск" Weight="0.0518158381733217">
 <Allolog Form="арабскими"/>
-<Allolog Form="арабски"/>
 <Allolog Form="арабский"/>
-<Allolog Form="арабской"/>
-<Allolog Form="арабская"/>
+<Allolog Form="арабского"/>
 <Allolog Form="арабские"/>
 <Allolog Form="арабских"/>
 <Allolog Form="арабское"/>
-<Allolog Form="арабского"/>
+<Allolog Form="арабски"/>
+<Allolog Form="арабской"/>
+<Allolog Form="арабская"/>
 <Allolog Form="арабском"/>
 <Allolog Form="арабским"/>
 <Allolog Form="арабскую"/>
 <Allolog Form="арабско"/>
 </Word>
 
-<Word Stem="возрожден" Weight="0.504449916822172">
+<Word Stem="возрожден" Weight="0.501613730853067">
 <Allolog Form="возрождение"/>
+<Allolog Form="возрожден"/>
 <Allolog Form="возрождения"/>
-<Allolog Form="возрождению"/>
 <Allolog Form="возрождением"/>
+<Allolog Form="возрождению"/>
 <Allolog Form="возрождении"/>
+<Allolog Form="возрожденной"/>
 <Allolog Form="возрожденными"/>
 <Allolog Form="возрождениям"/>
-<Allolog Form="возрожденной"/>
 <Allolog Form="возрожденные"/>
 <Allolog Form="возрожденный"/>
 <Allolog Form="возрожденное"/>
@@ -988,17 +1019,17 @@
 <Allolog Form="возрожденья"/>
 </Word>
 
-<Word Stem="культ" Weight="0.538645925797731">
+<Word Stem="культ" Weight="0.538213292239417">
 <Allolog Form="культи"/>
 <Allolog Form="культю"/>
 <Allolog Form="культей"/>
 <Allolog Form="культях"/>
-<Allolog Form="культ"/>
-<Allolog Form="культом"/>
-<Allolog Form="культа"/>
-<Allolog Form="культов"/>
-<Allolog Form="культе"/>
 <Allolog Form="культы"/>
+<Allolog Form="культов"/>
+<Allolog Form="культ"/>
+<Allolog Form="культа"/>
+<Allolog Form="культом"/>
+<Allolog Form="культе"/>
 <Allolog Form="культами"/>
 <Allolog Form="культу"/>
 <Allolog Form="культя"/>
@@ -1010,33 +1041,34 @@
 <Allolog Form="возвышенных"/>
 </Word>
 
-<Word Stem="ритуа" Weight="0.508782925001067">
+<Word Stem="ритуа" Weight="0.506735465148095">
 <Allolog Form="ритуала"/>
 <Allolog Form="ритуал"/>
 </Word>
 
-<Word Stem="творц" Weight="0.5">
+<Word Stem="творц" Weight="0.05">
 <Allolog Form="творца"/>
-<Allolog Form="творцы"/>
 <Allolog Form="творцов"/>
-<Allolog Form="творцами"/>
 <Allolog Form="творцом"/>
 <Allolog Form="творце"/>
+<Allolog Form="творцы"/>
+<Allolog Form="творцами"/>
 <Allolog Form="творцу"/>
 <Allolog Form="творцам"/>
+<Allolog Form="творцах"/>
 </Word>
 
 <Word Stem="собирател" Weight="0.0532032890005884">
 <Allolog Form="собирателей"/>
-<Allolog Form="собирателями"/>
 <Allolog Form="собиратели"/>
+<Allolog Form="собирателями"/>
 <Allolog Form="собирателям"/>
 <Allolog Form="собиратель"/>
 <Allolog Form="собирателя"/>
 <Allolog Form="собирателем"/>
 </Word>
 
-<Word Stem="бронз" Weight="0.00108162505025651">
+<Word Stem="бронз" Weight="0.0012087537974652">
 <Allolog Form="бронзы"/>
 <Allolog Form="бронзу"/>
 <Allolog Form="бронза"/>
@@ -1046,15 +1078,15 @@
 
 <Word Stem="североамериканск" Weight="0.0512974340828428">
 <Allolog Form="североамериканских"/>
+<Allolog Form="североамериканский"/>
 <Allolog Form="североамериканской"/>
 <Allolog Form="североамериканские"/>
 <Allolog Form="североамериканского"/>
-<Allolog Form="североамериканский"/>
 <Allolog Form="североамериканским"/>
 <Allolog Form="североамериканском"/>
 </Word>
 
-<Word Stem="этнос" Weight="0.506191928680984">
+<Word Stem="этнос" Weight="0.506307903111438">
 <Allolog Form="этносы"/>
 <Allolog Form="этносов"/>
 <Allolog Form="этноса"/>
@@ -1064,7 +1096,7 @@
 <Allolog Form="этносу"/>
 </Word>
 
-<Word Stem="культурных" Weight="0.530714101753703">
+<Word Stem="культурных" Weight="0.522924691256403">
 <Allolog Form="культурных"/>
 </Word>
 
@@ -1075,51 +1107,54 @@
 <Word Stem="статуэтк" Weight="0.0518389251670044">
 <Allolog Form="статуэтка"/>
 <Allolog Form="статуэтки"/>
+<Allolog Form="статуэтку"/>
 <Allolog Form="статуэтке"/>
 </Word>
 
-<Word Stem="комед" Weight="0.0547894737426122">
+<Word Stem="комед" Weight="0.0554030883059545">
 <Allolog Form="комедии"/>
 <Allolog Form="комедий"/>
 <Allolog Form="комедия"/>
 <Allolog Form="комедию"/>
 <Allolog Form="комедиях"/>
 <Allolog Form="комедиям"/>
+<Allolog Form="комедиа"/>
 <Allolog Form="комедо"/>
 </Word>
 
-<Word Stem="обряд" Weight="0.0593518225963095">
+<Word Stem="обряд" Weight="0.0554526510574147">
 <Allolog Form="обрядов"/>
+<Allolog Form="обряда"/>
 <Allolog Form="обрядом"/>
 <Allolog Form="обряде"/>
 <Allolog Form="обряд"/>
 <Allolog Form="обрядах"/>
-<Allolog Form="обряда"/>
 <Allolog Form="обряды"/>
 <Allolog Form="обрядами"/>
 <Allolog Form="обряду"/>
 <Allolog Form="обрядам"/>
+<Allolog Form="обрядить"/>
 </Word>
 
 <Word Stem="драматическ" Weight="0.05">
 <Allolog Form="драматических"/>
-<Allolog Form="драматическая"/>
-<Allolog Form="драматической"/>
-<Allolog Form="драматический"/>
-<Allolog Form="драматическим"/>
-<Allolog Form="драматические"/>
-<Allolog Form="драматическую"/>
-<Allolog Form="драматическое"/>
 <Allolog Form="драматически"/>
+<Allolog Form="драматической"/>
+<Allolog Form="драматические"/>
+<Allolog Form="драматическое"/>
+<Allolog Form="драматический"/>
 <Allolog Form="драматического"/>
+<Allolog Form="драматическая"/>
+<Allolog Form="драматическим"/>
+<Allolog Form="драматическую"/>
 <Allolog Form="драматическом"/>
 <Allolog Form="драматическими"/>
 </Word>
 
-<Word Stem="монгольск" Weight="0.0512134531067688">
+<Word Stem="монгольск" Weight="0.0512582077342547">
 <Allolog Form="монгольские"/>
-<Allolog Form="монгольски"/>
 <Allolog Form="монгольская"/>
+<Allolog Form="монгольски"/>
 <Allolog Form="монгольский"/>
 <Allolog Form="монгольское"/>
 <Allolog Form="монгольского"/>
@@ -1141,25 +1176,15 @@
 <Allolog Form="галерами"/>
 </Word>
 
-<Word Stem="европейц" Weight="0.00110612987090843">
-<Allolog Form="европейцами"/>
-<Allolog Form="европейцы"/>
-<Allolog Form="европейцев"/>
-<Allolog Form="европейцам"/>
-<Allolog Form="европейца"/>
-<Allolog Form="европейцу"/>
-<Allolog Form="европейцем"/>
-</Word>
-
-<Word Stem="живописн" Weight="0.503890817418981">
+<Word Stem="живописн" Weight="0.504004471376823">
 <Allolog Form="живописного"/>
+<Allolog Form="живописные"/>
+<Allolog Form="живописным"/>
 <Allolog Form="живописной"/>
 <Allolog Form="живописными"/>
 <Allolog Form="живописный"/>
 <Allolog Form="живописность"/>
-<Allolog Form="живописные"/>
 <Allolog Form="живописную"/>
-<Allolog Form="живописным"/>
 <Allolog Form="живописная"/>
 <Allolog Form="живописное"/>
 <Allolog Form="живописности"/>
@@ -1169,331 +1194,84 @@
 <Allolog Form="живописна"/>
 </Word>
 
-<Word Stem="египетск" Weight="0.0544036705386283">
+<Word Stem="египетск" Weight="0.0518745995514833">
 <Allolog Form="египетских"/>
-<Allolog Form="египетская"/>
 <Allolog Form="египетские"/>
-<Allolog Form="египетски"/>
-<Allolog Form="египетский"/>
-<Allolog Form="египетского"/>
-<Allolog Form="египетском"/>
-<Allolog Form="египетское"/>
 <Allolog Form="египетской"/>
-<Allolog Form="египетским"/>
-<Allolog Form="египетскую"/>
+<Allolog Form="египетский"/>
+<Allolog Form="египетском"/>
+<Allolog Form="египетская"/>
+<Allolog Form="египетского"/>
+<Allolog Form="египетское"/>
 <Allolog Form="египетскими"/>
+<Allolog Form="египетскую"/>
+<Allolog Form="египетски"/>
+<Allolog Form="египетским"/>
 <Allolog Form="египетско"/>
 </Word>
 
-<Word Stem="миниатюрн" Weight="0.0514738695216065">
+<Word Stem="миниатюрн" Weight="0.05">
 <Allolog Form="миниатюрные"/>
-<Allolog Form="миниатюрном"/>
-<Allolog Form="миниатюрная"/>
-<Allolog Form="миниатюрной"/>
-<Allolog Form="миниатюрность"/>
 <Allolog Form="миниатюрного"/>
 <Allolog Form="миниатюрный"/>
+<Allolog Form="миниатюрными"/>
+<Allolog Form="миниатюрная"/>
+<Allolog Form="миниатюрной"/>
+<Allolog Form="миниатюрном"/>
+<Allolog Form="миниатюрность"/>
+<Allolog Form="миниатюрное"/>
 <Allolog Form="миниатюрны"/>
 <Allolog Form="миниатюрным"/>
 <Allolog Form="миниатюрную"/>
 </Word>
 
-<Word Stem="первобытных" Weight="0.0520640397047531">
+<Word Stem="первобытных" Weight="0.0522625056030032">
 <Allolog Form="первобытных"/>
 </Word>
 
-<Word Stem="композиц" Weight="0.5">
-<Allolog Form="композицию"/>
-<Allolog Form="композиции"/>
-<Allolog Form="композиция"/>
-<Allolog Form="композиций"/>
-<Allolog Form="композицией"/>
-<Allolog Form="композициях"/>
-<Allolog Form="композициям"/>
-<Allolog Form="композициями"/>
-<Allolog Form="композиц"/>
+<Word Stem="первобытн" Weight="0.0582744973953487">
+<Allolog Form="первобытного"/>
+<Allolog Form="первобытный"/>
+<Allolog Form="первобытные"/>
+<Allolog Form="первобытной"/>
+<Allolog Form="первобытную"/>
+<Allolog Form="первобытности"/>
+<Allolog Form="первобытная"/>
+<Allolog Form="первобытными"/>
+<Allolog Form="первобытно"/>
+<Allolog Form="первобытном"/>
+<Allolog Form="первобытным"/>
+<Allolog Form="первобытное"/>
+<Allolog Form="первобытность"/>
+<Allolog Form="первобытностью"/>
+<Allolog Form="первобытна"/>
+<Allolog Form="первобытнейший"/>
 </Word>
 
-<Word Stem="украш" Weight="0.501297434082843">
-<Allolog Form="украшая"/>
-<Allolog Form="украше"/>
-<Allolog Form="украшены"/>
-<Allolog Form="украша"/>
-<Allolog Form="украшена"/>
-</Word>
-
-<Word Stem="западноевропейск" Weight="0.0530334763128958">
-<Allolog Form="западноевропейский"/>
-<Allolog Form="западноевропейским"/>
-<Allolog Form="западноевропейском"/>
-<Allolog Form="западноевропейская"/>
-<Allolog Form="западноевропейского"/>
-<Allolog Form="западноевропейской"/>
-<Allolog Form="западноевропейских"/>
-<Allolog Form="западноевропейское"/>
-<Allolog Form="западноевропейскую"/>
-<Allolog Form="западноевропейскими"/>
-<Allolog Form="западноевропейские"/>
-</Word>
-
-<Word Stem="художеств" Weight="0.502410201239294">
-<Allolog Form="художество"/>
-<Allolog Form="художеств"/>
-<Allolog Form="художества"/>
-<Allolog Form="художеству"/>
-</Word>
-
-<Word Stem="флорентийск" Weight="0.0511258725512272">
-<Allolog Form="флорентийски"/>
-<Allolog Form="флорентийская"/>
-<Allolog Form="флорентийские"/>
-<Allolog Form="флорентийских"/>
-<Allolog Form="флорентийской"/>
-<Allolog Form="флорентийского"/>
-<Allolog Form="флорентийскую"/>
-<Allolog Form="флорентийский"/>
-</Word>
-
-<Word Stem="пейзаж" Weight="0.0549511603534561">
-<Allolog Form="пейзаж"/>
-<Allolog Form="пейзажа"/>
-<Allolog Form="пейзаже"/>
-<Allolog Form="пейзажи"/>
-<Allolog Form="пейзажах"/>
-<Allolog Form="пейзажей"/>
-<Allolog Form="пейзажами"/>
-<Allolog Form="пейзажу"/>
-<Allolog Form="пейзажем"/>
-<Allolog Form="пейзажам"/>
-</Word>
-
-<Word Stem="этикет" Weight="0.0622427072762213">
-<Allolog Form="этикету"/>
-<Allolog Form="этикета"/>
-<Allolog Form="этикет"/>
-<Allolog Form="этикетом"/>
-<Allolog Form="этикете"/>
-</Word>
-
-<Word Stem="орнамент" Weight="0.505066426480522">
-<Allolog Form="орнамента"/>
-<Allolog Form="орнамент"/>
-<Allolog Form="орнаментом"/>
-<Allolog Form="орнаменты"/>
-<Allolog Form="орнаментам"/>
-<Allolog Form="орнаментов"/>
-<Allolog Form="орнаментами"/>
-<Allolog Form="орнаменте"/>
-<Allolog Form="орнаменту"/>
-</Word>
-
-<Word Stem="классицизм" Weight="0.0629803325043568">
-<Allolog Form="классицизма"/>
-<Allolog Form="классицизме"/>
-<Allolog Form="классицизм"/>
-<Allolog Form="классицизмами"/>
-<Allolog Form="классицизму"/>
-<Allolog Form="классицизмом"/>
-</Word>
-
-<Word Stem="античн" Weight="0.53067832534995">
-<Allolog Form="античную"/>
-<Allolog Form="античности"/>
-<Allolog Form="античная"/>
-<Allolog Form="античной"/>
-<Allolog Form="античность"/>
-<Allolog Form="античное"/>
-<Allolog Form="античными"/>
-<Allolog Form="античный"/>
-<Allolog Form="античные"/>
-<Allolog Form="античностью"/>
-<Allolog Form="античного"/>
-<Allolog Form="античном"/>
-<Allolog Form="антично"/>
-<Allolog Form="античным"/>
-</Word>
-
-<Word Stem="трад" Weight="0.052026570592209">
-<Allolog Form="тради"/>
-</Word>
-
-<Word Stem="обыча" Weight="0.508226897467809">
-<Allolog Form="обычай"/>
-<Allolog Form="обычае"/>
-<Allolog Form="обычаи"/>
-<Allolog Form="обычаям"/>
-<Allolog Form="обычаях"/>
-<Allolog Form="обычаев"/>
-<Allolog Form="обычаем"/>
-<Allolog Form="обычаями"/>
-<Allolog Form="обычаю"/>
-</Word>
-
-<Word Stem="каст" Weight="0.0545346767944936">
-<Allolog Form="каст"/>
-<Allolog Form="кастах"/>
-<Allolog Form="касты"/>
-<Allolog Form="касту"/>
-<Allolog Form="касте"/>
-<Allolog Form="кастой"/>
-<Allolog Form="кастами"/>
-<Allolog Form="каста"/>
-<Allolog Form="кастою"/>
-</Word>
-
-<Word Stem="идол" Weight="0.0520482798168825">
-<Allolog Form="идолам"/>
-<Allolog Form="идолов"/>
-<Allolog Form="идолу"/>
-<Allolog Form="идола"/>
-<Allolog Form="идол"/>
-<Allolog Form="идолы"/>
-<Allolog Form="идолами"/>
-<Allolog Form="идолах"/>
-</Word>
-
-<Word Stem="празднеств" Weight="0.0518074925153682">
-<Allolog Form="празднествах"/>
-<Allolog Form="празднествам"/>
-<Allolog Form="празднества"/>
-<Allolog Form="празднеств"/>
-<Allolog Form="празднество"/>
-</Word>
-
-<Word Stem="фреск" Weight="0.0572055843278541">
-<Allolog Form="фресках"/>
-<Allolog Form="фреско"/>
-<Allolog Form="фрески"/>
-<Allolog Form="фрескам"/>
-<Allolog Form="фресками"/>
-<Allolog Form="фреска"/>
-<Allolog Form="фреску"/>
-<Allolog Form="фреске"/>
-</Word>
-
-<Word Stem="аполлон" Weight="0.0530023268032725">
-<Allolog Form="аполлону"/>
-<Allolog Form="аполлон"/>
-<Allolog Form="аполлона"/>
-<Allolog Form="аполлоний"/>
-<Allolog Form="аполлоном"/>
-<Allolog Form="аполлоне"/>
-<Allolog Form="аполлони"/>
-<Allolog Form="аполлония"/>
-</Word>
-
-<Word Stem="египтян" Weight="0.0528030344206415">
-<Allolog Form="египтяне"/>
-<Allolog Form="египтянам"/>
-<Allolog Form="египтянами"/>
-</Word>
-
-<Word Stem="летопис" Weight="0.0518631647998047">
-<Allolog Form="летописях"/>
-<Allolog Form="летописи"/>
-<Allolog Form="летописей"/>
-<Allolog Form="летописям"/>
-<Allolog Form="летописью"/>
-</Word>
-
-<Word Stem="роман" Weight="0.508015623289984">
-<Allolog Form="романе"/>
-<Allolog Form="романов"/>
-<Allolog Form="романах"/>
-<Allolog Form="роману"/>
-<Allolog Form="романом"/>
-<Allolog Form="романи"/>
-<Allolog Form="романам"/>
-<Allolog Form="романами"/>
-</Word>
-
-<Word Stem="сказан" Weight="0.0547926103780396">
-<Allolog Form="сказаний"/>
-<Allolog Form="сказания"/>
-<Allolog Form="сказание"/>
-<Allolog Form="сказанию"/>
-<Allolog Form="сказаниях"/>
-<Allolog Form="сказании"/>
-<Allolog Form="сказанием"/>
-<Allolog Form="сказаное"/>
-</Word>
-
-<Word Stem="древнегреческ" Weight="0.0591596029050077">
-<Allolog Form="древнегреческий"/>
-<Allolog Form="древнегреческая"/>
+<Word Stem="древнегреческ" Weight="0.0578863813982984">
 <Allolog Form="древнегреческой"/>
 <Allolog Form="древнегреческих"/>
-<Allolog Form="древнегреческом"/>
-<Allolog Form="древнегреческие"/>
-<Allolog Form="древнегреческое"/>
-<Allolog Form="древнегреческого"/>
+<Allolog Form="древнегреческий"/>
 <Allolog Form="древнегреческую"/>
-<Allolog Form="древнегреческими"/>
 <Allolog Form="древнегреческим"/>
+<Allolog Form="древнегреческом"/>
+<Allolog Form="древнегреческого"/>
+<Allolog Form="древнегреческие"/>
+<Allolog Form="древнегреческая"/>
+<Allolog Form="древнегреческое"/>
+<Allolog Form="древнегреческими"/>
 </Word>
 
-<Word Stem="канон" Weight="0.0549683801339583">
-<Allolog Form="канон"/>
-<Allolog Form="каноны"/>
-<Allolog Form="каноном"/>
-<Allolog Form="канона"/>
-<Allolog Form="канонов"/>
-<Allolog Form="канонами"/>
-<Allolog Form="канону"/>
-<Allolog Form="канонам"/>
-<Allolog Form="канони"/>
-<Allolog Form="каноне"/>
-<Allolog Form="канонах"/>
-</Word>
-
-<Word Stem="литературных" Weight="0.0518363513669826">
-<Allolog Form="литературных"/>
-</Word>
-
-<Word Stem="икон" Weight="0.503900452616092">
-<Allolog Form="икону"/>
-<Allolog Form="иконы"/>
-<Allolog Form="икон"/>
-<Allolog Form="иконе"/>
-<Allolog Form="иконо"/>
-<Allolog Form="икона"/>
-<Allolog Form="иконами"/>
-<Allolog Form="иконах"/>
-<Allolog Form="иконам"/>
-<Allolog Form="иконой"/>
-<Allolog Form="иконою"/>
-</Word>
-
-<Word Stem="обрядов" Weight="0.0513047333225977">
-<Allolog Form="обрядовым"/>
-<Allolog Form="обрядовое"/>
-<Allolog Form="обрядовые"/>
-<Allolog Form="обрядовость"/>
-<Allolog Form="обрядовостью"/>
-<Allolog Form="обрядовая"/>
-<Allolog Form="обрядовый"/>
-<Allolog Form="обрядовой"/>
-<Allolog Form="обрядовыми"/>
-<Allolog Form="обрядовую"/>
-</Word>
-
-<Word Stem="гогол" Weight="0.0546300305844257">
-<Allolog Form="гоголь"/>
-<Allolog Form="гоголя"/>
-<Allolog Form="гоголем"/>
-<Allolog Form="гоголю"/>
-</Word>
-
-<Word Stem="средневеков" Weight="0.0678948505986471">
+<Word Stem="средневеков" Weight="0.0707252941291385">
 <Allolog Form="средневековья"/>
-<Allolog Form="средневековый"/>
-<Allolog Form="средневековая"/>
-<Allolog Form="средневековой"/>
+<Allolog Form="средневековье"/>
 <Allolog Form="средневековое"/>
 <Allolog Form="средневекового"/>
-<Allolog Form="средневековую"/>
-<Allolog Form="средневековье"/>
 <Allolog Form="средневековые"/>
+<Allolog Form="средневековый"/>
+<Allolog Form="средневековой"/>
+<Allolog Form="средневековая"/>
+<Allolog Form="средневековую"/>
 <Allolog Form="средневековом"/>
 <Allolog Form="средневековыми"/>
 <Allolog Form="средневековью"/>
@@ -1503,97 +1281,377 @@
 <Allolog Form="средневековие"/>
 </Word>
 
-<Word Stem="спектакл" Weight="0.05">
-<Allolog Form="спектакле"/>
-<Allolog Form="спектакль"/>
-<Allolog Form="спектакли"/>
-<Allolog Form="спектаклей"/>
-<Allolog Form="спектакля"/>
-<Allolog Form="спектаклю"/>
-<Allolog Form="спектаклях"/>
-<Allolog Form="спектаклям"/>
-<Allolog Form="спектаклями"/>
-<Allolog Form="спектаклем"/>
+<Word Stem="обожествлен" Weight="0.0510839194921309">
+<Allolog Form="обожествлению"/>
+<Allolog Form="обожествление"/>
+<Allolog Form="обожествленным"/>
+<Allolog Form="обожествлении"/>
+<Allolog Form="обожествлен"/>
+<Allolog Form="обожествления"/>
+<Allolog Form="обожествлением"/>
+<Allolog Form="обожествленный"/>
+<Allolog Form="обожествленного"/>
+<Allolog Form="обожествленной"/>
 </Word>
 
-<Word Stem="выставок" Weight="0.0516545431404991">
-<Allolog Form="выставок"/>
+<Word Stem="александрийск" Weight="0.05">
+<Allolog Form="александрийским"/>
+<Allolog Form="александрийской"/>
+<Allolog Form="александрийская"/>
+<Allolog Form="александрийский"/>
+<Allolog Form="александрийские"/>
+<Allolog Form="александрийском"/>
+<Allolog Form="александрийскую"/>
+<Allolog Form="александрийски"/>
+<Allolog Form="александрийского"/>
 </Word>
 
-<Word Stem="фольклор" Weight="0.05">
-<Allolog Form="фольклоре"/>
-<Allolog Form="фольклор"/>
-<Allolog Form="фольклора"/>
-<Allolog Form="фольклором"/>
-<Allolog Form="фольклору"/>
+<Word Stem="григорианск" Weight="0.0515330700409354">
+<Allolog Form="григорианский"/>
+<Allolog Form="григорианского"/>
+<Allolog Form="григорианском"/>
+<Allolog Form="григорианские"/>
+<Allolog Form="григорианское"/>
+<Allolog Form="григорианскими"/>
+<Allolog Form="григорианских"/>
+<Allolog Form="григорианской"/>
 </Word>
 
-<Word Stem="драм" Weight="0.05">
-<Allolog Form="драмы"/>
-<Allolog Form="драма"/>
-<Allolog Form="драме"/>
-<Allolog Form="драму"/>
-<Allolog Form="драмах"/>
-<Allolog Form="драмой"/>
-<Allolog Form="драмам"/>
-<Allolog Form="драмами"/>
+<Word Stem="дионис" Weight="0.0553033998080036">
+<Allolog Form="дионисием"/>
+<Allolog Form="дионисий"/>
+<Allolog Form="дионисия"/>
+<Allolog Form="дионису"/>
+<Allolog Form="диониса"/>
+<Allolog Form="дионис"/>
+<Allolog Form="дионисом"/>
+<Allolog Form="дионисио"/>
+<Allolog Form="дионисию"/>
+<Allolog Form="дионисе"/>
+<Allolog Form="дионисиев"/>
 </Word>
 
-<Word Stem="первобытн" Weight="0.0595926165654763">
-<Allolog Form="первобытного"/>
-<Allolog Form="первобытный"/>
-<Allolog Form="первобытной"/>
-<Allolog Form="первобытности"/>
-<Allolog Form="первобытная"/>
-<Allolog Form="первобытные"/>
-<Allolog Form="первобытными"/>
-<Allolog Form="первобытно"/>
-<Allolog Form="первобытном"/>
-<Allolog Form="первобытным"/>
-<Allolog Form="первобытное"/>
-<Allolog Form="первобытность"/>
-<Allolog Form="первобытную"/>
-<Allolog Form="первобытностью"/>
-<Allolog Form="первобытна"/>
-<Allolog Form="первобытнейший"/>
+<Word Stem="аполлон" Weight="0.05">
+<Allolog Form="аполлон"/>
+<Allolog Form="аполлона"/>
+<Allolog Form="аполлоны"/>
+<Allolog Form="аполлонов"/>
+<Allolog Form="аполлоном"/>
+<Allolog Form="аполлоний"/>
+<Allolog Form="аполлонием"/>
+<Allolog Form="аполлония"/>
+<Allolog Form="аполлону"/>
+<Allolog Form="аполлоне"/>
+<Allolog Form="аполлони"/>
 </Word>
 
-<Word Stem="театр" Weight="0.5">
-<Allolog Form="театром"/>
-<Allolog Form="театр"/>
-<Allolog Form="театры"/>
-<Allolog Form="театра"/>
-<Allolog Form="театров"/>
-<Allolog Form="театре"/>
-<Allolog Form="театру"/>
-<Allolog Form="театрах"/>
-<Allolog Form="театрами"/>
-<Allolog Form="театро"/>
+<Word Stem="ломоносов" Weight="0.0512974340828428">
+<Allolog Form="ломоносову"/>
+<Allolog Form="ломоносова"/>
+<Allolog Form="ломоносовым"/>
 </Word>
 
-<Word Stem="изящн" Weight="0.00249684197929931">
-<Allolog Form="изящно"/>
-<Allolog Form="изящной"/>
-<Allolog Form="изящное"/>
-<Allolog Form="изящного"/>
-<Allolog Form="изящными"/>
-<Allolog Form="изящные"/>
-<Allolog Form="изящным"/>
-<Allolog Form="изящном"/>
-<Allolog Form="изящную"/>
-<Allolog Form="изящны"/>
-<Allolog Form="изящная"/>
-<Allolog Form="изящности"/>
-<Allolog Form="изящность"/>
-<Allolog Form="изящный"/>
-<Allolog Form="изящна"/>
-<Allolog Form="изящнее"/>
-<Allolog Form="изящностью"/>
+<Word Stem="пейзаж" Weight="0.0537320002373514">
+<Allolog Form="пейзаж"/>
+<Allolog Form="пейзажа"/>
+<Allolog Form="пейзажей"/>
+<Allolog Form="пейзажи"/>
+<Allolog Form="пейзаже"/>
+<Allolog Form="пейзажах"/>
+<Allolog Form="пейзажами"/>
+<Allolog Form="пейзажу"/>
+<Allolog Form="пейзажем"/>
+<Allolog Form="пейзажам"/>
+</Word>
+
+<Word Stem="мифолог" Weight="0.0624320837580071">
+<Allolog Form="мифологии"/>
+<Allolog Form="мифология"/>
+<Allolog Form="мифологией"/>
+<Allolog Form="мифологи"/>
+<Allolog Form="мифологию"/>
+<Allolog Form="мифологиями"/>
+<Allolog Form="мифолог"/>
+<Allolog Form="мифологем"/>
+<Allolog Form="мифологиях"/>
+<Allolog Form="мифологий"/>
+</Word>
+
+<Word Stem="мифологическ" Weight="0.0557933516479446">
+<Allolog Form="мифологических"/>
+<Allolog Form="мифологические"/>
+<Allolog Form="мифологическими"/>
+<Allolog Form="мифологическое"/>
+<Allolog Form="мифологического"/>
+<Allolog Form="мифологической"/>
+<Allolog Form="мифологическим"/>
+<Allolog Form="мифологический"/>
+<Allolog Form="мифологическая"/>
+<Allolog Form="мифологическом"/>
+<Allolog Form="мифологическую"/>
+<Allolog Form="мифологически"/>
+</Word>
+
+<Word Stem="ахилл" Weight="0.0512974340828428">
+<Allolog Form="ахилл"/>
+<Allolog Form="ахилла"/>
+<Allolog Form="ахиллом"/>
+<Allolog Form="ахилло"/>
+<Allolog Form="ахиллу"/>
+</Word>
+
+<Word Stem="летопис" Weight="0.0518866973261685">
+<Allolog Form="летописях"/>
+<Allolog Form="летописи"/>
+<Allolog Form="летописей"/>
+<Allolog Form="летописям"/>
+<Allolog Form="летописями"/>
+<Allolog Form="летописью"/>
+</Word>
+
+<Word Stem="мироздан" Weight="0.05">
+<Allolog Form="мироздания"/>
+<Allolog Form="мироздании"/>
+<Allolog Form="мироздание"/>
+<Allolog Form="мирозданию"/>
+<Allolog Form="мирозданием"/>
+<Allolog Form="мирозданьях"/>
+<Allolog Form="мирозданья"/>
+</Word>
+
+<Word Stem="пантеон" Weight="0.0532032890005884">
+<Allolog Form="пантеона"/>
+<Allolog Form="пантеон"/>
+<Allolog Form="пантеоне"/>
+</Word>
+
+<Word Stem="гуревич" Weight="0.05">
+<Allolog Form="гуревич"/>
+<Allolog Form="гуревича"/>
+<Allolog Form="гуревичу"/>
+<Allolog Form="гуревичем"/>
+</Word>
+
+<Word Stem="античн" Weight="0.528083777353223">
+<Allolog Form="античной"/>
+<Allolog Form="античное"/>
+<Allolog Form="античности"/>
+<Allolog Form="античном"/>
+<Allolog Form="античные"/>
+<Allolog Form="античный"/>
+<Allolog Form="античными"/>
+<Allolog Form="античного"/>
+<Allolog Form="античным"/>
+<Allolog Form="античная"/>
+<Allolog Form="античную"/>
+<Allolog Form="античность"/>
+<Allolog Form="античностью"/>
+<Allolog Form="антично"/>
+</Word>
+
+<Word Stem="поэм" Weight="0.0528144153546141">
+<Allolog Form="поэме"/>
+<Allolog Form="поэму"/>
+<Allolog Form="поэмы"/>
+<Allolog Form="поэма"/>
+<Allolog Form="поэмах"/>
+<Allolog Form="поэм"/>
+<Allolog Form="поэмой"/>
+<Allolog Form="поэмами"/>
+<Allolog Form="поэмам"/>
+</Word>
+
+<Word Stem="флорентийск" Weight="0.0511258725512272">
+<Allolog Form="флорентийской"/>
+<Allolog Form="флорентийскими"/>
+<Allolog Form="флорентийски"/>
+<Allolog Form="флорентийская"/>
+<Allolog Form="флорентийские"/>
+<Allolog Form="флорентийских"/>
+<Allolog Form="флорентийского"/>
+<Allolog Form="флорентийскую"/>
+<Allolog Form="флорентийский"/>
+</Word>
+
+<Word Stem="капелл" Weight="0.05">
+<Allolog Form="капеллы"/>
+<Allolog Form="капеллу"/>
+<Allolog Form="капелла"/>
+<Allolog Form="капеллой"/>
+<Allolog Form="капелле"/>
+<Allolog Form="капелл"/>
+<Allolog Form="капелли"/>
+<Allolog Form="капеллах"/>
+<Allolog Form="капеллами"/>
+</Word>
+
+<Word Stem="рома" Weight="0.5">
+<Allolog Form="роман"/>
+<Allolog Form="романа"/>
+<Allolog Form="романы"/>
+<Allolog Form="романо"/>
+<Allolog Form="романной"/>
+</Word>
+
+<Word Stem="сентиментальн" Weight="0.0518686530318299">
+<Allolog Form="сентиментально"/>
+<Allolog Form="сентиментальность"/>
+<Allolog Form="сентиментальности"/>
+<Allolog Form="сентиментальная"/>
+<Allolog Form="сентиментальном"/>
+<Allolog Form="сентиментальный"/>
+<Allolog Form="сентиментальные"/>
+<Allolog Form="сентиментальностью"/>
+<Allolog Form="сентиментального"/>
+<Allolog Form="сентиментальной"/>
+<Allolog Form="сентиментальным"/>
+<Allolog Form="сентиментальна"/>
+<Allolog Form="сентиментальны"/>
+<Allolog Form="сентиментальную"/>
+<Allolog Form="сентиментальное"/>
+</Word>
+
+<Word Stem="вергил" Weight="0.0512974340828428">
+<Allolog Form="вергилий"/>
+<Allolog Form="вергилия"/>
+<Allolog Form="вергилием"/>
+<Allolog Form="вергилии"/>
+</Word>
+
+<Word Stem="стату" Weight="0.509928675822573">
+<Allolog Form="статуя"/>
+<Allolog Form="статуи"/>
+<Allolog Form="статуе"/>
+<Allolog Form="статуях"/>
+<Allolog Form="статуями"/>
+<Allolog Form="статуей"/>
+<Allolog Form="статуям"/>
+</Word>
+
+<Word Stem="трагед" Weight="0.05">
+<Allolog Form="трагедия"/>
+<Allolog Form="трагедии"/>
+<Allolog Form="трагедию"/>
+<Allolog Form="трагедий"/>
+<Allolog Form="трагедиях"/>
+<Allolog Form="трагедией"/>
+<Allolog Form="трагедиям"/>
+<Allolog Form="трагедиями"/>
+</Word>
+
+<Word Stem="архитектурн" Weight="0.508944863303543">
+<Allolog Form="архитектурное"/>
+<Allolog Form="архитектурной"/>
+<Allolog Form="архитектурного"/>
+<Allolog Form="архитектурно"/>
+<Allolog Form="архитектурные"/>
+<Allolog Form="архитектурный"/>
+<Allolog Form="архитектурными"/>
+<Allolog Form="архитектурная"/>
+<Allolog Form="архитектурном"/>
+<Allolog Form="архитектурным"/>
+<Allolog Form="архитектурную"/>
+</Word>
+
+<Word Stem="египтян" Weight="0.05">
+<Allolog Form="египтяне"/>
+<Allolog Form="египтянах"/>
+<Allolog Form="египтянами"/>
+<Allolog Form="египтянам"/>
+</Word>
+
+<Word Stem="сказан" Weight="0.0549119062884362">
+<Allolog Form="сказания"/>
+<Allolog Form="сказаниям"/>
+<Allolog Form="сказание"/>
+<Allolog Form="сказаниями"/>
+<Allolog Form="сказаний"/>
+<Allolog Form="сказанию"/>
+<Allolog Form="сказаниях"/>
+<Allolog Form="сказании"/>
+<Allolog Form="сказанием"/>
+<Allolog Form="сказаное"/>
+</Word>
+
+<Word Stem="зевс" Weight="0.0527162326765706">
+<Allolog Form="зевса"/>
+<Allolog Form="зевс"/>
+<Allolog Form="зевсом"/>
+<Allolog Form="зевсу"/>
+<Allolog Form="зевсов"/>
+</Word>
+
+<Word Stem="композитор" Weight="0.05">
+<Allolog Form="композитора"/>
+<Allolog Form="композитором"/>
+<Allolog Form="композитор"/>
+<Allolog Form="композиторы"/>
+<Allolog Form="композиторов"/>
+<Allolog Form="композитору"/>
+<Allolog Form="композиторами"/>
+<Allolog Form="композиторе"/>
+<Allolog Form="композиторам"/>
+<Allolog Form="композиторах"/>
+</Word>
+
+<Word Stem="гофф" Weight="0.0516545431404991">
+<Allolog Form="гофф"/>
+<Allolog Form="гоффа"/>
+</Word>
+
+<Word Stem="роман" Weight="0.5">
+<Allolog Form="романов"/>
+<Allolog Form="романом"/>
+<Allolog Form="романе"/>
+<Allolog Form="романах"/>
+<Allolog Form="роману"/>
+<Allolog Form="романи"/>
+<Allolog Form="романам"/>
+<Allolog Form="романии"/>
+<Allolog Form="романией"/>
+<Allolog Form="романами"/>
+</Word>
+
+<Word Stem="буддизм" Weight="0.057885749857206">
+<Allolog Form="буддизм"/>
+<Allolog Form="буддизма"/>
+<Allolog Form="буддизме"/>
+<Allolog Form="буддизмом"/>
+<Allolog Form="буддизму"/>
+</Word>
+
+<Word Stem="мироощущен" Weight="0.05">
+<Allolog Form="мироощущение"/>
+<Allolog Form="мироощущения"/>
+<Allolog Form="мироощущением"/>
+<Allolog Form="мироощущении"/>
+<Allolog Form="мироощущению"/>
+<Allolog Form="мироощущений"/>
+</Word>
+
+<Word Stem="варварск" Weight="0.0523105393051698">
+<Allolog Form="варварских"/>
+<Allolog Form="варварский"/>
+<Allolog Form="варварские"/>
+<Allolog Form="варварски"/>
+<Allolog Form="варварским"/>
+<Allolog Form="варварского"/>
+<Allolog Form="варварской"/>
+<Allolog Form="варварскими"/>
+<Allolog Form="варварское"/>
+<Allolog Form="варварском"/>
+<Allolog Form="варварско"/>
+<Allolog Form="варварскую"/>
+<Allolog Form="варварская"/>
+</Word>
+
+<Word Stem="античных" Weight="0.00119920807798253">
+<Allolog Form="античных"/>
 </Word>
 
 <Word Stem="ансамбл" Weight="0.5">
-<Allolog Form="ансамбля"/>
 <Allolog Form="ансамбль"/>
+<Allolog Form="ансамбля"/>
 <Allolog Form="ансамблей"/>
 <Allolog Form="ансамбли"/>
 <Allolog Form="ансамбле"/>
@@ -1603,16 +1661,845 @@
 <Allolog Form="ансамблями"/>
 </Word>
 
-<Word Stem="веян" Weight="0.0514738695216065">
-<Allolog Form="веяния"/>
-<Allolog Form="веяниях"/>
-<Allolog Form="веяний"/>
-<Allolog Form="веяние"/>
-<Allolog Form="веяниям"/>
-<Allolog Form="веяниями"/>
+<Word Stem="монументальн" Weight="0.0547429987148746">
+<Allolog Form="монументальной"/>
+<Allolog Form="монументальная"/>
+<Allolog Form="монументальные"/>
+<Allolog Form="монументальном"/>
+<Allolog Form="монументальность"/>
+<Allolog Form="монументальности"/>
+<Allolog Form="монументальное"/>
+<Allolog Form="монументальный"/>
+<Allolog Form="монументально"/>
+<Allolog Form="монументальную"/>
+<Allolog Form="монументального"/>
+<Allolog Form="монументальностью"/>
+<Allolog Form="монументальным"/>
+<Allolog Form="монументальн"/>
 </Word>
 
-<Word Stem="гуманизм" Weight="0.0550394162259025">
+<Word Stem="мифическ" Weight="0.0548160790402977">
+<Allolog Form="мифических"/>
+<Allolog Form="мифическом"/>
+<Allolog Form="мифического"/>
+<Allolog Form="мифическая"/>
+<Allolog Form="мифическое"/>
+<Allolog Form="мифический"/>
+<Allolog Form="мифическими"/>
+<Allolog Form="мифические"/>
+<Allolog Form="мифическим"/>
+<Allolog Form="мифической"/>
+<Allolog Form="мифическую"/>
+</Word>
+
+<Word Stem="музе" Weight="0.5">
+<Allolog Form="музея"/>
+<Allolog Form="музеев"/>
+<Allolog Form="музеем"/>
+<Allolog Form="музеях"/>
+<Allolog Form="музеям"/>
+<Allolog Form="музеями"/>
+</Word>
+
+<Word Stem="украш" Weight="0.0512974340828428">
+<Allolog Form="украшена"/>
+<Allolog Form="украшая"/>
+<Allolog Form="украше"/>
+<Allolog Form="украшены"/>
+<Allolog Form="украша"/>
+</Word>
+
+<Word Stem="олимп" Weight="0.5">
+<Allolog Form="олимп"/>
+<Allolog Form="олимпа"/>
+<Allolog Form="олимпе"/>
+<Allolog Form="олимпии"/>
+<Allolog Form="олимпу"/>
+<Allolog Form="олимпия"/>
+<Allolog Form="олимпию"/>
+<Allolog Form="олимпиа"/>
+<Allolog Form="олимпий"/>
+</Word>
+
+<Word Stem="дант" Weight="0.0515109263926731">
+<Allolog Form="данте"/>
+<Allolog Form="данто"/>
+<Allolog Form="дантом"/>
+<Allolog Form="данту"/>
+<Allolog Form="дантю"/>
+</Word>
+
+<Word Stem="эллад" Weight="0.05">
+<Allolog Form="эллада"/>
+<Allolog Form="эллады"/>
+<Allolog Form="элладу"/>
+<Allolog Form="элладе"/>
+<Allolog Form="элладой"/>
+</Word>
+
+<Word Stem="исид" Weight="0.05">
+<Allolog Form="исидой"/>
+<Allolog Form="исида"/>
+<Allolog Form="исиде"/>
+<Allolog Form="исиды"/>
+</Word>
+
+<Word Stem="леонард" Weight="0.05">
+<Allolog Form="леонард"/>
+<Allolog Form="леонардо"/>
+<Allolog Form="леонардом"/>
+<Allolog Form="леонарду"/>
+<Allolog Form="леонарда"/>
+</Word>
+
+<Word Stem="живоп" Weight="0.519793335129382">
+<Allolog Form="живопись"/>
+<Allolog Form="живопи"/>
+</Word>
+
+<Word Stem="осирис" Weight="0.0511090999555696">
+<Allolog Form="осириса"/>
+<Allolog Form="осирисом"/>
+<Allolog Form="осирис"/>
+<Allolog Form="осирисе"/>
+</Word>
+
+<Word Stem="оратор" Weight="0.05">
+<Allolog Form="оратор"/>
+<Allolog Form="оратором"/>
+<Allolog Form="оратору"/>
+<Allolog Form="оратория"/>
+<Allolog Form="оратора"/>
+<Allolog Form="ораторов"/>
+<Allolog Form="ораторами"/>
+<Allolog Form="ораторы"/>
+<Allolog Form="ораториями"/>
+<Allolog Form="оратории"/>
+<Allolog Form="ораториям"/>
+<Allolog Form="ораторию"/>
+<Allolog Form="ораторий"/>
+<Allolog Form="ораториях"/>
+<Allolog Form="ораторией"/>
+<Allolog Form="ораторам"/>
+</Word>
+
+<Word Stem="изяществ" Weight="0.0518167024433115">
+<Allolog Form="изяществом"/>
+<Allolog Form="изящество"/>
+<Allolog Form="изяществу"/>
+<Allolog Form="изящества"/>
+<Allolog Form="изяществе"/>
+</Word>
+
+<Word Stem="книжн" Weight="0.5">
+<Allolog Form="книжной"/>
+<Allolog Form="книжная"/>
+<Allolog Form="книжного"/>
+<Allolog Form="книжные"/>
+<Allolog Form="книжный"/>
+<Allolog Form="книжную"/>
+<Allolog Form="книжное"/>
+<Allolog Form="книжными"/>
+<Allolog Form="книжным"/>
+<Allolog Form="книжном"/>
+<Allolog Form="книжно"/>
+<Allolog Form="книжность"/>
+</Word>
+
+<Word Stem="скульптур" Weight="0.533740867058188">
+<Allolog Form="скульптуры"/>
+<Allolog Form="скульптурой"/>
+<Allolog Form="скульптуре"/>
+<Allolog Form="скульптура"/>
+<Allolog Form="скульптур"/>
+<Allolog Form="скульптуру"/>
+<Allolog Form="скульптурами"/>
+<Allolog Form="скульптурах"/>
+</Word>
+
+<Word Stem="повествован" Weight="0.5">
+<Allolog Form="повествование"/>
+<Allolog Form="повествовании"/>
+<Allolog Form="повествования"/>
+<Allolog Form="повествованием"/>
+<Allolog Form="повествованиях"/>
+<Allolog Form="повествованию"/>
+</Word>
+
+<Word Stem="древнеегипетск" Weight="0.0615804033840512">
+<Allolog Form="древнеегипетскими"/>
+<Allolog Form="древнеегипетским"/>
+<Allolog Form="древнеегипетский"/>
+<Allolog Form="древнеегипетская"/>
+<Allolog Form="древнеегипетском"/>
+<Allolog Form="древнеегипетские"/>
+<Allolog Form="древнеегипетских"/>
+<Allolog Form="древнеегипетской"/>
+<Allolog Form="древнеегипетско"/>
+<Allolog Form="древнеегипетского"/>
+<Allolog Form="древнеегипетскую"/>
+<Allolog Form="древнеегипетское"/>
+</Word>
+
+<Word Stem="иероглиф" Weight="0.05">
+<Allolog Form="иероглифами"/>
+<Allolog Form="иероглифам"/>
+<Allolog Form="иероглифы"/>
+<Allolog Form="иероглифом"/>
+<Allolog Form="иероглифов"/>
+<Allolog Form="иероглиф"/>
+<Allolog Form="иероглифа"/>
+<Allolog Form="иероглифах"/>
+</Word>
+
+<Word Stem="утончен" Weight="0.0534760620937051">
+<Allolog Form="утонченным"/>
+<Allolog Form="утонченные"/>
+<Allolog Form="утонченное"/>
+<Allolog Form="утонченная"/>
+<Allolog Form="утонченной"/>
+<Allolog Form="утонченного"/>
+<Allolog Form="утонченностью"/>
+<Allolog Form="утонченности"/>
+<Allolog Form="утонченно"/>
+<Allolog Form="утончения"/>
+<Allolog Form="утонченную"/>
+<Allolog Form="утонченность"/>
+<Allolog Form="утончен"/>
+<Allolog Form="утончение"/>
+<Allolog Form="утончений"/>
+<Allolog Form="утонченный"/>
+<Allolog Form="утонченными"/>
+<Allolog Form="утонченны"/>
+</Word>
+
+<Word Stem="парфенон" Weight="0.0514738695216065">
+<Allolog Form="парфенон"/>
+<Allolog Form="парфенона"/>
+<Allolog Form="парфеноном"/>
+</Word>
+
+<Word Stem="фасад" Weight="0.501125872551227">
+<Allolog Form="фасад"/>
+<Allolog Form="фасаду"/>
+<Allolog Form="фасадом"/>
+<Allolog Form="фасады"/>
+<Allolog Form="фасада"/>
+<Allolog Form="фасадов"/>
+<Allolog Form="фасаде"/>
+<Allolog Form="фасадах"/>
+</Word>
+
+<Word Stem="архитектор" Weight="0.502675646878835">
+<Allolog Form="архитекторы"/>
+<Allolog Form="архитектора"/>
+<Allolog Form="архитекторе"/>
+<Allolog Form="архитектор"/>
+<Allolog Form="архитекторов"/>
+<Allolog Form="архитекторам"/>
+<Allolog Form="архитектором"/>
+<Allolog Form="архитекторами"/>
+<Allolog Form="архитекторах"/>
+</Word>
+
+<Word Stem="скульптор" Weight="0.506192249391447">
+<Allolog Form="скульпторы"/>
+<Allolog Form="скульптор"/>
+<Allolog Form="скульптора"/>
+<Allolog Form="скульпторов"/>
+<Allolog Form="скульпторам"/>
+<Allolog Form="скульптором"/>
+<Allolog Form="скульпторами"/>
+<Allolog Form="скульптору"/>
+</Word>
+
+<Word Stem="композиц" Weight="0.5">
+<Allolog Form="композиция"/>
+<Allolog Form="композиции"/>
+<Allolog Form="композицию"/>
+<Allolog Form="композиций"/>
+<Allolog Form="композицией"/>
+<Allolog Form="композициях"/>
+<Allolog Form="композициям"/>
+<Allolog Form="композициями"/>
+<Allolog Form="композиц"/>
+</Word>
+
+<Word Stem="винч" Weight="0.0516396405641743">
+<Allolog Form="винчи"/>
+</Word>
+
+<Word Stem="символизм" Weight="0.0539515169400786">
+<Allolog Form="символизма"/>
+<Allolog Form="символизм"/>
+<Allolog Form="символизму"/>
+<Allolog Form="символизме"/>
+<Allolog Form="символизмом"/>
+</Word>
+
+<Word Stem="драм" Weight="0.05">
+<Allolog Form="драмой"/>
+<Allolog Form="драмы"/>
+<Allolog Form="драма"/>
+<Allolog Form="драме"/>
+<Allolog Form="драму"/>
+<Allolog Form="драмах"/>
+<Allolog Form="драмам"/>
+<Allolog Form="драмами"/>
+</Word>
+
+<Word Stem="ацтек" Weight="0.05">
+<Allolog Form="ацтеки"/>
+<Allolog Form="ацтеков"/>
+<Allolog Form="ацтекам"/>
+<Allolog Form="ацтеками"/>
+</Word>
+
+<Word Stem="архаическ" Weight="0.0562366257053957">
+<Allolog Form="архаическая"/>
+<Allolog Form="архаических"/>
+<Allolog Form="архаического"/>
+<Allolog Form="архаический"/>
+<Allolog Form="архаическим"/>
+<Allolog Form="архаической"/>
+<Allolog Form="архаическом"/>
+<Allolog Form="архаические"/>
+<Allolog Form="архаическое"/>
+<Allolog Form="архаическую"/>
+<Allolog Form="архаическими"/>
+</Word>
+
+<Word Stem="символик" Weight="0.05">
+<Allolog Form="символике"/>
+<Allolog Form="символика"/>
+<Allolog Form="символику"/>
+<Allolog Form="символики"/>
+<Allolog Form="символикой"/>
+<Allolog Form="символико"/>
+</Word>
+
+<Word Stem="прозаическ" Weight="0.0514738695216065">
+<Allolog Form="прозаическом"/>
+<Allolog Form="прозаической"/>
+<Allolog Form="прозаическая"/>
+<Allolog Form="прозаические"/>
+<Allolog Form="прозаических"/>
+<Allolog Form="прозаически"/>
+<Allolog Form="прозаический"/>
+<Allolog Form="прозаическое"/>
+<Allolog Form="прозаическим"/>
+</Word>
+
+<Word Stem="троянск" Weight="0.0511258725512272">
+<Allolog Form="троянскую"/>
+<Allolog Form="троянской"/>
+<Allolog Form="троянский"/>
+<Allolog Form="троянское"/>
+<Allolog Form="троянская"/>
+<Allolog Form="троянских"/>
+<Allolog Form="троянского"/>
+</Word>
+
+<Word Stem="погребальн" Weight="0.0518389251670044">
+<Allolog Form="погребальной"/>
+<Allolog Form="погребального"/>
+<Allolog Form="погребальный"/>
+<Allolog Form="погребальными"/>
+<Allolog Form="погребальным"/>
+<Allolog Form="погребальные"/>
+<Allolog Form="погребальное"/>
+</Word>
+
+<Word Stem="живописц" Weight="0.0567739998498837">
+<Allolog Form="живописца"/>
+<Allolog Form="живописце"/>
+<Allolog Form="живописцев"/>
+<Allolog Form="живописцы"/>
+<Allolog Form="живописцем"/>
+<Allolog Form="живописцам"/>
+<Allolog Form="живописцами"/>
+<Allolog Form="живописцу"/>
+</Word>
+
+<Word Stem="эгейск" Weight="0.05402097339724">
+<Allolog Form="эгейского"/>
+<Allolog Form="эгейском"/>
+<Allolog Form="эгейской"/>
+<Allolog Form="эгейскую"/>
+<Allolog Form="эгейская"/>
+<Allolog Form="эгейско"/>
+<Allolog Form="эгейский"/>
+</Word>
+
+<Word Stem="социокультурн" Weight="0.0529319847334975">
+<Allolog Form="социокультурного"/>
+<Allolog Form="социокультурная"/>
+<Allolog Form="социокультурным"/>
+<Allolog Form="социокультурной"/>
+<Allolog Form="социокультурное"/>
+<Allolog Form="социокультурными"/>
+<Allolog Form="социокультурный"/>
+<Allolog Form="социокультурную"/>
+<Allolog Form="социокультурные"/>
+<Allolog Form="социокультурном"/>
+</Word>
+
+<Word Stem="ценностн" Weight="0.0683966546661697">
+<Allolog Form="ценностную"/>
+<Allolog Form="ценностным"/>
+<Allolog Form="ценностный"/>
+<Allolog Form="ценностное"/>
+<Allolog Form="ценностного"/>
+<Allolog Form="ценностно"/>
+<Allolog Form="ценностные"/>
+<Allolog Form="ценностном"/>
+<Allolog Form="ценностной"/>
+<Allolog Form="ценностными"/>
+<Allolog Form="ценностная"/>
+</Word>
+
+<Word Stem="ценностных" Weight="0.052229450203104">
+<Allolog Form="ценностных"/>
+</Word>
+
+<Word Stem="западноевропейск" Weight="0.0537947406402709">
+<Allolog Form="западноевропейского"/>
+<Allolog Form="западноевропейский"/>
+<Allolog Form="западноевропейским"/>
+<Allolog Form="западноевропейском"/>
+<Allolog Form="западноевропейская"/>
+<Allolog Form="западноевропейской"/>
+<Allolog Form="западноевропейских"/>
+<Allolog Form="западноевропейское"/>
+<Allolog Form="западноевропейскую"/>
+<Allolog Form="западноевропейскими"/>
+<Allolog Form="западноевропейские"/>
+</Word>
+
+<Word Stem="фольклор" Weight="0.05">
+<Allolog Form="фольклоре"/>
+<Allolog Form="фольклора"/>
+<Allolog Form="фольклор"/>
+<Allolog Form="фольклором"/>
+<Allolog Form="фольклору"/>
+</Word>
+
+<Word Stem="романтическ" Weight="0.05">
+<Allolog Form="романтический"/>
+<Allolog Form="романтических"/>
+<Allolog Form="романтической"/>
+<Allolog Form="романтическим"/>
+<Allolog Form="романтического"/>
+<Allolog Form="романтическая"/>
+<Allolog Form="романтическом"/>
+<Allolog Form="романтическую"/>
+<Allolog Form="романтическое"/>
+<Allolog Form="романтические"/>
+<Allolog Form="романтически"/>
+<Allolog Form="романтическими"/>
+</Word>
+
+<Word Stem="рационалистическ" Weight="0.0516100689736817">
+<Allolog Form="рационалистическим"/>
+<Allolog Form="рационалистический"/>
+<Allolog Form="рационалистической"/>
+<Allolog Form="рационалистических"/>
+<Allolog Form="рационалистическая"/>
+<Allolog Form="рационалистически"/>
+<Allolog Form="рационалистического"/>
+<Allolog Form="рационалистическими"/>
+<Allolog Form="рационалистические"/>
+<Allolog Form="рационалистическое"/>
+<Allolog Form="рационалистическую"/>
+</Word>
+
+<Word Stem="преображен" Weight="0.0513547253587057">
+<Allolog Form="преображений"/>
+<Allolog Form="преображенными"/>
+<Allolog Form="преображением"/>
+<Allolog Form="преображения"/>
+<Allolog Form="преображение"/>
+<Allolog Form="преображению"/>
+<Allolog Form="преображенным"/>
+<Allolog Form="преображении"/>
+<Allolog Form="преображенную"/>
+<Allolog Form="преображенное"/>
+<Allolog Form="преображенного"/>
+<Allolog Form="преображенный"/>
+<Allolog Form="преображенном"/>
+<Allolog Form="преображенной"/>
+</Word>
+
+<Word Stem="обыча" Weight="0.5">
+<Allolog Form="обычаем"/>
+<Allolog Form="обычай"/>
+<Allolog Form="обычаи"/>
+<Allolog Form="обычае"/>
+<Allolog Form="обычаям"/>
+<Allolog Form="обычаях"/>
+<Allolog Form="обычаев"/>
+<Allolog Form="обычаями"/>
+<Allolog Form="обычаю"/>
+</Word>
+
+<Word Stem="поэтическ" Weight="0.05">
+<Allolog Form="поэтических"/>
+<Allolog Form="поэтическая"/>
+<Allolog Form="поэтические"/>
+<Allolog Form="поэтическое"/>
+<Allolog Form="поэтическими"/>
+<Allolog Form="поэтическим"/>
+<Allolog Form="поэтической"/>
+<Allolog Form="поэтический"/>
+<Allolog Form="поэтического"/>
+<Allolog Form="поэтическом"/>
+<Allolog Form="поэтически"/>
+<Allolog Form="поэтическую"/>
+</Word>
+
+<Word Stem="поэз" Weight="0.509113915692264">
+<Allolog Form="поэзии"/>
+<Allolog Form="поэзия"/>
+<Allolog Form="поэзией"/>
+<Allolog Form="поэзию"/>
+<Allolog Form="поэзий"/>
+</Word>
+
+<Word Stem="проз" Weight="0.0529956287986618">
+<Allolog Form="прозе"/>
+<Allolog Form="проза"/>
+<Allolog Form="прозы"/>
+<Allolog Form="прозой"/>
+<Allolog Form="проз"/>
+<Allolog Form="прозу"/>
+</Word>
+
+<Word Stem="адонис" Weight="0.0511258725512272">
+<Allolog Form="адонис"/>
+<Allolog Form="адонисе"/>
+<Allolog Form="адонисом"/>
+<Allolog Form="адониса"/>
+</Word>
+
+<Word Stem="гравюр" Weight="0.0514142448175628">
+<Allolog Form="гравюре"/>
+<Allolog Form="гравюры"/>
+<Allolog Form="гравюр"/>
+<Allolog Form="гравюра"/>
+<Allolog Form="гравюрам"/>
+<Allolog Form="гравюрами"/>
+<Allolog Form="гравюру"/>
+</Word>
+
+<Word Stem="повествует" Weight="0.0511258725512272">
+<Allolog Form="повествует"/>
+<Allolog Form="повествуется"/>
+</Word>
+
+<Word Stem="ораторск" Weight="0.05">
+<Allolog Form="ораторское"/>
+<Allolog Form="ораторского"/>
+<Allolog Form="ораторским"/>
+<Allolog Form="ораторском"/>
+<Allolog Form="ораторскими"/>
+<Allolog Form="ораторский"/>
+<Allolog Form="ораторские"/>
+<Allolog Form="ораторских"/>
+<Allolog Form="ораторской"/>
+</Word>
+
+<Word Stem="театральн" Weight="0.05">
+<Allolog Form="театрального"/>
+<Allolog Form="театральные"/>
+<Allolog Form="театральная"/>
+<Allolog Form="театральное"/>
+<Allolog Form="театральной"/>
+<Allolog Form="театральный"/>
+<Allolog Form="театральном"/>
+<Allolog Form="театральным"/>
+<Allolog Form="театральности"/>
+<Allolog Form="театрально"/>
+<Allolog Form="театральную"/>
+<Allolog Form="театральность"/>
+<Allolog Form="театральными"/>
+<Allolog Form="театральних"/>
+<Allolog Form="театральна"/>
+<Allolog Form="театральностью"/>
+</Word>
+
+<Word Stem="македонск" Weight="0.0534386231222137">
+<Allolog Form="македонские"/>
+<Allolog Form="македонским"/>
+<Allolog Form="македонского"/>
+<Allolog Form="македонская"/>
+<Allolog Form="македонски"/>
+<Allolog Form="македонско"/>
+<Allolog Form="македонской"/>
+<Allolog Form="македонское"/>
+<Allolog Form="македонский"/>
+<Allolog Form="македонском"/>
+<Allolog Form="македонскими"/>
+</Word>
+
+<Word Stem="эллинск" Weight="0.0516545431404991">
+<Allolog Form="эллинские"/>
+<Allolog Form="эллинской"/>
+<Allolog Form="эллинского"/>
+<Allolog Form="эллинский"/>
+<Allolog Form="эллинскую"/>
+<Allolog Form="эллинских"/>
+</Word>
+
+<Word Stem="эпос" Weight="0.509137906592871">
+<Allolog Form="эпос"/>
+<Allolog Form="эпосы"/>
+<Allolog Form="эпоса"/>
+<Allolog Form="эпосом"/>
+<Allolog Form="эпосе"/>
+<Allolog Form="эпосу"/>
+<Allolog Form="эпосах"/>
+</Word>
+
+<Word Stem="эллинистическ" Weight="0.0549023840194496">
+<Allolog Form="эллинистическом"/>
+<Allolog Form="эллинистического"/>
+<Allolog Form="эллинистическим"/>
+<Allolog Form="эллинистической"/>
+<Allolog Form="эллинистических"/>
+<Allolog Form="эллинистический"/>
+<Allolog Form="эллинистическими"/>
+<Allolog Form="эллинистическая"/>
+<Allolog Form="эллинистическое"/>
+<Allolog Form="эллинистическую"/>
+<Allolog Form="эллинистическо"/>
+<Allolog Form="эллинистические"/>
+</Word>
+
+<Word Stem="шумерск" Weight="0.0582905160590367">
+<Allolog Form="шумерских"/>
+<Allolog Form="шумерские"/>
+<Allolog Form="шумерского"/>
+<Allolog Form="шумерская"/>
+<Allolog Form="шумерскую"/>
+<Allolog Form="шумерской"/>
+<Allolog Form="шумерским"/>
+<Allolog Form="шумерское"/>
+<Allolog Form="шумерском"/>
+<Allolog Form="шумерски"/>
+<Allolog Form="шумерский"/>
+</Word>
+
+<Word Stem="реалистическ" Weight="0.05">
+<Allolog Form="реалистической"/>
+<Allolog Form="реалистические"/>
+<Allolog Form="реалистическая"/>
+<Allolog Form="реалистического"/>
+<Allolog Form="реалистических"/>
+<Allolog Form="реалистическое"/>
+<Allolog Form="реалистический"/>
+<Allolog Form="реалистическими"/>
+<Allolog Form="реалистическую"/>
+<Allolog Form="реалистически"/>
+<Allolog Form="реалистическом"/>
+<Allolog Form="реалистическим"/>
+</Word>
+
+<Word Stem="месопотамск" Weight="0.052217102870109">
+<Allolog Form="месопотамских"/>
+<Allolog Form="месопотамские"/>
+<Allolog Form="месопотамской"/>
+<Allolog Form="месопотамская"/>
+<Allolog Form="месопотамского"/>
+<Allolog Form="месопотамский"/>
+</Word>
+
+<Word Stem="скандинавск" Weight="0.05">
+<Allolog Form="скандинавских"/>
+<Allolog Form="скандинавской"/>
+<Allolog Form="скандинавского"/>
+<Allolog Form="скандинавским"/>
+<Allolog Form="скандинавские"/>
+<Allolog Form="скандинавская"/>
+<Allolog Form="скандинавскую"/>
+<Allolog Form="скандинавский"/>
+<Allolog Form="скандинавское"/>
+</Word>
+
+<Word Stem="убранств" Weight="0.0516545431404991">
+<Allolog Form="убранство"/>
+<Allolog Form="убранстве"/>
+<Allolog Form="убранства"/>
+<Allolog Form="убранством"/>
+<Allolog Form="убранств"/>
+</Word>
+
+<Word Stem="празднеств" Weight="0.0518627675163347">
+<Allolog Form="празднеств"/>
+<Allolog Form="празднествах"/>
+<Allolog Form="празднествам"/>
+<Allolog Form="празднества"/>
+<Allolog Form="празднество"/>
+<Allolog Form="празднестве"/>
+</Word>
+
+<Word Stem="неформальн" Weight="0.05">
+<Allolog Form="неформально"/>
+<Allolog Form="неформальная"/>
+<Allolog Form="неформальное"/>
+<Allolog Form="неформальные"/>
+<Allolog Form="неформальный"/>
+<Allolog Form="неформальной"/>
+<Allolog Form="неформального"/>
+<Allolog Form="неформальными"/>
+<Allolog Form="неформальным"/>
+<Allolog Form="неформальную"/>
+<Allolog Form="неформальность"/>
+<Allolog Form="неформальном"/>
+</Word>
+
+<Word Stem="светск" Weight="0.00399165417258408">
+<Allolog Form="светское"/>
+<Allolog Form="светский"/>
+<Allolog Form="светской"/>
+<Allolog Form="светским"/>
+<Allolog Form="светского"/>
+<Allolog Form="светских"/>
+<Allolog Form="светская"/>
+<Allolog Form="светском"/>
+<Allolog Form="светские"/>
+<Allolog Form="светскую"/>
+<Allolog Form="светскости"/>
+<Allolog Form="светскость"/>
+<Allolog Form="светскими"/>
+<Allolog Form="светски"/>
+<Allolog Form="светскою"/>
+</Word>
+
+<Word Stem="рембрандт" Weight="0.0524102012392938">
+<Allolog Form="рембрандт"/>
+<Allolog Form="рембрандта"/>
+<Allolog Form="рембрандте"/>
+</Word>
+
+<Word Stem="музыкант" Weight="0.05">
+<Allolog Form="музыкантом"/>
+<Allolog Form="музыкант"/>
+<Allolog Form="музыканты"/>
+<Allolog Form="музыкантов"/>
+<Allolog Form="музыканта"/>
+<Allolog Form="музыкантами"/>
+<Allolog Form="музыкантах"/>
+<Allolog Form="музыкантам"/>
+<Allolog Form="музыканту"/>
+<Allolog Form="музыканте"/>
+</Word>
+
+<Word Stem="рубенс" Weight="0.0518389251670044">
+<Allolog Form="рубенса"/>
+<Allolog Form="рубенс"/>
+<Allolog Form="рубенси"/>
+<Allolog Form="рубенсу"/>
+</Word>
+
+<Word Stem="эпическ" Weight="0.502240314717874">
+<Allolog Form="эпических"/>
+<Allolog Form="эпическое"/>
+<Allolog Form="эпический"/>
+<Allolog Form="эпическая"/>
+<Allolog Form="эпические"/>
+<Allolog Form="эпического"/>
+<Allolog Form="эпически"/>
+<Allolog Form="эпической"/>
+<Allolog Form="эпическим"/>
+<Allolog Form="эпическую"/>
+<Allolog Form="эпическими"/>
+<Allolog Form="эпическом"/>
+</Word>
+
+<Word Stem="живописец" Weight="0.0530023268032725">
+<Allolog Form="живописец"/>
+</Word>
+
+<Word Stem="вдохновен" Weight="0.05">
+<Allolog Form="вдохновения"/>
+<Allolog Form="вдохновенное"/>
+<Allolog Form="вдохновенные"/>
+<Allolog Form="вдохновенный"/>
+<Allolog Form="вдохновение"/>
+<Allolog Form="вдохновенья"/>
+<Allolog Form="вдохновенье"/>
+<Allolog Form="вдохновенного"/>
+<Allolog Form="вдохновением"/>
+<Allolog Form="вдохновенно"/>
+<Allolog Form="вдохновению"/>
+<Allolog Form="вдохновении"/>
+<Allolog Form="вдохновенными"/>
+<Allolog Form="вдохновенности"/>
+<Allolog Form="вдохновеннейшие"/>
+<Allolog Form="вдохновенной"/>
+<Allolog Form="вдохновенная"/>
+<Allolog Form="вдохновенную"/>
+<Allolog Form="вдохновений"/>
+</Word>
+
+<Word Stem="театр" Weight="0.5">
+<Allolog Form="театра"/>
+<Allolog Form="театр"/>
+<Allolog Form="театром"/>
+<Allolog Form="театры"/>
+<Allolog Form="театров"/>
+<Allolog Form="театре"/>
+<Allolog Form="театру"/>
+<Allolog Form="театрах"/>
+<Allolog Form="театрами"/>
+<Allolog Form="театро"/>
+</Word>
+
+<Word Stem="зверин" Weight="0.052217102870109">
+<Allolog Form="звериные"/>
+<Allolog Form="звериную"/>
+<Allolog Form="звериная"/>
+<Allolog Form="звериной"/>
+<Allolog Form="звериным"/>
+<Allolog Form="звериный"/>
+<Allolog Form="звериного"/>
+<Allolog Form="зверином"/>
+<Allolog Form="звериное"/>
+<Allolog Form="зверина"/>
+</Word>
+
+<Word Stem="гомер" Weight="0.0546145334443819">
+<Allolog Form="гомера"/>
+<Allolog Form="гомером"/>
+<Allolog Form="гомер"/>
+<Allolog Form="гомеру"/>
+<Allolog Form="гомеров"/>
+</Word>
+
+<Word Stem="вавилон" Weight="0.0551841572532622">
+<Allolog Form="вавилонии"/>
+<Allolog Form="вавилона"/>
+<Allolog Form="вавилоне"/>
+<Allolog Form="вавилон"/>
+<Allolog Form="вавилония"/>
+<Allolog Form="вавилонией"/>
+<Allolog Form="вавилонию"/>
+<Allolog Form="вавилони"/>
+<Allolog Form="вавилоно"/>
+<Allolog Form="вавилоны"/>
+</Word>
+
+<Word Stem="писц" Weight="0.0524102012392938">
+<Allolog Form="писцов"/>
+<Allolog Form="писцы"/>
+<Allolog Form="писцам"/>
+<Allolog Form="писцев"/>
+<Allolog Form="писца"/>
+<Allolog Form="писцом"/>
+<Allolog Form="писцами"/>
+</Word>
+
+<Word Stem="гуманизм" Weight="0.0554309972342236">
 <Allolog Form="гуманизма"/>
 <Allolog Form="гуманизм"/>
 <Allolog Form="гуманизмом"/>
@@ -1620,27 +2507,186 @@
 <Allolog Form="гуманизму"/>
 </Word>
 
-<Word Stem="колорит" Weight="0.05">
-<Allolog Form="колорита"/>
-<Allolog Form="колорит"/>
-<Allolog Form="колоритом"/>
-<Allolog Form="колориту"/>
+<Word Stem="веян" Weight="0.0514738695216065">
+<Allolog Form="веяние"/>
+<Allolog Form="веяния"/>
+<Allolog Form="веяниях"/>
+<Allolog Form="веяний"/>
+<Allolog Form="веяниями"/>
+<Allolog Form="веяниям"/>
 </Word>
 
-<Word Stem="церемон" Weight="0.0553706215095606">
+<Word Stem="афинск" Weight="0.0511667138186941">
+<Allolog Form="афинский"/>
+<Allolog Form="афинскую"/>
+<Allolog Form="афинского"/>
+<Allolog Form="афинском"/>
+<Allolog Form="афинских"/>
+<Allolog Form="афинской"/>
+<Allolog Form="афинские"/>
+<Allolog Form="афинским"/>
+<Allolog Form="афинское"/>
+<Allolog Form="афинская"/>
+</Word>
+
+<Word Stem="перикл" Weight="0.0512974340828428">
+<Allolog Form="перикл"/>
+<Allolog Form="перикла"/>
+<Allolog Form="периклом"/>
+</Word>
+
+<Word Stem="идол" Weight="0.0521441772066755">
+<Allolog Form="идолам"/>
+<Allolog Form="идолов"/>
+<Allolog Form="идолу"/>
+<Allolog Form="идола"/>
+<Allolog Form="идол"/>
+<Allolog Form="идолы"/>
+<Allolog Form="идолами"/>
+<Allolog Form="идолах"/>
+<Allolog Form="идоле"/>
+<Allolog Form="идолом"/>
+</Word>
+
+<Word Stem="ренессанс" Weight="0.0610066375426406">
+<Allolog Form="ренессанса"/>
+<Allolog Form="ренессанс"/>
+<Allolog Form="ренессансе"/>
+<Allolog Form="ренессансом"/>
+<Allolog Form="ренессансу"/>
+</Word>
+
+<Word Stem="архаик" Weight="0.0516545431404991">
+<Allolog Form="архаику"/>
+<Allolog Form="архаике"/>
+<Allolog Form="архаики"/>
+<Allolog Form="архаико"/>
+<Allolog Form="архаика"/>
+</Word>
+
+<Word Stem="овид" Weight="0.0511258725512272">
+<Allolog Form="овидий"/>
+<Allolog Form="овидия"/>
+</Word>
+
+<Word Stem="шекспир" Weight="0.05">
+<Allolog Form="шекспира"/>
+<Allolog Form="шекспиром"/>
+<Allolog Form="шекспир"/>
+<Allolog Form="шекспиру"/>
+<Allolog Form="шекспирам"/>
+<Allolog Form="шекспире"/>
+</Word>
+
+<Word Stem="ассирийск" Weight="0.052217102870109">
+<Allolog Form="ассирийский"/>
+<Allolog Form="ассирийские"/>
+<Allolog Form="ассирийской"/>
+<Allolog Form="ассирийскую"/>
+<Allolog Form="ассирийская"/>
+<Allolog Form="ассирийского"/>
+<Allolog Form="ассирийских"/>
+<Allolog Form="ассирийско"/>
+</Word>
+
+<Word Stem="илиад" Weight="0.0524102012392938">
+<Allolog Form="илиаде"/>
+<Allolog Form="илиады"/>
+<Allolog Form="илиада"/>
+<Allolog Form="илиаду"/>
+</Word>
+
+<Word Stem="спектакл" Weight="0.05">
+<Allolog Form="спектакля"/>
+<Allolog Form="спектакле"/>
+<Allolog Form="спектакль"/>
+<Allolog Form="спектакли"/>
+<Allolog Form="спектаклей"/>
+<Allolog Form="спектаклю"/>
+<Allolog Form="спектаклях"/>
+<Allolog Form="спектаклям"/>
+<Allolog Form="спектаклями"/>
+<Allolog Form="спектаклем"/>
+</Word>
+
+<Word Stem="орнамент" Weight="0.505066426480522">
+<Allolog Form="орнаменты"/>
+<Allolog Form="орнамента"/>
+<Allolog Form="орнамент"/>
+<Allolog Form="орнаментом"/>
+<Allolog Form="орнаментам"/>
+<Allolog Form="орнаментов"/>
+<Allolog Form="орнаментами"/>
+<Allolog Form="орнаменте"/>
+<Allolog Form="орнаменту"/>
+</Word>
+
+<Word Stem="абориг" Weight="0.0544365464315926">
+<Allolog Form="аборигены"/>
+<Allolog Form="аборигена"/>
+</Word>
+
+<Word Stem="дюрер" Weight="0.0512974340828428">
+<Allolog Form="дюрер"/>
+<Allolog Form="дюрера"/>
+</Word>
+
+<Word Stem="ритуал" Weight="0.057846796145434">
+<Allolog Form="ритуалам"/>
+<Allolog Form="ритуалы"/>
+<Allolog Form="ритуалов"/>
+<Allolog Form="ритуалах"/>
+<Allolog Form="ритуалами"/>
+<Allolog Form="ритуале"/>
+<Allolog Form="ритуалу"/>
+<Allolog Form="ритуалом"/>
+<Allolog Form="ритуаль"/>
+</Word>
+
+<Word Stem="софокл" Weight="0.052026570592209">
+<Allolog Form="софокла"/>
+<Allolog Form="софокл"/>
+</Word>
+
+<Word Stem="реформац" Weight="0.00135685211188299">
+<Allolog Form="реформации"/>
+<Allolog Form="реформация"/>
+<Allolog Form="реформацией"/>
+<Allolog Form="реформацию"/>
+<Allolog Form="реформаций"/>
+</Word>
+
+<Word Stem="экспрессионизм" Weight="0.0515593994928868">
+<Allolog Form="экспрессионизма"/>
+<Allolog Form="экспрессионизм"/>
+<Allolog Form="экспрессионизму"/>
+<Allolog Form="экспрессионизмом"/>
+</Word>
+
+<Word Stem="церемон" Weight="0.05">
+<Allolog Form="церемониях"/>
+<Allolog Form="церемониться"/>
+<Allolog Form="церемонился"/>
 <Allolog Form="церемонии"/>
 <Allolog Form="церемония"/>
 <Allolog Form="церемонию"/>
 <Allolog Form="церемоний"/>
 <Allolog Form="церемонность"/>
 <Allolog Form="церемони"/>
-<Allolog Form="церемониях"/>
 <Allolog Form="церемониями"/>
 <Allolog Form="церемонная"/>
+<Allolog Form="церемонно"/>
 <Allolog Form="церемонные"/>
 <Allolog Form="церемонией"/>
-<Allolog Form="церемониться"/>
-<Allolog Form="церемонно"/>
+<Allolog Form="церемонясь"/>
+<Allolog Form="церемонились"/>
+</Word>
+
+<Word Stem="конфуц" Weight="0.0526747018010371">
+<Allolog Form="конфуция"/>
+<Allolog Form="конфуций"/>
+<Allolog Form="конфуцию"/>
+<Allolog Form="конфуцием"/>
 </Word>
 
 <Word Stem="песен" Weight="0.05">
@@ -1661,13 +2707,39 @@
 <Allolog Form="песенностью"/>
 </Word>
 
-<Word Stem="интимн" Weight="0.0543706437788849">
+<Word Stem="грамматик" Weight="0.05">
+<Allolog Form="грамматика"/>
+<Allolog Form="грамматику"/>
+<Allolog Form="грамматики"/>
+<Allolog Form="грамматике"/>
+<Allolog Form="грамматиков"/>
+<Allolog Form="грамматикой"/>
+<Allolog Form="грамматиками"/>
+</Word>
+
+<Word Stem="литературных" Weight="0.0518608251800027">
+<Allolog Form="литературных"/>
+</Word>
+
+<Word Stem="древнеримск" Weight="0.0532032890005884">
+<Allolog Form="древнеримский"/>
+<Allolog Form="древнеримской"/>
+<Allolog Form="древнеримского"/>
+<Allolog Form="древнеримскую"/>
+<Allolog Form="древнеримская"/>
+<Allolog Form="древнеримские"/>
+<Allolog Form="древнеримское"/>
+<Allolog Form="древнеримском"/>
+<Allolog Form="древнеримских"/>
+</Word>
+
+<Word Stem="интимн" Weight="0.05">
+<Allolog Form="интимную"/>
 <Allolog Form="интимный"/>
 <Allolog Form="интимная"/>
 <Allolog Form="интимное"/>
 <Allolog Form="интимным"/>
 <Allolog Form="интимного"/>
-<Allolog Form="интимную"/>
 <Allolog Form="интимные"/>
 <Allolog Form="интимной"/>
 <Allolog Form="интимными"/>
@@ -1679,38 +2751,45 @@
 <Allolog Form="интимном"/>
 <Allolog Form="интимность"/>
 <Allolog Form="интимностью"/>
+<Allolog Form="интимна"/>
 <Allolog Form="интимнее"/>
 </Word>
 
-<Word Stem="македонск" Weight="0.053421355883873">
-<Allolog Form="македонская"/>
-<Allolog Form="македонски"/>
-<Allolog Form="македонского"/>
-<Allolog Form="македонско"/>
-<Allolog Form="македонским"/>
-<Allolog Form="македонской"/>
-<Allolog Form="македонское"/>
-<Allolog Form="македонские"/>
-<Allolog Form="македонский"/>
-<Allolog Form="македонском"/>
-<Allolog Form="македонскими"/>
+<Word Stem="импрессионизм" Weight="0.05">
+<Allolog Form="импрессионизма"/>
+<Allolog Form="импрессионизм"/>
+<Allolog Form="импрессионизму"/>
+<Allolog Form="импрессионизмом"/>
+<Allolog Form="импрессионизме"/>
 </Word>
 
-<Word Stem="скульптурн" Weight="0.0567739998498837">
-<Allolog Form="скульптурный"/>
-<Allolog Form="скульптурные"/>
-<Allolog Form="скульптурного"/>
-<Allolog Form="скульптурная"/>
-<Allolog Form="скульптурное"/>
-<Allolog Form="скульптурную"/>
-<Allolog Form="скульптурной"/>
-<Allolog Form="скульптурным"/>
-<Allolog Form="скульптурны"/>
+<Word Stem="гумил" Weight="0.0518389251670044">
+<Allolog Form="гумилев"/>
+</Word>
+
+<Word Stem="афродит" Weight="0.0516545431404991">
+<Allolog Form="афродита"/>
+<Allolog Form="афродиту"/>
+<Allolog Form="афродиты"/>
+<Allolog Form="афродитой"/>
+</Word>
+
+<Word Stem="каст" Weight="0.0546531534510087">
+<Allolog Form="каста"/>
+<Allolog Form="каст"/>
+<Allolog Form="кастах"/>
+<Allolog Form="касты"/>
+<Allolog Form="касту"/>
+<Allolog Form="касте"/>
+<Allolog Form="кастой"/>
+<Allolog Form="кастами"/>
+<Allolog Form="кастом"/>
+<Allolog Form="кастою"/>
 </Word>
 
 <Word Stem="символизирова" Weight="0.0518389251670044">
-<Allolog Form="символизировала"/>
 <Allolog Form="символизировал"/>
+<Allolog Form="символизировала"/>
 <Allolog Form="символизировали"/>
 <Allolog Form="символизировавшие"/>
 <Allolog Form="символизировавших"/>
@@ -1720,33 +2799,25 @@
 <Allolog Form="символизировало"/>
 </Word>
 
-<Word Stem="поэм" Weight="0.0521502503782513">
-<Allolog Form="поэма"/>
-<Allolog Form="поэмы"/>
-<Allolog Form="поэмах"/>
-<Allolog Form="поэм"/>
-<Allolog Form="поэме"/>
-<Allolog Form="поэму"/>
-<Allolog Form="поэмой"/>
-<Allolog Form="поэмами"/>
-<Allolog Form="поэмам"/>
-</Word>
-
-<Word Stem="александрийск" Weight="0.0514728571731911">
-<Allolog Form="александрийский"/>
-<Allolog Form="александрийски"/>
-<Allolog Form="александрийская"/>
-<Allolog Form="александрийском"/>
-<Allolog Form="александрийского"/>
-<Allolog Form="александрийской"/>
-<Allolog Form="александрийским"/>
+<Word Stem="канон" Weight="0.0552638698455361">
+<Allolog Form="канонам"/>
+<Allolog Form="канон"/>
+<Allolog Form="каноны"/>
+<Allolog Form="каноном"/>
+<Allolog Form="канона"/>
+<Allolog Form="канонов"/>
+<Allolog Form="канонами"/>
+<Allolog Form="канону"/>
+<Allolog Form="канони"/>
+<Allolog Form="каноне"/>
+<Allolog Form="канонах"/>
 </Word>
 
 <Word Stem="выразительн" Weight="0.05">
-<Allolog Form="выразительного"/>
-<Allolog Form="выразительно"/>
 <Allolog Form="выразительное"/>
 <Allolog Form="выразительным"/>
+<Allolog Form="выразительно"/>
+<Allolog Form="выразительного"/>
 <Allolog Form="выразительность"/>
 <Allolog Form="выразительный"/>
 <Allolog Form="выразительной"/>
@@ -1761,6 +2832,126 @@
 <Allolog Form="выразительна"/>
 </Word>
 
+<Word Stem="земледельц" Weight="0.0523093997145588">
+<Allolog Form="земледельцам"/>
+<Allolog Form="земледельцу"/>
+<Allolog Form="земледельцы"/>
+<Allolog Form="земледельцев"/>
+<Allolog Form="земледельца"/>
+<Allolog Form="земледельцами"/>
+<Allolog Form="земледельцем"/>
+</Word>
+
+<Word Stem="земледельческ" Weight="0.00130814625794912">
+<Allolog Form="земледельческих"/>
+<Allolog Form="земледельческие"/>
+<Allolog Form="земледельческими"/>
+<Allolog Form="земледельческого"/>
+<Allolog Form="земледельческая"/>
+<Allolog Form="земледельческой"/>
+<Allolog Form="земледельческое"/>
+<Allolog Form="земледельческим"/>
+<Allolog Form="земледельческий"/>
+<Allolog Form="земледельческом"/>
+<Allolog Form="земледельческо"/>
+</Word>
+
+<Word Stem="художеств" Weight="0.502410201239294">
+<Allolog Form="художество"/>
+<Allolog Form="художеств"/>
+<Allolog Form="художества"/>
+<Allolog Form="художеству"/>
+</Word>
+
+<Word Stem="этикет" Weight="0.0591856462874723">
+<Allolog Form="этикету"/>
+<Allolog Form="этикета"/>
+<Allolog Form="этикет"/>
+<Allolog Form="этикетом"/>
+<Allolog Form="этикете"/>
+</Word>
+
+<Word Stem="классицизм" Weight="0.0632136265500788">
+<Allolog Form="классицизма"/>
+<Allolog Form="классицизме"/>
+<Allolog Form="классицизм"/>
+<Allolog Form="классицизмами"/>
+<Allolog Form="классицизму"/>
+<Allolog Form="классицизмом"/>
+</Word>
+
+<Word Stem="трад" Weight="0.052026570592209">
+<Allolog Form="тради"/>
+</Word>
+
+<Word Stem="фреск" Weight="0.0572055843278541">
+<Allolog Form="фресках"/>
+<Allolog Form="фреско"/>
+<Allolog Form="фрески"/>
+<Allolog Form="фрескам"/>
+<Allolog Form="фресками"/>
+<Allolog Form="фреска"/>
+<Allolog Form="фреску"/>
+<Allolog Form="фреске"/>
+</Word>
+
+<Word Stem="икон" Weight="0.5044707801827">
+<Allolog Form="икону"/>
+<Allolog Form="иконы"/>
+<Allolog Form="икон"/>
+<Allolog Form="иконе"/>
+<Allolog Form="иконо"/>
+<Allolog Form="икона"/>
+<Allolog Form="иконами"/>
+<Allolog Form="иконах"/>
+<Allolog Form="иконам"/>
+<Allolog Form="иконой"/>
+<Allolog Form="иконою"/>
+</Word>
+
+<Word Stem="обрядов" Weight="0.0513446334245646">
+<Allolog Form="обрядовым"/>
+<Allolog Form="обрядовое"/>
+<Allolog Form="обрядовые"/>
+<Allolog Form="обрядовость"/>
+<Allolog Form="обрядовостью"/>
+<Allolog Form="обрядовая"/>
+<Allolog Form="обрядовый"/>
+<Allolog Form="обрядовой"/>
+<Allolog Form="обрядовыми"/>
+<Allolog Form="обрядовую"/>
+</Word>
+
+<Word Stem="гогол" Weight="0.0546639816683406">
+<Allolog Form="гоголь"/>
+<Allolog Form="гоголя"/>
+<Allolog Form="гоголем"/>
+<Allolog Form="гоголю"/>
+</Word>
+
+<Word Stem="выставок" Weight="0.0516545431404991">
+<Allolog Form="выставок"/>
+</Word>
+
+<Word Stem="колорит" Weight="0.05">
+<Allolog Form="колорита"/>
+<Allolog Form="колорит"/>
+<Allolog Form="колоритом"/>
+<Allolog Form="колориту"/>
+</Word>
+
+<Word Stem="скульптурн" Weight="0.0567739998498837">
+<Allolog Form="скульптурный"/>
+<Allolog Form="скульптурные"/>
+<Allolog Form="скульптурного"/>
+<Allolog Form="скульптурная"/>
+<Allolog Form="скульптурное"/>
+<Allolog Form="скульптурную"/>
+<Allolog Form="скульптурной"/>
+<Allolog Form="скульптурным"/>
+<Allolog Form="скульптурны"/>
+</Word>
+
 <Word Stem="храмов" Weight="0.0528030344206415">
 <Allolog Form="храмовые"/>
 <Allolog Form="храмовую"/>
@@ -1770,6 +2961,7 @@
 <Allolog Form="храмовое"/>
 <Allolog Form="храмовой"/>
 <Allolog Form="храмовая"/>
+<Allolog Form="храмовыми"/>
 </Word>
 
 <Word Stem="константинопольск" Weight="0.0512974340828428">
@@ -1782,7 +2974,7 @@
 <Allolog Form="константинопольского"/>
 </Word>
 
-<Word Stem="успенск" Weight="0.0512974340828428">
+<Word Stem="успенск" Weight="0.05">
 <Allolog Form="успенский"/>
 <Allolog Form="успенского"/>
 <Allolog Form="успенском"/>
@@ -1800,28 +2992,8 @@
 <Allolog Form="драматургия"/>
 <Allolog Form="драматургию"/>
 <Allolog Form="драматургу"/>
-</Word>
-
-<Word Stem="музыкант" Weight="0.05">
-<Allolog Form="музыканты"/>
-<Allolog Form="музыкантов"/>
-<Allolog Form="музыканта"/>
-<Allolog Form="музыкант"/>
-<Allolog Form="музыкантами"/>
-<Allolog Form="музыкантах"/>
-<Allolog Form="музыкантом"/>
-<Allolog Form="музыкантам"/>
-<Allolog Form="музыканту"/>
-<Allolog Form="музыканте"/>
-</Word>
-
-<Word Stem="символик" Weight="0.0532825334695603">
-<Allolog Form="символику"/>
-<Allolog Form="символика"/>
-<Allolog Form="символики"/>
-<Allolog Form="символикой"/>
-<Allolog Form="символике"/>
-<Allolog Form="символико"/>
+<Allolog Form="драматургами"/>
+<Allolog Form="драматурге"/>
 </Word>
 
 <Word Stem="плебейск" Weight="0.0514738695216065">
@@ -1835,22 +3007,7 @@
 <Allolog Form="плебейском"/>
 </Word>
 
-<Word Stem="романтическ" Weight="0.05">
-<Allolog Form="романтический"/>
-<Allolog Form="романтическим"/>
-<Allolog Form="романтического"/>
-<Allolog Form="романтической"/>
-<Allolog Form="романтическая"/>
-<Allolog Form="романтических"/>
-<Allolog Form="романтическом"/>
-<Allolog Form="романтическую"/>
-<Allolog Form="романтическое"/>
-<Allolog Form="романтические"/>
-<Allolog Form="романтически"/>
-<Allolog Form="романтическими"/>
-</Word>
-
-<Word Stem="культурологическ" Weight="0.0864463643145663">
+<Word Stem="культурологическ" Weight="0.0864916908152106">
 <Allolog Form="культурологическим"/>
 <Allolog Form="культурологических"/>
 <Allolog Form="культурологическом"/>
@@ -1866,7 +3023,7 @@
 <Allolog Form="культурологическими"/>
 </Word>
 
-<Word Stem="аксиологическ" Weight="0.501110140630011">
+<Word Stem="аксиологическ" Weight="0.501129756005196">
 <Allolog Form="аксиологического"/>
 <Allolog Form="аксиологической"/>
 <Allolog Form="аксиологический"/>
@@ -1877,49 +3034,7 @@
 <Allolog Form="аксиологические"/>
 </Word>
 
-<Word Stem="мифолог" Weight="0.512165591127344">
-<Allolog Form="мифологии"/>
-<Allolog Form="мифология"/>
-<Allolog Form="мифологией"/>
-<Allolog Form="мифологи"/>
-<Allolog Form="мифологию"/>
-<Allolog Form="мифологиями"/>
-<Allolog Form="мифолог"/>
-<Allolog Form="мифологем"/>
-<Allolog Form="мифологиях"/>
-<Allolog Form="мифологий"/>
-</Word>
-
-<Word Stem="мифологическ" Weight="0.0553023708466781">
-<Allolog Form="мифологических"/>
-<Allolog Form="мифологическое"/>
-<Allolog Form="мифологической"/>
-<Allolog Form="мифологическим"/>
-<Allolog Form="мифологические"/>
-<Allolog Form="мифологический"/>
-<Allolog Form="мифологического"/>
-<Allolog Form="мифологическая"/>
-<Allolog Form="мифологическими"/>
-<Allolog Form="мифологическом"/>
-<Allolog Form="мифологическую"/>
-<Allolog Form="мифологически"/>
-</Word>
-
-<Word Stem="земледельческ" Weight="0.00101101608831116">
-<Allolog Form="земледельческих"/>
-<Allolog Form="земледельческие"/>
-<Allolog Form="земледельческими"/>
-<Allolog Form="земледельческого"/>
-<Allolog Form="земледельческая"/>
-<Allolog Form="земледельческой"/>
-<Allolog Form="земледельческое"/>
-<Allolog Form="земледельческим"/>
-<Allolog Form="земледельческий"/>
-<Allolog Form="земледельческом"/>
-<Allolog Form="земледельческо"/>
-</Word>
-
-<Word Stem="эллинизм" Weight="0.0565536364399616">
+<Word Stem="эллинизм" Weight="0.0565709036783023">
 <Allolog Form="эллинизм"/>
 <Allolog Form="эллинизма"/>
 <Allolog Form="эллинизмом"/>
@@ -1937,9 +3052,10 @@
 <Allolog Form="рыцарство"/>
 <Allolog Form="рыцарстве"/>
 <Allolog Form="рыцарством"/>
+<Allolog Form="рыцарству"/>
 </Word>
 
-<Word Stem="изобразительн" Weight="0.0631814961316898">
+<Word Stem="изобразительн" Weight="0.0632753626267149">
 <Allolog Form="изобразительное"/>
 <Allolog Form="изобразительная"/>
 <Allolog Form="изобразительной"/>
@@ -1956,25 +3072,7 @@
 <Allolog Form="изобразительно"/>
 </Word>
 
-<Word Stem="эпос" Weight="0.509088853779341">
-<Allolog Form="эпос"/>
-<Allolog Form="эпосы"/>
-<Allolog Form="эпоса"/>
-<Allolog Form="эпосом"/>
-<Allolog Form="эпосе"/>
-<Allolog Form="эпосу"/>
-<Allolog Form="эпосах"/>
-</Word>
-
-<Word Stem="поэз" Weight="0.510790883807787">
-<Allolog Form="поэзия"/>
-<Allolog Form="поэзии"/>
-<Allolog Form="поэзией"/>
-<Allolog Form="поэзию"/>
-<Allolog Form="поэзий"/>
-</Word>
-
-<Word Stem="одухотворен" Weight="0.0515937709666669">
+<Word Stem="одухотворен" Weight="0.0516207421075462">
 <Allolog Form="одухотворение"/>
 <Allolog Form="одухотворения"/>
 <Allolog Form="одухотворенности"/>
@@ -1989,72 +3087,14 @@
 <Allolog Form="одухотворенностью"/>
 <Allolog Form="одухотворением"/>
 <Allolog Form="одухотворению"/>
+<Allolog Form="одухотворенные"/>
 </Word>
 
-<Word Stem="ценностн" Weight="0.0679603033802275">
-<Allolog Form="ценностный"/>
-<Allolog Form="ценностное"/>
-<Allolog Form="ценностного"/>
-<Allolog Form="ценностную"/>
-<Allolog Form="ценностно"/>
-<Allolog Form="ценностные"/>
-<Allolog Form="ценностном"/>
-<Allolog Form="ценностной"/>
-<Allolog Form="ценностными"/>
-<Allolog Form="ценностная"/>
-<Allolog Form="ценностным"/>
-</Word>
-
-<Word Stem="мамардашв" Weight="0.0511712896615793">
+<Word Stem="мамардашв" Weight="0.05118855689992">
 <Allolog Form="мамардашвили"/>
 </Word>
 
-<Word Stem="ритуал" Weight="0.059698427715737">
-<Allolog Form="ритуалы"/>
-<Allolog Form="ритуалов"/>
-<Allolog Form="ритуалах"/>
-<Allolog Form="ритуалами"/>
-<Allolog Form="ритуале"/>
-<Allolog Form="ритуалам"/>
-<Allolog Form="ритуалу"/>
-<Allolog Form="ритуалом"/>
-<Allolog Form="ритуаль"/>
-</Word>
-
-<Word Stem="абориг" Weight="0.0544365464315926">
-<Allolog Form="аборигены"/>
-<Allolog Form="аборигена"/>
-</Word>
-
-<Word Stem="мифическ" Weight="0.0547680395334791">
-<Allolog Form="мифических"/>
-<Allolog Form="мифический"/>
-<Allolog Form="мифическом"/>
-<Allolog Form="мифического"/>
-<Allolog Form="мифическое"/>
-<Allolog Form="мифическими"/>
-<Allolog Form="мифические"/>
-<Allolog Form="мифическим"/>
-<Allolog Form="мифической"/>
-<Allolog Form="мифическую"/>
-<Allolog Form="мифическая"/>
-</Word>
-
-<Word Stem="рационалистическ" Weight="0.0512930082286789">
-<Allolog Form="рационалистический"/>
-<Allolog Form="рационалистической"/>
-<Allolog Form="рационалистических"/>
-<Allolog Form="рационалистическим"/>
-<Allolog Form="рационалистическая"/>
-<Allolog Form="рационалистически"/>
-<Allolog Form="рационалистического"/>
-<Allolog Form="рационалистическими"/>
-<Allolog Form="рационалистические"/>
-<Allolog Form="рационалистическое"/>
-<Allolog Form="рационалистическую"/>
-</Word>
-
-<Word Stem="этнограф" Weight="0.051877191242827">
+<Word Stem="этнограф" Weight="0.051906698131994">
 <Allolog Form="этнографа"/>
 <Allolog Form="этнография"/>
 <Allolog Form="этнографией"/>
@@ -2064,6 +3104,7 @@
 <Allolog Form="этнографом"/>
 <Allolog Form="этнографами"/>
 <Allolog Form="этнографов"/>
+<Allolog Form="этнографию"/>
 </Word>
 
 <Word Stem="напев" Weight="0.05">
@@ -2075,10 +3116,6 @@
 <Allolog Form="напевая"/>
 <Allolog Form="напевах"/>
 <Allolog Form="напевами"/>
-</Word>
-
-<Word Stem="ценностных" Weight="0.0521074959483939">
-<Allolog Form="ценностных"/>
 </Word>
 
 <Word Stem="мезоамерик" Weight="0.0516545431404991">
@@ -2096,29 +3133,16 @@
 <Allolog Form="наскальным"/>
 </Word>
 
-<Word Stem="патриотизм" Weight="0.00179117445340669">
+<Word Stem="патриотизм" Weight="0.00129825161313962">
 <Allolog Form="патриотизм"/>
 <Allolog Form="патриотизмом"/>
 <Allolog Form="патриотизма"/>
 <Allolog Form="патриотизму"/>
 <Allolog Form="патриотизмам"/>
+<Allolog Form="патриотизме"/>
 </Word>
 
-<Word Stem="архаическ" Weight="0.056188586198577">
-<Allolog Form="архаических"/>
-<Allolog Form="архаического"/>
-<Allolog Form="архаический"/>
-<Allolog Form="архаическим"/>
-<Allolog Form="архаическая"/>
-<Allolog Form="архаической"/>
-<Allolog Form="архаическом"/>
-<Allolog Form="архаические"/>
-<Allolog Form="архаическое"/>
-<Allolog Form="архаическую"/>
-<Allolog Form="архаическими"/>
-</Word>
-
-<Word Stem="воспева" Weight="0.0514724992417548">
+<Word Stem="воспева" Weight="0.0515788992651223">
 <Allolog Form="воспевают"/>
 <Allolog Form="воспевали"/>
 <Allolog Form="воспевала"/>
@@ -2132,6 +3156,7 @@
 <Allolog Form="воспевались"/>
 <Allolog Form="воспеваемая"/>
 <Allolog Form="воспевает"/>
+<Allolog Form="воспевающих"/>
 <Allolog Form="воспевается"/>
 <Allolog Form="воспевающей"/>
 <Allolog Form="воспеваются"/>
@@ -2139,34 +3164,6 @@
 <Allolog Form="воспевался"/>
 <Allolog Form="воспевайте"/>
 <Allolog Form="воспевалось"/>
-</Word>
-
-<Word Stem="утончен" Weight="0.0541203592745815">
-<Allolog Form="утонченная"/>
-<Allolog Form="утонченной"/>
-<Allolog Form="утонченного"/>
-<Allolog Form="утонченностью"/>
-<Allolog Form="утонченности"/>
-<Allolog Form="утонченно"/>
-<Allolog Form="утончения"/>
-<Allolog Form="утонченные"/>
-<Allolog Form="утонченную"/>
-<Allolog Form="утонченность"/>
-<Allolog Form="утонченное"/>
-<Allolog Form="утончен"/>
-<Allolog Form="утончение"/>
-<Allolog Form="утончений"/>
-<Allolog Form="утонченный"/>
-<Allolog Form="утонченным"/>
-<Allolog Form="утонченными"/>
-<Allolog Form="утонченны"/>
-</Word>
-
-<Word Stem="архаик" Weight="0.0516545431404991">
-<Allolog Form="архаике"/>
-<Allolog Form="архаики"/>
-<Allolog Form="архаико"/>
-<Allolog Form="архаика"/>
 </Word>
 
 <Word Stem="цивилиз" Weight="0.0526055907614115">
@@ -2178,7 +3175,7 @@
 <Allolog Form="цивилиза"/>
 </Word>
 
-<Word Stem="культуролог" Weight="0.563166347971716">
+<Word Stem="культуролог" Weight="0.5631859633469">
 <Allolog Form="культурологии"/>
 <Allolog Form="культурологию"/>
 <Allolog Form="культурологи"/>
@@ -2189,19 +3186,6 @@
 <Allolog Form="культурологу"/>
 <Allolog Form="культурологам"/>
 <Allolog Form="культурологами"/>
-</Word>
-
-<Word Stem="композитор" Weight="0.05">
-<Allolog Form="композитор"/>
-<Allolog Form="композиторы"/>
-<Allolog Form="композитором"/>
-<Allolog Form="композиторов"/>
-<Allolog Form="композитора"/>
-<Allolog Form="композитору"/>
-<Allolog Form="композиторами"/>
-<Allolog Form="композиторе"/>
-<Allolog Form="композиторам"/>
-<Allolog Form="композиторах"/>
 </Word>
 
 <Word Stem="поэтик" Weight="0.0514738695216065">
@@ -2219,16 +3203,6 @@
 <Allolog Form="скотовода"/>
 </Word>
 
-<Word Stem="земледельц" Weight="0.0520981266070039">
-<Allolog Form="земледельцы"/>
-<Allolog Form="земледельцев"/>
-<Allolog Form="земледельца"/>
-<Allolog Form="земледельцами"/>
-<Allolog Form="земледельцу"/>
-<Allolog Form="земледельцам"/>
-<Allolog Form="земледельцем"/>
-</Word>
-
 <Word Stem="ремесел" Weight="0.052026570592209">
 <Allolog Form="ремесел"/>
 </Word>
@@ -2242,6 +3216,7 @@
 <Allolog Form="скифскими"/>
 <Allolog Form="скифской"/>
 <Allolog Form="скифскую"/>
+<Allolog Form="скифским"/>
 </Word>
 
 <Word Stem="цивилизован" Weight="0.0514738695216065">
@@ -2250,7 +3225,7 @@
 <Allolog Form="цивилизованность"/>
 </Word>
 
-<Word Stem="цивилизацион" Weight="0.0010096284980381">
+<Word Stem="цивилизацион" Weight="0.00105766800485671">
 <Allolog Form="цивилизационные"/>
 <Allolog Form="цивилизационного"/>
 <Allolog Form="цивилизационном"/>
@@ -2263,62 +3238,10 @@
 <Allolog Form="цивилизационной"/>
 </Word>
 
-<Word Stem="древнеегипетск" Weight="0.0615804033840512">
-<Allolog Form="древнеегипетских"/>
-<Allolog Form="древнеегипетским"/>
-<Allolog Form="древнеегипетском"/>
-<Allolog Form="древнеегипетской"/>
-<Allolog Form="древнеегипетские"/>
-<Allolog Form="древнеегипетская"/>
-<Allolog Form="древнеегипетско"/>
-<Allolog Form="древнеегипетского"/>
-<Allolog Form="древнеегипетскую"/>
-<Allolog Form="древнеегипетское"/>
-<Allolog Form="древнеегипетский"/>
-</Word>
-
-<Word Stem="бахтин" Weight="0.0515308027705839">
+<Word Stem="бахтин" Weight="0.0510456809383544">
 <Allolog Form="бахтин"/>
 <Allolog Form="бахтина"/>
 <Allolog Form="бахтину"/>
-</Word>
-
-<Word Stem="осирис" Weight="0.0524102012392938">
-<Allolog Form="осириса"/>
-<Allolog Form="осирис"/>
-<Allolog Form="осирисе"/>
-<Allolog Form="осирисом"/>
-</Word>
-
-<Word Stem="исид" Weight="0.0511258725512272">
-<Allolog Form="исиды"/>
-<Allolog Form="исида"/>
-</Word>
-
-<Word Stem="повествует" Weight="0.0511258725512272">
-<Allolog Form="повествует"/>
-<Allolog Form="повествуется"/>
-</Word>
-
-<Word Stem="месопотамск" Weight="0.052217102870109">
-<Allolog Form="месопотамские"/>
-<Allolog Form="месопотамской"/>
-<Allolog Form="месопотамская"/>
-<Allolog Form="месопотамского"/>
-<Allolog Form="месопотамский"/>
-</Word>
-
-<Word Stem="вавилон" Weight="0.0551691732861071">
-<Allolog Form="вавилонии"/>
-<Allolog Form="вавилон"/>
-<Allolog Form="вавилония"/>
-<Allolog Form="вавилонией"/>
-<Allolog Form="вавилоне"/>
-<Allolog Form="вавилона"/>
-<Allolog Form="вавилонию"/>
-<Allolog Form="вавилони"/>
-<Allolog Form="вавилоно"/>
-<Allolog Form="вавилоны"/>
 </Word>
 
 <Word Stem="древневосточн" Weight="0.0528030344206415">
@@ -2332,25 +3255,6 @@
 <Allolog Form="древневосточном"/>
 </Word>
 
-<Word Stem="иероглиф" Weight="0.0512974340828428">
-<Allolog Form="иероглифом"/>
-<Allolog Form="иероглифы"/>
-<Allolog Form="иероглифов"/>
-<Allolog Form="иероглиф"/>
-<Allolog Form="иероглифами"/>
-</Word>
-
-<Word Stem="трагед" Weight="0.05">
-<Allolog Form="трагедия"/>
-<Allolog Form="трагедий"/>
-<Allolog Form="трагедиях"/>
-<Allolog Form="трагедии"/>
-<Allolog Form="трагедию"/>
-<Allolog Form="трагедией"/>
-<Allolog Form="трагедиям"/>
-<Allolog Form="трагедиями"/>
-</Word>
-
 <Word Stem="курган" Weight="0.0512974340828428">
 <Allolog Form="кургане"/>
 <Allolog Form="курганов"/>
@@ -2358,32 +3262,7 @@
 <Allolog Form="курганах"/>
 </Word>
 
-<Word Stem="погребальн" Weight="0.0518389251670044">
-<Allolog Form="погребальный"/>
-<Allolog Form="погребальными"/>
-<Allolog Form="погребальным"/>
-<Allolog Form="погребальные"/>
-<Allolog Form="погребальной"/>
-<Allolog Form="погребального"/>
-<Allolog Form="погребальное"/>
-</Word>
-
-<Word Stem="пантеон" Weight="0.0532032890005884">
-<Allolog Form="пантеон"/>
-<Allolog Form="пантеона"/>
-<Allolog Form="пантеоне"/>
-</Word>
-
-<Word Stem="стату" Weight="0.51079133988733">
-<Allolog Form="статуе"/>
-<Allolog Form="статуя"/>
-<Allolog Form="статуи"/>
-<Allolog Form="статуях"/>
-<Allolog Form="статуями"/>
-<Allolog Form="статуей"/>
-</Word>
-
-<Word Stem="менталитет" Weight="0.0531000471610047">
+<Word Stem="менталитет" Weight="0.053145373661649">
 <Allolog Form="менталитета"/>
 <Allolog Form="менталитет"/>
 <Allolog Form="менталитетом"/>
@@ -2392,14 +3271,14 @@
 <Allolog Form="менталитеты"/>
 </Word>
 
-<Word Stem="геродот" Weight="0.051486452579653">
+<Word Stem="геродот" Weight="0.0515109263926731">
 <Allolog Form="геродота"/>
 <Allolog Form="геродот"/>
 <Allolog Form="геродоту"/>
 <Allolog Form="геродотом"/>
 </Word>
 
-<Word Stem="гимн" Weight="0.0518873421700852">
+<Word Stem="гимн" Weight="0.05">
 <Allolog Form="гимне"/>
 <Allolog Form="гимн"/>
 <Allolog Form="гимнов"/>
@@ -2418,22 +3297,6 @@
 <Allolog Form="талионе"/>
 </Word>
 
-<Word Stem="мироощущен" Weight="0.05">
-<Allolog Form="мироощущение"/>
-<Allolog Form="мироощущения"/>
-<Allolog Form="мироощущением"/>
-<Allolog Form="мироощущению"/>
-<Allolog Form="мироощущении"/>
-<Allolog Form="мироощущений"/>
-</Word>
-
-<Word Stem="конфуц" Weight="0.0530331004240576">
-<Allolog Form="конфуция"/>
-<Allolog Form="конфуций"/>
-<Allolog Form="конфуцию"/>
-<Allolog Form="конфуцием"/>
-</Word>
-
 <Word Stem="хаммурап" Weight="0.052217102870109">
 <Allolog Form="хаммурапи"/>
 </Word>
@@ -2450,21 +3313,6 @@
 <Allolog Form="скифь"/>
 </Word>
 
-<Word Stem="илиад" Weight="0.0524102012392938">
-<Allolog Form="илиаде"/>
-<Allolog Form="илиады"/>
-<Allolog Form="илиада"/>
-<Allolog Form="илиаду"/>
-</Word>
-
-<Word Stem="гомер" Weight="0.0545850265552149">
-<Allolog Form="гомера"/>
-<Allolog Form="гомером"/>
-<Allolog Form="гомер"/>
-<Allolog Form="гомеру"/>
-<Allolog Form="гомеров"/>
-</Word>
-
 <Word Stem="гомеровск" Weight="0.0518389251670044">
 <Allolog Form="гомеровского"/>
 <Allolog Form="гомеровский"/>
@@ -2477,40 +3325,7 @@
 <Allolog Form="гомеровское"/>
 </Word>
 
-<Word Stem="повествован" Weight="0.5">
-<Allolog Form="повествования"/>
-<Allolog Form="повествование"/>
-<Allolog Form="повествованием"/>
-<Allolog Form="повествованиях"/>
-<Allolog Form="повествовании"/>
-<Allolog Form="повествованию"/>
-</Word>
-
-<Word Stem="ахилл" Weight="0.0512974340828428">
-<Allolog Form="ахилла"/>
-<Allolog Form="ахиллом"/>
-<Allolog Form="ахилл"/>
-<Allolog Form="ахилло"/>
-<Allolog Form="ахиллу"/>
-</Word>
-
-<Word Stem="троянск" Weight="0.0511258725512272">
-<Allolog Form="троянской"/>
-<Allolog Form="троянский"/>
-<Allolog Form="троянское"/>
-<Allolog Form="троянская"/>
-<Allolog Form="троянских"/>
-</Word>
-
-<Word Stem="буддизм" Weight="0.50896821500093">
-<Allolog Form="буддизма"/>
-<Allolog Form="буддизме"/>
-<Allolog Form="буддизм"/>
-<Allolog Form="буддизмом"/>
-<Allolog Form="буддизму"/>
-</Word>
-
-<Word Stem="конфуцианств" Weight="0.0559830750695732">
+<Word Stem="конфуцианств" Weight="0.0560311145763918">
 <Allolog Form="конфуцианстве"/>
 <Allolog Form="конфуцианство"/>
 <Allolog Form="конфуцианством"/>
@@ -2518,72 +3333,11 @@
 <Allolog Form="конфуцианству"/>
 </Word>
 
-<Word Stem="книжн" Weight="0.50279276529724">
-<Allolog Form="книжной"/>
-<Allolog Form="книжные"/>
-<Allolog Form="книжный"/>
-<Allolog Form="книжного"/>
-<Allolog Form="книжная"/>
-<Allolog Form="книжную"/>
-<Allolog Form="книжное"/>
-<Allolog Form="книжными"/>
-<Allolog Form="книжным"/>
-<Allolog Form="книжном"/>
-<Allolog Form="книжность"/>
-<Allolog Form="книжно"/>
-</Word>
-
-<Word Stem="ассирийск" Weight="0.052217102870109">
-<Allolog Form="ассирийской"/>
-<Allolog Form="ассирийскую"/>
-<Allolog Form="ассирийская"/>
-<Allolog Form="ассирийские"/>
-<Allolog Form="ассирийского"/>
-<Allolog Form="ассирийских"/>
-<Allolog Form="ассирийско"/>
-</Word>
-
-<Word Stem="художественных" Weight="0.508262250314584">
+<Word Stem="художественных" Weight="0.507231667195378">
 <Allolog Form="художественных"/>
 </Word>
 
-<Word Stem="скульптур" Weight="0.53543257812727">
-<Allolog Form="скульптурой"/>
-<Allolog Form="скульптуре"/>
-<Allolog Form="скульптуры"/>
-<Allolog Form="скульптура"/>
-<Allolog Form="скульптур"/>
-<Allolog Form="скульптуру"/>
-<Allolog Form="скульптурами"/>
-<Allolog Form="скульптурах"/>
-</Word>
-
-<Word Stem="убранств" Weight="0.0516545431404991">
-<Allolog Form="убранстве"/>
-<Allolog Form="убранства"/>
-<Allolog Form="убранство"/>
-<Allolog Form="убранством"/>
-<Allolog Form="убранств"/>
-</Word>
-
-<Word Stem="изяществ" Weight="0.0517676496297823">
-<Allolog Form="изяществом"/>
-<Allolog Form="изящество"/>
-<Allolog Form="изящества"/>
-<Allolog Form="изяществе"/>
-<Allolog Form="изяществу"/>
-</Word>
-
-<Word Stem="музе" Weight="0.503798384422176">
-<Allolog Form="музеев"/>
-<Allolog Form="музеем"/>
-<Allolog Form="музея"/>
-<Allolog Form="музеях"/>
-<Allolog Form="музеям"/>
-<Allolog Form="музеями"/>
-</Word>
-
-<Word Stem="древнеиндийск" Weight="0.0526876532103816">
+<Word Stem="древнеиндийск" Weight="0.0527146243512608">
 <Allolog Form="древнеиндийский"/>
 <Allolog Form="древнеиндийская"/>
 <Allolog Form="древнеиндийской"/>
@@ -2594,19 +3348,7 @@
 <Allolog Form="древнеиндийским"/>
 </Word>
 
-<Word Stem="древнеримск" Weight="0.0532032890005884">
-<Allolog Form="древнеримской"/>
-<Allolog Form="древнеримскую"/>
-<Allolog Form="древнеримский"/>
-<Allolog Form="древнеримского"/>
-<Allolog Form="древнеримская"/>
-<Allolog Form="древнеримские"/>
-<Allolog Form="древнеримское"/>
-<Allolog Form="древнеримском"/>
-<Allolog Form="древнеримских"/>
-</Word>
-
-<Word Stem="гуманист" Weight="0.501341572529387">
+<Word Stem="гуманист" Weight="0.501541006353864">
 <Allolog Form="гуманистами"/>
 <Allolog Form="гуманист"/>
 <Allolog Form="гуманисти"/>
@@ -2616,30 +3358,6 @@
 <Allolog Form="гуманистов"/>
 <Allolog Form="гуманистам"/>
 <Allolog Form="гуманистом"/>
-</Word>
-
-<Word Stem="эгейск" Weight="0.05402097339724">
-<Allolog Form="эгейской"/>
-<Allolog Form="эгейского"/>
-<Allolog Form="эгейскую"/>
-<Allolog Form="эгейская"/>
-<Allolog Form="эгейско"/>
-<Allolog Form="эгейский"/>
-<Allolog Form="эгейском"/>
-</Word>
-
-<Word Stem="дионис" Weight="0.0552580733073593">
-<Allolog Form="дионису"/>
-<Allolog Form="диониса"/>
-<Allolog Form="дионис"/>
-<Allolog Form="дионисия"/>
-<Allolog Form="дионисий"/>
-<Allolog Form="дионисом"/>
-<Allolog Form="дионисио"/>
-<Allolog Form="дионисию"/>
-<Allolog Form="дионисием"/>
-<Allolog Form="дионисе"/>
-<Allolog Form="дионисиев"/>
 </Word>
 
 <Word Stem="микенск" Weight="0.0528030344206415">
@@ -2662,63 +3380,8 @@
 <Allolog Form="критской"/>
 </Word>
 
-<Word Stem="эллад" Weight="0.0514738695216065">
-<Allolog Form="элладой"/>
-<Allolog Form="эллады"/>
-<Allolog Form="элладе"/>
-</Word>
-
-<Word Stem="афинск" Weight="0.0510851344419605">
-<Allolog Form="афинского"/>
-<Allolog Form="афинском"/>
-<Allolog Form="афинских"/>
-<Allolog Form="афинской"/>
-<Allolog Form="афинские"/>
-<Allolog Form="афинский"/>
-<Allolog Form="афинским"/>
-<Allolog Form="афинское"/>
-<Allolog Form="афинская"/>
-</Word>
-
-<Word Stem="ораторск" Weight="0.0516545431404991">
-<Allolog Form="ораторское"/>
-<Allolog Form="ораторского"/>
-<Allolog Form="ораторским"/>
-<Allolog Form="ораторском"/>
-<Allolog Form="ораторский"/>
-</Word>
-
-<Word Stem="перикл" Weight="0.0512974340828428">
-<Allolog Form="перикла"/>
-<Allolog Form="перикл"/>
-<Allolog Form="периклом"/>
-</Word>
-
-<Word Stem="античных" Weight="0.00105974192215388">
-<Allolog Form="античных"/>
-</Word>
-
 <Word Stem="древневосточных" Weight="0.0518389251670044">
 <Allolog Form="древневосточных"/>
-</Word>
-
-<Word Stem="оратор" Weight="0.05">
-<Allolog Form="оратору"/>
-<Allolog Form="оратор"/>
-<Allolog Form="оратором"/>
-<Allolog Form="оратория"/>
-<Allolog Form="оратора"/>
-<Allolog Form="ораторов"/>
-<Allolog Form="ораторами"/>
-<Allolog Form="ораторы"/>
-<Allolog Form="ораториями"/>
-<Allolog Form="оратории"/>
-<Allolog Form="ораториям"/>
-<Allolog Form="ораторию"/>
-<Allolog Form="ораторий"/>
-<Allolog Form="ораториях"/>
-<Allolog Form="ораторией"/>
-<Allolog Form="ораторам"/>
 </Word>
 
 <Word Stem="этос" Weight="0.0512974340828428">
@@ -2729,107 +3392,11 @@
 <Allolog Form="этосу"/>
 </Word>
 
-<Word Stem="варварск" Weight="0.0521921275675754">
-<Allolog Form="варварских"/>
-<Allolog Form="варварские"/>
-<Allolog Form="варварски"/>
-<Allolog Form="варварским"/>
-<Allolog Form="варварского"/>
-<Allolog Form="варварской"/>
-<Allolog Form="варварскими"/>
-<Allolog Form="варварское"/>
-<Allolog Form="варварском"/>
-<Allolog Form="варварско"/>
-<Allolog Form="варварскую"/>
-<Allolog Form="варварская"/>
-</Word>
-
-<Word Stem="зевс" Weight="0.0536096156339345">
-<Allolog Form="зевсом"/>
-<Allolog Form="зевса"/>
-<Allolog Form="зевсу"/>
-<Allolog Form="зевс"/>
-<Allolog Form="зевсов"/>
-</Word>
-
-<Word Stem="олимп" Weight="0.5">
-<Allolog Form="олимп"/>
-<Allolog Form="олимпии"/>
-<Allolog Form="олимпа"/>
-<Allolog Form="олимпе"/>
-<Allolog Form="олимпу"/>
-<Allolog Form="олимпия"/>
-<Allolog Form="олимпию"/>
-<Allolog Form="олимпиа"/>
-<Allolog Form="олимпий"/>
-</Word>
-
-<Word Stem="афродит" Weight="0.0516545431404991">
-<Allolog Form="афродита"/>
-<Allolog Form="афродиту"/>
-<Allolog Form="афродиты"/>
-<Allolog Form="афродитой"/>
-</Word>
-
-<Word Stem="светск" Weight="0.00599370437370219">
-<Allolog Form="светской"/>
-<Allolog Form="светского"/>
-<Allolog Form="светских"/>
-<Allolog Form="светская"/>
-<Allolog Form="светским"/>
-<Allolog Form="светском"/>
-<Allolog Form="светское"/>
-<Allolog Form="светские"/>
-<Allolog Form="светскую"/>
-<Allolog Form="светский"/>
-<Allolog Form="светскости"/>
-<Allolog Form="светскость"/>
-<Allolog Form="светскими"/>
-</Word>
-
-<Word Stem="мироздан" Weight="0.0539316775178586">
-<Allolog Form="мироздание"/>
-<Allolog Form="мироздания"/>
-<Allolog Form="мироздании"/>
-<Allolog Form="мирозданию"/>
-<Allolog Form="мирозданием"/>
-<Allolog Form="мирозданьях"/>
-<Allolog Form="мирозданья"/>
-</Word>
-
-<Word Stem="обожествлен" Weight="0.0510689355249757">
-<Allolog Form="обожествленным"/>
-<Allolog Form="обожествлении"/>
-<Allolog Form="обожествление"/>
-<Allolog Form="обожествлен"/>
-<Allolog Form="обожествления"/>
-<Allolog Form="обожествлением"/>
-<Allolog Form="обожествленный"/>
-<Allolog Form="обожествленного"/>
-<Allolog Form="обожествлению"/>
-<Allolog Form="обожествленной"/>
-</Word>
-
-<Word Stem="софокл" Weight="0.052026570592209">
-<Allolog Form="софокла"/>
-<Allolog Form="софокл"/>
-</Word>
-
-<Word Stem="архитектор" Weight="0.504245892071066">
-<Allolog Form="архитекторы"/>
-<Allolog Form="архитекторов"/>
-<Allolog Form="архитектор"/>
-<Allolog Form="архитекторам"/>
-<Allolog Form="архитектора"/>
-<Allolog Form="архитектором"/>
-<Allolog Form="архитекторами"/>
-</Word>
-
 <Word Stem="архитектурных" Weight="0.0516545431404991">
 <Allolog Form="архитектурных"/>
 </Word>
 
-<Word Stem="риторик" Weight="0.0525798287701598">
+<Word Stem="риторик" Weight="0.052672851684621">
 <Allolog Form="риторика"/>
 <Allolog Form="риторике"/>
 <Allolog Form="риторику"/>
@@ -2837,21 +3404,7 @@
 <Allolog Form="риторикой"/>
 </Word>
 
-<Word Stem="эллинистическ" Weight="0.0548293193415121">
-<Allolog Form="эллинистическим"/>
-<Allolog Form="эллинистической"/>
-<Allolog Form="эллинистических"/>
-<Allolog Form="эллинистического"/>
-<Allolog Form="эллинистический"/>
-<Allolog Form="эллинистическими"/>
-<Allolog Form="эллинистическая"/>
-<Allolog Form="эллинистическое"/>
-<Allolog Form="эллинистическую"/>
-<Allolog Form="эллинистическо"/>
-<Allolog Form="эллинистические"/>
-</Word>
-
-<Word Stem="стоицизм" Weight="0.0525469484989877">
+<Word Stem="стоицизм" Weight="0.052592274999632">
 <Allolog Form="стоицизма"/>
 <Allolog Form="стоицизмом"/>
 <Allolog Form="стоицизму"/>
@@ -2863,63 +3416,16 @@
 <Allolog Form="эдикты"/>
 <Allolog Form="эдиктов"/>
 <Allolog Form="эдикта"/>
-</Word>
-
-<Word Stem="поэтическ" Weight="0.05">
-<Allolog Form="поэтическая"/>
-<Allolog Form="поэтические"/>
-<Allolog Form="поэтическое"/>
-<Allolog Form="поэтическими"/>
-<Allolog Form="поэтическим"/>
-<Allolog Form="поэтических"/>
-<Allolog Form="поэтической"/>
-<Allolog Form="поэтический"/>
-<Allolog Form="поэтического"/>
-<Allolog Form="поэтическом"/>
-<Allolog Form="поэтически"/>
-<Allolog Form="поэтическую"/>
+<Allolog Form="эдикт"/>
 </Word>
 
 <Word Stem="скульптурных" Weight="0.0511258725512272">
 <Allolog Form="скульптурных"/>
 </Word>
 
-<Word Stem="архитектурн" Weight="0.508944863303543">
-<Allolog Form="архитектурными"/>
-<Allolog Form="архитектурные"/>
-<Allolog Form="архитектурное"/>
-<Allolog Form="архитектурная"/>
-<Allolog Form="архитектурном"/>
-<Allolog Form="архитектурным"/>
-<Allolog Form="архитектурного"/>
-<Allolog Form="архитектурный"/>
-<Allolog Form="архитектурной"/>
-<Allolog Form="архитектурную"/>
-<Allolog Form="архитектурно"/>
-</Word>
-
-<Word Stem="ордер" Weight="0.00241020123929379">
-<Allolog Form="ордерами"/>
-<Allolog Form="ордер"/>
-<Allolog Form="ордера"/>
-<Allolog Form="ордером"/>
-<Allolog Form="ордеров"/>
-</Word>
-
 <Word Stem="поликлет" Weight="0.052217102870109">
 <Allolog Form="поликлета"/>
 <Allolog Form="поликлет"/>
-</Word>
-
-<Word Stem="скульптор" Weight="0.506080714385821">
-<Allolog Form="скульпторов"/>
-<Allolog Form="скульпторы"/>
-<Allolog Form="скульптора"/>
-<Allolog Form="скульпторам"/>
-<Allolog Form="скульптор"/>
-<Allolog Form="скульптором"/>
-<Allolog Form="скульпторами"/>
-<Allolog Form="скульптору"/>
 </Word>
 
 <Word Stem="портретн" Weight="0.0534057644674623">
@@ -2946,35 +3452,6 @@
 <Allolog Form="аристофана"/>
 </Word>
 
-<Word Stem="проз" Weight="0.052958720748237">
-<Allolog Form="проза"/>
-<Allolog Form="прозы"/>
-<Allolog Form="прозе"/>
-<Allolog Form="прозой"/>
-<Allolog Form="проз"/>
-<Allolog Form="прозу"/>
-</Word>
-
-<Word Stem="прозаическ" Weight="0.0514738695216065">
-<Allolog Form="прозаическая"/>
-<Allolog Form="прозаические"/>
-<Allolog Form="прозаических"/>
-<Allolog Form="прозаической"/>
-<Allolog Form="прозаическом"/>
-<Allolog Form="прозаически"/>
-<Allolog Form="прозаический"/>
-<Allolog Form="прозаическое"/>
-<Allolog Form="прозаическим"/>
-</Word>
-
-<Word Stem="рома" Weight="0.50267071125596">
-<Allolog Form="роман"/>
-<Allolog Form="романы"/>
-<Allolog Form="романа"/>
-<Allolog Form="романо"/>
-<Allolog Form="романной"/>
-</Word>
-
 <Word Stem="комическ" Weight="0.05">
 <Allolog Form="комическим"/>
 <Allolog Form="комические"/>
@@ -2988,7 +3465,7 @@
 <Allolog Form="комической"/>
 </Word>
 
-<Word Stem="сатир" Weight="0.0558842741061235">
+<Word Stem="сатир" Weight="0.0559856104399003">
 <Allolog Form="сатира"/>
 <Allolog Form="сатиры"/>
 <Allolog Form="сатире"/>
@@ -3014,34 +3491,12 @@
 <Allolog Form="лириком"/>
 </Word>
 
-<Word Stem="вергил" Weight="0.0512974340828428">
-<Allolog Form="вергилий"/>
-<Allolog Form="вергилия"/>
-<Allolog Form="вергилием"/>
-</Word>
-
-<Word Stem="горац" Weight="0.0516545431404991">
+<Word Stem="горац" Weight="0.051000132740479">
 <Allolog Form="гораций"/>
 <Allolog Form="горациев"/>
 <Allolog Form="горации"/>
 <Allolog Form="горация"/>
 <Allolog Form="горацио"/>
-</Word>
-
-<Word Stem="овид" Weight="0.0511258725512272">
-<Allolog Form="овидия"/>
-<Allolog Form="овидий"/>
-</Word>
-
-<Word Stem="парфенон" Weight="0.0514738695216065">
-<Allolog Form="парфенона"/>
-<Allolog Form="парфеноном"/>
-<Allolog Form="парфенон"/>
-</Word>
-
-<Word Stem="гофф" Weight="0.0516545431404991">
-<Allolog Form="гофф"/>
-<Allolog Form="гоффа"/>
 </Word>
 
 <Word Stem="каролингск" Weight="0.0526055907614115">
@@ -3057,12 +3512,6 @@
 <Word Stem="хейзинг" Weight="0.503814721114746">
 <Allolog Form="хейзинги"/>
 <Allolog Form="хейзинга"/>
-</Word>
-
-<Word Stem="гуревич" Weight="0.0518389251670044">
-<Allolog Form="гуревича"/>
-<Allolog Form="гуревич"/>
-<Allolog Form="гуревичу"/>
 </Word>
 
 <Word Stem="романск" Weight="0.0569896006139452">
@@ -3082,32 +3531,11 @@
 <Allolog Form="готикой"/>
 </Word>
 
-<Word Stem="регламентац" Weight="0.0524102012392938">
+<Word Stem="регламентац" Weight="0.0514261001102383">
 <Allolog Form="регламентация"/>
 <Allolog Form="регламентацию"/>
 <Allolog Form="регламентации"/>
 <Allolog Form="регламентацией"/>
-</Word>
-
-<Word Stem="грамматик" Weight="0.0525192844388904">
-<Allolog Form="грамматику"/>
-<Allolog Form="грамматика"/>
-<Allolog Form="грамматики"/>
-<Allolog Form="грамматике"/>
-<Allolog Form="грамматиков"/>
-<Allolog Form="грамматикой"/>
-</Word>
-
-<Word Stem="готическ" Weight="0.0559159484964484">
-<Allolog Form="готической"/>
-<Allolog Form="готическая"/>
-<Allolog Form="готического"/>
-<Allolog Form="готические"/>
-<Allolog Form="готических"/>
-<Allolog Form="готическом"/>
-<Allolog Form="готический"/>
-<Allolog Form="готическое"/>
-<Allolog Form="готическую"/>
 </Word>
 
 <Word Stem="витраж" Weight="0.0512974340828428">
@@ -3116,99 +3544,13 @@
 <Allolog Form="витражей"/>
 </Word>
 
-<Word Stem="дант" Weight="0.051486452579653">
-<Allolog Form="данте"/>
-<Allolog Form="данто"/>
-<Allolog Form="дантом"/>
-<Allolog Form="данту"/>
-</Word>
-
-<Word Stem="зверин" Weight="0.052217102870109">
-<Allolog Form="звериной"/>
-<Allolog Form="звериным"/>
-<Allolog Form="звериный"/>
-<Allolog Form="звериного"/>
-<Allolog Form="зверином"/>
-<Allolog Form="звериные"/>
-<Allolog Form="звериная"/>
-<Allolog Form="звериное"/>
-<Allolog Form="звериную"/>
-<Allolog Form="зверина"/>
-</Word>
-
-<Word Stem="эпическ" Weight="0.502129973695151">
-<Allolog Form="эпических"/>
-<Allolog Form="эпические"/>
-<Allolog Form="эпического"/>
-<Allolog Form="эпически"/>
-<Allolog Form="эпической"/>
-<Allolog Form="эпическим"/>
-<Allolog Form="эпическую"/>
-<Allolog Form="эпическая"/>
-<Allolog Form="эпическими"/>
-<Allolog Form="эпическом"/>
-<Allolog Form="эпический"/>
-<Allolog Form="эпическое"/>
-</Word>
-
-<Word Stem="театральн" Weight="0.05">
-<Allolog Form="театральные"/>
-<Allolog Form="театрального"/>
-<Allolog Form="театральная"/>
-<Allolog Form="театральное"/>
-<Allolog Form="театральной"/>
-<Allolog Form="театральный"/>
-<Allolog Form="театральном"/>
-<Allolog Form="театральности"/>
-<Allolog Form="театрально"/>
-<Allolog Form="театральную"/>
-<Allolog Form="театральность"/>
-<Allolog Form="театральными"/>
-<Allolog Form="театральным"/>
-<Allolog Form="театральних"/>
-<Allolog Form="театральна"/>
-<Allolog Form="театральностью"/>
-</Word>
-
 <Word Stem="иконопис" Weight="0.0524102012392938">
 <Allolog Form="иконописью"/>
 <Allolog Form="иконописи"/>
 <Allolog Form="иконописях"/>
 </Word>
 
-<Word Stem="монументальн" Weight="0.0546127076411678">
-<Allolog Form="монументальная"/>
-<Allolog Form="монументальные"/>
-<Allolog Form="монументальном"/>
-<Allolog Form="монументальность"/>
-<Allolog Form="монументальности"/>
-<Allolog Form="монументальное"/>
-<Allolog Form="монументальной"/>
-<Allolog Form="монументальный"/>
-<Allolog Form="монументально"/>
-<Allolog Form="монументальную"/>
-<Allolog Form="монументального"/>
-<Allolog Form="монументальностью"/>
-<Allolog Form="монументальным"/>
-<Allolog Form="монументальн"/>
-</Word>
-
-<Word Stem="живоп" Weight="0.519690900781442">
-<Allolog Form="живопись"/>
-<Allolog Form="живопи"/>
-</Word>
-
-<Word Stem="фасад" Weight="0.501125872551227">
-<Allolog Form="фасады"/>
-<Allolog Form="фасада"/>
-<Allolog Form="фасадов"/>
-<Allolog Form="фасад"/>
-<Allolog Form="фасаде"/>
-<Allolog Form="фасаду"/>
-<Allolog Form="фасадом"/>
-</Word>
-
-<Word Stem="героик" Weight="0.0521420040630364">
+<Word Stem="героик" Weight="0.052197279064003">
 <Allolog Form="героико"/>
 <Allolog Form="героика"/>
 <Allolog Form="героикой"/>
@@ -3217,7 +3559,7 @@
 <Allolog Form="героику"/>
 </Word>
 
-<Word Stem="трубадур" Weight="0.0526660501468501">
+<Word Stem="трубадур" Weight="0.0527213251478167">
 <Allolog Form="трубадурами"/>
 <Allolog Form="трубадур"/>
 <Allolog Form="трубадуры"/>
@@ -3240,31 +3582,12 @@
 <Allolog Form="трагизму"/>
 </Word>
 
-<Word Stem="неформальн" Weight="0.0516545431404991">
-<Allolog Form="неформально"/>
-<Allolog Form="неформальная"/>
-<Allolog Form="неформальное"/>
-<Allolog Form="неформальные"/>
-<Allolog Form="неформальный"/>
-<Allolog Form="неформальной"/>
-<Allolog Form="неформального"/>
-<Allolog Form="неформальными"/>
-<Allolog Form="неформальным"/>
-<Allolog Form="неформальную"/>
-</Word>
-
-<Word Stem="ломоносов" Weight="0.0512974340828428">
-<Allolog Form="ломоносова"/>
-<Allolog Form="ломоносовым"/>
-<Allolog Form="ломоносову"/>
-</Word>
-
 <Word Stem="лотма" Weight="0.0512974340828428">
 <Allolog Form="лотман"/>
 <Allolog Form="лотмана"/>
 </Word>
 
-<Word Stem="достоевск" Weight="0.0519199158681995">
+<Word Stem="достоевск" Weight="0.0526342375869377">
 <Allolog Form="достоевского"/>
 <Allolog Form="достоевский"/>
 <Allolog Form="достоевским"/>
@@ -3295,11 +3618,11 @@
 <Allolog Form="шиллеру"/>
 </Word>
 
-<Word Stem="дидр" Weight="0.0518111792135833">
+<Word Stem="дидр" Weight="0.0518432560025303">
 <Allolog Form="дидро"/>
 </Word>
 
-<Word Stem="романтизм" Weight="0.053263840465298">
+<Word Stem="романтизм" Weight="0.0539795510514658">
 <Allolog Form="романтизма"/>
 <Allolog Form="романтизм"/>
 <Allolog Form="романтизме"/>
@@ -3312,7 +3635,7 @@
 <Allolog Form="лермонтовым"/>
 </Word>
 
-<Word Stem="онегин" Weight="0.051478182141203">
+<Word Stem="онегин" Weight="0.0515720486362281">
 <Allolog Form="онегине"/>
 <Allolog Form="онегина"/>
 <Allolog Form="онегин"/>
@@ -3321,65 +3644,23 @@
 <Allolog Form="онегины"/>
 </Word>
 
-<Word Stem="социокультурн" Weight="0.0527011067729153">
-<Allolog Form="социокультурного"/>
-<Allolog Form="социокультурным"/>
-<Allolog Form="социокультурной"/>
-<Allolog Form="социокультурное"/>
-<Allolog Form="социокультурными"/>
-<Allolog Form="социокультурный"/>
-<Allolog Form="социокультурную"/>
-<Allolog Form="социокультурная"/>
-<Allolog Form="социокультурные"/>
-<Allolog Form="социокультурном"/>
-</Word>
-
 <Word Stem="твардовск" Weight="0.0526055907614115">
 <Allolog Form="твардовского"/>
 <Allolog Form="твардовский"/>
 <Allolog Form="твардовским"/>
 </Word>
 
-<Word Stem="сентиментальн" Weight="0.0538278173396212">
-<Allolog Form="сентиментальность"/>
-<Allolog Form="сентиментальности"/>
-<Allolog Form="сентиментальная"/>
-<Allolog Form="сентиментальном"/>
-<Allolog Form="сентиментальный"/>
-<Allolog Form="сентиментальные"/>
-<Allolog Form="сентиментальностью"/>
-<Allolog Form="сентиментального"/>
-<Allolog Form="сентиментальной"/>
-<Allolog Form="сентиментальную"/>
-<Allolog Form="сентиментальное"/>
-</Word>
-
-<Word Stem="шекспир" Weight="0.05">
-<Allolog Form="шекспира"/>
-<Allolog Form="шекспир"/>
-<Allolog Form="шекспиром"/>
-<Allolog Form="шекспиру"/>
-<Allolog Form="шекспирам"/>
-</Word>
-
 <Word Stem="чехов" Weight="0.0536096156339345">
 <Allolog Form="чехова"/>
 <Allolog Form="чехову"/>
 <Allolog Form="чеховым"/>
+<Allolog Form="чехове"/>
 <Allolog Form="чеховы"/>
 </Word>
 
 <Word Stem="нирва" Weight="0.05">
 <Allolog Form="нирваны"/>
 <Allolog Form="нирвана"/>
-</Word>
-
-<Word Stem="ренессанс" Weight="0.0617363095461374">
-<Allolog Form="ренессанса"/>
-<Allolog Form="ренессанс"/>
-<Allolog Form="ренессансе"/>
-<Allolog Form="ренессансом"/>
-<Allolog Form="ренессансу"/>
 </Word>
 
 <Word Stem="тургенев" Weight="0.0514738695216065">
@@ -3415,7 +3696,7 @@
 <Allolog Form="пушкинское"/>
 </Word>
 
-<Word Stem="субкультур" Weight="0.503603578312646">
+<Word Stem="субкультур" Weight="0.503665406892908">
 <Allolog Form="субкультур"/>
 <Allolog Form="субкультуры"/>
 <Allolog Form="субкультуру"/>
@@ -3447,7 +3728,7 @@
 <Allolog Form="маяковские"/>
 </Word>
 
-<Word Stem="контркультур" Weight="0.0519457391517267">
+<Word Stem="контркультур" Weight="0.0519727102926059">
 <Allolog Form="контркультура"/>
 <Allolog Form="контркультуры"/>
 <Allolog Form="контркультуру"/>
@@ -3461,7 +3742,7 @@
 <Allolog Form="нонконформизмом"/>
 </Word>
 
-<Word Stem="самобытн" Weight="0.0515545516918772">
+<Word Stem="самобытн" Weight="0.0527315831411943">
 <Allolog Form="самобытного"/>
 <Allolog Form="самобытную"/>
 <Allolog Form="самобытность"/>
@@ -3492,7 +3773,7 @@
 <Allolog Form="антиценностями"/>
 </Word>
 
-<Word Stem="элитарн" Weight="0.0537858431321555">
+<Word Stem="элитарн" Weight="0.0538338826389741">
 <Allolog Form="элитарность"/>
 <Allolog Form="элитарной"/>
 <Allolog Form="элитарны"/>
@@ -3529,7 +3810,7 @@
 <Allolog Form="просветительском"/>
 </Word>
 
-<Word Stem="типолог" Weight="0.0533953693608707">
+<Word Stem="типолог" Weight="0.0536736437019641">
 <Allolog Form="типологию"/>
 <Allolog Form="типология"/>
 <Allolog Form="типологии"/>
@@ -3537,7 +3818,7 @@
 <Allolog Form="типологией"/>
 </Word>
 
-<Word Stem="агностицизм" Weight="0.0532207855429125">
+<Word Stem="агностицизм" Weight="0.0532380527812532">
 <Allolog Form="агностицизм"/>
 <Allolog Form="агностицизмом"/>
 <Allolog Form="агностицизма"/>
@@ -3565,9 +3846,11 @@
 <Allolog Form="фольклорные"/>
 <Allolog Form="фольклорное"/>
 <Allolog Form="фольклорном"/>
+<Allolog Form="фольклорными"/>
 <Allolog Form="фольклорный"/>
 <Allolog Form="фольклорного"/>
-<Allolog Form="фольклорными"/>
+<Allolog Form="фольклорно"/>
+<Allolog Form="фольклорную"/>
 </Word>
 
 <Word Stem="байрон" Weight="0.0518389251670044">
@@ -3576,32 +3859,12 @@
 <Allolog Form="байроном"/>
 </Word>
 
-<Word Stem="модернизм" Weight="0.0515533923216085">
+<Word Stem="модернизм" Weight="0.0516521689835214">
 <Allolog Form="модернизма"/>
 <Allolog Form="модернизмом"/>
 <Allolog Form="модернизм"/>
 <Allolog Form="модернизме"/>
 <Allolog Form="модернизму"/>
-</Word>
-
-<Word Stem="символизм" Weight="0.0539007477337177">
-<Allolog Form="символизма"/>
-<Allolog Form="символизм"/>
-<Allolog Form="символизму"/>
-<Allolog Form="символизме"/>
-<Allolog Form="символизмом"/>
-</Word>
-
-<Word Stem="леонард" Weight="0.0512405793465348">
-<Allolog Form="леонардо"/>
-<Allolog Form="леонард"/>
-<Allolog Form="леонарда"/>
-<Allolog Form="леонарду"/>
-<Allolog Form="леонардом"/>
-</Word>
-
-<Word Stem="винч" Weight="0.0516200251889894">
-<Allolog Form="винчи"/>
 </Word>
 
 <Word Stem="гончар" Weight="0.0511258725512272">
@@ -3625,7 +3888,7 @@
 <Allolog Form="юнеско"/>
 </Word>
 
-<Word Stem="византийск" Weight="0.0711801962137406">
+<Word Stem="византийск" Weight="0.0714857805471561">
 <Allolog Form="византийская"/>
 <Allolog Form="византийское"/>
 <Allolog Form="византийского"/>
@@ -3666,34 +3929,10 @@
 <Allolog Form="жественного"/>
 </Word>
 
-<Word Stem="шумерск" Weight="0.0582905160590367">
-<Allolog Form="шумерского"/>
-<Allolog Form="шумерских"/>
-<Allolog Form="шумерская"/>
-<Allolog Form="шумерскую"/>
-<Allolog Form="шумерской"/>
-<Allolog Form="шумерские"/>
-<Allolog Form="шумерским"/>
-<Allolog Form="шумерское"/>
-<Allolog Form="шумерском"/>
-<Allolog Form="шумерски"/>
-<Allolog Form="шумерский"/>
-</Word>
-
 <Word Stem="аккультурац" Weight="0.0530023268032725">
 <Allolog Form="аккультурация"/>
 <Allolog Form="аккультурации"/>
 <Allolog Form="аккультурацию"/>
-</Word>
-
-<Word Stem="писц" Weight="0.0524102012392938">
-<Allolog Form="писцов"/>
-<Allolog Form="писцы"/>
-<Allolog Form="писцам"/>
-<Allolog Form="писцев"/>
-<Allolog Form="писца"/>
-<Allolog Form="писцом"/>
-<Allolog Form="писцами"/>
 </Word>
 
 <Word Stem="художест" Weight="0.0536096156339345">
@@ -3712,24 +3951,12 @@
 <Allolog Form="сюрреализмом"/>
 </Word>
 
-<Word Stem="экспрессионизм" Weight="0.0515368297382388">
-<Allolog Form="экспрессионизм"/>
-<Allolog Form="экспрессионизму"/>
-<Allolog Form="экспрессионизмом"/>
-<Allolog Form="экспрессионизма"/>
-</Word>
-
-<Word Stem="рембрандт" Weight="0.0524102012392938">
-<Allolog Form="рембрандт"/>
-<Allolog Form="рембрандта"/>
-<Allolog Form="рембрандте"/>
-</Word>
-
 <Word Stem="рафаэл" Weight="0.052026570592209">
 <Allolog Form="рафаэля"/>
 <Allolog Form="рафаэль"/>
 <Allolog Form="рафаэлю"/>
 <Allolog Form="рафаэле"/>
+<Allolog Form="рафаэлем"/>
 </Word>
 
 <Word Stem="микеланджел" Weight="0.0514738695216065">
@@ -3748,42 +3975,8 @@
 <Allolog Form="баснях"/>
 <Allolog Form="басне"/>
 <Allolog Form="басню"/>
-<Allolog Form="басням"/>
 <Allolog Form="баснями"/>
-</Word>
-
-<Word Stem="скандинавск" Weight="0.05">
-<Allolog Form="скандинавские"/>
-<Allolog Form="скандинавской"/>
-<Allolog Form="скандинавская"/>
-<Allolog Form="скандинавских"/>
-<Allolog Form="скандинавскую"/>
-<Allolog Form="скандинавским"/>
-<Allolog Form="скандинавский"/>
-</Word>
-
-<Word Stem="реалистическ" Weight="0.05">
-<Allolog Form="реалистические"/>
-<Allolog Form="реалистической"/>
-<Allolog Form="реалистическая"/>
-<Allolog Form="реалистического"/>
-<Allolog Form="реалистических"/>
-<Allolog Form="реалистическое"/>
-<Allolog Form="реалистический"/>
-<Allolog Form="реалистическими"/>
-<Allolog Form="реалистическую"/>
-<Allolog Form="реалистически"/>
-<Allolog Form="реалистическом"/>
-<Allolog Form="реалистическим"/>
-</Word>
-
-<Word Stem="гравюр" Weight="0.0513926997514274">
-<Allolog Form="гравюры"/>
-<Allolog Form="гравюр"/>
-<Allolog Form="гравюра"/>
-<Allolog Form="гравюрам"/>
-<Allolog Form="гравюрами"/>
-<Allolog Form="гравюру"/>
+<Allolog Form="басням"/>
 </Word>
 
 <Word Stem="зиккурат" Weight="0.0524102012392938">
@@ -3824,15 +4017,6 @@
 <Allolog Form="зодчим"/>
 </Word>
 
-<Word Stem="эллинск" Weight="0.0516545431404991">
-<Allolog Form="эллинские"/>
-<Allolog Form="эллинской"/>
-<Allolog Form="эллинского"/>
-<Allolog Form="эллинский"/>
-<Allolog Form="эллинскую"/>
-<Allolog Form="эллинских"/>
-</Word>
-
 <Word Stem="гесиод" Weight="0.0512974340828428">
 <Allolog Form="гесиода"/>
 <Allolog Form="гесиод"/>
@@ -3852,16 +4036,6 @@
 <Allolog Form="пракситель"/>
 <Allolog Form="праксителя"/>
 <Allolog Form="праксителю"/>
-</Word>
-
-<Word Stem="живописц" Weight="0.0567739998498837">
-<Allolog Form="живописцев"/>
-<Allolog Form="живописца"/>
-<Allolog Form="живописцы"/>
-<Allolog Form="живописцем"/>
-<Allolog Form="живописцам"/>
-<Allolog Form="живописцами"/>
-<Allolog Form="живописцу"/>
 </Word>
 
 <Word Stem="лисипп" Weight="0.0518389251670044">
@@ -3885,27 +4059,6 @@
 <Allolog Form="жанровий"/>
 </Word>
 
-<Word Stem="вдохновен" Weight="0.05">
-<Allolog Form="вдохновения"/>
-<Allolog Form="вдохновенное"/>
-<Allolog Form="вдохновенные"/>
-<Allolog Form="вдохновенный"/>
-<Allolog Form="вдохновение"/>
-<Allolog Form="вдохновенья"/>
-<Allolog Form="вдохновенье"/>
-<Allolog Form="вдохновенного"/>
-<Allolog Form="вдохновении"/>
-<Allolog Form="вдохновенности"/>
-<Allolog Form="вдохновеннейшие"/>
-<Allolog Form="вдохновенно"/>
-<Allolog Form="вдохновению"/>
-<Allolog Form="вдохновенной"/>
-<Allolog Form="вдохновением"/>
-<Allolog Form="вдохновенная"/>
-<Allolog Form="вдохновенную"/>
-<Allolog Form="вдохновений"/>
-</Word>
-
 <Word Stem="купольн" Weight="0.0511258725512272">
 <Allolog Form="купольным"/>
 <Allolog Form="купольными"/>
@@ -3926,22 +4079,6 @@
 <Allolog Form="натюрмортов"/>
 </Word>
 
-<Word Stem="капелл" Weight="0.05">
-<Allolog Form="капелла"/>
-<Allolog Form="капеллы"/>
-<Allolog Form="капелле"/>
-<Allolog Form="капелл"/>
-<Allolog Form="капеллой"/>
-<Allolog Form="капелли"/>
-<Allolog Form="капеллу"/>
-<Allolog Form="капеллах"/>
-<Allolog Form="капеллами"/>
-</Word>
-
-<Word Stem="живописец" Weight="0.0530023268032725">
-<Allolog Form="живописец"/>
-</Word>
-
 <Word Stem="маньеризм" Weight="0.0526055907614115">
 <Allolog Form="маньеризм"/>
 <Allolog Form="маньеризма"/>
@@ -3953,31 +4090,13 @@
 <Allolog Form="караваджо"/>
 </Word>
 
-<Word Stem="рубенс" Weight="0.0518389251670044">
-<Allolog Form="рубенса"/>
-<Allolog Form="рубенс"/>
-</Word>
-
-<Word Stem="реформац" Weight="0.0011074110226227">
-<Allolog Form="реформации"/>
-<Allolog Form="реформация"/>
-<Allolog Form="реформацией"/>
-<Allolog Form="реформацию"/>
-<Allolog Form="реформаций"/>
-</Word>
-
-<Word Stem="дюрер" Weight="0.0512974340828428">
-<Allolog Form="дюрера"/>
-<Allolog Form="дюрер"/>
-</Word>
-
 <Word Stem="дейк" Weight="0.0511258725512272">
 <Allolog Form="дейк"/>
 <Allolog Form="дейка"/>
 <Allolog Form="дейки"/>
 </Word>
 
-<Word Stem="барокк" Weight="0.0578341670323716">
+<Word Stem="барокк" Weight="0.0579778402390426">
 <Allolog Form="барокко"/>
 </Word>
 
@@ -3989,34 +4108,10 @@
 <Allolog Form="жерико"/>
 </Word>
 
-<Word Stem="импрессионизм" Weight="0.05">
-<Allolog Form="импрессионизм"/>
-<Allolog Form="импрессионизма"/>
-<Allolog Form="импрессионизму"/>
-<Allolog Form="импрессионизмом"/>
-<Allolog Form="импрессионизме"/>
-</Word>
-
 <Word Stem="сезан" Weight="0.0514738695216065">
 <Allolog Form="сезанна"/>
 <Allolog Form="сезанн"/>
 <Allolog Form="сезанну"/>
-</Word>
-
-<Word Stem="преображен" Weight="0.0512181839580045">
-<Allolog Form="преображенными"/>
-<Allolog Form="преображением"/>
-<Allolog Form="преображения"/>
-<Allolog Form="преображение"/>
-<Allolog Form="преображению"/>
-<Allolog Form="преображенным"/>
-<Allolog Form="преображении"/>
-<Allolog Form="преображенную"/>
-<Allolog Form="преображенное"/>
-<Allolog Form="преображенного"/>
-<Allolog Form="преображенный"/>
-<Allolog Form="преображенном"/>
-<Allolog Form="преображенной"/>
 </Word>
 
 <Word Stem="кандинск" Weight="0.0530023268032725">
@@ -4052,10 +4147,6 @@
 <Allolog Form="стас"/>
 </Word>
 
-<Word Stem="гумил" Weight="0.0518389251670044">
-<Allolog Form="гумилев"/>
-</Word>
-
 <Word Stem="сорокин" Weight="0.0552778708377041">
 <Allolog Form="сорокин"/>
 <Allolog Form="сорокина"/>
@@ -4081,18 +4172,25 @@
 <Allolog Form="филону"/>
 </Word>
 
+<Word Stem="ренессансн" Weight="0.00100564343018168">
+<Allolog Form="ренессансный"/>
+<Allolog Form="ренессансного"/>
+<Allolog Form="ренессансная"/>
+<Allolog Form="ренессансной"/>
+<Allolog Form="ренессансную"/>
+<Allolog Form="ренессансные"/>
+<Allolog Form="ренессансными"/>
+<Allolog Form="ренессансно"/>
+<Allolog Form="ренессансным"/>
+<Allolog Form="ренессансное"/>
+</Word>
+
 <Word Stem="индоевропейск" Weight="0.0511258725512272">
 <Allolog Form="индоевропейских"/>
 <Allolog Form="индоевропейским"/>
 <Allolog Form="индоевропейский"/>
 <Allolog Form="индоевропейской"/>
 <Allolog Form="индоевропейская"/>
-</Word>
-
-<Word Stem="ацтек" Weight="0.0524102012392938">
-<Allolog Form="ацтеками"/>
-<Allolog Form="ацтеков"/>
-<Allolog Form="ацтеки"/>
 </Word>
 
 <Word Stem="песнопен" Weight="0.05">
@@ -4130,6 +4228,7 @@
 <Allolog Form="каллиграфа"/>
 <Allolog Form="каллиграфов"/>
 <Allolog Form="каллиграфы"/>
+<Allolog Form="каллиграфией"/>
 <Allolog Form="каллиграфию"/>
 </Word>
 
@@ -4161,13 +4260,6 @@
 <Allolog Form="крамской"/>
 </Word>
 
-<Word Stem="адонис" Weight="0.0511258725512272">
-<Allolog Form="адонисе"/>
-<Allolog Form="адонисом"/>
-<Allolog Form="адониса"/>
-<Allolog Form="адонис"/>
-</Word>
-
 <Word Stem="таммуз" Weight="0.0514738695216065">
 <Allolog Form="таммузом"/>
 <Allolog Form="таммуза"/>
@@ -4184,16 +4276,6 @@
 <Allolog Form="гуашь"/>
 <Allolog Form="гуашью"/>
 <Allolog Form="гуаши"/>
-</Word>
-
-<Word Stem="григорианск" Weight="0.0526055907614115">
-<Allolog Form="григорианские"/>
-<Allolog Form="григорианский"/>
-<Allolog Form="григорианское"/>
-<Allolog Form="григорианскими"/>
-<Allolog Form="григорианском"/>
-<Allolog Form="григорианского"/>
-<Allolog Form="григорианских"/>
 </Word>
 
 <Word Stem="мелодическ" Weight="0.05">

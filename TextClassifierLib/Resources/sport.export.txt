@@ -1,6 +1,6 @@
 ﻿<Words>
 
-<Word Stem="спорт" Weight="0.690496729196167">
+<Word Stem="спорт" Weight="0.640461923652691">
 <Allolog Form="спорт"/>
 <Allolog Form="спорта"/>
 <Allolog Form="спорте"/>
@@ -10,7 +10,7 @@
 <Allolog Form="спортов"/>
 </Word>
 
-<Word Stem="гонк" Weight="0.542488572374006">
+<Word Stem="гонк" Weight="0.539272026314874">
 <Allolog Form="гонка"/>
 <Allolog Form="гонках"/>
 <Allolog Form="гонку"/>
@@ -21,7 +21,7 @@
 <Allolog Form="гонками"/>
 </Word>
 
-<Word Stem="трасс" Weight="0.52449552281687">
+<Word Stem="трасс" Weight="0.0722436178819919">
 <Allolog Form="трассах"/>
 <Allolog Form="трассе"/>
 <Allolog Form="трассу"/>
@@ -37,11 +37,13 @@
 <Allolog Form="гоночный"/>
 <Allolog Form="гоночной"/>
 <Allolog Form="гоночном"/>
+<Allolog Form="гоночная"/>
 <Allolog Form="гоночным"/>
+<Allolog Form="гоночную"/>
 <Allolog Form="гоночные"/>
 </Word>
 
-<Word Stem="соревнован" Weight="0.226049229711211">
+<Word Stem="соревнован" Weight="0.211307889876884">
 <Allolog Form="соревнования"/>
 <Allolog Form="соревнование"/>
 <Allolog Form="соревнований"/>
@@ -54,13 +56,14 @@
 <Allolog Form="соревновани"/>
 </Word>
 
-<Word Stem="старт" Weight="0.0770294606217443">
+<Word Stem="старт" Weight="0.0716513682655486">
 <Allolog Form="старте"/>
 <Allolog Form="старт"/>
 <Allolog Form="старта"/>
 <Allolog Form="стартом"/>
 <Allolog Form="старту"/>
 <Allolog Form="стартов"/>
+<Allolog Form="стартуйте"/>
 <Allolog Form="стартуй"/>
 <Allolog Form="старты"/>
 <Allolog Form="стартами"/>
@@ -70,7 +73,7 @@
 <Allolog Form="стартам"/>
 </Word>
 
-<Word Stem="гонщик" Weight="0.501569384649943">
+<Word Stem="гонщик" Weight="0.501981132874431">
 <Allolog Form="гонщику"/>
 <Allolog Form="гонщиков"/>
 <Allolog Form="гонщика"/>
@@ -81,7 +84,7 @@
 <Allolog Form="гонщиками"/>
 </Word>
 
-<Word Stem="спортивн" Weight="0.585160161880464">
+<Word Stem="спортивн" Weight="0.560155775181572">
 <Allolog Form="спортивная"/>
 <Allolog Form="спортивном"/>
 <Allolog Form="спортивный"/>
@@ -100,7 +103,7 @@
 <Allolog Form="медали"/>
 </Word>
 
-<Word Stem="дистанц" Weight="0.0984639485546867">
+<Word Stem="дистанц" Weight="0.0940653398895707">
 <Allolog Form="дистанцию"/>
 <Allolog Form="дистанция"/>
 <Allolog Form="дистанции"/>
@@ -111,27 +114,27 @@
 <Allolog Form="дистанциями"/>
 </Word>
 
-<Word Stem="прыжк" Weight="0.113139422937708">
+<Word Stem="прыжк" Weight="0.113231023123151">
 <Allolog Form="прыжка"/>
 <Allolog Form="прыжком"/>
 <Allolog Form="прыжке"/>
 <Allolog Form="прыжки"/>
 <Allolog Form="прыжками"/>
+<Allolog Form="прыжках"/>
 <Allolog Form="прыжков"/>
 <Allolog Form="прыжкам"/>
-<Allolog Form="прыжках"/>
 <Allolog Form="прыжку"/>
 </Word>
 
 <Word Stem="бревн" Weight="0.0591359366977742">
 <Allolog Form="бревно"/>
 <Allolog Form="бревна"/>
+<Allolog Form="бревнах"/>
 <Allolog Form="бревнами"/>
 <Allolog Form="бревну"/>
-<Allolog Form="бревнах"/>
-<Allolog Form="бревнам"/>
 <Allolog Form="бревне"/>
 <Allolog Form="бревном"/>
+<Allolog Form="бревнам"/>
 </Word>
 
 <Word Stem="чемпионат" Weight="0.574646643109541">
@@ -147,28 +150,50 @@
 <Allolog Form="чемпионату"/>
 </Word>
 
-<Word Stem="тренер" Weight="0.625107974204919">
+<Word Stem="тренер" Weight="0.620361405609806">
 <Allolog Form="тренер"/>
 <Allolog Form="тренеров"/>
 <Allolog Form="тренеры"/>
-<Allolog Form="тренерам"/>
 <Allolog Form="тренером"/>
-<Allolog Form="тренерами"/>
 <Allolog Form="тренера"/>
+<Allolog Form="тренерам"/>
+<Allolog Form="тренерами"/>
 <Allolog Form="тренере"/>
 <Allolog Form="тренеру"/>
 <Allolog Form="тренерах"/>
 <Allolog Form="тренеруйся"/>
 </Word>
 
-<Word Stem="ворот" Weight="0.112307106729617">
+<Word Stem="выпол" Weight="0.00102669441458519">
+<Allolog Form="выпол"/>
+</Word>
+
+<Word Stem="блокир" Weight="0.00100033466979784">
+<Allolog Form="блокирующий"/>
+<Allolog Form="блокиров"/>
+<Allolog Form="блокируйте"/>
+<Allolog Form="блокирующие"/>
+<Allolog Form="блокирующее"/>
+<Allolog Form="блокиру"/>
+<Allolog Form="блокирую"/>
+<Allolog Form="блокирующего"/>
+<Allolog Form="блокирующих"/>
+<Allolog Form="блокиро"/>
+<Allolog Form="блокирующем"/>
+<Allolog Form="блокируй"/>
+<Allolog Form="блокирующими"/>
+<Allolog Form="блокирующим"/>
+<Allolog Form="блокирующая"/>
+</Word>
+
+<Word Stem="ворот" Weight="0.101466188998147">
 <Allolog Form="ворота"/>
 <Allolog Form="вороте"/>
 <Allolog Form="воротом"/>
 <Allolog Form="воротов"/>
 <Allolog Form="ворот"/>
-<Allolog Form="воротах"/>
 <Allolog Form="воротами"/>
+<Allolog Form="воротах"/>
 <Allolog Form="вороты"/>
 <Allolog Form="воротам"/>
 <Allolog Form="воротить"/>
@@ -176,7 +201,7 @@
 <Allolog Form="воротясь"/>
 </Word>
 
-<Word Stem="шайб" Weight="0.649763926558775">
+<Word Stem="шайб" Weight="0.649854912750801">
 <Allolog Form="шайбами"/>
 <Allolog Form="шайб"/>
 <Allolog Form="шайбу"/>
@@ -187,7 +212,7 @@
 <Allolog Form="шайбам"/>
 </Word>
 
-<Word Stem="площадк" Weight="0.106025851312364">
+<Word Stem="площадк" Weight="0.0888904558213329">
 <Allolog Form="площадке"/>
 <Allolog Form="площадкой"/>
 <Allolog Form="площадки"/>
@@ -208,7 +233,7 @@
 <Allolog Form="рывках"/>
 </Word>
 
-<Word Stem="тренировк" Weight="0.605853527726495">
+<Word Stem="тренировк" Weight="0.580931295211574">
 <Allolog Form="тренировки"/>
 <Allolog Form="тренировками"/>
 <Allolog Form="тренировка"/>
@@ -219,13 +244,13 @@
 <Allolog Form="тренировкой"/>
 </Word>
 
-<Word Stem="спортсм" Weight="0.560584141846226">
+<Word Stem="спортсм" Weight="0.558031786181704">
 <Allolog Form="спортсмена"/>
 <Allolog Form="спортсмены"/>
 <Allolog Form="спортсме"/>
 </Word>
 
-<Word Stem="тренировок" Weight="0.0745036184071568">
+<Word Stem="тренировок" Weight="0.0729881029434375">
 <Allolog Form="тренировок"/>
 </Word>
 
@@ -251,14 +276,14 @@
 <Allolog Form="фигуристам"/>
 </Word>
 
-<Word Stem="спортсмен" Weight="0.565456140279308">
+<Word Stem="спортсмен" Weight="0.559498764311994">
 <Allolog Form="спортсмен"/>
 <Allolog Form="спортсменов"/>
 <Allolog Form="спортсмену"/>
 <Allolog Form="спортсменам"/>
-<Allolog Form="спортсменах"/>
-<Allolog Form="спортсменами"/>
 <Allolog Form="спортсменом"/>
+<Allolog Form="спортсменами"/>
+<Allolog Form="спортсменах"/>
 <Allolog Form="спортсмене"/>
 </Word>
 
@@ -269,7 +294,7 @@
 <Allolog Form="экипировку"/>
 </Word>
 
-<Word Stem="скольжен" Weight="0.0692176293894074">
+<Word Stem="скольжен" Weight="0.0702267940587711">
 <Allolog Form="скольжение"/>
 <Allolog Form="скольжением"/>
 <Allolog Form="скольжения"/>
@@ -284,20 +309,20 @@
 <Allolog Form="трамплин"/>
 <Allolog Form="трамплина"/>
 <Allolog Form="трамплинов"/>
+<Allolog Form="трамплину"/>
 <Allolog Form="трамплины"/>
 <Allolog Form="трамплинами"/>
 <Allolog Form="трамплине"/>
 <Allolog Form="трамплинах"/>
-<Allolog Form="трамплину"/>
 </Word>
 
-<Word Stem="сборн" Weight="0.104629939580669">
+<Word Stem="сборн" Weight="0.10506649230658">
 <Allolog Form="сборной"/>
 <Allolog Form="сборную"/>
 <Allolog Form="сборный"/>
+<Allolog Form="сборные"/>
 <Allolog Form="сборная"/>
 <Allolog Form="сборным"/>
-<Allolog Form="сборные"/>
 <Allolog Form="сборни"/>
 <Allolog Form="сборное"/>
 <Allolog Form="сборного"/>
@@ -322,15 +347,17 @@
 <Allolog Form="тренированностью"/>
 </Word>
 
-<Word Stem="бегун" Weight="0.507227754577578">
+<Word Stem="бегун" Weight="0.506255391281246">
 <Allolog Form="бегуна"/>
 <Allolog Form="бегунов"/>
 <Allolog Form="бегуны"/>
+<Allolog Form="бегунами"/>
+<Allolog Form="бегунам"/>
 <Allolog Form="бегун"/>
+<Allolog Form="бегунью"/>
+<Allolog Form="бегуньи"/>
 <Allolog Form="бегуном"/>
 <Allolog Form="бегунья"/>
-<Allolog Form="бегуньи"/>
-<Allolog Form="бегунам"/>
 </Word>
 
 <Word Stem="лыжник" Weight="0.556993046848285">
@@ -347,10 +374,10 @@
 <Word Stem="пловц" Weight="0.570330693024058">
 <Allolog Form="пловца"/>
 <Allolog Form="пловцов"/>
-<Allolog Form="пловцы"/>
-<Allolog Form="пловцу"/>
-<Allolog Form="пловцами"/>
 <Allolog Form="пловцом"/>
+<Allolog Form="пловцу"/>
+<Allolog Form="пловцы"/>
+<Allolog Form="пловцами"/>
 <Allolog Form="пловцам"/>
 <Allolog Form="пловце"/>
 <Allolog Form="пловцах"/>
@@ -368,7 +395,7 @@
 <Allolog Form="чемпионах"/>
 </Word>
 
-<Word Stem="состязан" Weight="0.0736054995629657">
+<Word Stem="состязан" Weight="0.0739715764010747">
 <Allolog Form="состязаниях"/>
 <Allolog Form="состязаний"/>
 <Allolog Form="состязания"/>
@@ -381,24 +408,24 @@
 <Allolog Form="состязанию"/>
 </Word>
 
-<Word Stem="стадион" Weight="0.0787794286687386">
+<Word Stem="стадион" Weight="0.075411394999795">
 <Allolog Form="стадионе"/>
 <Allolog Form="стадион"/>
 <Allolog Form="стадионы"/>
 <Allolog Form="стадионов"/>
 <Allolog Form="стадиона"/>
-<Allolog Form="стадионах"/>
 <Allolog Form="стадиону"/>
 <Allolog Form="стадионом"/>
+<Allolog Form="стадионах"/>
 <Allolog Form="стадионами"/>
 </Word>
 
-<Word Stem="игров" Weight="0.0608008947363975">
+<Word Stem="игров" Weight="0.0595670687368833">
 <Allolog Form="игровой"/>
+<Allolog Form="игровом"/>
 <Allolog Form="игровые"/>
 <Allolog Form="игровыми"/>
 <Allolog Form="игровую"/>
-<Allolog Form="игровом"/>
 <Allolog Form="игровая"/>
 <Allolog Form="игровое"/>
 <Allolog Form="игровым"/>
@@ -411,32 +438,33 @@
 <Allolog Form="боксеры"/>
 <Allolog Form="боксеров"/>
 <Allolog Form="боксеру"/>
-<Allolog Form="боксером"/>
 <Allolog Form="боксерами"/>
+<Allolog Form="боксером"/>
 <Allolog Form="боксерам"/>
 </Word>
 
-<Word Stem="тренирует" Weight="0.0564705112512221">
+<Word Stem="тренирует" Weight="0.0554871732128844">
 <Allolog Form="тренируется"/>
 <Allolog Form="тренирует"/>
 <Allolog Form="тренируетесь"/>
 <Allolog Form="тренируете"/>
 </Word>
 
-<Word Stem="тренирова" Weight="0.0858834118298915">
+<Word Stem="тренирова" Weight="0.0792533891148498">
 <Allolog Form="тренирована"/>
 <Allolog Form="тренироваться"/>
 <Allolog Form="тренировать"/>
 <Allolog Form="тренировал"/>
+<Allolog Form="тренировались"/>
+<Allolog Form="тренированы"/>
 <Allolog Form="тренировалась"/>
 <Allolog Form="тренированные"/>
-<Allolog Form="тренировали"/>
-<Allolog Form="тренировавшийся"/>
 <Allolog Form="тренировался"/>
-<Allolog Form="тренировались"/>
+<Allolog Form="тренировали"/>
+<Allolog Form="тренированный"/>
+<Allolog Form="тренировавшийся"/>
 <Allolog Form="тренировала"/>
 <Allolog Form="тренированное"/>
-<Allolog Form="тренированы"/>
 <Allolog Form="тренированного"/>
 <Allolog Form="тренирован"/>
 </Word>
@@ -446,13 +474,15 @@
 <Allolog Form="километровом"/>
 <Allolog Form="километровыми"/>
 <Allolog Form="километровая"/>
+<Allolog Form="километрового"/>
+<Allolog Form="километровое"/>
+<Allolog Form="километровую"/>
 <Allolog Form="километровой"/>
 <Allolog Form="километровым"/>
 <Allolog Form="километровые"/>
-<Allolog Form="километрового"/>
 </Word>
 
-<Word Stem="броск" Weight="0.111014719481476">
+<Word Stem="броск" Weight="0.110017623209684">
 <Allolog Form="броски"/>
 <Allolog Form="броска"/>
 <Allolog Form="бросками"/>
@@ -461,12 +491,17 @@
 <Allolog Form="бросков"/>
 <Allolog Form="броская"/>
 <Allolog Form="броске"/>
+<Allolog Form="броской"/>
+<Allolog Form="броским"/>
+<Allolog Form="броску"/>
+<Allolog Form="броскими"/>
 <Allolog Form="броском"/>
 <Allolog Form="броскую"/>
 <Allolog Form="броско"/>
 <Allolog Form="броских"/>
+<Allolog Form="броский"/>
+<Allolog Form="броского"/>
 <Allolog Form="бросках"/>
-<Allolog Form="броску"/>
 <Allolog Form="броскам"/>
 </Word>
 
@@ -474,23 +509,26 @@
 <Allolog Form="финише"/>
 <Allolog Form="финиш"/>
 <Allolog Form="финиша"/>
-<Allolog Form="финишу"/>
 <Allolog Form="финишем"/>
+<Allolog Form="финишу"/>
 </Word>
 
-<Word Stem="шлем" Weight="0.0560936035191462">
+<Word Stem="шлем" Weight="0.0538953047355193">
 <Allolog Form="шлеме"/>
 <Allolog Form="шлемы"/>
-<Allolog Form="шлемах"/>
 <Allolog Form="шлемами"/>
-<Allolog Form="шлема"/>
-<Allolog Form="шлемов"/>
 <Allolog Form="шлемом"/>
+<Allolog Form="шлема"/>
+<Allolog Form="шлемах"/>
+<Allolog Form="шлемов"/>
 </Word>
 
-<Word Stem="приземлен" Weight="0.0581795576495223">
+<Word Stem="приземлен" Weight="0.0563681283728974">
 <Allolog Form="приземления"/>
 <Allolog Form="приземление"/>
+<Allolog Form="приземлении"/>
+<Allolog Form="приземлений"/>
+<Allolog Form="приземлением"/>
 <Allolog Form="приземленные"/>
 <Allolog Form="приземленной"/>
 <Allolog Form="приземленная"/>
@@ -498,9 +536,8 @@
 <Allolog Form="приземленно"/>
 <Allolog Form="приземленный"/>
 <Allolog Form="приземленным"/>
-<Allolog Form="приземлении"/>
 <Allolog Form="приземленного"/>
-<Allolog Form="приземлением"/>
+<Allolog Form="приземленность"/>
 </Word>
 
 <Word Stem="попл" Weight="0.0514424472098462">
@@ -510,7 +547,7 @@
 <Allolog Form="поплыла"/>
 </Word>
 
-<Word Stem="скачок" Weight="0.0512182554266535">
+<Word Stem="скачок" Weight="0.0512427292396735">
 <Allolog Form="скачок"/>
 </Word>
 
@@ -526,14 +563,14 @@
 <Allolog Form="виража"/>
 <Allolog Form="вираж"/>
 <Allolog Form="виражами"/>
-<Allolog Form="вираже"/>
 <Allolog Form="виражи"/>
+<Allolog Form="виражах"/>
+<Allolog Form="вираже"/>
 <Allolog Form="виражу"/>
 <Allolog Form="виражей"/>
-<Allolog Form="виражах"/>
 </Word>
 
-<Word Stem="проигрыш" Weight="0.0531468989066162">
+<Word Stem="проигрыш" Weight="0.0518198110578992">
 <Allolog Form="проигрышем"/>
 <Allolog Form="проигрыше"/>
 <Allolog Form="проигрыш"/>
@@ -541,6 +578,8 @@
 <Allolog Form="проигрыша"/>
 <Allolog Form="проигрышах"/>
 <Allolog Form="проигрышей"/>
+<Allolog Form="проигрышу"/>
+<Allolog Form="проигрышам"/>
 </Word>
 
 <Word Stem="трениру" Weight="0.0524437133612228">
@@ -550,49 +589,53 @@
 <Allolog Form="тренируемся"/>
 </Word>
 
-<Word Stem="снаряд" Weight="0.0518827357331323">
+<Word Stem="снаряд" Weight="0.05">
 <Allolog Form="снарядом"/>
 <Allolog Form="снаряд"/>
 <Allolog Form="снарядов"/>
 <Allolog Form="снаряды"/>
 <Allolog Form="снарядами"/>
-<Allolog Form="снаряда"/>
-<Allolog Form="снарядам"/>
 <Allolog Form="снаряду"/>
-<Allolog Form="снарядила"/>
-<Allolog Form="снаряде"/>
 <Allolog Form="снарядах"/>
+<Allolog Form="снарядам"/>
+<Allolog Form="снаряде"/>
+<Allolog Form="снаряда"/>
+<Allolog Form="снарядить"/>
+<Allolog Form="снарядила"/>
 <Allolog Form="снарядили"/>
 </Word>
 
-<Word Stem="ходят" Weight="0.0510548447212661">
+<Word Stem="ходят" Weight="0.05">
 <Allolog Form="ходят"/>
 <Allolog Form="ходятся"/>
 </Word>
 
-<Word Stem="отталкив" Weight="0.0521488808089477">
+<Word Stem="отталкив" Weight="0.0521733546219677">
 <Allolog Form="отталкиваясь"/>
 <Allolog Form="отталкивая"/>
 <Allolog Form="отталкива"/>
 </Word>
 
-<Word Stem="бега" Weight="0.0513725310650554">
+<Word Stem="бега" Weight="0.05">
 <Allolog Form="бегают"/>
 <Allolog Form="бегать"/>
 <Allolog Form="бегаете"/>
 <Allolog Form="бегает"/>
 <Allolog Form="бегающих"/>
 <Allolog Form="бегающие"/>
+<Allolog Form="бегающего"/>
+<Allolog Form="бегали"/>
 <Allolog Form="бегал"/>
 <Allolog Form="бегала"/>
 <Allolog Form="бегайте"/>
 <Allolog Form="бегавшего"/>
-<Allolog Form="бегали"/>
+<Allolog Form="бегавших"/>
 <Allolog Form="бегающий"/>
-<Allolog Form="бегаем"/>
 <Allolog Form="бегаю"/>
-<Allolog Form="бегаешь"/>
 <Allolog Form="бегай"/>
+<Allolog Form="бегаешь"/>
+<Allolog Form="бегающим"/>
+<Allolog Form="бегаем"/>
 </Word>
 
 <Word Stem="скоростном" Weight="0.0560936035191462">
@@ -603,7 +646,7 @@
 <Allolog Form="тренировочных"/>
 </Word>
 
-<Word Stem="тренажер" Weight="0.0546842396299003">
+<Word Stem="тренажер" Weight="0.0547207853302987">
 <Allolog Form="тренажера"/>
 <Allolog Form="тренажере"/>
 <Allolog Form="тренажерах"/>
@@ -614,44 +657,47 @@
 <Allolog Form="тренажерами"/>
 </Word>
 
-<Word Stem="пробега" Weight="0.0512057817633884">
+<Word Stem="пробега" Weight="0.0512307852013611">
 <Allolog Form="пробегает"/>
 <Allolog Form="пробегают"/>
+<Allolog Form="пробегаемые"/>
+<Allolog Form="пробегаемый"/>
 <Allolog Form="пробегало"/>
+<Allolog Form="пробегал"/>
+<Allolog Form="пробегаешь"/>
 <Allolog Form="пробегающие"/>
 <Allolog Form="пробегающей"/>
 <Allolog Form="пробегать"/>
 <Allolog Form="пробегала"/>
-<Allolog Form="пробегал"/>
 <Allolog Form="пробегающих"/>
 <Allolog Form="пробегающий"/>
 <Allolog Form="пробегаю"/>
 <Allolog Form="пробегающего"/>
 <Allolog Form="пробегали"/>
-<Allolog Form="пробегаемый"/>
 <Allolog Form="пробегавшая"/>
 </Word>
 
 <Word Stem="свистк" Weight="0.0533257119102058">
 <Allolog Form="свисткам"/>
+<Allolog Form="свистка"/>
 <Allolog Form="свистков"/>
+<Allolog Form="свистки"/>
 <Allolog Form="свистком"/>
 <Allolog Form="свистку"/>
-<Allolog Form="свистка"/>
 <Allolog Form="свистками"/>
 </Word>
 
-<Word Stem="физическом" Weight="0.0511311159721054">
+<Word Stem="физическом" Weight="0.05">
 <Allolog Form="физическому"/>
 </Word>
 
 <Word Stem="ледов" Weight="0.0536862539807181">
 <Allolog Form="ледовая"/>
-<Allolog Form="ледовую"/>
-<Allolog Form="ледовым"/>
-<Allolog Form="ледовый"/>
 <Allolog Form="ледовой"/>
 <Allolog Form="ледовом"/>
+<Allolog Form="ледовую"/>
+<Allolog Form="ледовый"/>
+<Allolog Form="ледовым"/>
 <Allolog Form="ледовое"/>
 <Allolog Form="ледового"/>
 <Allolog Form="ледовые"/>
@@ -669,14 +715,15 @@
 <Allolog Form="конько"/>
 </Word>
 
-<Word Stem="плаван" Weight="0.533826813559015">
+<Word Stem="плаван" Weight="0.529124008307675">
 <Allolog Form="плавание"/>
 <Allolog Form="плавания"/>
 <Allolog Form="плаванием"/>
+<Allolog Form="плавании"/>
 <Allolog Form="плаванию"/>
 <Allolog Form="плаваний"/>
 <Allolog Form="плаванье"/>
-<Allolog Form="плавании"/>
+<Allolog Form="плаванью"/>
 <Allolog Form="плаваньем"/>
 <Allolog Form="плаванья"/>
 </Word>
@@ -686,7 +733,7 @@
 <Allolog Form="тренируют"/>
 </Word>
 
-<Word Stem="бокс" Weight="0.519485025766902">
+<Word Stem="бокс" Weight="0.51951318571541">
 <Allolog Form="бокс"/>
 <Allolog Form="боксы"/>
 <Allolog Form="боксов"/>
@@ -699,9 +746,10 @@
 
 <Word Stem="прыгнут" Weight="0.0514424472098462">
 <Allolog Form="прыгнуть"/>
+<Allolog Form="прыгнут"/>
 </Word>
 
-<Word Stem="прыга" Weight="0.0531685741523293">
+<Word Stem="прыга" Weight="0.0523186251543962">
 <Allolog Form="прыгает"/>
 <Allolog Form="прыгающий"/>
 <Allolog Form="прыгать"/>
@@ -709,21 +757,23 @@
 <Allolog Form="прыгают"/>
 <Allolog Form="прыгала"/>
 <Allolog Form="прыгали"/>
+<Allolog Form="прыгайте"/>
+<Allolog Form="прыгай"/>
+<Allolog Form="прыгал"/>
 <Allolog Form="прыгающие"/>
 <Allolog Form="прыгаю"/>
 <Allolog Form="прыгающими"/>
-<Allolog Form="прыгал"/>
-<Allolog Form="прыгай"/>
+<Allolog Form="прыгающая"/>
+<Allolog Form="прыгающее"/>
 <Allolog Form="прыгаем"/>
 <Allolog Form="прыгающего"/>
-<Allolog Form="прыгайте"/>
 </Word>
 
 <Word Stem="рывок" Weight="0.0527926592955659">
 <Allolog Form="рывок"/>
 </Word>
 
-<Word Stem="штрафн" Weight="0.0584024703925993">
+<Word Stem="штрафн" Weight="0.0572752508955903">
 <Allolog Form="штрафные"/>
 <Allolog Form="штрафными"/>
 <Allolog Form="штрафной"/>
@@ -740,6 +790,7 @@
 <Allolog Form="брусья"/>
 <Allolog Form="брусьями"/>
 <Allolog Form="брусьях"/>
+<Allolog Form="брусьям"/>
 <Allolog Form="брусьев"/>
 </Word>
 
@@ -763,6 +814,7 @@
 
 <Word Stem="толкан" Weight="0.0521012374761884">
 <Allolog Form="толкания"/>
+<Allolog Form="толканию"/>
 <Allolog Form="толкание"/>
 <Allolog Form="толканием"/>
 <Allolog Form="толкании"/>
@@ -776,29 +828,29 @@
 <Word Stem="тренировочн" Weight="0.081518562142826">
 <Allolog Form="тренировочной"/>
 <Allolog Form="тренировочными"/>
-<Allolog Form="тренировочные"/>
 <Allolog Form="тренировочного"/>
+<Allolog Form="тренировочную"/>
+<Allolog Form="тренировочные"/>
 <Allolog Form="тренировочная"/>
 <Allolog Form="тренировочное"/>
-<Allolog Form="тренировочный"/>
-<Allolog Form="тренировочную"/>
-<Allolog Form="тренировочным"/>
 <Allolog Form="тренировочном"/>
+<Allolog Form="тренировочный"/>
+<Allolog Form="тренировочным"/>
 <Allolog Form="тренировочно"/>
 </Word>
 
 <Word Stem="стартова" Weight="0.0533257119102058">
 <Allolog Form="стартовать"/>
 <Allolog Form="стартовавшего"/>
-<Allolog Form="стартовав"/>
 <Allolog Form="стартовал"/>
 <Allolog Form="стартовала"/>
-<Allolog Form="стартовало"/>
 <Allolog Form="стартовали"/>
+<Allolog Form="стартовав"/>
+<Allolog Form="стартовало"/>
 <Allolog Form="стартовавших"/>
 </Word>
 
-<Word Stem="фина" Weight="0.0647629350391826">
+<Word Stem="фина" Weight="0.064847004389829">
 <Allolog Form="финал"/>
 <Allolog Form="финала"/>
 <Allolog Form="финан"/>
@@ -806,14 +858,14 @@
 
 <Word Stem="катер" Weight="0.0514424472098462">
 <Allolog Form="катеров"/>
-<Allolog Form="катер"/>
 <Allolog Form="катера"/>
 <Allolog Form="катером"/>
-<Allolog Form="катеру"/>
+<Allolog Form="катер"/>
 <Allolog Form="катере"/>
+<Allolog Form="катеру"/>
 </Word>
 
-<Word Stem="плава" Weight="0.0536717509224101">
+<Word Stem="плава" Weight="0.05">
 <Allolog Form="плавают"/>
 <Allolog Form="плавающих"/>
 <Allolog Form="плавающим"/>
@@ -823,33 +875,34 @@
 <Allolog Form="плавающий"/>
 <Allolog Form="плавающая"/>
 <Allolog Form="плавающие"/>
-<Allolog Form="плавающее"/>
-<Allolog Form="плавало"/>
 <Allolog Form="плавали"/>
 <Allolog Form="плавала"/>
-<Allolog Form="плававший"/>
 <Allolog Form="плавает"/>
+<Allolog Form="плавающего"/>
+<Allolog Form="плавающее"/>
+<Allolog Form="плавало"/>
+<Allolog Form="плававший"/>
+<Allolog Form="плававшей"/>
 <Allolog Form="плавающей"/>
 <Allolog Form="плавайте"/>
-<Allolog Form="плавающего"/>
 <Allolog Form="плававши"/>
+<Allolog Form="плаваете"/>
 <Allolog Form="плаваю"/>
 <Allolog Form="плавающую"/>
 <Allolog Form="плаваешь"/>
-<Allolog Form="плаваете"/>
 <Allolog Form="плаваем"/>
 </Word>
 
-<Word Stem="серебрян" Weight="0.0540772954074216">
+<Word Stem="серебрян" Weight="0.0540210884733906">
 <Allolog Form="серебряную"/>
 <Allolog Form="серебряные"/>
+<Allolog Form="серебряного"/>
+<Allolog Form="серебряная"/>
+<Allolog Form="серебряной"/>
 <Allolog Form="серебряными"/>
 <Allolog Form="серебряный"/>
 <Allolog Form="серебряном"/>
-<Allolog Form="серебряная"/>
-<Allolog Form="серебряного"/>
 <Allolog Form="серебряным"/>
-<Allolog Form="серебряной"/>
 <Allolog Form="серебряное"/>
 <Allolog Form="серебряною"/>
 </Word>
@@ -859,41 +912,46 @@
 <Allolog Form="штанг"/>
 <Allolog Form="штангах"/>
 <Allolog Form="штанга"/>
-<Allolog Form="штангой"/>
 <Allolog Form="штангу"/>
+<Allolog Form="штангой"/>
 <Allolog Form="штанге"/>
 </Word>
 
-<Word Stem="холл" Weight="0.0514424472098462">
+<Word Stem="холл" Weight="0.05">
 <Allolog Form="холла"/>
+<Allolog Form="холле"/>
+<Allolog Form="холлами"/>
+<Allolog Form="холл"/>
 <Allolog Form="холлом"/>
 <Allolog Form="холлу"/>
-<Allolog Form="холл"/>
-<Allolog Form="холле"/>
 <Allolog Form="холли"/>
 </Word>
 
 <Word Stem="плывет" Weight="0.0522715800100959">
 <Allolog Form="плывет"/>
+<Allolog Form="плывете"/>
 </Word>
 
-<Word Stem="спортивных" Weight="0.527238508150427">
+<Word Stem="спортивных" Weight="0.523567455406088">
 <Allolog Form="спортивных"/>
 </Word>
 
-<Word Stem="побежда" Weight="0.051278639097165">
+<Word Stem="побежда" Weight="0.05">
 <Allolog Form="побеждает"/>
+<Allolog Form="побеждают"/>
 <Allolog Form="побеждаю"/>
 <Allolog Form="побеждать"/>
-<Allolog Form="побеждают"/>
 <Allolog Form="побеждал"/>
 <Allolog Form="побеждали"/>
 <Allolog Form="побеждающей"/>
 <Allolog Form="побеждала"/>
+<Allolog Form="побеждаете"/>
 <Allolog Form="побеждайте"/>
 <Allolog Form="побеждающая"/>
 <Allolog Form="побеждается"/>
 <Allolog Form="побеждаем"/>
+<Allolog Form="побеждай"/>
+<Allolog Form="побеждавшие"/>
 <Allolog Form="побеждавший"/>
 <Allolog Form="побеждающий"/>
 <Allolog Form="побеждало"/>
@@ -903,7 +961,11 @@
 <Allolog Form="плаву"/>
 <Allolog Form="плава"/>
 <Allolog Form="плавиться"/>
+<Allolog Form="плавились"/>
+<Allolog Form="плавился"/>
 <Allolog Form="плавить"/>
+<Allolog Form="плавил"/>
+<Allolog Form="плавили"/>
 <Allolog Form="плавая"/>
 </Word>
 
@@ -923,28 +985,29 @@
 <Allolog Form="гимнастическое"/>
 </Word>
 
-<Word Stem="ходьб" Weight="0.50429265582002">
+<Word Stem="ходьб" Weight="0.503545759186182">
 <Allolog Form="ходьба"/>
 <Allolog Form="ходьбе"/>
 <Allolog Form="ходьбы"/>
-<Allolog Form="ходьбой"/>
 <Allolog Form="ходьбу"/>
+<Allolog Form="ходьбой"/>
 </Word>
 
-<Word Stem="тренир" Weight="0.0585082902594007">
+<Word Stem="тренир" Weight="0.0585411317656099">
 <Allolog Form="тренирующем"/>
+<Allolog Form="тренируйте"/>
 <Allolog Form="тренируйтесь"/>
 <Allolog Form="трениров"/>
 <Allolog Form="трениро"/>
 <Allolog Form="тренирующего"/>
 <Allolog Form="тренирующих"/>
-<Allolog Form="тренируйте"/>
 <Allolog Form="тренирующие"/>
-<Allolog Form="тренирующихся"/>
-<Allolog Form="тренируйся"/>
 <Allolog Form="тренируюсь"/>
-<Allolog Form="тренирующимся"/>
+<Allolog Form="тренирующийся"/>
 <Allolog Form="тренируй"/>
+<Allolog Form="тренируйся"/>
+<Allolog Form="тренирующихся"/>
+<Allolog Form="тренирующимся"/>
 <Allolog Form="тренирующиеся"/>
 <Allolog Form="тренирую"/>
 <Allolog Form="тренирующая"/>
@@ -953,11 +1016,11 @@
 
 <Word Stem="мачт" Weight="0.051284934147125">
 <Allolog Form="мачту"/>
-<Allolog Form="мачтах"/>
 <Allolog Form="мачты"/>
+<Allolog Form="мачт"/>
+<Allolog Form="мачтах"/>
 <Allolog Form="мачта"/>
 <Allolog Form="мачте"/>
-<Allolog Form="мачт"/>
 </Word>
 
 <Word Stem="судейск" Weight="0.0522715800100959">
@@ -965,82 +1028,90 @@
 <Allolog Form="судейской"/>
 <Allolog Form="судейское"/>
 <Allolog Form="судейских"/>
+<Allolog Form="судейским"/>
 <Allolog Form="судейский"/>
 <Allolog Form="судейского"/>
 <Allolog Form="судейскую"/>
 <Allolog Form="судейскими"/>
 <Allolog Form="судейская"/>
+<Allolog Form="судейском"/>
 </Word>
 
 <Word Stem="вольных" Weight="0.0529691794267766">
 <Allolog Form="вольных"/>
 </Word>
 
-<Word Stem="защитник" Weight="0.0804645819644469">
+<Word Stem="защитник" Weight="0.05">
 <Allolog Form="защитника"/>
 <Allolog Form="защитник"/>
+<Allolog Form="защитников"/>
 <Allolog Form="защитником"/>
 <Allolog Form="защитники"/>
 <Allolog Form="защитниками"/>
 <Allolog Form="защитнике"/>
-<Allolog Form="защитников"/>
 <Allolog Form="защитникам"/>
 <Allolog Form="защитнику"/>
 <Allolog Form="защитниках"/>
 </Word>
 
-<Word Stem="пилот" Weight="0.0546925068228971">
+<Word Stem="пилот" Weight="0.05">
 <Allolog Form="пилота"/>
-<Allolog Form="пилоти"/>
-<Allolog Form="пилоты"/>
-<Allolog Form="пилотов"/>
-<Allolog Form="пилот"/>
-<Allolog Form="пилоту"/>
 <Allolog Form="пилотом"/>
+<Allolog Form="пилот"/>
+<Allolog Form="пилоты"/>
+<Allolog Form="пилоту"/>
+<Allolog Form="пилотов"/>
+<Allolog Form="пилотами"/>
 <Allolog Form="пилотам"/>
+<Allolog Form="пилоти"/>
+<Allolog Form="пилотах"/>
 </Word>
 
-<Word Stem="боевых" Weight="0.0515298851767063">
+<Word Stem="боевых" Weight="0.0520778859559942">
 <Allolog Form="боевых"/>
 </Word>
 
-<Word Stem="кубк" Weight="0.0719401960696164">
+<Word Stem="кубк" Weight="0.0705438459852625">
 <Allolog Form="кубков"/>
+<Allolog Form="кубком"/>
 <Allolog Form="кубки"/>
 <Allolog Form="кубка"/>
-<Allolog Form="кубком"/>
 <Allolog Form="кубке"/>
-<Allolog Form="кубку"/>
 <Allolog Form="кубках"/>
+<Allolog Form="кубку"/>
 </Word>
 
-<Word Stem="болид" Weight="0.502617458447847">
+<Word Stem="болид" Weight="0.5">
 <Allolog Form="болида"/>
-<Allolog Form="болид"/>
-<Allolog Form="болидами"/>
 <Allolog Form="болидов"/>
-<Allolog Form="болиде"/>
-<Allolog Form="болидах"/>
+<Allolog Form="болид"/>
 <Allolog Form="болиды"/>
+<Allolog Form="болидом"/>
+<Allolog Form="болидами"/>
+<Allolog Form="болидам"/>
+<Allolog Form="болидах"/>
+<Allolog Form="болиде"/>
 </Word>
 
 <Word Stem="перекладин" Weight="0.0542332356819989">
 <Allolog Form="перекладинами"/>
 <Allolog Form="перекладин"/>
+<Allolog Form="перекладины"/>
+<Allolog Form="перекладинам"/>
 <Allolog Form="перекладине"/>
+<Allolog Form="перекладину"/>
 <Allolog Form="перекладина"/>
 <Allolog Form="перекладиной"/>
-<Allolog Form="перекладины"/>
 <Allolog Form="перекладинах"/>
 </Word>
 
 <Word Stem="канат" Weight="0.0517667844522968">
 <Allolog Form="канатом"/>
 <Allolog Form="каната"/>
+<Allolog Form="канаты"/>
 <Allolog Form="канат"/>
 <Allolog Form="канате"/>
 <Allolog Form="канатов"/>
-<Allolog Form="канаты"/>
 <Allolog Form="канату"/>
 </Word>
 
@@ -1048,22 +1119,26 @@
 <Allolog Form="пловец"/>
 </Word>
 
-<Word Stem="олимпийск" Weight="0.620986836249792">
+<Word Stem="олимпийск" Weight="0.613950388186526">
 <Allolog Form="олимпийского"/>
+<Allolog Form="олимпийских"/>
 <Allolog Form="олимпийский"/>
 <Allolog Form="олимпийская"/>
 <Allolog Form="олимпийские"/>
 <Allolog Form="олимпийскими"/>
 <Allolog Form="олимпийской"/>
-<Allolog Form="олимпийских"/>
-<Allolog Form="олимпийским"/>
 <Allolog Form="олимпийское"/>
-<Allolog Form="олимпийском"/>
+<Allolog Form="олимпийским"/>
 <Allolog Form="олимпийскую"/>
+<Allolog Form="олимпийском"/>
 </Word>
 
 <Word Stem="опорных" Weight="0.0526174584478471">
 <Allolog Form="опорных"/>
+</Word>
+
+<Word Stem="двигательных" Weight="0.00103852880933138">
+<Allolog Form="двигательных"/>
 </Word>
 
 <Word Stem="рекордсм" Weight="0.0521012374761884">
@@ -1080,28 +1155,30 @@
 <Allolog Form="рекордсмену"/>
 </Word>
 
-<Word Stem="арен" Weight="0.0531026914224037">
+<Word Stem="арен" Weight="0.05">
 <Allolog Form="ареной"/>
 <Allolog Form="арену"/>
 <Allolog Form="арене"/>
 <Allolog Form="арен"/>
+<Allolog Form="аренами"/>
 <Allolog Form="аренов"/>
 <Allolog Form="аренах"/>
+<Allolog Form="аренам"/>
 </Word>
 
-<Word Stem="гимнастик" Weight="0.557858645035221">
+<Word Stem="гимнастик" Weight="0.554483906518147">
 <Allolog Form="гимнастике"/>
 <Allolog Form="гимнастика"/>
-<Allolog Form="гимнастикой"/>
 <Allolog Form="гимнастики"/>
+<Allolog Form="гимнастикой"/>
 <Allolog Form="гимнастику"/>
-<Allolog Form="гимнастиками"/>
 <Allolog Form="гимнастик"/>
+<Allolog Form="гимнастиками"/>
 <Allolog Form="гимнастиках"/>
 <Allolog Form="гимнастико"/>
 </Word>
 
-<Word Stem="спринтер" Weight="0.501315210996722">
+<Word Stem="спринтер" Weight="0.501355062328202">
 <Allolog Form="спринтер"/>
 <Allolog Form="спринтерами"/>
 <Allolog Form="спринтеров"/>
@@ -1118,25 +1195,319 @@
 <Allolog Form="микста"/>
 </Word>
 
-<Word Stem="командн" Weight="0.0554023885625861">
+<Word Stem="командн" Weight="0.0550161161038431">
 <Allolog Form="командный"/>
+<Allolog Form="командно"/>
 <Allolog Form="командной"/>
 <Allolog Form="командные"/>
 <Allolog Form="командным"/>
-<Allolog Form="командно"/>
+<Allolog Form="командное"/>
+<Allolog Form="командного"/>
+<Allolog Form="командном"/>
 <Allolog Form="командная"/>
 <Allolog Form="командную"/>
 <Allolog Form="командными"/>
-<Allolog Form="командном"/>
-<Allolog Form="командного"/>
-<Allolog Form="командное"/>
+</Word>
+
+<Word Stem="восхожден" Weight="0.05">
+<Allolog Form="восхождение"/>
+<Allolog Form="восхождения"/>
+<Allolog Form="восхождением"/>
+<Allolog Form="восхождении"/>
+<Allolog Form="восхожденья"/>
+<Allolog Form="восхождению"/>
+<Allolog Form="восхождений"/>
+<Allolog Form="восхождениями"/>
+<Allolog Form="восхождениях"/>
+</Word>
+
+<Word Stem="олимпиад" Weight="0.520564953704877">
+<Allolog Form="олимпиадами"/>
+<Allolog Form="олимпиадой"/>
+<Allolog Form="олимпиады"/>
+<Allolog Form="олимпиад"/>
+<Allolog Form="олимпиадах"/>
+<Allolog Form="олимпиаде"/>
+<Allolog Form="олимпиада"/>
+<Allolog Form="олимпиаду"/>
+<Allolog Form="олимпиадам"/>
+</Word>
+
+<Word Stem="силовых" Weight="0.05">
+<Allolog Form="силовых"/>
+</Word>
+
+<Word Stem="демин" Weight="0.0516031932993064">
+<Allolog Form="демин"/>
+<Allolog Form="демина"/>
+<Allolog Form="демину"/>
+<Allolog Form="деминым"/>
+</Word>
+
+<Word Stem="полоз" Weight="0.0527926592955659">
+<Allolog Form="полозьями"/>
+<Allolog Form="полозьев"/>
+<Allolog Form="полозьях"/>
+<Allolog Form="полозья"/>
+<Allolog Form="полоз"/>
+<Allolog Form="полоза"/>
+<Allolog Form="полозом"/>
+</Word>
+
+<Word Stem="спартак" Weight="0.0529855197266937">
+<Allolog Form="спартака"/>
+<Allolog Form="спартаку"/>
+<Allolog Form="спартак"/>
+<Allolog Form="спартаком"/>
+<Allolog Form="спартаке"/>
+</Word>
+
+<Word Stem="эстафет" Weight="0.517067804520301">
+<Allolog Form="эстафете"/>
+<Allolog Form="эстафета"/>
+<Allolog Form="эстафету"/>
+<Allolog Form="эстафеты"/>
+<Allolog Form="эстафет"/>
+<Allolog Form="эстафетах"/>
+<Allolog Form="эстафетой"/>
+</Word>
+
+<Word Stem="первенств" Weight="0.124669864180849">
+<Allolog Form="первенство"/>
+<Allolog Form="первенства"/>
+<Allolog Form="первенстве"/>
+<Allolog Form="первенству"/>
+<Allolog Form="первенствах"/>
+<Allolog Form="первенствующую"/>
+<Allolog Form="первенствующего"/>
+<Allolog Form="первенствующее"/>
+<Allolog Form="первенством"/>
+<Allolog Form="первенств"/>
+<Allolog Form="первенствами"/>
+</Word>
+
+<Word Stem="стэнл" Weight="0.0564705112512221">
+<Allolog Form="стэнли"/>
+<Allolog Form="стэнлей"/>
+</Word>
+
+<Word Stem="футбольн" Weight="0.504279846751904">
+<Allolog Form="футбольное"/>
+<Allolog Form="футбольного"/>
+<Allolog Form="футбольная"/>
+<Allolog Form="футбольном"/>
+<Allolog Form="футбольной"/>
+<Allolog Form="футбольный"/>
+<Allolog Form="футбольные"/>
+<Allolog Form="футбольным"/>
+<Allolog Form="футбольны"/>
+<Allolog Form="футбольными"/>
+<Allolog Form="футбольную"/>
+</Word>
+
+<Word Stem="пропл" Weight="0.0542332356819989">
+<Allolog Form="проплыл"/>
+<Allolog Form="проплыть"/>
+<Allolog Form="проплыв"/>
+<Allolog Form="проплыла"/>
+<Allolog Form="проплыли"/>
+</Word>
+
+<Word Stem="финальн" Weight="0.0559507732599237">
+<Allolog Form="финального"/>
+<Allolog Form="финальной"/>
+<Allolog Form="финальный"/>
+<Allolog Form="финальном"/>
+<Allolog Form="финальным"/>
+<Allolog Form="финальную"/>
+<Allolog Form="финальное"/>
+<Allolog Form="финальные"/>
+<Allolog Form="финальная"/>
+<Allolog Form="финальности"/>
+</Word>
+
+<Word Stem="финал" Weight="0.062739562840575">
+<Allolog Form="финалом"/>
+<Allolog Form="финале"/>
+<Allolog Form="финалу"/>
+<Allolog Form="финалы"/>
+<Allolog Form="финалах"/>
+<Allolog Form="финалов"/>
+<Allolog Form="финалами"/>
+<Allolog Form="финалам"/>
+</Word>
+
+<Word Stem="прыжок" Weight="0.0676516354912958">
+<Allolog Form="прыжок"/>
+</Word>
+
+<Word Stem="егоров" Weight="0.0511311159721054">
+<Allolog Form="егорова"/>
+<Allolog Form="егоровым"/>
+<Allolog Form="егорову"/>
+<Allolog Form="егоровой"/>
+</Word>
+
+<Word Stem="сборных" Weight="0.0531468989066162">
+<Allolog Form="сборных"/>
+</Word>
+
+<Word Stem="киров" Weight="0.0517667844522968">
+<Allolog Form="кирове"/>
+<Allolog Form="кирова"/>
+<Allolog Form="кирову"/>
+</Word>
+
+<Word Stem="альпинист" Weight="0.515901060070671">
+<Allolog Form="альпиниста"/>
+<Allolog Form="альпинистом"/>
+<Allolog Form="альпинисты"/>
+<Allolog Form="альпинист"/>
+<Allolog Form="альпинистов"/>
+<Allolog Form="альпинистами"/>
+<Allolog Form="альпинистам"/>
+<Allolog Form="альпинисту"/>
+<Allolog Form="альпинистах"/>
+</Word>
+
+<Word Stem="проплыва" Weight="0.0511311159721054">
+<Allolog Form="проплывает"/>
+<Allolog Form="проплывают"/>
+<Allolog Form="проплывала"/>
+<Allolog Form="проплывать"/>
+<Allolog Form="проплывал"/>
+<Allolog Form="проплывали"/>
+</Word>
+
+<Word Stem="медал" Weight="0.0908655236511069">
+<Allolog Form="медаль"/>
+<Allolog Form="медалей"/>
+<Allolog Form="медалями"/>
+<Allolog Form="медалью"/>
+<Allolog Form="медалях"/>
+<Allolog Form="медалям"/>
+</Word>
+
+<Word Stem="метан" Weight="0.0579882410634642">
+<Allolog Form="метаном"/>
+<Allolog Form="метаниями"/>
+<Allolog Form="метания"/>
+<Allolog Form="метании"/>
+<Allolog Form="метаниях"/>
+<Allolog Form="метане"/>
+<Allolog Form="метанию"/>
+<Allolog Form="метание"/>
+<Allolog Form="метаний"/>
+<Allolog Form="метанием"/>
+<Allolog Form="метаниям"/>
+<Allolog Form="метанья"/>
+</Word>
+
+<Word Stem="капитан" Weight="0.0526174584478471">
+<Allolog Form="капитанов"/>
+<Allolog Form="капитаном"/>
+<Allolog Form="капитану"/>
+<Allolog Form="капитанами"/>
+</Word>
+
+<Word Stem="бронзов" Weight="0.062815747349997">
+<Allolog Form="бронзового"/>
+<Allolog Form="бронзовую"/>
+<Allolog Form="бронзовым"/>
+<Allolog Form="бронзовом"/>
+<Allolog Form="бронзовая"/>
+<Allolog Form="бронзовой"/>
+<Allolog Form="бронзовые"/>
+<Allolog Form="бронзовый"/>
+<Allolog Form="бронзово"/>
+<Allolog Form="бронзовыми"/>
+<Allolog Form="бронзовое"/>
+</Word>
+
+<Word Stem="клетчат" Weight="0.0511311159721054">
+<Allolog Form="клетчатой"/>
+<Allolog Form="клетчат"/>
+<Allolog Form="клетчатом"/>
+<Allolog Form="клетчатыми"/>
+<Allolog Form="клетчатые"/>
+<Allolog Form="клетчатый"/>
+</Word>
+
+<Word Stem="конькобежц" Weight="0.526041989543942">
+<Allolog Form="конькобежца"/>
+<Allolog Form="конькобежцев"/>
+<Allolog Form="конькобежцем"/>
+<Allolog Form="конькобежцам"/>
+<Allolog Form="конькобежцы"/>
+<Allolog Form="конькобежцами"/>
+<Allolog Form="конькобежцу"/>
+</Word>
+
+<Word Stem="бронзовых" Weight="0.0622172296625902">
+<Allolog Form="бронзовых"/>
+</Word>
+
+<Word Stem="кросс" Weight="0.504971649272742">
+<Allolog Form="кросс"/>
+<Allolog Form="кросса"/>
+<Allolog Form="кроссов"/>
+<Allolog Form="кроссе"/>
+<Allolog Form="кроссом"/>
+<Allolog Form="кроссы"/>
+<Allolog Form="кроссах"/>
+<Allolog Form="кроссу"/>
+</Word>
+
+<Word Stem="прыгун" Weight="0.0540501725456161">
+<Allolog Form="прыгун"/>
+<Allolog Form="прыгунов"/>
+<Allolog Form="прыгуне"/>
+<Allolog Form="прыгунами"/>
+<Allolog Form="прыгуна"/>
+<Allolog Form="прыгуны"/>
+<Allolog Form="прыгунья"/>
+<Allolog Form="прыгунах"/>
+<Allolog Form="прыгунам"/>
+</Word>
+
+<Word Stem="савченк" Weight="0.0536862539807181">
+<Allolog Form="савченко"/>
+</Word>
+
+<Word Stem="поединок" Weight="0.0522715800100959">
+<Allolog Form="поединок"/>
+</Word>
+
+<Word Stem="обыгра" Weight="0.0626040084957025">
+<Allolog Form="обыграл"/>
+<Allolog Form="обыграть"/>
+<Allolog Form="обыграны"/>
+<Allolog Form="обыгравший"/>
+<Allolog Form="обыграно"/>
+<Allolog Form="обыгранном"/>
+<Allolog Form="обыграет"/>
+<Allolog Form="обыграла"/>
+<Allolog Form="обыграли"/>
+<Allolog Form="обыграю"/>
+<Allolog Form="обыграв"/>
+</Word>
+
+<Word Stem="шеренг" Weight="0.0551575828960988">
+<Allolog Form="шеренгу"/>
+<Allolog Form="шеренге"/>
+<Allolog Form="шеренгой"/>
+<Allolog Form="шеренги"/>
+<Allolog Form="шеренгами"/>
+<Allolog Form="шеренга"/>
+<Allolog Form="шеренг"/>
+<Allolog Form="шеренгах"/>
 </Word>
 
 <Word Stem="кубок" Weight="0.0678463075989578">
 <Allolog Form="кубок"/>
 </Word>
 
-<Word Stem="фигурн" Weight="0.057815927210717">
+<Word Stem="фигурн" Weight="0.0578615320448294">
 <Allolog Form="фигурные"/>
 <Allolog Form="фигурный"/>
 <Allolog Form="фигурными"/>
@@ -1149,56 +1520,52 @@
 <Allolog Form="фигурном"/>
 </Word>
 
-<Word Stem="разыгра" Weight="0.0546013004299654">
+<Word Stem="разыгра" Weight="0.0535520321488667">
 <Allolog Form="разыгранном"/>
 <Allolog Form="разыгралась"/>
+<Allolog Form="разыгравшуюся"/>
+<Allolog Form="разыграется"/>
+<Allolog Form="разыграть"/>
 <Allolog Form="разыгравшихся"/>
+<Allolog Form="разыграла"/>
+<Allolog Form="разыграл"/>
+<Allolog Form="разыграна"/>
+<Allolog Form="разыгранные"/>
+<Allolog Form="разыгранный"/>
 <Allolog Form="разыгрался"/>
 <Allolog Form="разыгранная"/>
-<Allolog Form="разыграется"/>
+<Allolog Form="разыгралось"/>
+<Allolog Form="разыграться"/>
+<Allolog Form="разыграй"/>
 <Allolog Form="разыграли"/>
-<Allolog Form="разыграть"/>
 <Allolog Form="разыгрались"/>
 <Allolog Form="разыграно"/>
 <Allolog Form="разыгран"/>
 <Allolog Form="разыграны"/>
-<Allolog Form="разыгранный"/>
 <Allolog Form="разыгравшая"/>
 <Allolog Form="разыграем"/>
+<Allolog Form="разыгранную"/>
 </Word>
 
-<Word Stem="шахмат" Weight="0.505398495876133">
+<Word Stem="шахмат" Weight="0.504249551236816">
 <Allolog Form="шахматы"/>
 <Allolog Form="шахматам"/>
 <Allolog Form="шахматов"/>
+<Allolog Form="шахматами"/>
 <Allolog Form="шахматах"/>
 <Allolog Form="шахмат"/>
-<Allolog Form="шахматами"/>
 </Word>
 
 <Word Stem="футбольных" Weight="0.503686253980718">
 <Allolog Form="футбольных"/>
 </Word>
 
-<Word Stem="финальн" Weight="0.0558714537476235">
-<Allolog Form="финальном"/>
-<Allolog Form="финальный"/>
-<Allolog Form="финальным"/>
-<Allolog Form="финальной"/>
-<Allolog Form="финальную"/>
-<Allolog Form="финальное"/>
-<Allolog Form="финальные"/>
-<Allolog Form="финальная"/>
-<Allolog Form="финального"/>
-<Allolog Form="финальности"/>
-</Word>
-
 <Word Stem="ринг" Weight="0.506848604721796">
 <Allolog Form="ринг"/>
 <Allolog Form="ринге"/>
-<Allolog Form="ринго"/>
 <Allolog Form="ринга"/>
 <Allolog Form="рингом"/>
+<Allolog Form="ринго"/>
 <Allolog Form="ринги"/>
 <Allolog Form="рингу"/>
 </Word>
@@ -1209,23 +1576,6 @@
 <Allolog Form="волана"/>
 </Word>
 
-<Word Stem="бронзовых" Weight="0.0622172296625902">
-<Allolog Form="бронзовых"/>
-</Word>
-
-<Word Stem="бронзов" Weight="0.0627063623437664">
-<Allolog Form="бронзовую"/>
-<Allolog Form="бронзового"/>
-<Allolog Form="бронзовым"/>
-<Allolog Form="бронзовом"/>
-<Allolog Form="бронзовая"/>
-<Allolog Form="бронзовой"/>
-<Allolog Form="бронзовые"/>
-<Allolog Form="бронзовый"/>
-<Allolog Form="бронзово"/>
-<Allolog Form="бронзовыми"/>
-</Word>
-
 <Word Stem="атлетик" Weight="0.522135370191907">
 <Allolog Form="атлетика"/>
 <Allolog Form="атлетикой"/>
@@ -1234,58 +1584,46 @@
 <Allolog Form="атлетику"/>
 </Word>
 
-<Word Stem="сборных" Weight="0.0531468989066162">
-<Allolog Form="сборных"/>
-</Word>
-
-<Word Stem="катк" Weight="0.0577764643973915">
+<Word Stem="катк" Weight="0.0577999969237552">
 <Allolog Form="катка"/>
 <Allolog Form="катков"/>
-<Allolog Form="катки"/>
 <Allolog Form="катке"/>
-<Allolog Form="катках"/>
+<Allolog Form="катки"/>
 <Allolog Form="катку"/>
+<Allolog Form="катках"/>
 <Allolog Form="катком"/>
 </Word>
 
 <Word Stem="призов" Weight="0.0546013004299654">
 <Allolog Form="призовое"/>
+<Allolog Form="призову"/>
+<Allolog Form="призовите"/>
 <Allolog Form="призовой"/>
 <Allolog Form="призови"/>
-<Allolog Form="призовите"/>
-<Allolog Form="призову"/>
 <Allolog Form="призовые"/>
-<Allolog Form="призовым"/>
+<Allolog Form="призовыми"/>
 <Allolog Form="призового"/>
+<Allolog Form="призовым"/>
 </Word>
 
-<Word Stem="эстафет" Weight="0.517067804520301">
-<Allolog Form="эстафета"/>
-<Allolog Form="эстафету"/>
-<Allolog Form="эстафеты"/>
-<Allolog Form="эстафете"/>
-<Allolog Form="эстафет"/>
-<Allolog Form="эстафетах"/>
-<Allolog Form="эстафетой"/>
-</Word>
-
-<Word Stem="розыгрыш" Weight="0.0657067336101494">
+<Word Stem="розыгрыш" Weight="0.0628268802619349">
 <Allolog Form="розыгрыше"/>
+<Allolog Form="розыгрыши"/>
 <Allolog Form="розыгрыш"/>
-<Allolog Form="розыгрышах"/>
 <Allolog Form="розыгрыша"/>
 <Allolog Form="розыгрышем"/>
-<Allolog Form="розыгрыши"/>
+<Allolog Form="розыгрышах"/>
 <Allolog Form="розыгрышей"/>
+<Allolog Form="розыгрышу"/>
 </Word>
 
 <Word Stem="олимпийц" Weight="0.504786209733206">
 <Allolog Form="олимпийцем"/>
 <Allolog Form="олимпийцы"/>
 <Allolog Form="олимпийцев"/>
-<Allolog Form="олимпийца"/>
-<Allolog Form="олимпийцами"/>
 <Allolog Form="олимпийцам"/>
+<Allolog Form="олимпийцами"/>
+<Allolog Form="олимпийца"/>
 <Allolog Form="олимпийцу"/>
 </Word>
 
@@ -1294,8 +1632,8 @@
 <Allolog Form="атлетическая"/>
 <Allolog Form="атлетической"/>
 <Allolog Form="атлетическое"/>
-<Allolog Form="атлетического"/>
 <Allolog Form="атлетический"/>
+<Allolog Form="атлетического"/>
 <Allolog Form="атлетические"/>
 <Allolog Form="атлетических"/>
 <Allolog Form="атлетическом"/>
@@ -1306,67 +1644,27 @@
 <Allolog Form="митры"/>
 <Allolog Form="митро"/>
 <Allolog Form="митра"/>
-<Allolog Form="митру"/>
 <Allolog Form="митре"/>
+<Allolog Form="митру"/>
 </Word>
 
-<Word Stem="восхожден" Weight="0.052373939934838">
-<Allolog Form="восхождением"/>
-<Allolog Form="восхождения"/>
-<Allolog Form="восхождение"/>
-<Allolog Form="восхожденья"/>
-<Allolog Form="восхождению"/>
-<Allolog Form="восхождении"/>
-<Allolog Form="восхождениями"/>
-<Allolog Form="восхождений"/>
-<Allolog Form="восхождениях"/>
-</Word>
-
-<Word Stem="первенств" Weight="0.124579642171951">
-<Allolog Form="первенстве"/>
-<Allolog Form="первенство"/>
-<Allolog Form="первенства"/>
-<Allolog Form="первенствах"/>
-<Allolog Form="первенствующую"/>
-<Allolog Form="первенствующего"/>
-<Allolog Form="первенством"/>
-<Allolog Form="первенству"/>
-<Allolog Form="первенств"/>
-<Allolog Form="первенствами"/>
-</Word>
-
-<Word Stem="турнир" Weight="0.167032261025194">
+<Word Stem="турнир" Weight="0.161766247754511">
 <Allolog Form="турнирах"/>
 <Allolog Form="турниры"/>
 <Allolog Form="турнир"/>
 <Allolog Form="турнире"/>
 <Allolog Form="турнира"/>
-<Allolog Form="турниров"/>
-<Allolog Form="турниру"/>
 <Allolog Form="турниром"/>
+<Allolog Form="турниру"/>
+<Allolog Form="турниров"/>
 <Allolog Form="турнирам"/>
 </Word>
 
-<Word Stem="метан" Weight="0.0591359366977742">
-<Allolog Form="метания"/>
-<Allolog Form="метаниями"/>
-<Allolog Form="метании"/>
-<Allolog Form="метаном"/>
-<Allolog Form="метане"/>
-<Allolog Form="метаниях"/>
-<Allolog Form="метанию"/>
-<Allolog Form="метаниям"/>
-<Allolog Form="метаний"/>
-<Allolog Form="метанием"/>
-<Allolog Form="метание"/>
-<Allolog Form="метанья"/>
-</Word>
-
-<Word Stem="золотых" Weight="0.0692097960060269">
+<Word Stem="золотых" Weight="0.0674258443216932">
 <Allolog Form="золотых"/>
 </Word>
 
-<Word Stem="игрок" Weight="0.283400117725318">
+<Word Stem="игрок" Weight="0.268895509150672">
 <Allolog Form="игрока"/>
 <Allolog Form="игрокам"/>
 <Allolog Form="игроку"/>
@@ -1379,15 +1677,15 @@
 <Allolog Form="игроке"/>
 </Word>
 
-<Word Stem="теннис" Weight="0.603845210008458">
+<Word Stem="теннис" Weight="0.603885167254205">
 <Allolog Form="теннис"/>
 <Allolog Form="теннисом"/>
+<Allolog Form="теннисе"/>
 <Allolog Form="тенниса"/>
 <Allolog Form="теннису"/>
-<Allolog Form="теннисе"/>
 </Word>
 
-<Word Stem="футбол" Weight="0.52908428041798">
+<Word Stem="футбол" Weight="0.523976531714407">
 <Allolog Form="футбол"/>
 <Allolog Form="футболь"/>
 <Allolog Form="футболу"/>
@@ -1396,28 +1694,20 @@
 <Allolog Form="футболом"/>
 </Word>
 
-<Word Stem="матч" Weight="0.60978187962132">
+<Word Stem="матч" Weight="0.605421135650925">
 <Allolog Form="матче"/>
 <Allolog Form="матч"/>
 <Allolog Form="матчей"/>
 <Allolog Form="матча"/>
-<Allolog Form="матчам"/>
-<Allolog Form="матчем"/>
 <Allolog Form="матчу"/>
 <Allolog Form="матчи"/>
-<Allolog Form="матчами"/>
+<Allolog Form="матчем"/>
+<Allolog Form="матчам"/>
 <Allolog Form="матчах"/>
+<Allolog Form="матчами"/>
 </Word>
 
-<Word Stem="спартак" Weight="0.0529601832690304">
-<Allolog Form="спартаку"/>
-<Allolog Form="спартак"/>
-<Allolog Form="спартака"/>
-<Allolog Form="спартаком"/>
-<Allolog Form="спартаке"/>
-</Word>
-
-<Word Stem="опек" Weight="0.0510652713605771">
+<Word Stem="опек" Weight="0.05">
 <Allolog Form="опеки"/>
 <Allolog Form="опекой"/>
 <Allolog Form="опека"/>
@@ -1433,29 +1723,30 @@
 <Allolog Form="теннисного"/>
 <Allolog Form="теннисном"/>
 <Allolog Form="теннисную"/>
+<Allolog Form="теннисным"/>
 <Allolog Form="теннисные"/>
 <Allolog Form="теннисной"/>
 <Allolog Form="теннисная"/>
-<Allolog Form="теннисным"/>
 <Allolog Form="теннисное"/>
 </Word>
 
-<Word Stem="болельщик" Weight="0.512906096124316">
+<Word Stem="болельщик" Weight="0.510156202910673">
 <Allolog Form="болельщиков"/>
 <Allolog Form="болельщики"/>
 <Allolog Form="болельщиком"/>
-<Allolog Form="болельщика"/>
+<Allolog Form="болельщику"/>
 <Allolog Form="болельщик"/>
+<Allolog Form="болельщика"/>
 <Allolog Form="болельщикам"/>
 <Allolog Form="болельщиками"/>
 </Word>
 
-<Word Stem="физкультур" Weight="0.0857559346259863">
+<Word Stem="физкультур" Weight="0.0824351523116472">
 <Allolog Form="физкультуры"/>
 <Allolog Form="физкультуру"/>
 <Allolog Form="физкультурой"/>
-<Allolog Form="физкультуре"/>
 <Allolog Form="физкультура"/>
+<Allolog Form="физкультуре"/>
 <Allolog Form="физкультур"/>
 </Word>
 
@@ -1478,10 +1769,10 @@
 <Allolog Form="единоборством"/>
 <Allolog Form="единоборства"/>
 <Allolog Form="единоборство"/>
+<Allolog Form="единоборствами"/>
 <Allolog Form="единоборстве"/>
 <Allolog Form="единоборствам"/>
 <Allolog Form="единоборствах"/>
-<Allolog Form="единоборствами"/>
 </Word>
 
 <Word Stem="форвард" Weight="0.505905640622955">
@@ -1495,7 +1786,7 @@
 <Allolog Form="форвардами"/>
 </Word>
 
-<Word Stem="аэробик" Weight="0.0692352509631081">
+<Word Stem="аэробик" Weight="0.069252929855971">
 <Allolog Form="аэробика"/>
 <Allolog Form="аэробикой"/>
 <Allolog Form="аэробику"/>
@@ -1504,7 +1795,7 @@
 <Allolog Form="аэробик"/>
 </Word>
 
-<Word Stem="трибун" Weight="0.0688070917212238">
+<Word Stem="трибун" Weight="0.0674071434870702">
 <Allolog Form="трибуны"/>
 <Allolog Form="трибуной"/>
 <Allolog Form="трибуне"/>
@@ -1517,11 +1808,12 @@
 <Allolog Form="трибунам"/>
 </Word>
 
-<Word Stem="культуризм" Weight="0.503505524706938">
+<Word Stem="культуризм" Weight="0.5">
 <Allolog Form="культуризм"/>
 <Allolog Form="культуризма"/>
 <Allolog Form="культуризме"/>
 <Allolog Form="культуризмом"/>
+<Allolog Form="культуризму"/>
 </Word>
 
 <Word Stem="бодибилдинг" Weight="0.521549900627886">
@@ -1541,53 +1833,34 @@
 <Allolog Form="состязающиеся"/>
 </Word>
 
-<Word Stem="медал" Weight="0.0907572162563196">
-<Allolog Form="медалей"/>
-<Allolog Form="медалями"/>
-<Allolog Form="медаль"/>
-<Allolog Form="медалью"/>
-<Allolog Form="медалях"/>
-<Allolog Form="медалям"/>
-</Word>
-
-<Word Stem="атлет" Weight="0.510638429821812">
+<Word Stem="атлет" Weight="0.510653771009834">
 <Allolog Form="атлета"/>
 <Allolog Form="атлетов"/>
 <Allolog Form="атлетам"/>
 <Allolog Form="атлеты"/>
 <Allolog Form="атлет"/>
+<Allolog Form="атлетом"/>
 <Allolog Form="атлетах"/>
 <Allolog Form="атлетами"/>
 <Allolog Form="атлету"/>
-<Allolog Form="атлетом"/>
 </Word>
 
 <Word Stem="фехтован" Weight="0.501766784452297">
 <Allolog Form="фехтованием"/>
 <Allolog Form="фехтованию"/>
 <Allolog Form="фехтование"/>
-<Allolog Form="фехтования"/>
 <Allolog Form="фехтовании"/>
+<Allolog Form="фехтования"/>
 </Word>
 
 <Word Stem="разбег" Weight="0.057988793728747">
 <Allolog Form="разбег"/>
+<Allolog Form="разбегаясь"/>
 <Allolog Form="разбегом"/>
 <Allolog Form="разбегах"/>
 <Allolog Form="разбега"/>
 <Allolog Form="разбеге"/>
 <Allolog Form="разбегу"/>
-</Word>
-
-<Word Stem="шеренг" Weight="0.0551575828960988">
-<Allolog Form="шеренгу"/>
-<Allolog Form="шеренги"/>
-<Allolog Form="шеренге"/>
-<Allolog Form="шеренгами"/>
-<Allolog Form="шеренга"/>
-<Allolog Form="шеренгой"/>
-<Allolog Form="шеренг"/>
-<Allolog Form="шеренгах"/>
 </Word>
 
 <Word Stem="лидирова" Weight="0.0511311159721054">
@@ -1610,48 +1883,33 @@
 <Allolog Form="награждению"/>
 </Word>
 
-<Word Stem="киров" Weight="0.0517667844522968">
-<Allolog Form="кирова"/>
-<Allolog Form="кирове"/>
-</Word>
-
 <Word Stem="товарищеск" Weight="0.0516031932993064">
 <Allolog Form="товарищеская"/>
 <Allolog Form="товарищеское"/>
 <Allolog Form="товарищеские"/>
-<Allolog Form="товарищеского"/>
 <Allolog Form="товарищеских"/>
+<Allolog Form="товарищеского"/>
 <Allolog Form="товарищеский"/>
 <Allolog Form="товарищеской"/>
 <Allolog Form="товарищеским"/>
 <Allolog Form="товарищескую"/>
 </Word>
 
-<Word Stem="бойц" Weight="0.0638951475137027">
+<Word Stem="бойц" Weight="0.064003304530127">
 <Allolog Form="бойцов"/>
 <Allolog Form="бойцы"/>
 <Allolog Form="бойца"/>
-<Allolog Form="бойцами"/>
 <Allolog Form="бойцам"/>
+<Allolog Form="бойцами"/>
 <Allolog Form="бойцом"/>
 <Allolog Form="бойцу"/>
 </Word>
 
 <Word Stem="первенствова" Weight="0.051284934147125">
 <Allolog Form="первенствовала"/>
+<Allolog Form="первенствовать"/>
 <Allolog Form="первенствовали"/>
 <Allolog Form="первенствовал"/>
-</Word>
-
-<Word Stem="финал" Weight="0.0627026547901502">
-<Allolog Form="финалу"/>
-<Allolog Form="финалом"/>
-<Allolog Form="финале"/>
-<Allolog Form="финалы"/>
-<Allolog Form="финалов"/>
-<Allolog Form="финалами"/>
-<Allolog Form="финалах"/>
-<Allolog Form="финалам"/>
 </Word>
 
 <Word Stem="архат" Weight="0.0511311159721054">
@@ -1669,16 +1927,16 @@
 <Allolog Form="третьяку"/>
 </Word>
 
-<Word Stem="игровых" Weight="0.0515741281735495">
+<Word Stem="игровых" Weight="0.051602288122057">
 <Allolog Form="игровых"/>
 </Word>
 
 <Word Stem="гребл" Weight="0.508561622148765">
 <Allolog Form="гребли"/>
-<Allolog Form="гребля"/>
-<Allolog Form="греблей"/>
 <Allolog Form="гребле"/>
 <Allolog Form="греблю"/>
+<Allolog Form="гребля"/>
+<Allolog Form="греблей"/>
 </Word>
 
 <Word Stem="серебряных" Weight="0.0635721169290074">
@@ -1698,23 +1956,8 @@
 <Allolog Form="прыгнули"/>
 </Word>
 
-<Word Stem="прыжок" Weight="0.0676516354912958">
-<Allolog Form="прыжок"/>
-</Word>
-
 <Word Stem="дзюд" Weight="0.504050172545616">
 <Allolog Form="дзюдо"/>
-</Word>
-
-<Word Stem="кросс" Weight="0.504971649272742">
-<Allolog Form="кросс"/>
-<Allolog Form="кросса"/>
-<Allolog Form="кроссов"/>
-<Allolog Form="кроссе"/>
-<Allolog Form="кроссом"/>
-<Allolog Form="кроссы"/>
-<Allolog Form="кроссах"/>
-<Allolog Form="кроссу"/>
 </Word>
 
 <Word Stem="гребц" Weight="0.504416961130742">
@@ -1725,7 +1968,7 @@
 <Allolog Form="гребцам"/>
 </Word>
 
-<Word Stem="борц" Weight="0.511895067488041">
+<Word Stem="борц" Weight="0.511955975203335">
 <Allolog Form="борца"/>
 <Allolog Form="борцы"/>
 <Allolog Form="борцами"/>
@@ -1737,14 +1980,10 @@
 <Allolog Form="борцах"/>
 </Word>
 
-<Word Stem="поединок" Weight="0.0522715800100959">
-<Allolog Form="поединок"/>
-</Word>
-
 <Word Stem="грач" Weight="0.0551575828960988">
 <Allolog Form="грачи"/>
-<Allolog Form="грачев"/>
 <Allolog Form="грач"/>
+<Allolog Form="грачев"/>
 <Allolog Form="грачом"/>
 <Allolog Form="грача"/>
 <Allolog Form="грачу"/>
@@ -1753,29 +1992,21 @@
 <Word Stem="рукопашн" Weight="0.0585616221487645">
 <Allolog Form="рукопашной"/>
 <Allolog Form="рукопашную"/>
+<Allolog Form="рукопашном"/>
 <Allolog Form="рукопашными"/>
 <Allolog Form="рукопашный"/>
 <Allolog Form="рукопашного"/>
-<Allolog Form="рукопашном"/>
 <Allolog Form="рукопашным"/>
 <Allolog Form="рукопашные"/>
+<Allolog Form="рукопашная"/>
 </Word>
 
-<Word Stem="егоров" Weight="0.0511311159721054">
-<Allolog Form="егорова"/>
-<Allolog Form="егоровым"/>
-<Allolog Form="егорову"/>
-<Allolog Form="егоровой"/>
-</Word>
-
-<Word Stem="полоз" Weight="0.0527926592955659">
-<Allolog Form="полозьев"/>
-<Allolog Form="полозьями"/>
-<Allolog Form="полозьях"/>
-<Allolog Form="полозья"/>
-<Allolog Form="полоз"/>
-<Allolog Form="полоза"/>
-<Allolog Form="полозом"/>
+<Word Stem="стрельб" Weight="0.00112436353812106">
+<Allolog Form="стрельбы"/>
+<Allolog Form="стрельбе"/>
+<Allolog Form="стрельбу"/>
+<Allolog Form="стрельба"/>
+<Allolog Form="стрельбой"/>
 </Word>
 
 <Word Stem="жеребьевк" Weight="0.0519328923922564">
@@ -1805,20 +2036,6 @@
 <Allolog Form="контратакующей"/>
 </Word>
 
-<Word Stem="футбольн" Weight="0.506175029455798">
-<Allolog Form="футбольная"/>
-<Allolog Form="футбольном"/>
-<Allolog Form="футбольной"/>
-<Allolog Form="футбольный"/>
-<Allolog Form="футбольного"/>
-<Allolog Form="футбольным"/>
-<Allolog Form="футбольные"/>
-<Allolog Form="футбольны"/>
-<Allolog Form="футбольными"/>
-<Allolog Form="футбольное"/>
-<Allolog Form="футбольную"/>
-</Word>
-
 <Word Stem="теннисных" Weight="0.502792659295566">
 <Allolog Form="теннисных"/>
 </Word>
@@ -1829,10 +2046,10 @@
 
 <Word Stem="раунд" Weight="0.0524437133612228">
 <Allolog Form="раунд"/>
-<Allolog Form="раунде"/>
-<Allolog Form="раунда"/>
-<Allolog Form="раунды"/>
 <Allolog Form="раундов"/>
+<Allolog Form="раунда"/>
+<Allolog Form="раунде"/>
+<Allolog Form="раунды"/>
 </Word>
 
 <Word Stem="баскетбол" Weight="0.526823915516495">
@@ -1845,11 +2062,11 @@
 
 <Word Stem="вратар" Weight="0.539351108255702">
 <Allolog Form="вратарь"/>
+<Allolog Form="вратарем"/>
 <Allolog Form="вратаря"/>
 <Allolog Form="вратарям"/>
 <Allolog Form="вратари"/>
 <Allolog Form="вратарях"/>
-<Allolog Form="вратарем"/>
 <Allolog Form="вратарей"/>
 <Allolog Form="вратарю"/>
 <Allolog Form="вратаре"/>
@@ -1867,26 +2084,8 @@
 <Allolog Form="теннисисту"/>
 </Word>
 
-<Word Stem="обыгра" Weight="0.0626040084957025">
-<Allolog Form="обыграть"/>
-<Allolog Form="обыграны"/>
-<Allolog Form="обыграет"/>
-<Allolog Form="обыграла"/>
-<Allolog Form="обыграли"/>
-<Allolog Form="обыграю"/>
-<Allolog Form="обыграв"/>
-<Allolog Form="обыграл"/>
-</Word>
-
-<Word Stem="динам" Weight="0.0607543761003999">
+<Word Stem="динам" Weight="0.0607752571062777">
 <Allolog Form="динамо"/>
-</Word>
-
-<Word Stem="капитан" Weight="0.0526174584478471">
-<Allolog Form="капитаном"/>
-<Allolog Form="капитану"/>
-<Allolog Form="капитанами"/>
-<Allolog Form="капитанов"/>
 </Word>
 
 <Word Stem="мотоспорт" Weight="0.508752905690479">
@@ -1901,12 +2100,9 @@
 <Allolog Form="плавательных"/>
 </Word>
 
-<Word Stem="силовых" Weight="0.051813096672182">
-<Allolog Form="силовых"/>
-</Word>
-
 <Word Stem="напл" Weight="0.0511311159721054">
 <Allolog Form="наплыв"/>
+<Allolog Form="наплывших"/>
 <Allolog Form="наплы"/>
 </Word>
 
@@ -1921,22 +2117,6 @@
 <Allolog Form="хоккеистами"/>
 <Allolog Form="хоккеисте"/>
 <Allolog Form="хоккеистах"/>
-</Word>
-
-<Word Stem="стэнл" Weight="0.0564705112512221">
-<Allolog Form="стэнлей"/>
-<Allolog Form="стэнли"/>
-</Word>
-
-<Word Stem="олимпиад" Weight="0.523892661927396">
-<Allolog Form="олимпиадой"/>
-<Allolog Form="олимпиады"/>
-<Allolog Form="олимпиад"/>
-<Allolog Form="олимпиадах"/>
-<Allolog Form="олимпиаде"/>
-<Allolog Form="олимпиада"/>
-<Allolog Form="олимпиаду"/>
-<Allolog Form="олимпиадам"/>
 </Word>
 
 <Word Stem="лиллехаммер" Weight="0.0531468989066162">
@@ -1967,24 +2147,128 @@
 <Allolog Form="соревнуйтесь"/>
 </Word>
 
-<Word Stem="альпинист" Weight="0.515901060070671">
-<Allolog Form="альпинистом"/>
-<Allolog Form="альпинисты"/>
-<Allolog Form="альпинист"/>
-<Allolog Form="альпинистов"/>
-<Allolog Form="альпиниста"/>
-<Allolog Form="альпинистами"/>
-<Allolog Form="альпинистам"/>
-<Allolog Form="альпинисту"/>
-<Allolog Form="альпинистах"/>
-</Word>
-
 <Word Stem="альпинизм" Weight="0.512604008495703">
 <Allolog Form="альпинизма"/>
+<Allolog Form="альпинизмом"/>
 <Allolog Form="альпинизм"/>
 <Allolog Form="альпинизму"/>
 <Allolog Form="альпинизме"/>
-<Allolog Form="альпинизмом"/>
+</Word>
+
+<Word Stem="хокке" Weight="0.509519540108644">
+<Allolog Form="хоккея"/>
+<Allolog Form="хоккеем"/>
+</Word>
+
+<Word Stem="волейбол" Weight="0.546993737806459">
+<Allolog Form="волейбол"/>
+<Allolog Form="волейболе"/>
+<Allolog Form="волейболу"/>
+<Allolog Form="волейболом"/>
+<Allolog Form="волейбола"/>
+</Word>
+
+<Word Stem="каратэ" Weight="0.507417690279881">
+<Allolog Form="каратэ"/>
+</Word>
+
+<Word Stem="боксерск" Weight="0.501442447209846">
+<Allolog Form="боксерского"/>
+<Allolog Form="боксерская"/>
+<Allolog Form="боксерскую"/>
+<Allolog Form="боксерские"/>
+<Allolog Form="боксерский"/>
+<Allolog Form="боксерском"/>
+<Allolog Form="боксерских"/>
+<Allolog Form="боксерскими"/>
+</Word>
+
+<Word Stem="алексеевн" Weight="0.05">
+<Allolog Form="алексеевна"/>
+<Allolog Form="алексеевны"/>
+<Allolog Form="алексеевне"/>
+<Allolog Form="алексеевну"/>
+</Word>
+
+<Word Stem="акробатическ" Weight="0.0526174584478471">
+<Allolog Form="акробатического"/>
+<Allolog Form="акробатических"/>
+<Allolog Form="акробатические"/>
+<Allolog Form="акробатический"/>
+<Allolog Form="акробатической"/>
+<Allolog Form="акробатическими"/>
+</Word>
+
+<Word Stem="серфинг" Weight="0.501932892392256">
+<Allolog Form="серфинг"/>
+<Allolog Form="серфингом"/>
+<Allolog Form="серфинга"/>
+<Allolog Form="серфинге"/>
+</Word>
+
+<Word Stem="спортзал" Weight="0.503686253980718">
+<Allolog Form="спортзале"/>
+<Allolog Form="спортзалу"/>
+<Allolog Form="спортзалах"/>
+<Allolog Form="спортзалов"/>
+<Allolog Form="спортзалы"/>
+</Word>
+
+<Word Stem="спортза" Weight="0.0536862539807181">
+<Allolog Form="спортзал"/>
+<Allolog Form="спортзала"/>
+</Word>
+
+<Word Stem="каток" Weight="0.0522715800100959">
+<Allolog Form="каток"/>
+</Word>
+
+<Word Stem="лейл" Weight="0.051284934147125">
+<Allolog Form="лейла"/>
+<Allolog Form="лейлой"/>
+<Allolog Form="лейли"/>
+<Allolog Form="лейлу"/>
+<Allolog Form="лейлы"/>
+<Allolog Form="лейле"/>
+</Word>
+
+<Word Stem="самб" Weight="0.501131115972105">
+<Allolog Form="самбе"/>
+<Allolog Form="самбо"/>
+<Allolog Form="самбу"/>
+</Word>
+
+<Word Stem="соревновательн" Weight="0.061830746522342">
+<Allolog Form="соревновательный"/>
+<Allolog Form="соревновательного"/>
+<Allolog Form="соревновательности"/>
+<Allolog Form="соревновательное"/>
+<Allolog Form="соревновательная"/>
+<Allolog Form="соревновательные"/>
+<Allolog Form="соревновательной"/>
+<Allolog Form="соревновательным"/>
+<Allolog Form="соревновательную"/>
+<Allolog Form="соревновательном"/>
+</Word>
+
+<Word Stem="мотокросс" Weight="0.501131115972105">
+<Allolog Form="мотокросса"/>
+<Allolog Form="мотокроссу"/>
+<Allolog Form="мотокроссы"/>
+<Allolog Form="мотокросс"/>
+<Allolog Form="мотокроссов"/>
+</Word>
+
+<Word Stem="баскетбольн" Weight="0.507607849620124">
+<Allolog Form="баскетбольного"/>
+<Allolog Form="баскетбольные"/>
+<Allolog Form="баскетбольными"/>
+<Allolog Form="баскетбольный"/>
+<Allolog Form="баскетбольной"/>
+<Allolog Form="баскетбольную"/>
+<Allolog Form="баскетбольная"/>
+<Allolog Form="баскетбольном"/>
+<Allolog Form="баскетбольным"/>
 </Word>
 
 <Word Stem="греб" Weight="0.0536862539807181">
@@ -2006,30 +2290,12 @@
 <Allolog Form="волейбольные"/>
 </Word>
 
-<Word Stem="клетчат" Weight="0.0511311159721054">
-<Allolog Form="клетчат"/>
-<Allolog Form="клетчатой"/>
-<Allolog Form="клетчатыми"/>
-<Allolog Form="клетчатые"/>
-<Allolog Form="клетчатом"/>
-<Allolog Form="клетчатый"/>
-</Word>
-
 <Word Stem="кожевников" Weight="0.0516031932993064">
 <Allolog Form="кожевникова"/>
 <Allolog Form="кожевниковой"/>
 </Word>
 
-<Word Stem="акробатическ" Weight="0.0526174584478471">
-<Allolog Form="акробатических"/>
-<Allolog Form="акробатические"/>
-<Allolog Form="акробатического"/>
-<Allolog Form="акробатический"/>
-<Allolog Form="акробатической"/>
-<Allolog Form="акробатическими"/>
-</Word>
-
-<Word Stem="упражн" Weight="0.0514630512073848">
+<Word Stem="упражн" Weight="0.051495892713594">
 <Allolog Form="упражне"/>
 <Allolog Form="упражня"/>
 <Allolog Form="упражняясь"/>
@@ -2037,12 +2303,12 @@
 
 <Word Stem="призер" Weight="0.0581795576495223">
 <Allolog Form="призерами"/>
+<Allolog Form="призера"/>
 <Allolog Form="призер"/>
+<Allolog Form="призеров"/>
 <Allolog Form="призером"/>
 <Allolog Form="призеры"/>
-<Allolog Form="призеров"/>
 <Allolog Form="призерам"/>
-<Allolog Form="призера"/>
 </Word>
 
 <Word Stem="баттерфля" Weight="0.508944346289753">
@@ -2050,18 +2316,6 @@
 <Allolog Form="баттерфляем"/>
 <Allolog Form="баттерфляю"/>
 <Allolog Form="баттерфляе"/>
-</Word>
-
-<Word Stem="каратэ" Weight="0.507417690279881">
-<Allolog Form="каратэ"/>
-</Word>
-
-<Word Stem="волейбол" Weight="0.546993737806459">
-<Allolog Form="волейбол"/>
-<Allolog Form="волейболе"/>
-<Allolog Form="волейболу"/>
-<Allolog Form="волейболом"/>
-<Allolog Form="волейбола"/>
 </Word>
 
 <Word Stem="нырян" Weight="0.0511311159721054">
@@ -2078,56 +2332,58 @@
 
 <Word Stem="штангист" Weight="0.501284934147125">
 <Allolog Form="штангистом"/>
-<Allolog Form="штангистов"/>
-<Allolog Form="штангист"/>
 <Allolog Form="штангисты"/>
+<Allolog Form="штангистами"/>
+<Allolog Form="штангист"/>
+<Allolog Form="штангистов"/>
 </Word>
 
 <Word Stem="роллер" Weight="0.501284934147125">
 <Allolog Form="роллеру"/>
+<Allolog Form="роллера"/>
 <Allolog Form="роллеров"/>
 <Allolog Form="роллеры"/>
-<Allolog Form="роллера"/>
 </Word>
 
-<Word Stem="футболист" Weight="0.516289829634249">
+<Word Stem="футболист" Weight="0.515098652021429">
 <Allolog Form="футболист"/>
 <Allolog Form="футболистов"/>
-<Allolog Form="футболисте"/>
 <Allolog Form="футболисты"/>
-<Allolog Form="футболистам"/>
+<Allolog Form="футболистом"/>
 <Allolog Form="футболиста"/>
+<Allolog Form="футболисте"/>
+<Allolog Form="футболистам"/>
 <Allolog Form="футболисту"/>
 <Allolog Form="футболистами"/>
-<Allolog Form="футболистом"/>
 </Word>
 
 <Word Stem="альпинистск" Weight="0.501284934147125">
 <Allolog Form="альпинистским"/>
 <Allolog Form="альпинистской"/>
+<Allolog Form="альпинистское"/>
+<Allolog Form="альпинистского"/>
+<Allolog Form="альпинистских"/>
 <Allolog Form="альпинистский"/>
 <Allolog Form="альпинистски"/>
 <Allolog Form="альпинистскую"/>
-<Allolog Form="альпинистского"/>
 <Allolog Form="альпинистском"/>
 <Allolog Form="альпинистская"/>
-<Allolog Form="альпинистских"/>
 </Word>
 
-<Word Stem="лыжн" Weight="0.562484463680441">
+<Word Stem="лыжн" Weight="0.561388741821715">
 <Allolog Form="лыжным"/>
 <Allolog Form="лыжная"/>
 <Allolog Form="лыжную"/>
 <Allolog Form="лыжный"/>
 <Allolog Form="лыжного"/>
-<Allolog Form="лыжне"/>
-<Allolog Form="лыжном"/>
-<Allolog Form="лыжни"/>
-<Allolog Form="лыжные"/>
-<Allolog Form="лыжня"/>
-<Allolog Form="лыжными"/>
-<Allolog Form="лыжней"/>
 <Allolog Form="лыжной"/>
+<Allolog Form="лыжном"/>
+<Allolog Form="лыжные"/>
+<Allolog Form="лыжне"/>
+<Allolog Form="лыжными"/>
+<Allolog Form="лыжни"/>
+<Allolog Form="лыжня"/>
+<Allolog Form="лыжней"/>
 <Allolog Form="лыжню"/>
 <Allolog Form="лыжное"/>
 <Allolog Form="лыжно"/>
@@ -2142,19 +2398,12 @@
 <Allolog Form="цюань"/>
 </Word>
 
-<Word Stem="ражнен" Weight="0.0523965853706309">
+<Word Stem="ражнен" Weight="0.0524294268768401">
 <Allolog Form="ражнений"/>
 <Allolog Form="ражнения"/>
 <Allolog Form="ражнение"/>
 <Allolog Form="ражнении"/>
 <Allolog Form="ражнениями"/>
-</Word>
-
-<Word Stem="проплыва" Weight="0.0511311159721054">
-<Allolog Form="проплывает"/>
-<Allolog Form="проплывать"/>
-<Allolog Form="проплывал"/>
-<Allolog Form="проплывала"/>
 </Word>
 
 <Word Stem="бадминтон" Weight="0.504050172545616">
@@ -2170,13 +2419,6 @@
 <Allolog Form="атлетизма"/>
 </Word>
 
-<Word Stem="алексеевн" Weight="0.051284934147125">
-<Allolog Form="алексеевна"/>
-<Allolog Form="алексеевны"/>
-<Allolog Form="алексеевне"/>
-<Allolog Form="алексеевну"/>
-</Word>
-
 <Word Stem="тяжелоатлет" Weight="0.502101237476188">
 <Allolog Form="тяжелоатлет"/>
 <Allolog Form="тяжелоатлеты"/>
@@ -2189,20 +2431,20 @@
 <Allolog Form="хоккейного"/>
 <Allolog Form="хоккейный"/>
 <Allolog Form="хоккейной"/>
+<Allolog Form="хоккейную"/>
+<Allolog Form="хоккейные"/>
 <Allolog Form="хоккейно"/>
 <Allolog Form="хоккейными"/>
-<Allolog Form="хоккейную"/>
 <Allolog Form="хоккейная"/>
-<Allolog Form="хоккейные"/>
 <Allolog Form="хоккейным"/>
 </Word>
 
-<Word Stem="соперниц" Weight="0.0540501725456161">
+<Word Stem="соперниц" Weight="0.0531616953649344">
 <Allolog Form="соперницей"/>
 <Allolog Form="соперницы"/>
-<Allolog Form="сопернице"/>
 <Allolog Form="соперница"/>
 <Allolog Form="соперницу"/>
+<Allolog Form="сопернице"/>
 <Allolog Form="соперницах"/>
 <Allolog Form="соперниц"/>
 <Allolog Form="соперницами"/>
@@ -2215,19 +2457,6 @@
 <Allolog Form="уэйдам"/>
 </Word>
 
-<Word Stem="соревновательн" Weight="0.061830746522342">
-<Allolog Form="соревновательного"/>
-<Allolog Form="соревновательности"/>
-<Allolog Form="соревновательный"/>
-<Allolog Form="соревновательное"/>
-<Allolog Form="соревновательная"/>
-<Allolog Form="соревновательные"/>
-<Allolog Form="соревновательной"/>
-<Allolog Form="соревновательным"/>
-<Allolog Form="соревновательную"/>
-<Allolog Form="соревновательном"/>
-</Word>
-
 <Word Stem="скалолаз" Weight="0.0533257119102058">
 <Allolog Form="скалолаз"/>
 <Allolog Form="скалолазов"/>
@@ -2238,6 +2467,7 @@
 
 <Word Stem="тренерск" Weight="0.0546013004299654">
 <Allolog Form="тренерский"/>
+<Allolog Form="тренерского"/>
 <Allolog Form="тренерскую"/>
 <Allolog Form="тренерской"/>
 <Allolog Form="тренерском"/>
@@ -2245,12 +2475,12 @@
 <Allolog Form="тренерская"/>
 <Allolog Form="тренерскими"/>
 <Allolog Form="тренерских"/>
-<Allolog Form="тренерского"/>
 </Word>
 
 <Word Stem="отборочн" Weight="0.0527926592955659">
 <Allolog Form="отборочные"/>
 <Allolog Form="отборочный"/>
+<Allolog Form="отборочной"/>
 <Allolog Form="отборочном"/>
 <Allolog Form="отборочными"/>
 <Allolog Form="отборочную"/>
@@ -2258,14 +2488,10 @@
 <Allolog Form="отборочно"/>
 </Word>
 
-<Word Stem="савченк" Weight="0.0536862539807181">
-<Allolog Form="савченко"/>
-</Word>
-
 <Word Stem="горнолыжн" Weight="0.510095911155982">
 <Allolog Form="горнолыжный"/>
-<Allolog Form="горнолыжного"/>
 <Allolog Form="горнолыжном"/>
+<Allolog Form="горнолыжного"/>
 <Allolog Form="горнолыжной"/>
 <Allolog Form="горнолыжным"/>
 <Allolog Form="горнолыжные"/>
@@ -2283,31 +2509,6 @@
 <Allolog Form="допингом"/>
 <Allolog Form="допинга"/>
 <Allolog Form="допингами"/>
-</Word>
-
-<Word Stem="спортзал" Weight="0.503686253980718">
-<Allolog Form="спортзале"/>
-<Allolog Form="спортзалов"/>
-<Allolog Form="спортзалах"/>
-<Allolog Form="спортзалы"/>
-</Word>
-
-<Word Stem="боксерск" Weight="0.501442447209846">
-<Allolog Form="боксерского"/>
-<Allolog Form="боксерская"/>
-<Allolog Form="боксерские"/>
-<Allolog Form="боксерском"/>
-<Allolog Form="боксерских"/>
-<Allolog Form="боксерскими"/>
-<Allolog Form="боксерский"/>
-</Word>
-
-<Word Stem="лейл" Weight="0.051284934147125">
-<Allolog Form="лейли"/>
-<Allolog Form="лейлу"/>
-<Allolog Form="лейлы"/>
-<Allolog Form="лейла"/>
-<Allolog Form="лейле"/>
 </Word>
 
 <Word Stem="холмин" Weight="0.0610587619421542">
@@ -2329,25 +2530,7 @@
 <Allolog Form="финальных"/>
 </Word>
 
-<Word Stem="баскетбольн" Weight="0.507607849620124">
-<Allolog Form="баскетбольного"/>
-<Allolog Form="баскетбольной"/>
-<Allolog Form="баскетбольную"/>
-<Allolog Form="баскетбольные"/>
-<Allolog Form="баскетбольный"/>
-<Allolog Form="баскетбольная"/>
-<Allolog Form="баскетбольном"/>
-<Allolog Form="баскетбольным"/>
-</Word>
-
-<Word Stem="демин" Weight="0.0516031932993064">
-<Allolog Form="демина"/>
-<Allolog Form="демин"/>
-<Allolog Form="демину"/>
-<Allolog Form="деминым"/>
-</Word>
-
-<Word Stem="отскок" Weight="0.0547663466220195">
+<Word Stem="отскок" Weight="0.0547862145740277">
 <Allolog Form="отскоком"/>
 <Allolog Form="отскока"/>
 <Allolog Form="отскок"/>
@@ -2362,9 +2545,9 @@
 
 <Word Stem="эстафетн" Weight="0.0517667844522968">
 <Allolog Form="эстафетным"/>
+<Allolog Form="эстафетную"/>
 <Allolog Form="эстафетный"/>
 <Allolog Form="эстафетного"/>
-<Allolog Form="эстафетную"/>
 <Allolog Form="эстафетной"/>
 <Allolog Form="эстафетная"/>
 <Allolog Form="эстафетные"/>
@@ -2380,21 +2563,9 @@
 
 <Word Stem="обводк" Weight="0.0511311159721054">
 <Allolog Form="обводки"/>
+<Allolog Form="обводкой"/>
 <Allolog Form="обводка"/>
 <Allolog Form="обводкам"/>
-<Allolog Form="обводкой"/>
-</Word>
-
-<Word Stem="прыгун" Weight="0.0540501725456161">
-<Allolog Form="прыгунов"/>
-<Allolog Form="прыгуне"/>
-<Allolog Form="прыгунами"/>
-<Allolog Form="прыгуна"/>
-<Allolog Form="прыгуны"/>
-<Allolog Form="прыгунья"/>
-<Allolog Form="прыгун"/>
-<Allolog Form="прыгунах"/>
-<Allolog Form="прыгунам"/>
 </Word>
 
 <Word Stem="лыжных" Weight="0.506470511251222">
@@ -2411,12 +2582,237 @@
 
 <Word Stem="финт" Weight="0.503867825422596">
 <Allolog Form="финтами"/>
-<Allolog Form="финты"/>
 <Allolog Form="финт"/>
+<Allolog Form="финты"/>
 <Allolog Form="финтах"/>
 <Allolog Form="финта"/>
 <Allolog Form="финтов"/>
 <Allolog Form="финтом"/>
+</Word>
+
+<Word Stem="бодибилдер" Weight="0.506848604721796">
+<Allolog Form="бодибилдеров"/>
+<Allolog Form="бодибилдеры"/>
+<Allolog Form="бодибилдеру"/>
+<Allolog Form="бодибилдером"/>
+<Allolog Form="бодибилдера"/>
+<Allolog Form="бодибилдерам"/>
+<Allolog Form="бодибилдер"/>
+</Word>
+
+<Word Stem="заплыв" Weight="0.0559056406229551">
+<Allolog Form="заплывах"/>
+<Allolog Form="заплывы"/>
+<Allolog Form="заплывом"/>
+<Allolog Form="заплыва"/>
+<Allolog Form="заплыве"/>
+<Allolog Form="заплыву"/>
+</Word>
+
+<Word Stem="горнолыжник" Weight="0.504416961130742">
+<Allolog Form="горнолыжниками"/>
+<Allolog Form="горнолыжник"/>
+<Allolog Form="горнолыжниках"/>
+<Allolog Form="горнолыжнику"/>
+<Allolog Form="горнолыжника"/>
+<Allolog Form="горнолыжников"/>
+<Allolog Form="горнолыжники"/>
+<Allolog Form="горнолыжником"/>
+</Word>
+
+<Word Stem="финишн" Weight="0.0514424472098462">
+<Allolog Form="финишную"/>
+<Allolog Form="финишной"/>
+<Allolog Form="финишные"/>
+<Allolog Form="финишного"/>
+<Allolog Form="финишным"/>
+<Allolog Form="финишный"/>
+<Allolog Form="финишная"/>
+</Word>
+
+<Word Stem="айвен" Weight="0.0516031932993064">
+<Allolog Form="айвену"/>
+<Allolog Form="айвен"/>
+<Allolog Form="айвеном"/>
+</Word>
+
+<Word Stem="коннорс" Weight="0.051284934147125">
+<Allolog Form="коннорс"/>
+<Allolog Form="коннорсом"/>
+<Allolog Form="коннорса"/>
+</Word>
+
+<Word Stem="легкоатлетическ" Weight="0.503146898906616">
+<Allolog Form="легкоатлетической"/>
+<Allolog Form="легкоатлетический"/>
+<Allolog Form="легкоатлетические"/>
+<Allolog Form="легкоатлетических"/>
+<Allolog Form="легкоатлетическими"/>
+<Allolog Form="легкоатлетическая"/>
+<Allolog Form="легкоатлетического"/>
+<Allolog Form="легкоатлетическое"/>
+</Word>
+
+<Word Stem="легкоатлет" Weight="0.503867825422596">
+<Allolog Form="легкоатлетах"/>
+<Allolog Form="легкоатлетов"/>
+<Allolog Form="легкоатлетам"/>
+<Allolog Form="легкоатлетом"/>
+<Allolog Form="легкоатлеты"/>
+<Allolog Form="легкоатлет"/>
+<Allolog Form="легкоатлетами"/>
+<Allolog Form="легкоатлета"/>
+</Word>
+
+<Word Stem="десятибор" Weight="0.501131115972105">
+<Allolog Form="десятиборью"/>
+<Allolog Form="десятиборье"/>
+<Allolog Form="десятиборья"/>
+</Word>
+
+<Word Stem="чемпионк" Weight="0.0664842704724004">
+<Allolog Form="чемпионки"/>
+<Allolog Form="чемпионка"/>
+<Allolog Form="чемпионкой"/>
+<Allolog Form="чемпионку"/>
+</Word>
+
+<Word Stem="бегов" Weight="0.0529691794267766">
+<Allolog Form="беговой"/>
+<Allolog Form="бегового"/>
+<Allolog Form="беговые"/>
+<Allolog Form="беговым"/>
+<Allolog Form="беговом"/>
+</Word>
+
+<Word Stem="спринт" Weight="0.502271580010096">
+<Allolog Form="спринт"/>
+<Allolog Form="спринте"/>
+<Allolog Form="спринтом"/>
+<Allolog Form="спринта"/>
+<Allolog Form="спринту"/>
+</Word>
+
+<Word Stem="физкультурных" Weight="0.051284934147125">
+<Allolog Form="физкультурных"/>
+</Word>
+
+<Word Stem="дисквалификац" Weight="0.05">
+<Allolog Form="дисквалификация"/>
+<Allolog Form="дисквалификации"/>
+<Allolog Form="дисквалификацией"/>
+</Word>
+
+<Word Stem="культурист" Weight="0.511924660267008">
+<Allolog Form="культурист"/>
+<Allolog Form="культуристом"/>
+<Allolog Form="культуристов"/>
+<Allolog Form="культуриста"/>
+<Allolog Form="культуристы"/>
+<Allolog Form="культуристу"/>
+<Allolog Form="культуристами"/>
+<Allolog Form="культуристам"/>
+<Allolog Form="культуристах"/>
+</Word>
+
+<Word Stem="гусак" Weight="0.0519328923922564">
+<Allolog Form="гусаку"/>
+<Allolog Form="гусак"/>
+<Allolog Form="гусака"/>
+<Allolog Form="гусаком"/>
+</Word>
+
+<Word Stem="баскетболист" Weight="0.502101237476188">
+<Allolog Form="баскетболисты"/>
+<Allolog Form="баскетболистов"/>
+<Allolog Form="баскетболистам"/>
+<Allolog Form="баскетболист"/>
+<Allolog Form="баскетболиста"/>
+<Allolog Form="баскетболистами"/>
+<Allolog Form="баскетболистом"/>
+</Word>
+
+<Word Stem="клюшк" Weight="0.551502671756788">
+<Allolog Form="клюшку"/>
+<Allolog Form="клюшки"/>
+<Allolog Form="клюшкой"/>
+<Allolog Form="клюшке"/>
+<Allolog Form="клюшка"/>
+<Allolog Form="клюшками"/>
+<Allolog Form="клюшкам"/>
+</Word>
+
+<Word Stem="нападающем" Weight="0.501603193299306">
+<Allolog Form="нападающему"/>
+</Word>
+
+<Word Stem="спарринг" Weight="0.501442447209846">
+<Allolog Form="спарринг"/>
+<Allolog Form="спарринга"/>
+<Allolog Form="спаррингом"/>
+<Allolog Form="спаррингах"/>
+</Word>
+
+<Word Stem="спортсменк" Weight="0.51144458211596">
+<Allolog Form="спортсменка"/>
+<Allolog Form="спортсменки"/>
+<Allolog Form="спортсменку"/>
+<Allolog Form="спортсменкой"/>
+<Allolog Form="спортсменке"/>
+<Allolog Form="спортсменкам"/>
+</Word>
+
+<Word Stem="спортсменок" Weight="0.501284934147125">
+<Allolog Form="спортсменок"/>
+</Word>
+
+<Word Stem="дзюдзюц" Weight="0.0519328923922564">
+<Allolog Form="дзюдзюцу"/>
+</Word>
+
+<Word Stem="лыжном" Weight="0.502101237476188">
+<Allolog Form="лыжному"/>
+</Word>
+
+<Word Stem="скалолазан" Weight="0.0535055247069381">
+<Allolog Form="скалолазание"/>
+<Allolog Form="скалолазания"/>
+<Allolog Form="скалолазанию"/>
+<Allolog Form="скалолазании"/>
+<Allolog Form="скалолазанием"/>
+</Word>
+
+<Word Stem="скейтбординг" Weight="0.501932892392256">
+<Allolog Form="скейтбординг"/>
+<Allolog Form="скейтбординга"/>
+<Allolog Form="скейтбординге"/>
+<Allolog Form="скейтбордингом"/>
+</Word>
+
+<Word Stem="чемпионск" Weight="0.0521012374761884">
+<Allolog Form="чемпионский"/>
+<Allolog Form="чемпионских"/>
+<Allolog Form="чемпионскими"/>
+<Allolog Form="чемпионским"/>
+<Allolog Form="чемпионское"/>
+<Allolog Form="чемпионского"/>
+<Allolog Form="чемпионской"/>
+<Allolog Form="чемпионские"/>
+</Word>
+
+<Word Stem="акробатик" Weight="0.507417690279881">
+<Allolog Form="акробатикой"/>
+<Allolog Form="акробатика"/>
+<Allolog Form="акробатику"/>
+<Allolog Form="акробатики"/>
+<Allolog Form="акробатике"/>
+</Word>
+
+<Word Stem="волан" Weight="0.501442447209846">
+<Allolog Form="воланом"/>
+<Allolog Form="воланов"/>
+<Allolog Form="волане"/>
+<Allolog Form="волану"/>
 </Word>
 
 <Word Stem="волейболист" Weight="0.507988793728747">
@@ -2428,52 +2824,6 @@
 <Allolog Form="волейболисты"/>
 </Word>
 
-<Word Stem="бегов" Weight="0.0529691794267766">
-<Allolog Form="беговой"/>
-<Allolog Form="бегового"/>
-<Allolog Form="беговые"/>
-<Allolog Form="беговым"/>
-<Allolog Form="беговом"/>
-</Word>
-
-<Word Stem="культурист" Weight="0.516873258922729">
-<Allolog Form="культурист"/>
-<Allolog Form="культуриста"/>
-<Allolog Form="культуристов"/>
-<Allolog Form="культуристы"/>
-<Allolog Form="культуристами"/>
-<Allolog Form="культуристам"/>
-<Allolog Form="культуристу"/>
-<Allolog Form="культуристах"/>
-<Allolog Form="культуристом"/>
-</Word>
-
-<Word Stem="чемпионск" Weight="0.0521012374761884">
-<Allolog Form="чемпионских"/>
-<Allolog Form="чемпионскими"/>
-<Allolog Form="чемпионским"/>
-<Allolog Form="чемпионское"/>
-<Allolog Form="чемпионского"/>
-<Allolog Form="чемпионской"/>
-<Allolog Form="чемпионский"/>
-<Allolog Form="чемпионские"/>
-</Word>
-
-<Word Stem="бодибилдер" Weight="0.506848604721796">
-<Allolog Form="бодибилдеры"/>
-<Allolog Form="бодибилдеров"/>
-<Allolog Form="бодибилдеру"/>
-<Allolog Form="бодибилдером"/>
-<Allolog Form="бодибилдера"/>
-<Allolog Form="бодибилдерам"/>
-<Allolog Form="бодибилдер"/>
-</Word>
-
-<Word Stem="спортза" Weight="0.0536862539807181">
-<Allolog Form="спортзал"/>
-<Allolog Form="спортзала"/>
-</Word>
-
 <Word Stem="теннисистк" Weight="0.51144458211596">
 <Allolog Form="теннисистка"/>
 <Allolog Form="теннисистки"/>
@@ -2482,13 +2832,6 @@
 <Allolog Form="теннисистками"/>
 <Allolog Form="теннисисткой"/>
 <Allolog Form="теннисисткам"/>
-</Word>
-
-<Word Stem="чемпионк" Weight="0.0664842704724004">
-<Allolog Form="чемпионка"/>
-<Allolog Form="чемпионки"/>
-<Allolog Form="чемпионкой"/>
-<Allolog Form="чемпионку"/>
 </Word>
 
 <Word Stem="уимблдонск" Weight="0.505343977664355">
@@ -2519,15 +2862,6 @@
 <Allolog Form="тепляковой"/>
 </Word>
 
-<Word Stem="спортсменк" Weight="0.51144458211596">
-<Allolog Form="спортсменкой"/>
-<Allolog Form="спортсменка"/>
-<Allolog Form="спортсменки"/>
-<Allolog Form="спортсменку"/>
-<Allolog Form="спортсменке"/>
-<Allolog Form="спортсменкам"/>
-</Word>
-
 <Word Stem="динамовск" Weight="0.0522715800100959">
 <Allolog Form="динамовские"/>
 <Allolog Form="динамовский"/>
@@ -2536,28 +2870,6 @@
 <Allolog Form="динамовском"/>
 <Allolog Form="динамовского"/>
 <Allolog Form="динамовское"/>
-</Word>
-
-<Word Stem="легкоатлет" Weight="0.503867825422596">
-<Allolog Form="легкоатлетам"/>
-<Allolog Form="легкоатлетов"/>
-<Allolog Form="легкоатлетом"/>
-<Allolog Form="легкоатлеты"/>
-<Allolog Form="легкоатлет"/>
-<Allolog Form="легкоатлетами"/>
-<Allolog Form="легкоатлета"/>
-</Word>
-
-<Word Stem="спарринг" Weight="0.501442447209846">
-<Allolog Form="спарринг"/>
-<Allolog Form="спарринга"/>
-<Allolog Form="спаррингом"/>
-<Allolog Form="спаррингах"/>
-</Word>
-
-<Word Stem="хокке" Weight="0.509519540108644">
-<Allolog Form="хоккея"/>
-<Allolog Form="хоккеем"/>
 </Word>
 
 <Word Stem="спартакиад" Weight="0.0546013004299654">
@@ -2591,10 +2903,6 @@
 
 <Word Stem="уимбл" Weight="0.501603193299306">
 <Allolog Form="уимбл"/>
-</Word>
-
-<Word Stem="спортсменок" Weight="0.501284934147125">
-<Allolog Form="спортсменок"/>
 </Word>
 
 <Word Stem="полуфинал" Weight="0.0526174584478471">
@@ -2657,12 +2965,6 @@
 <Allolog Form="елисеенко"/>
 </Word>
 
-<Word Stem="коннорс" Weight="0.051284934147125">
-<Allolog Form="коннорсом"/>
-<Allolog Form="коннорс"/>
-<Allolog Form="коннорса"/>
-</Word>
-
 <Word Stem="гаррос" Weight="0.0533257119102058">
 <Allolog Form="гаррос"/>
 <Allolog Form="гарроса"/>
@@ -2674,36 +2976,9 @@
 <Allolog Form="тинлинга"/>
 </Word>
 
-<Word Stem="горнолыжник" Weight="0.504416961130742">
-<Allolog Form="горнолыжник"/>
-<Allolog Form="горнолыжниках"/>
-<Allolog Form="горнолыжнику"/>
-<Allolog Form="горнолыжника"/>
-<Allolog Form="горнолыжников"/>
-<Allolog Form="горнолыжники"/>
-<Allolog Form="горнолыжниками"/>
-<Allolog Form="горнолыжником"/>
-</Word>
-
-<Word Stem="дисквалификац" Weight="0.0514424472098462">
-<Allolog Form="дисквалификации"/>
-<Allolog Form="дисквалификация"/>
-<Allolog Form="дисквалификацией"/>
-</Word>
-
 <Word Stem="маккинр" Weight="0.0521012374761884">
 <Allolog Form="маккинрой"/>
 <Allolog Form="маккинрою"/>
-</Word>
-
-<Word Stem="баскетболист" Weight="0.502101237476188">
-<Allolog Form="баскетболистам"/>
-<Allolog Form="баскетболист"/>
-<Allolog Form="баскетболистов"/>
-<Allolog Form="баскетболиста"/>
-<Allolog Form="баскетболисты"/>
-<Allolog Form="баскетболистами"/>
-<Allolog Form="баскетболистом"/>
 </Word>
 
 <Word Stem="курников" Weight="0.0521012374761884">
@@ -2716,24 +2991,9 @@
 <Allolog Form="хингис"/>
 </Word>
 
-<Word Stem="легкоатлетическ" Weight="0.503146898906616">
-<Allolog Form="легкоатлетической"/>
-<Allolog Form="легкоатлетические"/>
-<Allolog Form="легкоатлетических"/>
-<Allolog Form="легкоатлетическими"/>
-<Allolog Form="легкоатлетическая"/>
-<Allolog Form="легкоатлетический"/>
-<Allolog Form="легкоатлетического"/>
-<Allolog Form="легкоатлетическое"/>
-</Word>
-
 <Word Stem="сампрас" Weight="0.0511311159721054">
 <Allolog Form="сампрас"/>
 <Allolog Form="сампраса"/>
-</Word>
-
-<Word Stem="каток" Weight="0.0522715800100959">
-<Allolog Form="каток"/>
 </Word>
 
 <Word Stem="эспозит" Weight="0.0616376229450434">
@@ -2749,16 +3009,6 @@
 <Allolog Form="конькобежные"/>
 <Allolog Form="конькобежное"/>
 <Allolog Form="конькобежным"/>
-</Word>
-
-<Word Stem="клюшк" Weight="0.551502671756788">
-<Allolog Form="клюшкой"/>
-<Allolog Form="клюшке"/>
-<Allolog Form="клюшка"/>
-<Allolog Form="клюшку"/>
-<Allolog Form="клюшки"/>
-<Allolog Form="клюшками"/>
-<Allolog Form="клюшкам"/>
 </Word>
 
 <Word Stem="клюшек" Weight="0.502101237476188">
@@ -2788,12 +3038,6 @@
 <Allolog Form="голевых"/>
 </Word>
 
-<Word Stem="айвен" Weight="0.0516031932993064">
-<Allolog Form="айвен"/>
-<Allolog Form="айвену"/>
-<Allolog Form="айвеном"/>
-</Word>
-
 <Word Stem="курнуай" Weight="0.0542332356819989">
 <Allolog Form="курнуайе"/>
 </Word>
@@ -2820,20 +3064,6 @@
 <Allolog Form="чиверса"/>
 </Word>
 
-<Word Stem="конькобежц" Weight="0.526041989543942">
-<Allolog Form="конькобежца"/>
-<Allolog Form="конькобежцев"/>
-<Allolog Form="конькобежцем"/>
-<Allolog Form="конькобежцам"/>
-<Allolog Form="конькобежцы"/>
-<Allolog Form="конькобежцами"/>
-<Allolog Form="конькобежцу"/>
-</Word>
-
-<Word Stem="нападающем" Weight="0.501603193299306">
-<Allolog Form="нападающему"/>
-</Word>
-
 <Word Stem="центрфорвард" Weight="0.503325711910206">
 <Allolog Form="центрфорвард"/>
 <Allolog Form="центрфорварда"/>
@@ -2841,14 +3071,6 @@
 <Allolog Form="центрфорварды"/>
 <Allolog Form="центрфорварду"/>
 <Allolog Form="центрфорвардов"/>
-</Word>
-
-<Word Stem="спринт" Weight="0.502271580010096">
-<Allolog Form="спринт"/>
-<Allolog Form="спринте"/>
-<Allolog Form="спринтом"/>
-<Allolog Form="спринта"/>
-<Allolog Form="спринту"/>
 </Word>
 
 <Word Stem="кочет" Weight="0.130924908025418">
@@ -2870,13 +3092,6 @@
 <Allolog Form="стометровки"/>
 <Allolog Form="стометровку"/>
 <Allolog Form="стометровке"/>
-</Word>
-
-<Word Stem="пропл" Weight="0.0542332356819989">
-<Allolog Form="проплыть"/>
-<Allolog Form="проплыл"/>
-<Allolog Form="проплыв"/>
-<Allolog Form="проплыла"/>
 </Word>
 
 <Word Stem="галузин" Weight="0.105816440394272">
@@ -2912,14 +3127,6 @@
 <Allolog Form="гаевым"/>
 </Word>
 
-<Word Stem="заплыв" Weight="0.0559056406229551">
-<Allolog Form="заплывом"/>
-<Allolog Form="заплыва"/>
-<Allolog Form="заплыве"/>
-<Allolog Form="заплывы"/>
-<Allolog Form="заплыву"/>
-</Word>
-
 <Word Stem="конькобежец" Weight="0.501284934147125">
 <Allolog Form="конькобежец"/>
 </Word>
@@ -2939,16 +3146,6 @@
 <Allolog Form="динамовца"/>
 <Allolog Form="динамовцам"/>
 <Allolog Form="динамовцев"/>
-</Word>
-
-<Word Stem="финишн" Weight="0.0514424472098462">
-<Allolog Form="финишной"/>
-<Allolog Form="финишную"/>
-<Allolog Form="финишные"/>
-<Allolog Form="финишного"/>
-<Allolog Form="финишным"/>
-<Allolog Form="финишный"/>
-<Allolog Form="финишная"/>
 </Word>
 
 <Word Stem="лесгафтовц" Weight="0.0524437133612228">
@@ -2998,14 +3195,6 @@
 <Allolog Form="хальмера"/>
 </Word>
 
-<Word Stem="скалолазан" Weight="0.0535055247069381">
-<Allolog Form="скалолазания"/>
-<Allolog Form="скалолазанию"/>
-<Allolog Form="скалолазании"/>
-<Allolog Form="скалолазание"/>
-<Allolog Form="скалолазанием"/>
-</Word>
-
 <Word Stem="хергиан" Weight="0.0524437133612228">
 <Allolog Form="хергиани"/>
 </Word>
@@ -3036,12 +3225,6 @@
 <Allolog Form="орун"/>
 <Allolog Form="оруне"/>
 <Allolog Form="оруну"/>
-</Word>
-
-<Word Stem="гусак" Weight="0.0519328923922564">
-<Allolog Form="гусак"/>
-<Allolog Form="гусака"/>
-<Allolog Form="гусаком"/>
 </Word>
 
 <Word Stem="джумбер" Weight="0.0529691794267766">
@@ -3091,31 +3274,11 @@
 <Allolog Form="коньковая"/>
 </Word>
 
-<Word Stem="волан" Weight="0.501442447209846">
-<Allolog Form="воланов"/>
-<Allolog Form="воланом"/>
-<Allolog Form="волане"/>
-<Allolog Form="волану"/>
-</Word>
-
-<Word Stem="акробатик" Weight="0.507417690279881">
-<Allolog Form="акробатика"/>
-<Allolog Form="акробатику"/>
-<Allolog Form="акробатики"/>
-<Allolog Form="акробатике"/>
-</Word>
-
 <Word Stem="бросков" Weight="0.051284934147125">
 <Allolog Form="бросковой"/>
 <Allolog Form="броскового"/>
 <Allolog Form="бросковая"/>
 <Allolog Form="бросковую"/>
-</Word>
-
-<Word Stem="десятибор" Weight="0.501131115972105">
-<Allolog Form="десятиборье"/>
-<Allolog Form="десятиборью"/>
-<Allolog Form="десятиборья"/>
 </Word>
 
 <Word Stem="биатлон" Weight="0.507038054937545">
@@ -3158,10 +3321,6 @@
 <Allolog Form="пауэрлифтинге"/>
 </Word>
 
-<Word Stem="физкультурных" Weight="0.051284934147125">
-<Allolog Form="физкультурных"/>
-</Word>
-
 <Word Stem="каланетик" Weight="0.0538678254225957">
 <Allolog Form="каланетика"/>
 <Allolog Form="каланетики"/>
@@ -3180,11 +3339,6 @@
 <Allolog Form="общекомандный"/>
 </Word>
 
-<Word Stem="самб" Weight="0.501131115972105">
-<Allolog Form="самбо"/>
-<Allolog Form="самбу"/>
-</Word>
-
 <Word Stem="кодока" Weight="0.501442447209846">
 <Allolog Form="кодокан"/>
 </Word>
@@ -3194,10 +3348,6 @@
 <Allolog Form="толчковой"/>
 <Allolog Form="толчковую"/>
 <Allolog Form="толчковая"/>
-</Word>
-
-<Word Stem="дзюдзюц" Weight="0.0519328923922564">
-<Allolog Form="дзюдзюцу"/>
 </Word>
 
 <Word Stem="вадз" Weight="0.0521012374761884">
@@ -3233,10 +3383,6 @@
 <Allolog Form="бобслее"/>
 <Allolog Form="бобслею"/>
 <Allolog Form="бобслеи"/>
-</Word>
-
-<Word Stem="лыжном" Weight="0.502101237476188">
-<Allolog Form="лыжному"/>
 </Word>
 
 <Word Stem="биатлонист" Weight="0.501932892392256">
@@ -3280,20 +3426,6 @@
 <Allolog Form="скейтерами"/>
 <Allolog Form="скейтер"/>
 <Allolog Form="скейтера"/>
-</Word>
-
-<Word Stem="серфинг" Weight="0.501932892392256">
-<Allolog Form="серфинг"/>
-<Allolog Form="серфингом"/>
-<Allolog Form="серфинга"/>
-<Allolog Form="серфинге"/>
-</Word>
-
-<Word Stem="скейтбординг" Weight="0.501932892392256">
-<Allolog Form="скейтбординг"/>
-<Allolog Form="скейтбординга"/>
-<Allolog Form="скейтбординге"/>
-<Allolog Form="скейтбордингом"/>
 </Word>
 
 <Word Stem="симс" Weight="0.0535055247069381">
@@ -3349,14 +3481,6 @@
 <Allolog Form="одношажного"/>
 <Allolog Form="одношажный"/>
 <Allolog Form="одношажным"/>
-</Word>
-
-<Word Stem="мотокросс" Weight="0.501131115972105">
-<Allolog Form="мотокроссы"/>
-<Allolog Form="мотокросс"/>
-<Allolog Form="мотокроссу"/>
-<Allolog Form="мотокросса"/>
-<Allolog Form="мотокроссов"/>
 </Word>
 
 <Word Stem="дрэг" Weight="0.506093603519146">

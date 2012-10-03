@@ -8,6 +8,7 @@ using System.Windows.Forms;
 using System.IO;
 using System.Globalization;
 using TextClassifierLib.Properties;
+using System.Threading;
 
 namespace TextClassifierLib
 {
@@ -49,10 +50,32 @@ namespace TextClassifierLib
 			if (dataGridViewGroups.Columns[e.ColumnIndex].Name == "ColumnChange")
 				SetFileName(dataGridViewGroups.Rows[e.RowIndex]);
 		}
+		private void EnableChange(bool newState)
+		{
+			buttonCheck.Invoke((MethodInvoker)(() =>
+			{
+				buttonCheck.Enabled =
+					buttonExportToDataBase.Enabled =
+					buttonExportToFile.Enabled =
+					buttonImport.Enabled =
+					buttonLearn.Enabled =
+					buttonMassLearn.Enabled =
+					newState;
+			}));
+			
+		}
+		private void End()
+		{
+			MessageBox.Show("Обучение завершено");
+			EnableChange(true);
+		}
 		private void buttonLearn_Click(object sender, EventArgs e)
 		{			
 			//if (MessageBox.Show("Обучить систему по умолчанию?", "Вопроооос", MessageBoxButtons.YesNo) == System.Windows.Forms.DialogResult.No)
-				_tc.Learn(comboBoxThemeGroup.Text, GetGroups());
+			var cbtext = comboBoxThemeGroup.Text;
+			var groups = GetGroups();
+			EnableChange(false);
+			new Thread(() => { _tc.Learn(cbtext, groups, End); }).Start();
 			//else
 			//	_tc = TextClassificator.CreateLearnedInstance();
 		}
@@ -340,6 +363,22 @@ namespace TextClassifierLib
 			{
 				var idx = dataGridViewGroups.Rows.Add();
 				dataGridViewGroups.Rows[idx].Cells["ColumnGroupName"].Value = group;
+			}
+		}
+
+		private void buttonMassLearn_Click(object sender, EventArgs e)
+		{
+			var ofd = new OpenFileDialog();
+			ofd.Multiselect = true;
+			if (ofd.ShowDialog() == DialogResult.OK)
+			{
+				dataGridViewGroups.Rows.Clear();
+				foreach (var file in ofd.FileNames)
+				{
+					var idx = dataGridViewGroups.Rows.Add();					
+					dataGridViewGroups.Rows[idx].Cells["ColumnGroupName"].Value = Path.GetFileNameWithoutExtension(Path.GetFileName(file));
+					dataGridViewGroups.Rows[idx].Cells["ColumnGroupFilePath"].Value = file;
+				}
 			}
 		}
 

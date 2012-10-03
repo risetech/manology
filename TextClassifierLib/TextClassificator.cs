@@ -22,8 +22,8 @@ namespace TextClassifierLib
 		private const Int64 MinimumWordCount = 10;							//минимальное количество вхождений слова в группу
 		private const Int64 MinimumWordLength = 4;							//минимальная длина слова
 
-		public const string StopWordsFileName = "stopwords";
-		public const string SeparatorsFileName = "separators";
+		public const string StopWordsFileName = "StopWords";
+		public const string SeparatorsFileName = "Separators";
 		public const string LearnFolderName = "Resources/Learn/";
 
 		#endregion
@@ -382,7 +382,7 @@ namespace TextClassifierLib
 		/// <summary>Функция обучения (для дальнейшей классификации текстов по группам)
 		/// </summary>
 		/// <param name="groupsTexts">данные для обучения вида имя группы-текст принадлежащей группе</param>
-		public void Learn(string themeGroupName, Dictionary<string, string> groupsTexts)
+		public void Learn(string themeGroupName, Dictionary<string, string> groupsTexts, Action callback = null)
 		{
 			//обнуление предыдущего обучения
 			var groupsTextsOld = groupsTexts;													//получение списка групп
@@ -430,7 +430,6 @@ namespace TextClassifierLib
 					_summaryWordsCountInGroup.Add(text.Key, dictionaryWords.Sum(dw => dw.Value));
 					_summaryWordsCountInGroupDistinct.Add(text.Key, dictionaryWords.LongCount());
 					_wordsCountInGroups.Add(text.Key, dictionaryWords);
-					Application.DoEvents();
 				}
 
 				foreach (var g in _wordsCountInGroups)
@@ -441,7 +440,6 @@ namespace TextClassifierLib
 						temp.Add(w.Key, Weight(w.Value, _summaryWordsCountInGroup[g.Key], _summaryWordsCountInGroupDistinct[g.Key]));
 					}
 					_wordsWeigthInGroups.Add(g.Key, temp);
-					Application.DoEvents();
 				}
 
 				//для простоты необходима перегруппировка, на верхнем уровне сейчас удобнее использовать слова, а не группы
@@ -454,7 +452,6 @@ namespace TextClassifierLib
 							wordsWeigthInGroupsTranspose.Add(w.Key, new Dictionary<string, double>());
 						wordsWeigthInGroupsTranspose[w.Key].Add(wg.Key, w.Value);
 					}
-					Application.DoEvents();
 				}
 
 				foreach (var w in wordsWeigthInGroupsTranspose)
@@ -483,7 +480,6 @@ namespace TextClassifierLib
 							_wordsWeigthsInGroupsIncludingOtherGroupsRemoved[w.Key].Add(g, w.Value[g]);
 							w.Value.Remove(g);
 						}
-					Application.DoEvents();
 				}
 
 				var addWordGroup =
@@ -517,9 +513,7 @@ namespace TextClassifierLib
 					var allolog_name = allolog.With(a => a.Allolog_name, wg.name);
 					if (!_stemOfWord[wg.name].Contains(allolog_name))
 						_stemOfWord[wg.name].Add(allolog_name);
-					Application.DoEvents();
 				}
-				Application.DoEvents();
 			}
 
 			_wordsCountInGroups = new Dictionary<string, Dictionary<string, Int64>>();
@@ -529,7 +523,8 @@ namespace TextClassifierLib
 			_wordsWeigthsInGroupsIncludingOtherGroupsRemoved = new Dictionary<string, Dictionary<string, double>>();
 
 			GC.Collect();
-
+			if (callback != null)
+				callback();
 		}
 
 		#endregion

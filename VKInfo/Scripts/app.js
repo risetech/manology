@@ -7,7 +7,7 @@ var app = {
 
 	appId: 2995743,
 	appSecret: "5pxH8x5L8rT977WflGn0",
-	redirectUri: "http://127.0.0.1:4621/User/Auth"
+	redirectUri: "http://127.0.0.1:81/User/Auth"
 }
 
 getSVG = function (charts) {

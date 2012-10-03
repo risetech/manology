@@ -1,0 +1,1703 @@
+﻿<Words>
+
+<Word Stem="мокр" Weight="0.05">
+<Allolog Form="мокрой"/>
+<Allolog Form="мокрым"/>
+<Allolog Form="мокрый"/>
+<Allolog Form="мокрого"/>
+<Allolog Form="мокрая"/>
+<Allolog Form="мокром"/>
+<Allolog Form="мокрыми"/>
+<Allolog Form="мокрое"/>
+<Allolog Form="мокрые"/>
+<Allolog Form="мокрую"/>
+<Allolog Form="мокрее"/>
+<Allolog Form="мокро"/>
+</Word>
+
+<Word Stem="секс" Weight="0.554082895474088">
+<Allolog Form="секс"/>
+<Allolog Form="сексе"/>
+<Allolog Form="секса"/>
+<Allolog Form="сексу"/>
+<Allolog Form="сексом"/>
+<Allolog Form="сексов"/>
+<Allolog Form="сексах"/>
+<Allolog Form="секси"/>
+</Word>
+
+<Word Stem="головк" Weight="0.05">
+<Allolog Form="головки"/>
+<Allolog Form="головку"/>
+<Allolog Form="головке"/>
+<Allolog Form="головкой"/>
+<Allolog Form="головка"/>
+<Allolog Form="головках"/>
+<Allolog Form="головками"/>
+<Allolog Form="головкам"/>
+</Word>
+
+<Word Stem="губк" Weight="0.05">
+<Allolog Form="губки"/>
+<Allolog Form="губкой"/>
+<Allolog Form="губку"/>
+<Allolog Form="губке"/>
+<Allolog Form="губками"/>
+<Allolog Form="губка"/>
+<Allolog Form="губком"/>
+<Allolog Form="губкам"/>
+</Word>
+
+<Word Stem="трога" Weight="0.05">
+<Allolog Form="трогал"/>
+<Allolog Form="трогается"/>
+<Allolog Form="трогайтесь"/>
+<Allolog Form="трогаться"/>
+<Allolog Form="трогаются"/>
+<Allolog Form="трогать"/>
+<Allolog Form="трогают"/>
+<Allolog Form="трогайте"/>
+<Allolog Form="трогай"/>
+<Allolog Form="трогали"/>
+<Allolog Form="трогавшим"/>
+<Allolog Form="трогает"/>
+<Allolog Form="трогало"/>
+<Allolog Form="трогающегося"/>
+<Allolog Form="трогаю"/>
+<Allolog Form="трогаешь"/>
+<Allolog Form="трогались"/>
+<Allolog Form="трогаюсь"/>
+<Allolog Form="трогался"/>
+<Allolog Form="трогала"/>
+<Allolog Form="трогаете"/>
+<Allolog Form="трогаетесь"/>
+</Word>
+
+<Word Stem="упруг" Weight="0.05">
+<Allolog Form="упруга"/>
+<Allolog Form="упругого"/>
+<Allolog Form="упругости"/>
+<Allolog Form="упругий"/>
+<Allolog Form="упругое"/>
+<Allolog Form="упругим"/>
+<Allolog Form="упругость"/>
+<Allolog Form="упругую"/>
+<Allolog Form="упругостью"/>
+<Allolog Form="упругими"/>
+<Allolog Form="упругих"/>
+<Allolog Form="упругие"/>
+<Allolog Form="упругой"/>
+<Allolog Form="упругая"/>
+<Allolog Form="упругостей"/>
+<Allolog Form="упругом"/>
+<Allolog Form="упруго"/>
+<Allolog Form="упруги"/>
+</Word>
+
+<Word Stem="воздержива" Weight="0.05">
+<Allolog Form="воздерживаются"/>
+<Allolog Form="воздерживались"/>
+<Allolog Form="воздерживаться"/>
+<Allolog Form="воздерживаюсь"/>
+<Allolog Form="воздерживаемся"/>
+<Allolog Form="воздерживался"/>
+<Allolog Form="воздерживается"/>
+<Allolog Form="воздерживайтесь"/>
+<Allolog Form="воздерживайся"/>
+<Allolog Form="воздерживаетесь"/>
+</Word>
+
+<Word Stem="фрикц" Weight="0.504360934040873">
+<Allolog Form="фрикци"/>
+<Allolog Form="фрикции"/>
+<Allolog Form="фрикциях"/>
+<Allolog Form="фрикций"/>
+</Word>
+
+<Word Stem="деликатн" Weight="0.00154621092759003">
+<Allolog Form="деликатном"/>
+<Allolog Form="деликатно"/>
+<Allolog Form="деликатная"/>
+<Allolog Form="деликатное"/>
+<Allolog Form="деликатные"/>
+<Allolog Form="деликатный"/>
+<Allolog Form="деликатны"/>
+<Allolog Form="деликатной"/>
+<Allolog Form="деликатности"/>
+<Allolog Form="деликатность"/>
+<Allolog Form="деликатностью"/>
+<Allolog Form="деликатна"/>
+<Allolog Form="деликатными"/>
+<Allolog Form="деликатного"/>
+<Allolog Form="деликатным"/>
+<Allolog Form="деликатнее"/>
+<Allolog Form="деликатную"/>
+</Word>
+
+<Word Stem="заводит" Weight="0.05">
+<Allolog Form="заводится"/>
+<Allolog Form="заводит"/>
+</Word>
+
+<Word Stem="полов" Weight="0.18791470806973">
+<Allolog Form="половой"/>
+<Allolog Form="половое"/>
+<Allolog Form="полового"/>
+<Allolog Form="половым"/>
+<Allolog Form="половыми"/>
+<Allolog Form="половом"/>
+<Allolog Form="половые"/>
+<Allolog Form="половая"/>
+<Allolog Form="половую"/>
+<Allolog Form="полови"/>
+<Allolog Form="полова"/>
+<Allolog Form="половить"/>
+</Word>
+
+<Word Stem="обнажен" Weight="0.0561348561837638">
+<Allolog Form="обнаженные"/>
+<Allolog Form="обнажения"/>
+<Allolog Form="обнаженными"/>
+<Allolog Form="обнаженное"/>
+<Allolog Form="обнаженного"/>
+<Allolog Form="обнаженная"/>
+<Allolog Form="обнаженным"/>
+<Allolog Form="обнаженной"/>
+<Allolog Form="обнажен"/>
+<Allolog Form="обнажении"/>
+<Allolog Form="обнаженном"/>
+<Allolog Form="обнаженность"/>
+<Allolog Form="обнажением"/>
+<Allolog Form="обнаженно"/>
+<Allolog Form="обнажение"/>
+<Allolog Form="обнаженный"/>
+<Allolog Form="обнаженную"/>
+<Allolog Form="обнажено"/>
+<Allolog Form="обнажённое"/>
+</Word>
+
+<Word Stem="презерват" Weight="0.0591912464227217">
+<Allolog Form="презерватив"/>
+</Word>
+
+<Word Stem="трус" Weight="0.5">
+<Allolog Form="трусы"/>
+<Allolog Form="трусам"/>
+<Allolog Form="трусость"/>
+<Allolog Form="трусости"/>
+<Allolog Form="трусах"/>
+<Allolog Form="трусостью"/>
+<Allolog Form="трусов"/>
+<Allolog Form="труса"/>
+<Allolog Form="трусом"/>
+<Allolog Form="трусами"/>
+<Allolog Form="трус"/>
+<Allolog Form="трусить"/>
+<Allolog Form="трусила"/>
+<Allolog Form="трусишь"/>
+<Allolog Form="трусил"/>
+</Word>
+
+<Word Stem="презерватив" Weight="0.0605837857733342">
+<Allolog Form="презервативы"/>
+<Allolog Form="презервативу"/>
+<Allolog Form="презерватива"/>
+<Allolog Form="презервативом"/>
+<Allolog Form="презервативами"/>
+<Allolog Form="презервативов"/>
+<Allolog Form="презервативе"/>
+<Allolog Form="презервативам"/>
+</Word>
+
+<Word Stem="соблазн" Weight="0.05">
+<Allolog Form="соблазн"/>
+<Allolog Form="соблазнил"/>
+<Allolog Form="соблазнов"/>
+<Allolog Form="соблазнам"/>
+<Allolog Form="соблазну"/>
+<Allolog Form="соблазнившего"/>
+<Allolog Form="соблазнить"/>
+<Allolog Form="соблазнами"/>
+<Allolog Form="соблазном"/>
+<Allolog Form="соблазняя"/>
+<Allolog Form="соблазна"/>
+<Allolog Form="соблазне"/>
+<Allolog Form="соблазны"/>
+<Allolog Form="соблазнились"/>
+<Allolog Form="соблазнюсь"/>
+<Allolog Form="соблазни"/>
+<Allolog Form="соблазнили"/>
+<Allolog Form="соблазнив"/>
+<Allolog Form="соблазнила"/>
+<Allolog Form="соблазню"/>
+<Allolog Form="соблазнился"/>
+</Word>
+
+<Word Stem="проститутк" Weight="0.0589606839459592">
+<Allolog Form="проститутка"/>
+<Allolog Form="проституткой"/>
+<Allolog Form="проститутке"/>
+<Allolog Form="проститутки"/>
+<Allolog Form="проститутками"/>
+<Allolog Form="проститутку"/>
+<Allolog Form="проституткам"/>
+<Allolog Form="проститутках"/>
+</Word>
+
+<Word Stem="возбуд" Weight="0.5">
+<Allolog Form="возбудился"/>
+<Allolog Form="возбудил"/>
+<Allolog Form="возбудить"/>
+<Allolog Form="возбудила"/>
+<Allolog Form="возбудивший"/>
+<Allolog Form="возбудим"/>
+<Allolog Form="возбудиться"/>
+<Allolog Form="возбуди"/>
+<Allolog Form="возбудили"/>
+<Allolog Form="возбудились"/>
+<Allolog Form="возбудите"/>
+<Allolog Form="возбудитесь"/>
+<Allolog Form="возбудившись"/>
+<Allolog Form="возбудилась"/>
+<Allolog Form="возбудив"/>
+<Allolog Form="возбудившее"/>
+</Word>
+
+<Word Stem="возбужда" Weight="0.05">
+<Allolog Form="возбуждает"/>
+<Allolog Form="возбуждается"/>
+<Allolog Form="возбуждать"/>
+<Allolog Form="возбуждаются"/>
+<Allolog Form="возбуждаемого"/>
+<Allolog Form="возбуждали"/>
+<Allolog Form="возбуждающий"/>
+<Allolog Form="возбуждают"/>
+<Allolog Form="возбуждающее"/>
+<Allolog Form="возбуждающих"/>
+<Allolog Form="возбуждала"/>
+<Allolog Form="возбуждал"/>
+<Allolog Form="возбуждаемое"/>
+<Allolog Form="возбуждаемые"/>
+<Allolog Form="возбуждаться"/>
+<Allolog Form="возбуждались"/>
+<Allolog Form="возбуждало"/>
+<Allolog Form="возбуждающего"/>
+<Allolog Form="возбуждающие"/>
+<Allolog Form="возбуждающем"/>
+<Allolog Form="возбуждающую"/>
+<Allolog Form="возбуждающим"/>
+<Allolog Form="возбуждающей"/>
+<Allolog Form="возбуждаемая"/>
+<Allolog Form="возбуждавшим"/>
+<Allolog Form="возбуждаю"/>
+<Allolog Form="возбуждающими"/>
+<Allolog Form="возбуждающая"/>
+<Allolog Form="возбуждающихся"/>
+<Allolog Form="возбуждаешь"/>
+<Allolog Form="возбуждаюсь"/>
+<Allolog Form="возбуждаете"/>
+<Allolog Form="возбуждаетесь"/>
+<Allolog Form="возбуждался"/>
+<Allolog Form="возбуждайте"/>
+<Allolog Form="возбуждаемым"/>
+</Word>
+
+<Word Stem="вожделен" Weight="0.05">
+<Allolog Form="вожделенные"/>
+<Allolog Form="вожделенный"/>
+<Allolog Form="вожделений"/>
+<Allolog Form="вожделенного"/>
+<Allolog Form="вожделению"/>
+<Allolog Form="вожделения"/>
+<Allolog Form="вожделением"/>
+<Allolog Form="вожделенную"/>
+<Allolog Form="вожделение"/>
+<Allolog Form="вожделенной"/>
+<Allolog Form="вожделениям"/>
+<Allolog Form="вожделенно"/>
+<Allolog Form="вожделениях"/>
+<Allolog Form="вожделенным"/>
+</Word>
+
+<Word Stem="стимуляц" Weight="0.0526249418573227">
+<Allolog Form="стимуляции"/>
+<Allolog Form="стимуляция"/>
+<Allolog Form="стимуляцию"/>
+<Allolog Form="стимуляцией"/>
+</Word>
+
+<Word Stem="половом" Weight="0.0526723771561902">
+<Allolog Form="половому"/>
+</Word>
+
+<Word Stem="половых" Weight="0.0628288682074929">
+<Allolog Form="половых"/>
+</Word>
+
+<Word Stem="соск" Weight="0.502342522620956">
+<Allolog Form="соски"/>
+<Allolog Form="сосков"/>
+<Allolog Form="соска"/>
+<Allolog Form="сосками"/>
+<Allolog Form="соской"/>
+<Allolog Form="соску"/>
+<Allolog Form="сосках"/>
+<Allolog Form="соске"/>
+<Allolog Form="соском"/>
+<Allolog Form="соскам"/>
+</Word>
+
+<Word Stem="девствен" Weight="0.509484586473872">
+<Allolog Form="девственным"/>
+<Allolog Form="девственного"/>
+<Allolog Form="девственная"/>
+<Allolog Form="девственности"/>
+<Allolog Form="девственной"/>
+<Allolog Form="девственную"/>
+<Allolog Form="девственность"/>
+<Allolog Form="девственностью"/>
+<Allolog Form="девственные"/>
+<Allolog Form="девственно"/>
+<Allolog Form="девственный"/>
+</Word>
+
+<Word Stem="сперм" Weight="0.0648558540552989">
+<Allolog Form="спермия"/>
+<Allolog Form="спермиев"/>
+<Allolog Form="сперма"/>
+<Allolog Form="спермии"/>
+<Allolog Form="спермиям"/>
+<Allolog Form="спермий"/>
+<Allolog Form="спермием"/>
+<Allolog Form="спермиями"/>
+<Allolog Form="спермой"/>
+<Allolog Form="спермы"/>
+<Allolog Form="сперму"/>
+<Allolog Form="сперме"/>
+</Word>
+
+<Word Stem="овуляц" Weight="0.0522624611506455">
+<Allolog Form="овуляцией"/>
+<Allolog Form="овуляция"/>
+<Allolog Form="овуляции"/>
+<Allolog Form="овуляцию"/>
+</Word>
+
+<Word Stem="заражен" Weight="0.05">
+<Allolog Form="заражения"/>
+<Allolog Form="заражению"/>
+<Allolog Form="заражение"/>
+<Allolog Form="заражении"/>
+<Allolog Form="зараженность"/>
+<Allolog Form="заражено"/>
+<Allolog Form="зараженного"/>
+<Allolog Form="зараженными"/>
+<Allolog Form="зараженные"/>
+<Allolog Form="зараженной"/>
+<Allolog Form="зараженная"/>
+<Allolog Form="зараженное"/>
+<Allolog Form="зараженный"/>
+<Allolog Form="заражением"/>
+<Allolog Form="заражен"/>
+<Allolog Form="зараженным"/>
+</Word>
+
+<Word Stem="инфантильн" Weight="0.0530069343588275">
+<Allolog Form="инфантильная"/>
+<Allolog Form="инфантильными"/>
+<Allolog Form="инфантильный"/>
+<Allolog Form="инфантильные"/>
+<Allolog Form="инфантильным"/>
+<Allolog Form="инфантильное"/>
+<Allolog Form="инфантильности"/>
+<Allolog Form="инфантильном"/>
+<Allolog Form="инфантильностью"/>
+<Allolog Form="инфантильной"/>
+<Allolog Form="инфантильную"/>
+<Allolog Form="инфантильны"/>
+<Allolog Form="инфантильность"/>
+</Word>
+
+<Word Stem="совокуплен" Weight="0.501902346227013">
+<Allolog Form="совокупление"/>
+<Allolog Form="совокупления"/>
+<Allolog Form="совокуплению"/>
+<Allolog Form="совокуплением"/>
+<Allolog Form="совокуплении"/>
+<Allolog Form="совокуплений"/>
+<Allolog Form="совокуплениях"/>
+<Allolog Form="совокуплениям"/>
+</Word>
+
+<Word Stem="девственниц" Weight="0.0512051485563334">
+<Allolog Form="девственница"/>
+<Allolog Form="девственницами"/>
+<Allolog Form="девственницей"/>
+<Allolog Form="девственниц"/>
+<Allolog Form="девственницы"/>
+<Allolog Form="девственницу"/>
+</Word>
+
+<Word Stem="стимулируют" Weight="0.0510568590150074">
+<Allolog Form="стимулируют"/>
+<Allolog Form="стимулируются"/>
+</Word>
+
+<Word Stem="анальн" Weight="0.05">
+<Allolog Form="анальной"/>
+<Allolog Form="анальная"/>
+<Allolog Form="анального"/>
+<Allolog Form="анальным"/>
+<Allolog Form="анальное"/>
+<Allolog Form="анальный"/>
+<Allolog Form="анальную"/>
+<Allolog Form="анальные"/>
+</Word>
+
+<Word Stem="бедр" Weight="0.05">
+<Allolog Form="бедра"/>
+<Allolog Form="бедре"/>
+<Allolog Form="бедрах"/>
+<Allolog Form="бедрам"/>
+<Allolog Form="бедро"/>
+<Allolog Form="бедром"/>
+<Allolog Form="бедру"/>
+<Allolog Form="бедрами"/>
+</Word>
+
+<Word Stem="мошонк" Weight="0.0526312145132253">
+<Allolog Form="мошонку"/>
+<Allolog Form="мошонке"/>
+<Allolog Form="мошонки"/>
+<Allolog Form="мошонкой"/>
+<Allolog Form="мошонка"/>
+</Word>
+
+<Word Stem="анус" Weight="0.502818290706686">
+<Allolog Form="анусом"/>
+<Allolog Form="анусу"/>
+<Allolog Form="ануса"/>
+<Allolog Form="анус"/>
+<Allolog Form="анусе"/>
+</Word>
+
+<Word Stem="поцелу" Weight="0.0578640235890144">
+<Allolog Form="поцелуях"/>
+<Allolog Form="поцелуев"/>
+<Allolog Form="поцелуи"/>
+<Allolog Form="поцелуя"/>
+<Allolog Form="поцелуем"/>
+<Allolog Form="поцелуями"/>
+<Allolog Form="поцелуе"/>
+<Allolog Form="поцелуям"/>
+<Allolog Form="поцелуемся"/>
+</Word>
+
+<Word Stem="извращен" Weight="0.507035589251698">
+<Allolog Form="извращение"/>
+<Allolog Form="извращениях"/>
+<Allolog Form="извращенная"/>
+<Allolog Form="извращения"/>
+<Allolog Form="извращенной"/>
+<Allolog Form="извращенного"/>
+<Allolog Form="извращенную"/>
+<Allolog Form="извращений"/>
+<Allolog Form="извращениями"/>
+<Allolog Form="извращенные"/>
+<Allolog Form="извращениям"/>
+<Allolog Form="извращенно"/>
+<Allolog Form="извращенность"/>
+<Allolog Form="извращением"/>
+<Allolog Form="извращенный"/>
+<Allolog Form="извращенным"/>
+<Allolog Form="извращенном"/>
+<Allolog Form="извращении"/>
+<Allolog Form="извращенное"/>
+<Allolog Form="извращенности"/>
+</Word>
+
+<Word Stem="возбужд" Weight="0.05">
+<Allolog Form="возбуждая"/>
+<Allolog Form="возбуждаясь"/>
+<Allolog Form="возбужде"/>
+<Allolog Form="возбужд"/>
+<Allolog Form="возбуждены"/>
+<Allolog Form="возбуждена"/>
+<Allolog Form="возбужда"/>
+</Word>
+
+<Word Stem="однопол" Weight="0.0520811992910915">
+<Allolog Form="однополые"/>
+<Allolog Form="однополыми"/>
+<Allolog Form="однополо"/>
+<Allolog Form="однополой"/>
+<Allolog Form="однополый"/>
+<Allolog Form="однополом"/>
+<Allolog Form="однополого"/>
+<Allolog Form="однополая"/>
+<Allolog Form="однополую"/>
+<Allolog Form="однополым"/>
+<Allolog Form="однополое"/>
+</Word>
+
+<Word Stem="обнима" Weight="0.0510031377203506">
+<Allolog Form="обнимающее"/>
+<Allolog Form="обнимает"/>
+<Allolog Form="обнимали"/>
+<Allolog Form="обнимал"/>
+<Allolog Form="обнимающая"/>
+<Allolog Form="обнимаемся"/>
+<Allolog Form="обнимать"/>
+<Allolog Form="обнимают"/>
+<Allolog Form="обнимающую"/>
+<Allolog Form="обнимается"/>
+<Allolog Form="обнимаю"/>
+<Allolog Form="обнимались"/>
+<Allolog Form="обниматься"/>
+<Allolog Form="обнимаются"/>
+<Allolog Form="обнимаешь"/>
+<Allolog Form="обнимаетесь"/>
+<Allolog Form="обнимаете"/>
+<Allolog Form="обнимающего"/>
+<Allolog Form="обнимаем"/>
+<Allolog Form="обнимался"/>
+<Allolog Form="обнимаюсь"/>
+<Allolog Form="обнимала"/>
+<Allolog Form="обнимайтесь"/>
+<Allolog Form="обнимающие"/>
+</Word>
+
+<Word Stem="поцел" Weight="0.0514837272749282">
+<Allolog Form="поцелуй"/>
+<Allolog Form="поцелую"/>
+<Allolog Form="поцелуйте"/>
+<Allolog Form="поцелуйся"/>
+</Word>
+
+<Word Stem="безупречн" Weight="0.00213401536278857">
+<Allolog Form="безупречной"/>
+<Allolog Form="безупречно"/>
+<Allolog Form="безупречное"/>
+<Allolog Form="безупречны"/>
+<Allolog Form="безупречная"/>
+<Allolog Form="безупречна"/>
+<Allolog Form="безупречным"/>
+<Allolog Form="безупречность"/>
+<Allolog Form="безупречный"/>
+<Allolog Form="безупречном"/>
+<Allolog Form="безупречную"/>
+<Allolog Form="безупречного"/>
+<Allolog Form="безупречности"/>
+<Allolog Form="безупречные"/>
+<Allolog Form="безупречными"/>
+<Allolog Form="безупречнее"/>
+<Allolog Form="безупречностью"/>
+</Word>
+
+<Word Stem="сексуальн" Weight="0.63974306133465">
+<Allolog Form="сексуальное"/>
+<Allolog Form="сексуальную"/>
+<Allolog Form="сексуальность"/>
+<Allolog Form="сексуальности"/>
+<Allolog Form="сексуальным"/>
+<Allolog Form="сексуальной"/>
+<Allolog Form="сексуальный"/>
+<Allolog Form="сексуальными"/>
+<Allolog Form="сексуальная"/>
+<Allolog Form="сексуального"/>
+<Allolog Form="сексуальные"/>
+<Allolog Form="сексуально"/>
+<Allolog Form="сексуальном"/>
+<Allolog Form="сексуальностью"/>
+<Allolog Form="сексуальна"/>
+<Allolog Form="сексуальны"/>
+<Allolog Form="сексуальнее"/>
+</Word>
+
+<Word Stem="изнасилован" Weight="0.0629465229338406">
+<Allolog Form="изнасилования"/>
+<Allolog Form="изнасилование"/>
+<Allolog Form="изнасилований"/>
+<Allolog Form="изнасилованием"/>
+<Allolog Form="изнасиловании"/>
+<Allolog Form="изнасилованию"/>
+<Allolog Form="изнасилованиях"/>
+<Allolog Form="изнасилованиями"/>
+</Word>
+
+<Word Stem="либид" Weight="0.0529896234555699">
+<Allolog Form="либидо"/>
+</Word>
+
+<Word Stem="соса" Weight="0.5">
+<Allolog Form="сосать"/>
+<Allolog Form="сосал"/>
+<Allolog Form="сосала"/>
+<Allolog Form="сосаться"/>
+</Word>
+
+<Word Stem="восхитительн" Weight="0.00108114219296485">
+<Allolog Form="восхитительными"/>
+<Allolog Form="восхитительного"/>
+<Allolog Form="восхитительную"/>
+<Allolog Form="восхитительный"/>
+<Allolog Form="восхитительное"/>
+<Allolog Form="восхитительной"/>
+<Allolog Form="восхитительней"/>
+<Allolog Form="восхитительным"/>
+<Allolog Form="восхитительная"/>
+<Allolog Form="восхитительном"/>
+<Allolog Form="восхитительно"/>
+<Allolog Form="восхитительные"/>
+<Allolog Form="восхитительна"/>
+<Allolog Form="восхитительны"/>
+</Word>
+
+<Word Stem="менструальн" Weight="0.0540428133479388">
+<Allolog Form="менструальный"/>
+<Allolog Form="менструального"/>
+<Allolog Form="менструальные"/>
+<Allolog Form="менструальной"/>
+<Allolog Form="менструальном"/>
+<Allolog Form="менструальным"/>
+</Word>
+
+<Word Stem="экстаз" Weight="0.5">
+<Allolog Form="экстаз"/>
+<Allolog Form="экстазе"/>
+<Allolog Form="экстаза"/>
+<Allolog Form="экстази"/>
+<Allolog Form="экстазу"/>
+<Allolog Form="экстазом"/>
+<Allolog Form="экстазов"/>
+</Word>
+
+<Word Stem="эякуляц" Weight="0.0555817145947437">
+<Allolog Form="эякуляции"/>
+<Allolog Form="эякуляцию"/>
+<Allolog Form="эякуляция"/>
+<Allolog Form="эякуляцией"/>
+<Allolog Form="эякуляций"/>
+</Word>
+
+<Word Stem="ласка" Weight="0.0574103089860596">
+<Allolog Form="ласкать"/>
+<Allolog Form="ласкают"/>
+<Allolog Form="ласкает"/>
+<Allolog Form="ласкающие"/>
+<Allolog Form="ласкающее"/>
+<Allolog Form="ласкал"/>
+<Allolog Form="ласкали"/>
+<Allolog Form="ласкай"/>
+<Allolog Form="ласкаешь"/>
+<Allolog Form="ласкающими"/>
+<Allolog Form="ласкаете"/>
+<Allolog Form="ласкала"/>
+<Allolog Form="ласкаем"/>
+<Allolog Form="ласкаю"/>
+<Allolog Form="ласкайте"/>
+<Allolog Form="ласкались"/>
+<Allolog Form="ласкаюсь"/>
+<Allolog Form="ласкающий"/>
+</Word>
+
+<Word Stem="контрацептив" Weight="0.0520811992910915">
+<Allolog Form="контрацептивов"/>
+<Allolog Form="контрацептивы"/>
+<Allolog Form="контрацептивами"/>
+</Word>
+
+<Word Stem="интимн" Weight="0.085090477343273">
+<Allolog Form="интимную"/>
+<Allolog Form="интимный"/>
+<Allolog Form="интимная"/>
+<Allolog Form="интимное"/>
+<Allolog Form="интимным"/>
+<Allolog Form="интимного"/>
+<Allolog Form="интимные"/>
+<Allolog Form="интимной"/>
+<Allolog Form="интимными"/>
+<Allolog Form="интимности"/>
+<Allolog Form="интимно"/>
+<Allolog Form="интимнейшее"/>
+<Allolog Form="интимны"/>
+<Allolog Form="интимнейшей"/>
+<Allolog Form="интимном"/>
+<Allolog Form="интимность"/>
+<Allolog Form="интимностью"/>
+<Allolog Form="интимна"/>
+<Allolog Form="интимнее"/>
+</Word>
+
+<Word Stem="соблазнительн" Weight="0.0515531232481413">
+<Allolog Form="соблазнительная"/>
+<Allolog Form="соблазнительный"/>
+<Allolog Form="соблазнительную"/>
+<Allolog Form="соблазнительной"/>
+<Allolog Form="соблазнительные"/>
+<Allolog Form="соблазнительного"/>
+<Allolog Form="соблазнительно"/>
+<Allolog Form="соблазнительность"/>
+<Allolog Form="соблазнительна"/>
+<Allolog Form="соблазнительнее"/>
+<Allolog Form="соблазнительны"/>
+<Allolog Form="соблазнительное"/>
+<Allolog Form="соблазнительными"/>
+<Allolog Form="соблазнительности"/>
+<Allolog Form="соблазнительным"/>
+</Word>
+
+<Word Stem="минет" Weight="0.0537744964821693">
+<Allolog Form="минет"/>
+<Allolog Form="минета"/>
+<Allolog Form="минете"/>
+<Allolog Form="минеты"/>
+</Word>
+
+<Word Stem="сношен" Weight="0.520269352087842">
+<Allolog Form="сношений"/>
+<Allolog Form="сношение"/>
+<Allolog Form="сношениях"/>
+<Allolog Form="сношения"/>
+<Allolog Form="сношением"/>
+<Allolog Form="сношениям"/>
+<Allolog Form="сношению"/>
+<Allolog Form="сношении"/>
+<Allolog Form="сношениями"/>
+</Word>
+
+<Word Stem="шлепк" Weight="0.0510568590150074">
+<Allolog Form="шлепка"/>
+<Allolog Form="шлепки"/>
+<Allolog Form="шлепков"/>
+<Allolog Form="шлепке"/>
+<Allolog Form="шлепками"/>
+<Allolog Form="шлепках"/>
+<Allolog Form="шлепком"/>
+</Word>
+
+<Word Stem="пристава" Weight="0.0520811992910915">
+<Allolog Form="приставать"/>
+<Allolog Form="приставал"/>
+<Allolog Form="приставали"/>
+<Allolog Form="приставай"/>
+<Allolog Form="приставала"/>
+</Word>
+
+<Word Stem="прелюд" Weight="0.5">
+<Allolog Form="прелюдией"/>
+<Allolog Form="прелюдия"/>
+<Allolog Form="прелюдий"/>
+<Allolog Form="прелюдии"/>
+<Allolog Form="прелюдию"/>
+<Allolog Form="прелюды"/>
+<Allolog Form="прелюдиях"/>
+<Allolog Form="прелюдиями"/>
+<Allolog Form="прелюд"/>
+<Allolog Form="прелюда"/>
+<Allolog Form="прелюде"/>
+<Allolog Form="прелюдиям"/>
+</Word>
+
+<Word Stem="алкоголик" Weight="0.00103693425605499">
+<Allolog Form="алкоголик"/>
+<Allolog Form="алкоголики"/>
+<Allolog Form="алкоголиков"/>
+<Allolog Form="алкоголиком"/>
+<Allolog Form="алкоголика"/>
+<Allolog Form="алкоголиками"/>
+<Allolog Form="алкоголику"/>
+<Allolog Form="алкоголикам"/>
+</Word>
+
+<Word Stem="вульгарн" Weight="0.05">
+<Allolog Form="вульгарную"/>
+<Allolog Form="вульгарного"/>
+<Allolog Form="вульгарной"/>
+<Allolog Form="вульгарности"/>
+<Allolog Form="вульгарно"/>
+<Allolog Form="вульгарные"/>
+<Allolog Form="вульгарными"/>
+<Allolog Form="вульгарность"/>
+<Allolog Form="вульгарная"/>
+<Allolog Form="вульгарный"/>
+<Allolog Form="вульгарном"/>
+<Allolog Form="вульгарным"/>
+<Allolog Form="вульгарное"/>
+<Allolog Form="вульгарна"/>
+</Word>
+
+<Word Stem="эротичн" Weight="0.501056859015007">
+<Allolog Form="эротичнейший"/>
+<Allolog Form="эротичными"/>
+<Allolog Form="эротичные"/>
+<Allolog Form="эротичность"/>
+<Allolog Form="эротичная"/>
+<Allolog Form="эротичный"/>
+<Allolog Form="эротичнее"/>
+<Allolog Form="эротично"/>
+<Allolog Form="эротичном"/>
+<Allolog Form="эротична"/>
+</Word>
+
+<Word Stem="целова" Weight="0.0541682545726963">
+<Allolog Form="целоваться"/>
+<Allolog Form="целовать"/>
+<Allolog Form="целовали"/>
+<Allolog Form="целовал"/>
+<Allolog Form="целовались"/>
+<Allolog Form="целовала"/>
+<Allolog Form="целовалась"/>
+<Allolog Form="целовался"/>
+</Word>
+
+<Word Stem="плев" Weight="0.056966980408735">
+<Allolog Form="плевы"/>
+<Allolog Form="плевое"/>
+<Allolog Form="плева"/>
+<Allolog Form="плеву"/>
+<Allolog Form="плевой"/>
+</Word>
+
+<Word Stem="раздева" Weight="0.0532064608802864">
+<Allolog Form="раздеваются"/>
+<Allolog Form="раздевается"/>
+<Allolog Form="раздевают"/>
+<Allolog Form="раздевающейся"/>
+<Allolog Form="раздеваться"/>
+<Allolog Form="раздевалась"/>
+<Allolog Form="раздевать"/>
+<Allolog Form="раздевайся"/>
+<Allolog Form="раздеваюсь"/>
+<Allolog Form="раздеваем"/>
+<Allolog Form="раздевались"/>
+<Allolog Form="раздевает"/>
+<Allolog Form="раздевайте"/>
+<Allolog Form="раздевайтесь"/>
+<Allolog Form="раздевался"/>
+<Allolog Form="раздевали"/>
+<Allolog Form="раздеваемся"/>
+<Allolog Form="раздевай"/>
+<Allolog Form="раздеваю"/>
+</Word>
+
+<Word Stem="раздет" Weight="0.0530684853771104">
+<Allolog Form="раздетить"/>
+<Allolog Form="раздеться"/>
+<Allolog Form="раздетый"/>
+<Allolog Form="раздетым"/>
+<Allolog Form="раздеть"/>
+<Allolog Form="раздетой"/>
+<Allolog Form="раздетыми"/>
+<Allolog Form="раздетого"/>
+<Allolog Form="раздета"/>
+</Word>
+
+<Word Stem="шлепа" Weight="0.051383524528737">
+<Allolog Form="шлепаем"/>
+<Allolog Form="шлепала"/>
+<Allolog Form="шлепать"/>
+<Allolog Form="шлепаю"/>
+<Allolog Form="шлепалась"/>
+<Allolog Form="шлепающий"/>
+<Allolog Form="шлепает"/>
+<Allolog Form="шлепают"/>
+<Allolog Form="шлепал"/>
+<Allolog Form="шлепали"/>
+<Allolog Form="шлепаться"/>
+<Allolog Form="шлепай"/>
+<Allolog Form="шлепались"/>
+</Word>
+
+<Word Stem="дисгармон" Weight="0.0522624611506455">
+<Allolog Form="дисгармонии"/>
+<Allolog Form="дисгармония"/>
+<Allolog Form="дисгармонию"/>
+</Word>
+
+<Word Stem="сексуальных" Weight="0.521832519209365">
+<Allolog Form="сексуальных"/>
+</Word>
+
+<Word Stem="поллюц" Weight="0.0590127550755221">
+<Allolog Form="поллюции"/>
+<Allolog Form="поллюцией"/>
+<Allolog Form="поллюций"/>
+<Allolog Form="поллюция"/>
+<Allolog Form="поллюциям"/>
+<Allolog Form="поллюциях"/>
+<Allolog Form="поллюцию"/>
+</Word>
+
+<Word Stem="проституц" Weight="0.0548310196970218">
+<Allolog Form="проституцию"/>
+<Allolog Form="проституция"/>
+<Allolog Form="проституции"/>
+<Allolog Form="проституцией"/>
+</Word>
+
+<Word Stem="куртизанк" Weight="0.0515531232481413">
+<Allolog Form="куртизанки"/>
+<Allolog Form="куртизанке"/>
+<Allolog Form="куртизанками"/>
+<Allolog Form="куртизанкой"/>
+<Allolog Form="куртизанка"/>
+</Word>
+
+<Word Stem="любовниц" Weight="0.0555326310685961">
+<Allolog Form="любовницы"/>
+<Allolog Form="любовницу"/>
+<Allolog Form="любовниц"/>
+<Allolog Form="любовнице"/>
+<Allolog Form="любовница"/>
+<Allolog Form="любовницей"/>
+<Allolog Form="любовницами"/>
+<Allolog Form="любовницах"/>
+<Allolog Form="любовницам"/>
+</Word>
+
+<Word Stem="садизм" Weight="0.0549543488459615">
+<Allolog Form="садизма"/>
+<Allolog Form="садизм"/>
+<Allolog Form="садизму"/>
+<Allolog Form="садизме"/>
+<Allolog Form="садизмом"/>
+</Word>
+
+<Word Stem="разврат" Weight="0.506561153313577">
+<Allolog Form="разврат"/>
+<Allolog Form="разврате"/>
+<Allolog Form="разврата"/>
+<Allolog Form="развратить"/>
+<Allolog Form="развратил"/>
+<Allolog Form="развратили"/>
+<Allolog Form="развратом"/>
+<Allolog Form="развратила"/>
+<Allolog Form="разврату"/>
+</Word>
+
+<Word Stem="эротическ" Weight="0.517078741283293">
+<Allolog Form="эротических"/>
+<Allolog Form="эротической"/>
+<Allolog Form="эротические"/>
+<Allolog Form="эротический"/>
+<Allolog Form="эротическим"/>
+<Allolog Form="эротическими"/>
+<Allolog Form="эротическую"/>
+<Allolog Form="эротическом"/>
+<Allolog Form="эротическое"/>
+<Allolog Form="эротического"/>
+<Allolog Form="эротическая"/>
+<Allolog Form="эротически"/>
+<Allolog Form="эротическо"/>
+</Word>
+
+<Word Stem="целомудр" Weight="0.0602499550440568">
+<Allolog Form="целомудрие"/>
+<Allolog Form="целомудрия"/>
+<Allolog Form="целомудрии"/>
+<Allolog Form="целомудрию"/>
+<Allolog Form="целомудрием"/>
+</Word>
+
+<Word Stem="воздержан" Weight="0.052781092076003">
+<Allolog Form="воздержанности"/>
+<Allolog Form="воздержанностью"/>
+<Allolog Form="воздержании"/>
+<Allolog Form="воздержание"/>
+<Allolog Form="воздержания"/>
+<Allolog Form="воздержанием"/>
+<Allolog Form="воздержанию"/>
+</Word>
+
+<Word Stem="эротик" Weight="0.50396909274525">
+<Allolog Form="эротики"/>
+<Allolog Form="эротика"/>
+<Allolog Form="эротикой"/>
+<Allolog Form="эротику"/>
+<Allolog Form="эротике"/>
+<Allolog Form="эротик"/>
+</Word>
+
+<Word Stem="любовник" Weight="0.515945783005722">
+<Allolog Form="любовников"/>
+<Allolog Form="любовника"/>
+<Allolog Form="любовники"/>
+<Allolog Form="любовник"/>
+<Allolog Form="любовником"/>
+<Allolog Form="любовникам"/>
+<Allolog Form="любовниками"/>
+<Allolog Form="любовниках"/>
+<Allolog Form="любовнику"/>
+<Allolog Form="любовнике"/>
+</Word>
+
+<Word Stem="интимных" Weight="0.0513195592581223">
+<Allolog Form="интимных"/>
+</Word>
+
+<Word Stem="блуд" Weight="0.0520811992910915">
+<Allolog Form="блудом"/>
+<Allolog Form="блуда"/>
+<Allolog Form="блудить"/>
+<Allolog Form="блуди"/>
+<Allolog Form="блудили"/>
+<Allolog Form="блуд"/>
+<Allolog Form="блудившие"/>
+</Word>
+
+<Word Stem="венерическ" Weight="0.0525264164289106">
+<Allolog Form="венерических"/>
+<Allolog Form="венерические"/>
+<Allolog Form="венерическим"/>
+<Allolog Form="венерическими"/>
+<Allolog Form="венерической"/>
+<Allolog Form="венерическое"/>
+<Allolog Form="венерическую"/>
+<Allolog Form="венерического"/>
+<Allolog Form="венерическая"/>
+</Word>
+
+<Word Stem="поцелова" Weight="0.05">
+<Allolog Form="поцеловать"/>
+<Allolog Form="поцеловав"/>
+<Allolog Form="поцеловал"/>
+<Allolog Form="поцеловала"/>
+<Allolog Form="поцеловавшего"/>
+<Allolog Form="поцеловались"/>
+<Allolog Form="поцеловали"/>
+<Allolog Form="поцеловаться"/>
+</Word>
+
+<Word Stem="порнограф" Weight="0.0600433632456461">
+<Allolog Form="порнография"/>
+<Allolog Form="порнографию"/>
+<Allolog Form="порнографии"/>
+<Allolog Form="порнографией"/>
+</Word>
+
+<Word Stem="порнографическ" Weight="0.0555533137334025">
+<Allolog Form="порнографические"/>
+<Allolog Form="порнографическое"/>
+<Allolog Form="порнографических"/>
+<Allolog Form="порнографической"/>
+<Allolog Form="порнографический"/>
+<Allolog Form="порнографическими"/>
+<Allolog Form="порнографического"/>
+<Allolog Form="порнографическая"/>
+<Allolog Form="порнографическую"/>
+</Word>
+
+<Word Stem="непорочн" Weight="0.0541645957942724">
+<Allolog Form="непорочности"/>
+<Allolog Form="непорочного"/>
+<Allolog Form="непорочная"/>
+<Allolog Form="непорочное"/>
+<Allolog Form="непорочны"/>
+<Allolog Form="непорочным"/>
+<Allolog Form="непорочно"/>
+<Allolog Form="непорочной"/>
+<Allolog Form="непорочность"/>
+<Allolog Form="непорочными"/>
+<Allolog Form="непорочный"/>
+</Word>
+
+<Word Stem="гедонизм" Weight="0.05">
+<Allolog Form="гедонизма"/>
+<Allolog Form="гедонизм"/>
+<Allolog Form="гедонизмом"/>
+<Allolog Form="гедонизму"/>
+</Word>
+
+<Word Stem="похотлив" Weight="0.504164595794272">
+<Allolog Form="похотливого"/>
+<Allolog Form="похотливости"/>
+<Allolog Form="похотливый"/>
+<Allolog Form="похотливые"/>
+<Allolog Form="похотливыми"/>
+<Allolog Form="похотливо"/>
+<Allolog Form="похотливом"/>
+<Allolog Form="похотливость"/>
+<Allolog Form="похотливой"/>
+<Allolog Form="похотливое"/>
+<Allolog Form="похотливая"/>
+</Word>
+
+<Word Stem="похот" Weight="0.507374084221693">
+<Allolog Form="похоть"/>
+<Allolog Form="похоти"/>
+<Allolog Form="похотях"/>
+<Allolog Form="похотям"/>
+<Allolog Form="похотью"/>
+</Word>
+
+<Word Stem="сексуальном" Weight="0.501726203057845">
+<Allolog Form="сексуальному"/>
+</Word>
+
+<Word Stem="целомудрен" Weight="0.502262461150645">
+<Allolog Form="целомудренной"/>
+<Allolog Form="целомудренного"/>
+<Allolog Form="целомудренным"/>
+<Allolog Form="целомудренно"/>
+<Allolog Form="целомудрен"/>
+<Allolog Form="целомудренными"/>
+<Allolog Form="целомудренна"/>
+</Word>
+
+<Word Stem="стриптиз" Weight="0.0515531232481413">
+<Allolog Form="стриптиз"/>
+<Allolog Form="стриптизе"/>
+<Allolog Form="стриптиза"/>
+<Allolog Form="стриптизом"/>
+</Word>
+
+<Word Stem="проституток" Weight="0.0524458737204457">
+<Allolog Form="проституток"/>
+</Word>
+
+<Word Stem="сладостраст" Weight="0.0510568590150074">
+<Allolog Form="сладострастие"/>
+<Allolog Form="сладострастия"/>
+<Allolog Form="сладострастии"/>
+<Allolog Form="сладострастию"/>
+</Word>
+
+<Word Stem="насильник" Weight="0.0528771186588275">
+<Allolog Form="насильника"/>
+<Allolog Form="насильников"/>
+<Allolog Form="насильником"/>
+<Allolog Form="насильники"/>
+<Allolog Form="насильник"/>
+<Allolog Form="насильникам"/>
+<Allolog Form="насильнику"/>
+</Word>
+
+<Word Stem="гетеросексуальн" Weight="0.505356932832724">
+<Allolog Form="гетеросексуальная"/>
+<Allolog Form="гетеросексуальные"/>
+<Allolog Form="гетеросексуальным"/>
+<Allolog Form="гетеросексуальными"/>
+<Allolog Form="гетеросексуальной"/>
+<Allolog Form="гетеросексуального"/>
+<Allolog Form="гетеросексуальности"/>
+<Allolog Form="гетеросексуальный"/>
+<Allolog Form="гетеросексуальность"/>
+<Allolog Form="гетеросексуальную"/>
+<Allolog Form="гетеросексуальное"/>
+</Word>
+
+<Word Stem="партнерш" Weight="0.0643615574168712">
+<Allolog Form="партнершей"/>
+<Allolog Form="партнерши"/>
+<Allolog Form="партнершу"/>
+<Allolog Form="партнерша"/>
+<Allolog Form="партнерш"/>
+<Allolog Form="партнерше"/>
+<Allolog Form="партнершам"/>
+<Allolog Form="партнершами"/>
+</Word>
+
+<Word Stem="эксгибиционизм" Weight="0.0515531232481413">
+<Allolog Form="эксгибиционизму"/>
+<Allolog Form="эксгибиционизм"/>
+<Allolog Form="эксгибиционизма"/>
+</Word>
+
+<Word Stem="переспа" Weight="0.0544775326445268">
+<Allolog Form="переспать"/>
+<Allolog Form="переспали"/>
+<Allolog Form="переспал"/>
+<Allolog Form="переспала"/>
+</Word>
+
+<Word Stem="гомосексуалист" Weight="0.0759796503622405">
+<Allolog Form="гомосексуалистом"/>
+<Allolog Form="гомосексуалисты"/>
+<Allolog Form="гомосексуалист"/>
+<Allolog Form="гомосексуалистов"/>
+<Allolog Form="гомосексуалистами"/>
+<Allolog Form="гомосексуалиста"/>
+<Allolog Form="гомосексуалистам"/>
+</Word>
+
+<Word Stem="траха" Weight="0.05">
+<Allolog Form="трахай"/>
+<Allolog Form="трахается"/>
+<Allolog Form="трахались"/>
+<Allolog Form="трахать"/>
+<Allolog Form="трахаются"/>
+<Allolog Form="трахаемся"/>
+<Allolog Form="трахалась"/>
+<Allolog Form="трахаться"/>
+<Allolog Form="трахает"/>
+<Allolog Form="трахаю"/>
+<Allolog Form="трахался"/>
+<Allolog Form="трахают"/>
+<Allolog Form="трахаешь"/>
+<Allolog Form="трахаешься"/>
+<Allolog Form="трахал"/>
+</Word>
+
+<Word Stem="насилова" Weight="0.0522624611506455">
+<Allolog Form="насиловать"/>
+<Allolog Form="насиловал"/>
+<Allolog Form="насиловало"/>
+</Word>
+
+<Word Stem="шлюх" Weight="0.05">
+<Allolog Form="шлюхи"/>
+<Allolog Form="шлюха"/>
+<Allolog Form="шлюху"/>
+<Allolog Form="шлюх"/>
+<Allolog Form="шлюхах"/>
+<Allolog Form="шлюхой"/>
+<Allolog Form="шлюхам"/>
+<Allolog Form="шлюхе"/>
+<Allolog Form="шлюхами"/>
+</Word>
+
+<Word Stem="талисма" Weight="0.00178612049082938">
+<Allolog Form="талисман"/>
+<Allolog Form="талисманы"/>
+<Allolog Form="талисмана"/>
+</Word>
+
+<Word Stem="оргазм" Weight="0.538628234902013">
+<Allolog Form="оргазм"/>
+<Allolog Form="оргазма"/>
+<Allolog Form="оргазме"/>
+<Allolog Form="оргазмам"/>
+<Allolog Form="оргазмом"/>
+<Allolog Form="оргазмов"/>
+<Allolog Form="оргазму"/>
+<Allolog Form="оргазмы"/>
+<Allolog Form="оргазмами"/>
+</Word>
+
+<Word Stem="фригидн" Weight="0.506763897696047">
+<Allolog Form="фригидна"/>
+<Allolog Form="фригидности"/>
+<Allolog Form="фригидность"/>
+<Allolog Form="фригидны"/>
+<Allolog Form="фригидные"/>
+<Allolog Form="фригидной"/>
+<Allolog Form="фригидная"/>
+<Allolog Form="фригидностью"/>
+<Allolog Form="фригидными"/>
+<Allolog Form="фригидную"/>
+</Word>
+
+<Word Stem="оральн" Weight="0.505353113801596">
+<Allolog Form="оральное"/>
+<Allolog Form="орального"/>
+<Allolog Form="оральные"/>
+<Allolog Form="орально"/>
+<Allolog Form="оральном"/>
+<Allolog Form="оральными"/>
+<Allolog Form="оральным"/>
+<Allolog Form="оральной"/>
+<Allolog Form="оральная"/>
+<Allolog Form="оральный"/>
+</Word>
+
+<Word Stem="бедер" Weight="0.0519688013878438">
+<Allolog Form="бедер"/>
+</Word>
+
+<Word Stem="сосан" Weight="0.05">
+<Allolog Form="сосания"/>
+<Allolog Form="сосании"/>
+<Allolog Form="сосание"/>
+<Allolog Form="сосанием"/>
+</Word>
+
+<Word Stem="садист" Weight="0.0528182907066864">
+<Allolog Form="садистов"/>
+<Allolog Form="садисты"/>
+<Allolog Form="садиста"/>
+<Allolog Form="садист"/>
+<Allolog Form="садистом"/>
+<Allolog Form="садистами"/>
+<Allolog Form="садисту"/>
+</Word>
+
+<Word Stem="трусик" Weight="0.5">
+<Allolog Form="трусики"/>
+<Allolog Form="трусиками"/>
+<Allolog Form="трусиков"/>
+<Allolog Form="трусиках"/>
+</Word>
+
+<Word Stem="бюстгальтер" Weight="0.0512179041982466">
+<Allolog Form="бюстгальтер"/>
+<Allolog Form="бюстгальтера"/>
+<Allolog Form="бюстгальтеры"/>
+<Allolog Form="бюстгальтером"/>
+<Allolog Form="бюстгальтеров"/>
+<Allolog Form="бюстгальтерах"/>
+</Word>
+
+<Word Stem="покусыван" Weight="0.0510568590150074">
+<Allolog Form="покусывании"/>
+<Allolog Form="покусывания"/>
+<Allolog Form="покусываниям"/>
+<Allolog Form="покусывание"/>
+<Allolog Form="покусываниями"/>
+</Word>
+
+<Word Stem="сексопатолог" Weight="0.0592185379889678">
+<Allolog Form="сексопатологам"/>
+<Allolog Form="сексопатология"/>
+<Allolog Form="сексопатологии"/>
+<Allolog Form="сексопатологи"/>
+<Allolog Form="сексопатологов"/>
+<Allolog Form="сексопатолог"/>
+<Allolog Form="сексопатологами"/>
+<Allolog Form="сексопатолога"/>
+<Allolog Form="сексопатологией"/>
+<Allolog Form="сексопатологу"/>
+<Allolog Form="сексопатологом"/>
+<Allolog Form="сексопатологе"/>
+</Word>
+
+<Word Stem="гомосексуализм" Weight="0.0722026894717527">
+<Allolog Form="гомосексуализм"/>
+<Allolog Form="гомосексуализма"/>
+<Allolog Form="гомосексуализме"/>
+<Allolog Form="гомосексуализму"/>
+<Allolog Form="гомосексуализмом"/>
+</Word>
+
+<Word Stem="онанизм" Weight="0.0889960253811945">
+<Allolog Form="онанизм"/>
+<Allolog Form="онанизма"/>
+<Allolog Form="онанизме"/>
+<Allolog Form="онанизмом"/>
+<Allolog Form="онанизму"/>
+</Word>
+
+<Word Stem="нимфоман" Weight="0.0517262030578454">
+<Allolog Form="нимфомания"/>
+<Allolog Form="нимфоманию"/>
+<Allolog Form="нимфомании"/>
+<Allolog Form="нимфоманией"/>
+</Word>
+
+<Word Stem="генитал" Weight="0.505353113801596">
+<Allolog Form="гениталии"/>
+<Allolog Form="гениталий"/>
+<Allolog Form="гениталиями"/>
+<Allolog Form="гениталиям"/>
+<Allolog Form="гениталиях"/>
+</Word>
+
+<Word Stem="психосексуальн" Weight="0.05">
+<Allolog Form="психосексуальной"/>
+<Allolog Form="психосексуальное"/>
+<Allolog Form="психосексуального"/>
+<Allolog Form="психосексуальном"/>
+<Allolog Form="психосексуальным"/>
+<Allolog Form="психосексуальные"/>
+<Allolog Form="психосексуальная"/>
+</Word>
+
+<Word Stem="гиперсексуальн" Weight="0.0535808870155545">
+<Allolog Form="гиперсексуальность"/>
+<Allolog Form="гиперсексуальной"/>
+<Allolog Form="гиперсексуальные"/>
+<Allolog Form="гиперсексуальности"/>
+<Allolog Form="гиперсексуальностью"/>
+<Allolog Form="гиперсексуальным"/>
+</Word>
+
+<Word Stem="эрекц" Weight="0.534569107606728">
+<Allolog Form="эрекции"/>
+<Allolog Form="эрекция"/>
+<Allolog Form="эрекцию"/>
+<Allolog Form="эрекцией"/>
+<Allolog Form="эрекциях"/>
+</Word>
+
+<Word Stem="сексолог" Weight="0.0744643290510972">
+<Allolog Form="сексологов"/>
+<Allolog Form="сексолог"/>
+<Allolog Form="сексологии"/>
+<Allolog Form="сексологи"/>
+<Allolog Form="сексологам"/>
+<Allolog Form="сексологами"/>
+<Allolog Form="сексологией"/>
+<Allolog Form="сексологию"/>
+<Allolog Form="сексология"/>
+<Allolog Form="сексолога"/>
+<Allolog Form="сексологе"/>
+<Allolog Form="сексологу"/>
+<Allolog Form="сексологом"/>
+</Word>
+
+<Word Stem="мастурбирова" Weight="0.504164595794272">
+<Allolog Form="мастурбировал"/>
+<Allolog Form="мастурбировать"/>
+<Allolog Form="мастурбировала"/>
+<Allolog Form="мастурбировали"/>
+</Word>
+
+<Word Stem="элис" Weight="0.0512179041982466">
+<Allolog Form="элис"/>
+</Word>
+
+<Word Stem="гомосексуальн" Weight="0.509980941181677">
+<Allolog Form="гомосексуальную"/>
+<Allolog Form="гомосексуальность"/>
+<Allolog Form="гомосексуальным"/>
+<Allolog Form="гомосексуально"/>
+<Allolog Form="гомосексуальные"/>
+<Allolog Form="гомосексуальном"/>
+<Allolog Form="гомосексуального"/>
+<Allolog Form="гомосексуальное"/>
+<Allolog Form="гомосексуальная"/>
+<Allolog Form="гомосексуальной"/>
+<Allolog Form="гомосексуальности"/>
+<Allolog Form="гомосексуальными"/>
+<Allolog Form="гомосексуальный"/>
+<Allolog Form="гомосексуальностью"/>
+</Word>
+
+<Word Stem="перверс" Weight="0.0551534458636551">
+<Allolog Form="перверсии"/>
+<Allolog Form="перверсий"/>
+<Allolog Form="перверсия"/>
+<Allolog Form="перверсиями"/>
+<Allolog Form="перверсией"/>
+<Allolog Form="перверсиях"/>
+<Allolog Form="перверсию"/>
+<Allolog Form="перверсиям"/>
+</Word>
+
+<Word Stem="дефлорац" Weight="0.0515531232481413">
+<Allolog Form="дефлорацию"/>
+<Allolog Form="дефлорации"/>
+<Allolog Form="дефлорация"/>
+</Word>
+
+<Word Stem="импотент" Weight="0.0573740842216931">
+<Allolog Form="импотентом"/>
+<Allolog Form="импотентами"/>
+<Allolog Form="импотенто"/>
+<Allolog Form="импотент"/>
+<Allolog Form="импотентов"/>
+<Allolog Form="импотента"/>
+<Allolog Form="импотентам"/>
+<Allolog Form="импотенты"/>
+</Word>
+
+<Word Stem="развратн" Weight="0.0531969985203974">
+<Allolog Form="развратные"/>
+<Allolog Form="развратным"/>
+<Allolog Form="развратное"/>
+<Allolog Form="развратная"/>
+<Allolog Form="развратными"/>
+<Allolog Form="развратном"/>
+<Allolog Form="развратна"/>
+<Allolog Form="развратности"/>
+<Allolog Form="развратной"/>
+<Allolog Form="развратно"/>
+<Allolog Form="развратный"/>
+</Word>
+
+<Word Stem="совращен" Weight="0.051383524528737">
+<Allolog Form="совращении"/>
+<Allolog Form="совращение"/>
+<Allolog Form="совращения"/>
+<Allolog Form="совращению"/>
+<Allolog Form="совращенные"/>
+</Word>
+
+<Word Stem="некрофил" Weight="0.0510568590150074">
+<Allolog Form="некрофилию"/>
+<Allolog Form="некрофилия"/>
+<Allolog Form="некрофилии"/>
+<Allolog Form="некрофилией"/>
+</Word>
+
+<Word Stem="эрогенных" Weight="0.0541645957942724">
+<Allolog Form="эрогенных"/>
+</Word>
+
+<Word Stem="эроген" Weight="0.058807158458395">
+<Allolog Form="эрогенные"/>
+<Allolog Form="эрогенной"/>
+<Allolog Form="эрогенными"/>
+<Allolog Form="эрогенная"/>
+<Allolog Form="эрогенным"/>
+<Allolog Form="эрогенна"/>
+<Allolog Form="эрогенный"/>
+<Allolog Form="эрогенную"/>
+</Word>
+
+<Word Stem="садистск" Weight="0.501726203057845">
+<Allolog Form="садистский"/>
+<Allolog Form="садистское"/>
+<Allolog Form="садистских"/>
+<Allolog Form="садистские"/>
+<Allolog Form="садистском"/>
+<Allolog Form="садистскими"/>
+<Allolog Form="садистским"/>
+</Word>
+
+<Word Stem="педераст" Weight="0.0533883540541752">
+<Allolog Form="педерастов"/>
+<Allolog Form="педерастом"/>
+<Allolog Form="педераст"/>
+<Allolog Form="педерастии"/>
+<Allolog Form="педерастия"/>
+<Allolog Form="педерастами"/>
+<Allolog Form="педерасты"/>
+</Word>
+
+<Word Stem="целует" Weight="0.05">
+<Allolog Form="целует"/>
+<Allolog Form="целуется"/>
+<Allolog Form="целуетесь"/>
+<Allolog Form="целуете"/>
+</Word>
+
+<Word Stem="лесбиянк" Weight="0.0549543488459615">
+<Allolog Form="лесбиянки"/>
+<Allolog Form="лесбиянка"/>
+<Allolog Form="лесбиянкой"/>
+<Allolog Form="лесбиянке"/>
+<Allolog Form="лесбиянками"/>
+<Allolog Form="лесбиянку"/>
+</Word>
+
+<Word Stem="изнасилова" Weight="0.509012755075522">
+<Allolog Form="изнасиловавшем"/>
+<Allolog Form="изнасиловать"/>
+<Allolog Form="изнасиловали"/>
+<Allolog Form="изнасилована"/>
+<Allolog Form="изнасиловал"/>
+<Allolog Form="изнасиловавшим"/>
+<Allolog Form="изнасилованы"/>
+</Word>
+
+<Word Stem="гомосексуальных" Weight="0.0512179041982466">
+<Allolog Form="гомосексуальных"/>
+</Word>
+
+<Word Stem="мастурбац" Weight="0.522888399334613">
+<Allolog Form="мастурбацию"/>
+<Allolog Form="мастурбации"/>
+<Allolog Form="мастурбация"/>
+<Allolog Form="мастурбацией"/>
+</Word>
+
+<Word Stem="клитор" Weight="0.51712111604312">
+<Allolog Form="клитора"/>
+<Allolog Form="клиторе"/>
+<Allolog Form="клитор"/>
+<Allolog Form="клитором"/>
+<Allolog Form="клитору"/>
+</Word>
+
+<Word Stem="гомосексуал" Weight="0.0510568590150074">
+<Allolog Form="гомосексуаль"/>
+<Allolog Form="гомосексуалом"/>
+<Allolog Form="гомосексуалы"/>
+<Allolog Form="гомосексуалов"/>
+</Word>
+
+<Word Stem="педофил" Weight="0.0510568590150074">
+<Allolog Form="педофилия"/>
+<Allolog Form="педофилам"/>
+<Allolog Form="педофилии"/>
+<Allolog Form="педофилией"/>
+<Allolog Form="педофилов"/>
+</Word>
+
+<Word Stem="мазохист" Weight="0.05">
+<Allolog Form="мазохистом"/>
+<Allolog Form="мазохист"/>
+<Allolog Form="мазохисты"/>
+<Allolog Form="мазохиста"/>
+<Allolog Form="мазохистами"/>
+<Allolog Form="мазохистов"/>
+<Allolog Form="мазохисту"/>
+</Word>
+
+<Word Stem="аноргазм" Weight="0.0519023462270133">
+<Allolog Form="аноргазмия"/>
+<Allolog Form="аноргазмией"/>
+<Allolog Form="аноргазмию"/>
+<Allolog Form="аноргазмии"/>
+</Word>
+
+<Word Stem="вагинальн" Weight="0.501553123248141">
+<Allolog Form="вагинальные"/>
+<Allolog Form="вагинальным"/>
+<Allolog Form="вагинальный"/>
+<Allolog Form="вагинальную"/>
+<Allolog Form="вагинального"/>
+<Allolog Form="вагинальное"/>
+</Word>
+
+<Word Stem="камасутр" Weight="0.0524458737204457">
+<Allolog Form="камасутра"/>
+<Allolog Form="камасутрой"/>
+<Allolog Form="камасутры"/>
+<Allolog Form="камасутру"/>
+<Allolog Form="камасутре"/>
+</Word>
+
+<Word Stem="соблазнител" Weight="0.0530069343588275">
+<Allolog Form="соблазнителя"/>
+<Allolog Form="соблазнитель"/>
+<Allolog Form="соблазнителей"/>
+<Allolog Form="соблазнители"/>
+<Allolog Form="соблазнителем"/>
+</Word>
+
+<Word Stem="мужеложств" Weight="0.0512179041982466">
+<Allolog Form="мужеложству"/>
+<Allolog Form="мужеложство"/>
+<Allolog Form="мужеложстве"/>
+</Word>
+
+<Word Stem="смегм" Weight="0.0512179041982466">
+<Allolog Form="смегмой"/>
+<Allolog Form="смегму"/>
+<Allolog Form="смегмы"/>
+<Allolog Form="смегма"/>
+<Allolog Form="смегм"/>
+</Word>
+
+<Word Stem="коитус" Weight="0.510870549868648">
+<Allolog Form="коитусу"/>
+<Allolog Form="коитус"/>
+<Allolog Form="коитусом"/>
+<Allolog Form="коитусе"/>
+<Allolog Form="коитуса"/>
+<Allolog Form="коитусов"/>
+</Word>
+
+<Word Stem="петтинг" Weight="0.0531969985203974">
+<Allolog Form="петтинг"/>
+<Allolog Form="петтинге"/>
+<Allolog Form="петтинга"/>
+<Allolog Form="петтингу"/>
+<Allolog Form="петтингом"/>
+</Word>
+
+<Word Stem="моделепоклонник" Weight="0.0519023462270133">
+<Allolog Form="моделепоклонники"/>
+<Allolog Form="моделепоклонником"/>
+<Allolog Form="моделепоклонника"/>
+<Allolog Form="моделепоклонников"/>
+<Allolog Form="моделепоклонниках"/>
+</Word>
+
+<Word Stem="бриджит" Weight="0.0535808870155545">
+<Allolog Form="бриджит"/>
+</Word>
+
+</Words>

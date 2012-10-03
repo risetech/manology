@@ -1,6 +1,6 @@
 ﻿<Words>
 
-<Word Stem="промышлен" Weight="0.579283652368774">
+<Word Stem="промышлен" Weight="0.542620594746153">
 <Allolog Form="промышленности"/>
 <Allolog Form="промышленно"/>
 <Allolog Form="промышленность"/>
@@ -8,39 +8,39 @@
 <Allolog Form="промышленные"/>
 <Allolog Form="промышленное"/>
 <Allolog Form="промышленными"/>
+<Allolog Form="промышленный"/>
 <Allolog Form="промышленной"/>
 <Allolog Form="промышлен"/>
 <Allolog Form="промышленностью"/>
 <Allolog Form="промышленным"/>
 <Allolog Form="промышленная"/>
 <Allolog Form="промышленном"/>
-<Allolog Form="промышленный"/>
 <Allolog Form="промышленную"/>
 <Allolog Form="промышленн"/>
 <Allolog Form="промышлености"/>
 </Word>
 
-<Word Stem="производственных" Weight="0.0842381179248703">
+<Word Stem="производственных" Weight="0.0779374485780976">
 <Allolog Form="производственных"/>
 </Word>
 
-<Word Stem="производствен" Weight="0.559754895434727">
+<Word Stem="производствен" Weight="0.54069710759291">
 <Allolog Form="производственной"/>
 <Allolog Form="производственно"/>
 <Allolog Form="производственные"/>
+<Allolog Form="производственным"/>
 <Allolog Form="производственная"/>
+<Allolog Form="производственными"/>
 <Allolog Form="производственное"/>
 <Allolog Form="производственный"/>
 <Allolog Form="производственного"/>
 <Allolog Form="производственную"/>
-<Allolog Form="производственными"/>
-<Allolog Form="производственным"/>
 <Allolog Form="производствен"/>
 <Allolog Form="производственны"/>
 <Allolog Form="производственном"/>
 </Word>
 
-<Word Stem="компан" Weight="0.0956628718225107">
+<Word Stem="компан" Weight="0.05">
 <Allolog Form="компании"/>
 <Allolog Form="компания"/>
 <Allolog Form="компанию"/>
@@ -51,9 +51,10 @@
 <Allolog Form="компань"/>
 <Allolog Form="компаниях"/>
 <Allolog Form="компани"/>
+<Allolog Form="компанюю"/>
 </Word>
 
-<Word Stem="стоим" Weight="0.0781371872306733">
+<Word Stem="стоим" Weight="0.05">
 <Allolog Form="стоимость"/>
 <Allolog Form="стоимостью"/>
 <Allolog Form="стоимости"/>
@@ -64,19 +65,7 @@
 <Allolog Form="стоимостях"/>
 </Word>
 
-<Word Stem="нефтян" Weight="0.00105335063016128">
-<Allolog Form="нефтяной"/>
-<Allolog Form="нефтяные"/>
-<Allolog Form="нефтяного"/>
-<Allolog Form="нефтяная"/>
-<Allolog Form="нефтяном"/>
-<Allolog Form="нефтяными"/>
-<Allolog Form="нефтяную"/>
-<Allolog Form="нефтяным"/>
-<Allolog Form="нефтяное"/>
-</Word>
-
-<Word Stem="цент" Weight="0.051924988303094">
+<Word Stem="цент" Weight="0.05">
 <Allolog Form="центов"/>
 <Allolog Form="цент"/>
 <Allolog Form="цента"/>
@@ -88,20 +77,20 @@
 <Allolog Form="центам"/>
 </Word>
 
-<Word Stem="инфляц" Weight="0.525933442364176">
+<Word Stem="инфляц" Weight="0.515289402902376">
 <Allolog Form="инфляции"/>
-<Allolog Form="инфляция"/>
 <Allolog Form="инфляцию"/>
+<Allolog Form="инфляция"/>
 <Allolog Form="инфляцией"/>
 </Word>
 
-<Word Stem="возросл" Weight="0.0051854727724301">
+<Word Stem="возросл" Weight="0.00294958562184143">
 <Allolog Form="возросла"/>
 <Allolog Form="возросли"/>
 <Allolog Form="возросло"/>
 </Word>
 
-<Word Stem="страхов" Weight="0.0588931032815873">
+<Word Stem="страхов" Weight="0.05">
 <Allolog Form="страховые"/>
 <Allolog Form="страховыми"/>
 <Allolog Form="страховой"/>
@@ -115,7 +104,7 @@
 <Allolog Form="страховым"/>
 </Word>
 
-<Word Stem="ставк" Weight="0.0631921729265862">
+<Word Stem="ставк" Weight="0.05">
 <Allolog Form="ставки"/>
 <Allolog Form="ставка"/>
 <Allolog Form="ставку"/>
@@ -127,7 +116,7 @@
 <Allolog Form="ставкою"/>
 </Word>
 
-<Word Stem="страхован" Weight="0.0698687042677281">
+<Word Stem="страхован" Weight="0.0617208794480276">
 <Allolog Form="страхованию"/>
 <Allolog Form="страхование"/>
 <Allolog Form="страхования"/>
@@ -135,7 +124,7 @@
 <Allolog Form="страхованием"/>
 </Word>
 
-<Word Stem="взнос" Weight="0.113980384108905">
+<Word Stem="взнос" Weight="0.104182427444257">
 <Allolog Form="взносами"/>
 <Allolog Form="взносах"/>
 <Allolog Form="взносе"/>
@@ -147,11 +136,11 @@
 <Allolog Form="взносам"/>
 </Word>
 
-<Word Stem="правительственных" Weight="0.0046724543126555">
+<Word Stem="правительственных" Weight="0.00369958651259748">
 <Allolog Form="правительственных"/>
 </Word>
 
-<Word Stem="куплен" Weight="0.0517123287671233">
+<Word Stem="куплен" Weight="0.05">
 <Allolog Form="купленные"/>
 <Allolog Form="купленного"/>
 <Allolog Form="куплен"/>
@@ -161,28 +150,30 @@
 <Allolog Form="купленые"/>
 <Allolog Form="купленными"/>
 <Allolog Form="куплено"/>
+<Allolog Form="купленная"/>
 <Allolog Form="купленным"/>
 <Allolog Form="купленном"/>
 <Allolog Form="купленной"/>
-<Allolog Form="купленная"/>
 </Word>
 
 <Word Stem="автомобилестроен" Weight="0.0528776636225266">
 <Allolog Form="автомобилестроения"/>
 <Allolog Form="автомобилестроении"/>
 <Allolog Form="автомобилестроение"/>
+<Allolog Form="автомобилестроением"/>
 </Word>
 
-<Word Stem="пошлин" Weight="0.505021199512389">
+<Word Stem="пошлин" Weight="0.5">
 <Allolog Form="пошлины"/>
 <Allolog Form="пошлина"/>
 <Allolog Form="пошлину"/>
 <Allolog Form="пошлиной"/>
 <Allolog Form="пошлин"/>
 <Allolog Form="пошлинами"/>
+<Allolog Form="пошлине"/>
 </Word>
 
-<Word Stem="рынк" Weight="0.69988431683948">
+<Word Stem="рынк" Weight="0.622435107965253">
 <Allolog Form="рынке"/>
 <Allolog Form="рынках"/>
 <Allolog Form="рынков"/>
@@ -194,7 +185,7 @@
 <Allolog Form="рынками"/>
 </Word>
 
-<Word Stem="имуществ" Weight="0.0634567982502341">
+<Word Stem="имуществ" Weight="0.05">
 <Allolog Form="имущество"/>
 <Allolog Form="имуществом"/>
 <Allolog Form="имущества"/>
@@ -203,7 +194,7 @@
 <Allolog Form="имуществе"/>
 </Word>
 
-<Word Stem="рекламн" Weight="0.505191408510825">
+<Word Stem="рекламн" Weight="0.5">
 <Allolog Form="рекламный"/>
 <Allolog Form="рекламные"/>
 <Allolog Form="рекламную"/>
@@ -214,9 +205,10 @@
 <Allolog Form="рекламном"/>
 <Allolog Form="рекламной"/>
 <Allolog Form="рекламными"/>
+<Allolog Form="рекламно"/>
 </Word>
 
-<Word Stem="продаж" Weight="0.52867336564824">
+<Word Stem="продаж" Weight="0.5">
 <Allolog Form="продаж"/>
 <Allolog Form="продаже"/>
 <Allolog Form="продажи"/>
@@ -225,9 +217,10 @@
 <Allolog Form="продажей"/>
 <Allolog Form="продажам"/>
 <Allolog Form="продажах"/>
+<Allolog Form="продажами"/>
 </Word>
 
-<Word Stem="фирм" Weight="0.14085579657725">
+<Word Stem="фирм" Weight="0.05">
 <Allolog Form="фирме"/>
 <Allolog Form="фирмой"/>
 <Allolog Form="фирма"/>
@@ -239,7 +232,7 @@
 <Allolog Form="фирмам"/>
 </Word>
 
-<Word Stem="концерн" Weight="0.0527065841802917">
+<Word Stem="концерн" Weight="0.0518927889468874">
 <Allolog Form="концерн"/>
 <Allolog Form="концерном"/>
 <Allolog Form="концернов"/>
@@ -247,13 +240,14 @@
 <Allolog Form="концерна"/>
 <Allolog Form="концернами"/>
 <Allolog Form="концерны"/>
+<Allolog Form="концернах"/>
 </Word>
 
-<Word Stem="страховых" Weight="0.0553603335318642">
+<Word Stem="страховых" Weight="0.0514369766533635">
 <Allolog Form="страховых"/>
 </Word>
 
-<Word Stem="налог" Weight="0.604120032957002">
+<Word Stem="налог" Weight="0.5">
 <Allolog Form="налогов"/>
 <Allolog Form="налог"/>
 <Allolog Form="налоги"/>
@@ -266,7 +260,7 @@
 <Allolog Form="налогах"/>
 </Word>
 
-<Word Stem="экономичн" Weight="0.501388129321196">
+<Word Stem="экономичн" Weight="0.5">
 <Allolog Form="экономичные"/>
 <Allolog Form="экономично"/>
 <Allolog Form="экономичности"/>
@@ -275,6 +269,7 @@
 <Allolog Form="экономичном"/>
 <Allolog Form="экономичный"/>
 <Allolog Form="экономичной"/>
+<Allolog Form="экономичностью"/>
 <Allolog Form="экономичнее"/>
 <Allolog Form="экономичным"/>
 <Allolog Form="экономичного"/>
@@ -286,14 +281,14 @@
 <Allolog Form="экономична"/>
 </Word>
 
-<Word Stem="автоматизац" Weight="0.0544597760881184">
+<Word Stem="автоматизац" Weight="0.0544925177331522">
 <Allolog Form="автоматизации"/>
 <Allolog Form="автоматизация"/>
 <Allolog Form="автоматизацией"/>
 <Allolog Form="автоматизацию"/>
 </Word>
 
-<Word Stem="производител" Weight="0.0869526173584587">
+<Word Stem="производител" Weight="0.065219528457577">
 <Allolog Form="производители"/>
 <Allolog Form="производитель"/>
 <Allolog Form="производителем"/>
@@ -306,22 +301,22 @@
 <Allolog Form="производителе"/>
 </Word>
 
-<Word Stem="рыночн" Weight="0.573384197264488">
+<Word Stem="рыночн" Weight="0.565111814326729">
 <Allolog Form="рыночной"/>
 <Allolog Form="рыночная"/>
 <Allolog Form="рыночные"/>
+<Allolog Form="рыночным"/>
 <Allolog Form="рыночного"/>
 <Allolog Form="рыночный"/>
 <Allolog Form="рыночную"/>
 <Allolog Form="рыночное"/>
 <Allolog Form="рыночными"/>
 <Allolog Form="рыночно"/>
-<Allolog Form="рыночным"/>
 <Allolog Form="рыночном"/>
 <Allolog Form="рыночны"/>
 </Word>
 
-<Word Stem="правов" Weight="0.0552060952577362">
+<Word Stem="правов" Weight="0.05">
 <Allolog Form="правовая"/>
 <Allolog Form="правовой"/>
 <Allolog Form="правовым"/>
@@ -333,12 +328,13 @@
 <Allolog Form="правовую"/>
 </Word>
 
-<Word Stem="присваива" Weight="0.059004171932915">
+<Word Stem="присваива" Weight="0.0563510874845067">
 <Allolog Form="присваивать"/>
 <Allolog Form="присваивается"/>
 <Allolog Form="присваивают"/>
 <Allolog Form="присваивающий"/>
 <Allolog Form="присваивающего"/>
+<Allolog Form="присваивались"/>
 <Allolog Form="присваивали"/>
 <Allolog Form="присваивающей"/>
 <Allolog Form="присваивает"/>
@@ -350,13 +346,15 @@
 <Allolog Form="присваиваемый"/>
 <Allolog Form="присваивалась"/>
 <Allolog Form="присваиваемую"/>
-<Allolog Form="присваивались"/>
 <Allolog Form="присваивал"/>
 <Allolog Form="присваиваем"/>
 <Allolog Form="присваиваются"/>
+<Allolog Form="присваивала"/>
+<Allolog Form="присваивалось"/>
+<Allolog Form="присваиваемые"/>
 </Word>
 
-<Word Stem="профсоюз" Weight="0.504175491273374">
+<Word Stem="профсоюз" Weight="0.5">
 <Allolog Form="профсоюз"/>
 <Allolog Form="профсоюзов"/>
 <Allolog Form="профсоюзы"/>
@@ -366,6 +364,7 @@
 <Allolog Form="профсоюзам"/>
 <Allolog Form="профсоюзе"/>
 <Allolog Form="профсоюзом"/>
+<Allolog Form="профсоюзу"/>
 </Word>
 
 <Word Stem="труд" Weight="0.05">
@@ -376,34 +375,38 @@
 <Allolog Form="трудов"/>
 <Allolog Form="трудились"/>
 <Allolog Form="трудах"/>
-<Allolog Form="трудясь"/>
-<Allolog Form="труде"/>
-<Allolog Form="трудами"/>
 <Allolog Form="труду"/>
-<Allolog Form="трудиться"/>
-<Allolog Form="трудо"/>
-<Allolog Form="трудился"/>
 <Allolog Form="трудам"/>
+<Allolog Form="трудами"/>
+<Allolog Form="трудилась"/>
+<Allolog Form="труде"/>
+<Allolog Form="трудиться"/>
+<Allolog Form="трудился"/>
+<Allolog Form="трудясь"/>
+<Allolog Form="трудо"/>
 <Allolog Form="трудившиеся"/>
 <Allolog Form="трудя"/>
 <Allolog Form="трудитесь"/>
-<Allolog Form="трудилась"/>
+<Allolog Form="трудимся"/>
+<Allolog Form="трудившихся"/>
 <Allolog Form="трудись"/>
+<Allolog Form="трудишься"/>
+<Allolog Form="труди"/>
 </Word>
 
-<Word Stem="владелец" Weight="0.0534642906256492">
+<Word Stem="владелец" Weight="0.05">
 <Allolog Form="владелец"/>
 </Word>
 
-<Word Stem="добыч" Weight="0.0599708679929626">
+<Word Stem="добыч" Weight="0.0570756699015136">
 <Allolog Form="добычей"/>
 <Allolog Form="добычи"/>
 <Allolog Form="добычу"/>
-<Allolog Form="добыча"/>
 <Allolog Form="добыче"/>
+<Allolog Form="добыча"/>
 </Word>
 
-<Word Stem="заработк" Weight="0.053925338460306">
+<Word Stem="заработк" Weight="0.05">
 <Allolog Form="заработка"/>
 <Allolog Form="заработках"/>
 <Allolog Form="заработки"/>
@@ -414,10 +417,10 @@
 <Allolog Form="заработку"/>
 </Word>
 
-<Word Stem="корпорац" Weight="0.558255824154144">
+<Word Stem="корпорац" Weight="0.507657178379099">
 <Allolog Form="корпорация"/>
-<Allolog Form="корпораций"/>
 <Allolog Form="корпорации"/>
+<Allolog Form="корпораций"/>
 <Allolog Form="корпорациями"/>
 <Allolog Form="корпорацию"/>
 <Allolog Form="корпорациям"/>
@@ -425,29 +428,17 @@
 <Allolog Form="корпорациях"/>
 </Word>
 
-<Word Stem="бизнес" Weight="0.519532487775199">
+<Word Stem="бизнес" Weight="0.5">
 <Allolog Form="бизнес"/>
 <Allolog Form="бизнесом"/>
 <Allolog Form="бизнеса"/>
 <Allolog Form="бизнесу"/>
 <Allolog Form="бизнесе"/>
+<Allolog Form="бизнесов"/>
 <Allolog Form="бизнесы"/>
 </Word>
 
-<Word Stem="клиент" Weight="0.00126445431702763">
-<Allolog Form="клиентом"/>
-<Allolog Form="клиенты"/>
-<Allolog Form="клиентов"/>
-<Allolog Form="клиента"/>
-<Allolog Form="клиентам"/>
-<Allolog Form="клиенту"/>
-<Allolog Form="клиент"/>
-<Allolog Form="клиентами"/>
-<Allolog Form="клиенте"/>
-<Allolog Form="клиентах"/>
-</Word>
-
-<Word Stem="валют" Weight="0.531116143091216">
+<Word Stem="валют" Weight="0.517186585475253">
 <Allolog Form="валют"/>
 <Allolog Form="валюты"/>
 <Allolog Form="валюта"/>
@@ -458,7 +449,7 @@
 <Allolog Form="валютах"/>
 </Word>
 
-<Word Stem="купл" Weight="0.0520718812650256">
+<Word Stem="купл" Weight="0.05">
 <Allolog Form="куплю"/>
 <Allolog Form="куплена"/>
 <Allolog Form="купли"/>
@@ -468,7 +459,7 @@
 <Allolog Form="куплей"/>
 </Word>
 
-<Word Stem="плат" Weight="0.113167842434024">
+<Word Stem="плат" Weight="0.05">
 <Allolog Form="платим"/>
 <Allolog Form="плату"/>
 <Allolog Form="плата"/>
@@ -479,10 +470,10 @@
 <Allolog Form="плати"/>
 <Allolog Form="плато"/>
 <Allolog Form="платой"/>
+<Allolog Form="платье"/>
 <Allolog Form="платили"/>
 <Allolog Form="платишь"/>
 <Allolog Form="платьев"/>
-<Allolog Form="платье"/>
 <Allolog Form="плат"/>
 <Allolog Form="платя"/>
 <Allolog Form="платам"/>
@@ -491,14 +482,15 @@
 <Allolog Form="платились"/>
 <Allolog Form="платившие"/>
 <Allolog Form="плате"/>
-<Allolog Form="платьях"/>
-<Allolog Form="платью"/>
 <Allolog Form="платьем"/>
-<Allolog Form="платьями"/>
+<Allolog Form="платью"/>
+<Allolog Form="платьях"/>
 <Allolog Form="платила"/>
+<Allolog Form="платами"/>
+<Allolog Form="платьями"/>
 </Word>
 
-<Word Stem="маркетинг" Weight="0.513341627759821">
+<Word Stem="маркетинг" Weight="0.5">
 <Allolog Form="маркетинг"/>
 <Allolog Form="маркетингу"/>
 <Allolog Form="маркетинга"/>
@@ -506,7 +498,7 @@
 <Allolog Form="маркетингом"/>
 </Word>
 
-<Word Stem="корпоративн" Weight="0.0533820553015546">
+<Word Stem="корпоративн" Weight="0.05">
 <Allolog Form="корпоративные"/>
 <Allolog Form="корпоративность"/>
 <Allolog Form="корпоративна"/>
@@ -517,9 +509,12 @@
 <Allolog Form="корпоративное"/>
 <Allolog Form="корпоративный"/>
 <Allolog Form="корпоративности"/>
+<Allolog Form="корпоративным"/>
+<Allolog Form="корпоративном"/>
+<Allolog Form="корпоративными"/>
 </Word>
 
-<Word Stem="услуг" Weight="0.0873550053027203">
+<Word Stem="услуг" Weight="0.05">
 <Allolog Form="услуги"/>
 <Allolog Form="услуга"/>
 <Allolog Form="услуг"/>
@@ -539,9 +534,10 @@
 <Allolog Form="рекламой"/>
 <Allolog Form="рекламах"/>
 <Allolog Form="рекламами"/>
+<Allolog Form="рекламам"/>
 </Word>
 
-<Word Stem="продукц" Weight="0.122542584635956">
+<Word Stem="продукц" Weight="0.0682589218372696">
 <Allolog Form="продукции"/>
 <Allolog Form="продукцию"/>
 <Allolog Form="продукция"/>
@@ -549,7 +545,7 @@
 <Allolog Form="продукций"/>
 </Word>
 
-<Word Stem="владельц" Weight="0.0669692429061104">
+<Word Stem="владельц" Weight="0.05">
 <Allolog Form="владельца"/>
 <Allolog Form="владельцам"/>
 <Allolog Form="владельцев"/>
@@ -561,7 +557,7 @@
 <Allolog Form="владельцах"/>
 </Word>
 
-<Word Stem="потребительск" Weight="0.0758076790887219">
+<Word Stem="потребительск" Weight="0.0647224994834719">
 <Allolog Form="потребительских"/>
 <Allolog Form="потребительский"/>
 <Allolog Form="потребительской"/>
@@ -581,7 +577,7 @@
 <Allolog Form="техническому"/>
 </Word>
 
-<Word Stem="предприят" Weight="0.233126134067329">
+<Word Stem="предприят" Weight="0.14573519031082">
 <Allolog Form="предприятиях"/>
 <Allolog Form="предприятия"/>
 <Allolog Form="предприятии"/>
@@ -593,7 +589,7 @@
 <Allolog Form="предприятием"/>
 </Word>
 
-<Word Stem="продавц" Weight="0.0614685657675562">
+<Word Stem="продавц" Weight="0.05">
 <Allolog Form="продавца"/>
 <Allolog Form="продавцом"/>
 <Allolog Form="продавцу"/>
@@ -601,9 +597,11 @@
 <Allolog Form="продавцы"/>
 <Allolog Form="продавцов"/>
 <Allolog Form="продавцам"/>
+<Allolog Form="продавце"/>
+<Allolog Form="продавцах"/>
 </Word>
 
-<Word Stem="потребител" Weight="0.0928406280831311">
+<Word Stem="потребител" Weight="0.05">
 <Allolog Form="потребителя"/>
 <Allolog Form="потребителей"/>
 <Allolog Form="потребители"/>
@@ -613,6 +611,7 @@
 <Allolog Form="потребителем"/>
 <Allolog Form="потребителю"/>
 <Allolog Form="потребителе"/>
+<Allolog Form="потребителях"/>
 </Word>
 
 <Word Stem="экспортн" Weight="0.504638689570196">
@@ -625,9 +624,10 @@
 <Allolog Form="экспортный"/>
 <Allolog Form="экспортное"/>
 <Allolog Form="экспортными"/>
+<Allolog Form="экспортную"/>
 </Word>
 
-<Word Stem="таможен" Weight="0.505541792156482">
+<Word Stem="таможен" Weight="0.5">
 <Allolog Form="таможенными"/>
 <Allolog Form="таможенный"/>
 <Allolog Form="таможенную"/>
@@ -639,43 +639,32 @@
 <Allolog Form="таможенном"/>
 <Allolog Form="таможенная"/>
 <Allolog Form="таможенно"/>
+<Allolog Form="таможенное"/>
 </Word>
 
 <Word Stem="выпускаемых" Weight="0.0523683934288564">
 <Allolog Form="выпускаемых"/>
 </Word>
 
-<Word Stem="процент" Weight="0.0434208997525889">
-<Allolog Form="процентах"/>
-<Allolog Form="процентов"/>
-<Allolog Form="процент"/>
-<Allolog Form="проценты"/>
-<Allolog Form="процента"/>
-<Allolog Form="проценте"/>
-<Allolog Form="процентами"/>
-<Allolog Form="проценту"/>
-<Allolog Form="процентам"/>
-<Allolog Form="процентом"/>
-</Word>
-
-<Word Stem="ресурс" Weight="0.119190750246019">
+<Word Stem="ресурс" Weight="0.0692348128975955">
 <Allolog Form="ресурс"/>
 <Allolog Form="ресурса"/>
 <Allolog Form="ресурсов"/>
 <Allolog Form="ресурсах"/>
 <Allolog Form="ресурсами"/>
-<Allolog Form="ресурсы"/>
 <Allolog Form="ресурсам"/>
+<Allolog Form="ресурсы"/>
 <Allolog Form="ресурсом"/>
+<Allolog Form="ресурсе"/>
 </Word>
 
-<Word Stem="дорогостоя" Weight="0.0533974777125462">
+<Word Stem="дорогостоя" Weight="0.0513316152626834">
 <Allolog Form="дорогостоящим"/>
 <Allolog Form="дорогостоящую"/>
 <Allolog Form="дорогостоящие"/>
+<Allolog Form="дорогостоящими"/>
 <Allolog Form="дорогостоящих"/>
 <Allolog Form="дорогостоящей"/>
-<Allolog Form="дорогостоящими"/>
 <Allolog Form="дорогостоящее"/>
 <Allolog Form="дорогостоящая"/>
 <Allolog Form="дорогостоящем"/>
@@ -683,7 +672,7 @@
 <Allolog Form="дорогостоящего"/>
 </Word>
 
-<Word Stem="товарн" Weight="0.555046351711467">
+<Word Stem="товарн" Weight="0.530958630873445">
 <Allolog Form="товарный"/>
 <Allolog Form="товарного"/>
 <Allolog Form="товарной"/>
@@ -697,7 +686,7 @@
 <Allolog Form="товарными"/>
 </Word>
 
-<Word Stem="промышленных" Weight="0.0695307432689824">
+<Word Stem="промышленных" Weight="0.0696192031275572">
 <Allolog Form="промышленных"/>
 </Word>
 
@@ -717,6 +706,7 @@
 <Allolog Form="номинальная"/>
 <Allolog Form="номинальные"/>
 <Allolog Form="номинальной"/>
+<Allolog Form="номинальным"/>
 <Allolog Form="номинальными"/>
 <Allolog Form="номинальном"/>
 <Allolog Form="номинально"/>
@@ -724,14 +714,13 @@
 <Allolog Form="номинального"/>
 <Allolog Form="номинальный"/>
 <Allolog Form="номинальное"/>
-<Allolog Form="номинальным"/>
 </Word>
 
 <Word Stem="corporation" Weight="0.0517123287671233">
 <Allolog Form="corporation"/>
 </Word>
 
-<Word Stem="заказ" Weight="0.0534724318418877">
+<Word Stem="заказ" Weight="0.05">
 <Allolog Form="заказ"/>
 <Allolog Form="заказам"/>
 <Allolog Form="заказа"/>
@@ -744,7 +733,7 @@
 <Allolog Form="заказе"/>
 </Word>
 
-<Word Stem="конкурент" Weight="0.0854467928793482">
+<Word Stem="конкурент" Weight="0.0613811225697283">
 <Allolog Form="конкурентов"/>
 <Allolog Form="конкурентами"/>
 <Allolog Form="конкуренты"/>
@@ -766,10 +755,12 @@
 <Allolog Form="владеющим"/>
 <Allolog Form="владеющей"/>
 <Allolog Form="владеющая"/>
+<Allolog Form="владеющими"/>
 </Word>
 
-<Word Stem="ликвидирова" Weight="0.0514789758801488">
+<Word Stem="ликвидирова" Weight="0.0510279651240215">
 <Allolog Form="ликвидировать"/>
+<Allolog Form="ликвидировалось"/>
 <Allolog Form="ликвидировались"/>
 <Allolog Form="ликвидирована"/>
 <Allolog Form="ликвидировано"/>
@@ -780,6 +771,7 @@
 <Allolog Form="ликвидированы"/>
 <Allolog Form="ликвидировал"/>
 <Allolog Form="ликвидировав"/>
+<Allolog Form="ликвидированное"/>
 </Word>
 
 <Word Stem="владен" Weight="0.05">
@@ -794,37 +786,30 @@
 <Allolog Form="владениям"/>
 </Word>
 
-<Word Stem="затрат" Weight="0.0613750193984423">
+<Word Stem="затрат" Weight="0.05">
 <Allolog Form="затрат"/>
 <Allolog Form="затратами"/>
 <Allolog Form="затраты"/>
 <Allolog Form="затратой"/>
 <Allolog Form="затратах"/>
 <Allolog Form="затратить"/>
-<Allolog Form="затратам"/>
-<Allolog Form="затратила"/>
-<Allolog Form="затратив"/>
 <Allolog Form="затратил"/>
+<Allolog Form="затратила"/>
+<Allolog Form="затратам"/>
+<Allolog Form="затратив"/>
 <Allolog Form="затрату"/>
 <Allolog Form="затрате"/>
 <Allolog Form="затратили"/>
 <Allolog Form="затрата"/>
+<Allolog Form="затратишь"/>
+<Allolog Form="затратите"/>
 </Word>
 
 <Word Stem="владет" Weight="0.05">
 <Allolog Form="владеть"/>
 </Word>
 
-<Word Stem="квалификац" Weight="0.00269775815149383">
-<Allolog Form="квалификации"/>
-<Allolog Form="квалификация"/>
-<Allolog Form="квалификацию"/>
-<Allolog Form="квалификацией"/>
-<Allolog Form="квалификаци"/>
-<Allolog Form="квалификаций"/>
-</Word>
-
-<Word Stem="дефицит" Weight="0.0534039328821913">
+<Word Stem="дефицит" Weight="0.05">
 <Allolog Form="дефицит"/>
 <Allolog Form="дефицита"/>
 <Allolog Form="дефицитом"/>
@@ -832,12 +817,13 @@
 <Allolog Form="дефициту"/>
 </Word>
 
-<Word Stem="компенсац" Weight="0.0514241504806237">
+<Word Stem="компенсац" Weight="0.05">
 <Allolog Form="компенсацией"/>
 <Allolog Form="компенсации"/>
 <Allolog Form="компенсацию"/>
 <Allolog Form="компенсация"/>
 <Allolog Form="компенсаций"/>
+<Allolog Form="компенсациях"/>
 </Word>
 
 <Word Stem="расчетн" Weight="0.0510962528085816">
@@ -845,27 +831,29 @@
 <Allolog Form="расчетной"/>
 <Allolog Form="расчетным"/>
 <Allolog Form="расчетная"/>
-<Allolog Form="расчетную"/>
+<Allolog Form="расчетное"/>
 <Allolog Form="расчетные"/>
+<Allolog Form="расчетную"/>
 <Allolog Form="расчетно"/>
 <Allolog Form="расчетный"/>
+<Allolog Form="расчетном"/>
 </Word>
 
-<Word Stem="торгов" Weight="0.588462379533511">
+<Word Stem="торгов" Weight="0.537588524760099">
 <Allolog Form="торговые"/>
 <Allolog Form="торгового"/>
 <Allolog Form="торговой"/>
 <Allolog Form="торговая"/>
 <Allolog Form="торговым"/>
+<Allolog Form="торгово"/>
+<Allolog Form="торговый"/>
 <Allolog Form="торговую"/>
 <Allolog Form="торговыми"/>
 <Allolog Form="торговое"/>
-<Allolog Form="торговый"/>
-<Allolog Form="торгово"/>
 <Allolog Form="торговом"/>
 </Word>
 
-<Word Stem="кредит" Weight="0.530965628472928">
+<Word Stem="кредит" Weight="0.510462983506558">
 <Allolog Form="кредит"/>
 <Allolog Form="кредитов"/>
 <Allolog Form="кредиту"/>
@@ -877,7 +865,7 @@
 <Allolog Form="кредитами"/>
 </Word>
 
-<Word Stem="trade" Weight="0.0515537798072045">
+<Word Stem="trade" Weight="0.05">
 <Allolog Form="trade"/>
 </Word>
 
@@ -885,7 +873,7 @@
 <Allolog Form="импортных"/>
 </Word>
 
-<Word Stem="продава" Weight="0.0810271860405656">
+<Word Stem="продава" Weight="0.0635340050990797">
 <Allolog Form="продавать"/>
 <Allolog Form="продавали"/>
 <Allolog Form="продавались"/>
@@ -907,6 +895,10 @@
 <Allolog Form="продаваемого"/>
 <Allolog Form="продавай"/>
 <Allolog Form="продававшим"/>
+<Allolog Form="продаваемая"/>
+<Allolog Form="продавайте"/>
+<Allolog Form="продаваемом"/>
+<Allolog Form="продававшейся"/>
 <Allolog Form="продававший"/>
 </Word>
 
@@ -933,16 +925,16 @@
 <Allolog Form="мангейм"/>
 </Word>
 
-<Word Stem="товар" Weight="0.677129113124195">
+<Word Stem="товар" Weight="0.5">
 <Allolog Form="товар"/>
 <Allolog Form="товарами"/>
 <Allolog Form="товара"/>
 <Allolog Form="товаров"/>
 <Allolog Form="товаром"/>
+<Allolog Form="товары"/>
 <Allolog Form="товаре"/>
 <Allolog Form="товару"/>
 <Allolog Form="товаро"/>
-<Allolog Form="товары"/>
 <Allolog Form="товарах"/>
 <Allolog Form="товарам"/>
 <Allolog Form="товари"/>
@@ -950,22 +942,22 @@
 
 <Word Stem="кузниц" Weight="0.0520364733074018">
 <Allolog Form="кузницы"/>
-<Allolog Form="кузниц"/>
 <Allolog Form="кузница"/>
+<Allolog Form="кузниц"/>
 <Allolog Form="кузницу"/>
 <Allolog Form="кузнице"/>
 <Allolog Form="кузницей"/>
 <Allolog Form="кузницах"/>
 </Word>
 
-<Word Stem="индустриальн" Weight="0.0878405967167048">
+<Word Stem="индустриальн" Weight="0.086384899457284">
 <Allolog Form="индустриальный"/>
 <Allolog Form="индустриальном"/>
+<Allolog Form="индустриальной"/>
 <Allolog Form="индустриальное"/>
 <Allolog Form="индустриальная"/>
 <Allolog Form="индустриального"/>
 <Allolog Form="индустриально"/>
-<Allolog Form="индустриальной"/>
 <Allolog Form="индустриальную"/>
 <Allolog Form="индустриальные"/>
 <Allolog Form="индустриальными"/>
@@ -984,49 +976,34 @@
 <Allolog Form="фрикционную"/>
 </Word>
 
-<Word Stem="процентн" Weight="0.052937053467091">
+<Word Stem="процентн" Weight="0.05">
 <Allolog Form="процентное"/>
 <Allolog Form="процентной"/>
 <Allolog Form="процентную"/>
 <Allolog Form="процентном"/>
+<Allolog Form="процентного"/>
 <Allolog Form="процентный"/>
 <Allolog Form="процентным"/>
-<Allolog Form="процентного"/>
 <Allolog Form="процентная"/>
 <Allolog Form="процентные"/>
+<Allolog Form="процентно"/>
+<Allolog Form="процентными"/>
 <Allolog Form="процентность"/>
 </Word>
 
-<Word Stem="планирован" Weight="0.00734080642094175">
-<Allolog Form="планировании"/>
-<Allolog Form="планирование"/>
-<Allolog Form="планирования"/>
-<Allolog Form="планированию"/>
-<Allolog Form="планированием"/>
-</Word>
-
-<Word Stem="расходова" Weight="0.053925338460306">
+<Word Stem="расходова" Weight="0.0526795400818474">
 <Allolog Form="расходовать"/>
+<Allolog Form="расходовались"/>
 <Allolog Form="расходовал"/>
 <Allolog Form="расходовали"/>
 <Allolog Form="расходоваться"/>
-<Allolog Form="расходовались"/>
 <Allolog Form="расходовался"/>
 <Allolog Form="расходовалась"/>
 <Allolog Form="расходовалось"/>
 <Allolog Form="расходовала"/>
 </Word>
 
-<Word Stem="ликвидац" Weight="0.00172778692727198">
-<Allolog Form="ликвидации"/>
-<Allolog Form="ликвидация"/>
-<Allolog Form="ликвидацией"/>
-<Allolog Form="ликвидацию"/>
-<Allolog Form="ликвидациями"/>
-<Allolog Form="ликвидациях"/>
-</Word>
-
-<Word Stem="делов" Weight="0.05909438459596">
+<Word Stem="делов" Weight="0.05">
 <Allolog Form="деловые"/>
 <Allolog Form="делового"/>
 <Allolog Form="деловое"/>
@@ -1039,21 +1016,37 @@
 <Allolog Form="деловом"/>
 </Word>
 
-<Word Stem="недооценива" Weight="0.0512453300124533">
+<Word Stem="формац" Weight="0.00117396964869132">
+<Allolog Form="формации"/>
+<Allolog Form="формация"/>
+<Allolog Form="формацию"/>
+<Allolog Form="формаций"/>
+<Allolog Form="формациях"/>
+<Allolog Form="формацией"/>
+<Allolog Form="формациям"/>
+<Allolog Form="формациями"/>
+<Allolog Form="формациив"/>
+</Word>
+
+<Word Stem="недооценива" Weight="0.05">
 <Allolog Form="недооценивают"/>
 <Allolog Form="недооценивает"/>
 <Allolog Form="недооцениваем"/>
 <Allolog Form="недооценивается"/>
 <Allolog Form="недооценивать"/>
+<Allolog Form="недооцениваются"/>
 <Allolog Form="недооценивал"/>
 <Allolog Form="недооценивали"/>
 <Allolog Form="недооценивавших"/>
 <Allolog Form="недооценивались"/>
+<Allolog Form="недооцениваете"/>
+<Allolog Form="недооцениваю"/>
 <Allolog Form="недооценивалось"/>
+<Allolog Form="недооценивайте"/>
 <Allolog Form="недооценивала"/>
 </Word>
 
-<Word Stem="жилых" Weight="0.0517123287671233">
+<Word Stem="жилых" Weight="0.05">
 <Allolog Form="жилых"/>
 </Word>
 
@@ -1070,22 +1063,25 @@
 <Allolog Form="амортизацию"/>
 </Word>
 
-<Word Stem="пожертвова" Weight="0.0517123287671233">
+<Word Stem="пожертвова" Weight="0.05">
 <Allolog Form="пожертвовать"/>
 <Allolog Form="пожертвовал"/>
 <Allolog Form="пожертвовали"/>
 <Allolog Form="пожертвовавшего"/>
+<Allolog Form="пожертвованном"/>
 <Allolog Form="пожертвовала"/>
+<Allolog Form="пожертвовав"/>
+<Allolog Form="пожертвовавших"/>
 </Word>
 
-<Word Stem="конкуренц" Weight="0.108872257295628">
+<Word Stem="конкуренц" Weight="0.0887970245874057">
 <Allolog Form="конкуренции"/>
 <Allolog Form="конкуренция"/>
 <Allolog Form="конкуренцией"/>
 <Allolog Form="конкуренцию"/>
 </Word>
 
-<Word Stem="денег" Weight="0.510826291975323">
+<Word Stem="денег" Weight="0.5">
 <Allolog Form="денег"/>
 </Word>
 
@@ -1095,7 +1091,7 @@
 <Allolog Form="эконом"/>
 </Word>
 
-<Word Stem="транспортировк" Weight="0.0532678059156095">
+<Word Stem="транспортировк" Weight="0.05">
 <Allolog Form="транспортировке"/>
 <Allolog Form="транспортировки"/>
 <Allolog Form="транспортировку"/>
@@ -1114,15 +1110,19 @@
 <Allolog Form="зарабатывала"/>
 <Allolog Form="зарабатывающего"/>
 <Allolog Form="зарабатываем"/>
+<Allolog Form="зарабатываю"/>
+<Allolog Form="зарабатывающими"/>
 <Allolog Form="зарабатываете"/>
 <Allolog Form="зарабатываемые"/>
 <Allolog Form="зарабатывалось"/>
 <Allolog Form="зарабатываешь"/>
-<Allolog Form="зарабатываю"/>
+<Allolog Form="зарабатывающей"/>
+<Allolog Form="зарабатывающий"/>
+<Allolog Form="зарабатывающим"/>
 <Allolog Form="зарабатывай"/>
 </Word>
 
-<Word Stem="приб" Weight="0.536267277418655">
+<Word Stem="приб" Weight="0.05">
 <Allolog Form="прибыли"/>
 <Allolog Form="прибыть"/>
 <Allolog Form="прибо"/>
@@ -1133,22 +1133,24 @@
 <Allolog Form="прибывшие"/>
 <Allolog Form="прибывшими"/>
 <Allolog Form="прибыл"/>
+<Allolog Form="прибыла"/>
+<Allolog Form="прибывшей"/>
+<Allolog Form="прибой"/>
 <Allolog Form="приба"/>
 <Allolog Form="прибывшее"/>
 <Allolog Form="прибил"/>
 <Allolog Form="приб"/>
-<Allolog Form="прибой"/>
 <Allolog Form="прибыв"/>
 <Allolog Form="прибились"/>
 <Allolog Form="прибывший"/>
 <Allolog Form="прибьем"/>
 <Allolog Form="прибе"/>
 <Allolog Form="прибывшая"/>
-<Allolog Form="прибыла"/>
 <Allolog Form="прибы"/>
-<Allolog Form="прибое"/>
-<Allolog Form="прибывшей"/>
 <Allolog Form="прибью"/>
+<Allolog Form="прибили"/>
+<Allolog Form="прибейте"/>
+<Allolog Form="прибое"/>
 </Word>
 
 <Word Stem="дешевизн" Weight="0.0515537798072045">
@@ -1163,45 +1165,35 @@
 <Allolog Form="вложите"/>
 <Allolog Form="вложить"/>
 <Allolog Form="вложив"/>
-<Allolog Form="вложены"/>
-<Allolog Form="вложила"/>
 <Allolog Form="вложил"/>
+<Allolog Form="вложены"/>
 <Allolog Form="вложена"/>
+<Allolog Form="вложила"/>
+<Allolog Form="вложим"/>
 <Allolog Form="вложили"/>
 <Allolog Form="вложивший"/>
 <Allolog Form="вложе"/>
 <Allolog Form="вложи"/>
+<Allolog Form="вложу"/>
 <Allolog Form="вложивших"/>
+<Allolog Form="вложился"/>
+<Allolog Form="вложись"/>
 <Allolog Form="вложившая"/>
 </Word>
 
-<Word Stem="дешевых" Weight="0.0518733169418101">
+<Word Stem="дешевых" Weight="0.05">
 <Allolog Form="дешевых"/>
 </Word>
 
-<Word Stem="инспекц" Weight="0.0518579144004299">
+<Word Stem="инспекц" Weight="0.051923696661147">
 <Allolog Form="инспекции"/>
 <Allolog Form="инспекция"/>
 <Allolog Form="инспекцией"/>
 <Allolog Form="инспекцию"/>
+<Allolog Form="инспекциями"/>
 </Word>
 
-<Word Stem="организацион" Weight="0.00430677029385064">
-<Allolog Form="организационно"/>
-<Allolog Form="организационные"/>
-<Allolog Form="организационного"/>
-<Allolog Form="организационной"/>
-<Allolog Form="организационная"/>
-<Allolog Form="организационном"/>
-<Allolog Form="организационным"/>
-<Allolog Form="организационными"/>
-<Allolog Form="организационный"/>
-<Allolog Form="организационное"/>
-<Allolog Form="организационную"/>
-<Allolog Form="организацион"/>
-</Word>
-
-<Word Stem="лиценз" Weight="0.053925338460306">
+<Word Stem="лиценз" Weight="0.05">
 <Allolog Form="лицензию"/>
 <Allolog Form="лицензией"/>
 <Allolog Form="лицензии"/>
@@ -1209,6 +1201,7 @@
 <Allolog Form="лицензий"/>
 <Allolog Form="лицензиях"/>
 <Allolog Form="лицензиями"/>
+<Allolog Form="лицензиям"/>
 </Word>
 
 <Word Stem="платежн" Weight="0.0535726365635041">
@@ -1218,9 +1211,10 @@
 <Allolog Form="платежные"/>
 <Allolog Form="платежной"/>
 <Allolog Form="платежным"/>
+<Allolog Form="платежную"/>
 </Word>
 
-<Word Stem="оплат" Weight="0.0721299544989125">
+<Word Stem="оплат" Weight="0.05">
 <Allolog Form="оплате"/>
 <Allolog Form="оплата"/>
 <Allolog Form="оплатить"/>
@@ -1231,31 +1225,31 @@
 <Allolog Form="оплатившее"/>
 <Allolog Form="оплатили"/>
 <Allolog Form="оплатиться"/>
+<Allolog Form="оплатила"/>
 <Allolog Form="оплатив"/>
 <Allolog Form="оплатите"/>
+<Allolog Form="оплативших"/>
+<Allolog Form="оплатившие"/>
+<Allolog Form="оплатившего"/>
+<Allolog Form="оплат"/>
 </Word>
 
-<Word Stem="законодательств" Weight="0.00733349709333959">
-<Allolog Form="законодательства"/>
-<Allolog Form="законодательству"/>
-<Allolog Form="законодательство"/>
-<Allolog Form="законодательством"/>
-<Allolog Form="законодательстве"/>
-<Allolog Form="законодательств"/>
-</Word>
-
-<Word Stem="изыма" Weight="0.0520364733074018">
+<Word Stem="изыма" Weight="0.05">
 <Allolog Form="изымается"/>
 <Allolog Form="изымают"/>
 <Allolog Form="изымаются"/>
+<Allolog Form="изымали"/>
 <Allolog Form="изымалось"/>
 <Allolog Form="изымать"/>
 <Allolog Form="изымаемый"/>
-<Allolog Form="изымали"/>
 <Allolog Form="изымает"/>
 <Allolog Form="изымаемая"/>
 <Allolog Form="изыматься"/>
+<Allolog Form="изымались"/>
 <Allolog Form="изымал"/>
+<Allolog Form="изымаю"/>
+<Allolog Form="изымала"/>
+<Allolog Form="изымаемые"/>
 </Word>
 
 <Word Stem="заплат" Weight="0.05">
@@ -1275,7 +1269,7 @@
 <Allolog Form="заплат"/>
 </Word>
 
-<Word Stem="посредник" Weight="0.0527612606542793">
+<Word Stem="посредник" Weight="0.05">
 <Allolog Form="посредником"/>
 <Allolog Form="посредника"/>
 <Allolog Form="посредник"/>
@@ -1285,9 +1279,10 @@
 <Allolog Form="посредников"/>
 <Allolog Form="посредникам"/>
 <Allolog Form="посреднику"/>
+<Allolog Form="посредниках"/>
 </Word>
 
-<Word Stem="сделк" Weight="0.0556729890725872">
+<Word Stem="сделк" Weight="0.05">
 <Allolog Form="сделку"/>
 <Allolog Form="сделка"/>
 <Allolog Form="сделки"/>
@@ -1298,13 +1293,14 @@
 <Allolog Form="сделкам"/>
 </Word>
 
-<Word Stem="взятк" Weight="0.0551792660240149">
+<Word Stem="взятк" Weight="0.0522666357457433">
 <Allolog Form="взятки"/>
 <Allolog Form="взятку"/>
 <Allolog Form="взяткам"/>
 <Allolog Form="взятке"/>
 <Allolog Form="взятка"/>
 <Allolog Form="взятками"/>
+<Allolog Form="взяткой"/>
 <Allolog Form="взятком"/>
 </Word>
 
@@ -1318,17 +1314,17 @@
 <Allolog Form="спекулянтам"/>
 </Word>
 
-<Word Stem="вложен" Weight="0.0244961534292448">
+<Word Stem="вложен" Weight="0.0209644336102761">
 <Allolog Form="вложением"/>
 <Allolog Form="вложенной"/>
+<Allolog Form="вложенные"/>
 <Allolog Form="вложения"/>
+<Allolog Form="вложен"/>
+<Allolog Form="вложенный"/>
+<Allolog Form="вложенным"/>
 <Allolog Form="вложенное"/>
 <Allolog Form="вложение"/>
-<Allolog Form="вложенным"/>
-<Allolog Form="вложен"/>
-<Allolog Form="вложенные"/>
 <Allolog Form="вложений"/>
-<Allolog Form="вложенный"/>
 <Allolog Form="вложениями"/>
 <Allolog Form="вложениях"/>
 <Allolog Form="вложении"/>
@@ -1341,49 +1337,20 @@
 <Allolog Form="вложенную"/>
 </Word>
 
-<Word Stem="капита" Weight="0.156682248370317">
+<Word Stem="капита" Weight="0.122847041101524">
 <Allolog Form="капитала"/>
 <Allolog Form="капитан"/>
-<Allolog Form="капитана"/>
-<Allolog Form="капитал"/>
-<Allolog Form="капитали"/>
 <Allolog Form="капитаны"/>
+<Allolog Form="капитал"/>
+<Allolog Form="капитана"/>
+<Allolog Form="капитали"/>
 </Word>
 
-<Word Stem="покуп" Weight="0.0515537798072045">
+<Word Stem="покуп" Weight="0.05">
 <Allolog Form="покупая"/>
 <Allolog Form="покуп"/>
 <Allolog Form="покупаясь"/>
 <Allolog Form="покупа"/>
-</Word>
-
-<Word Stem="обслужива" Weight="0.00477669089599256">
-<Allolog Form="обслуживать"/>
-<Allolog Form="обслуживаться"/>
-<Allolog Form="обслуживающего"/>
-<Allolog Form="обслуживающая"/>
-<Allolog Form="обслуживающих"/>
-<Allolog Form="обслуживали"/>
-<Allolog Form="обслуживающие"/>
-<Allolog Form="обслуживала"/>
-<Allolog Form="обслуживают"/>
-<Allolog Form="обслуживающей"/>
-<Allolog Form="обслуживает"/>
-<Allolog Form="обслуживаемая"/>
-<Allolog Form="обслуживал"/>
-<Allolog Form="обслуживало"/>
-<Allolog Form="обслуживался"/>
-<Allolog Form="обслуживаются"/>
-<Allolog Form="обслуживавшей"/>
-<Allolog Form="обслуживавших"/>
-<Allolog Form="обслуживавшие"/>
-<Allolog Form="обслуживаемые"/>
-<Allolog Form="обслуживается"/>
-<Allolog Form="обслуживающими"/>
-<Allolog Form="обслуживающим"/>
-<Allolog Form="обслуживающий"/>
-<Allolog Form="обслуживаю"/>
-<Allolog Form="обслуживаемыми"/>
 </Word>
 
 <Word Stem="трудоемк" Weight="0.0522015655577299">
@@ -1396,27 +1363,28 @@
 <Allolog Form="трудоемкостью"/>
 <Allolog Form="трудоемкость"/>
 <Allolog Form="трудоемки"/>
-<Allolog Form="трудоемко"/>
 <Allolog Form="трудоемкая"/>
+<Allolog Form="трудоемко"/>
 <Allolog Form="трудоемкие"/>
 <Allolog Form="трудоемкое"/>
 <Allolog Form="трудоемкими"/>
+<Allolog Form="трудоемкой"/>
 </Word>
 
-<Word Stem="покупател" Weight="0.062289708167571">
+<Word Stem="покупател" Weight="0.05">
 <Allolog Form="покупателю"/>
 <Allolog Form="покупателя"/>
 <Allolog Form="покупатель"/>
 <Allolog Form="покупателем"/>
 <Allolog Form="покупателей"/>
 <Allolog Form="покупатели"/>
+<Allolog Form="покупателями"/>
 <Allolog Form="покупателям"/>
 <Allolog Form="покупателях"/>
-<Allolog Form="покупателями"/>
 <Allolog Form="покупателе"/>
 </Word>
 
-<Word Stem="наследник" Weight="0.0511594916008123">
+<Word Stem="наследник" Weight="0.05">
 <Allolog Form="наследников"/>
 <Allolog Form="наследниками"/>
 <Allolog Form="наследник"/>
@@ -1428,7 +1396,7 @@
 <Allolog Form="наследнику"/>
 </Word>
 
-<Word Stem="налогов" Weight="0.0701293759512938">
+<Word Stem="налогов" Weight="0.05">
 <Allolog Form="налоговым"/>
 <Allolog Form="налоговую"/>
 <Allolog Form="налогового"/>
@@ -1442,7 +1410,7 @@
 <Allolog Form="налогово"/>
 </Word>
 
-<Word Stem="собственник" Weight="0.0732186920650021">
+<Word Stem="собственник" Weight="0.0524504136335237">
 <Allolog Form="собственнику"/>
 <Allolog Form="собственник"/>
 <Allolog Form="собственника"/>
@@ -1453,35 +1421,38 @@
 <Allolog Form="собственникам"/>
 </Word>
 
-<Word Stem="денежн" Weight="0.602016653892183">
+<Word Stem="денежн" Weight="0.541961927560339">
 <Allolog Form="денежные"/>
 <Allolog Form="денежными"/>
+<Allolog Form="денежная"/>
 <Allolog Form="денежный"/>
 <Allolog Form="денежном"/>
 <Allolog Form="денежного"/>
-<Allolog Form="денежная"/>
 <Allolog Form="денежно"/>
 <Allolog Form="денежное"/>
 <Allolog Form="денежной"/>
 <Allolog Form="денежную"/>
 <Allolog Form="денежным"/>
+<Allolog Form="денежнего"/>
 </Word>
 
-<Word Stem="комиссион" Weight="0.0548472660038002">
+<Word Stem="комиссион" Weight="0.0517515385566466">
 <Allolog Form="комиссионного"/>
 <Allolog Form="комиссионный"/>
 <Allolog Form="комиссионной"/>
 <Allolog Form="комиссионном"/>
 <Allolog Form="комиссионным"/>
 <Allolog Form="комиссионные"/>
+<Allolog Form="комиссионная"/>
+<Allolog Form="комиссионными"/>
 <Allolog Form="комиссионное"/>
 </Word>
 
-<Word Stem="денежных" Weight="0.515787745844152">
+<Word Stem="денежных" Weight="0.5">
 <Allolog Form="денежных"/>
 </Word>
 
-<Word Stem="вычет" Weight="0.0516406541633684">
+<Word Stem="вычет" Weight="0.0517910915151709">
 <Allolog Form="вычет"/>
 <Allolog Form="вычетом"/>
 <Allolog Form="вычетам"/>
@@ -1492,7 +1463,7 @@
 <Allolog Form="вычетах"/>
 </Word>
 
-<Word Stem="плательщик" Weight="0.0513979882205016">
+<Word Stem="плательщик" Weight="0.05">
 <Allolog Form="плательщика"/>
 <Allolog Form="плательщиков"/>
 <Allolog Form="плательщик"/>
@@ -1500,27 +1471,33 @@
 <Allolog Form="плательщиком"/>
 <Allolog Form="плательщиками"/>
 <Allolog Form="плательщикам"/>
+<Allolog Form="плательщику"/>
+<Allolog Form="плательщике"/>
 </Word>
 
-<Word Stem="налогоплательщик" Weight="0.0542808219178082">
+<Word Stem="налогоплательщик" Weight="0.05">
 <Allolog Form="налогоплательщиком"/>
 <Allolog Form="налогоплательщиков"/>
 <Allolog Form="налогоплательщики"/>
 <Allolog Form="налогоплательщикам"/>
 <Allolog Form="налогоплательщика"/>
 <Allolog Form="налогоплательщик"/>
+<Allolog Form="налогоплательщиками"/>
+<Allolog Form="налогоплательщику"/>
+<Allolog Form="налогоплательщике"/>
+<Allolog Form="налогоплательщиках"/>
 </Word>
 
-<Word Stem="платит" Weight="0.0518412163021093">
+<Word Stem="платит" Weight="0.0510982025418937">
 <Allolog Form="платится"/>
 <Allolog Form="платит"/>
 </Word>
 
-<Word Stem="покупок" Weight="0.0512453300124533">
+<Word Stem="покупок" Weight="0.05">
 <Allolog Form="покупок"/>
 </Word>
 
-<Word Stem="маркетингов" Weight="0.523534874562272">
+<Word Stem="маркетингов" Weight="0.511147729518934">
 <Allolog Form="маркетингового"/>
 <Allolog Form="маркетинговые"/>
 <Allolog Form="маркетинговая"/>
@@ -1538,7 +1515,7 @@
 <Allolog Form="эксплуатируются"/>
 </Word>
 
-<Word Stem="торговл" Weight="0.66281911763394">
+<Word Stem="торговл" Weight="0.594363442446151">
 <Allolog Form="торговли"/>
 <Allolog Form="торговля"/>
 <Allolog Form="торговлю"/>
@@ -1557,19 +1534,24 @@
 <Allolog Form="коммерсантам"/>
 </Word>
 
-<Word Stem="договорен" Weight="0.0510962528085816">
+<Word Stem="договорен" Weight="0.05">
 <Allolog Form="договоренность"/>
 <Allolog Form="договоренности"/>
 <Allolog Form="договорен"/>
-<Allolog Form="договоренностью"/>
 <Allolog Form="договоренностей"/>
+<Allolog Form="договоренностям"/>
+<Allolog Form="договоренной"/>
+<Allolog Form="договоренностями"/>
+<Allolog Form="договоренностью"/>
+<Allolog Form="договоренностях"/>
 </Word>
 
-<Word Stem="торг" Weight="0.0515695966345421">
+<Word Stem="торг" Weight="0.05">
 <Allolog Form="торг"/>
 <Allolog Form="торге"/>
 <Allolog Form="торгующего"/>
 <Allolog Form="торгующих"/>
+<Allolog Form="торгу"/>
 <Allolog Form="торгуйтесь"/>
 <Allolog Form="торгов"/>
 <Allolog Form="торга"/>
@@ -1577,15 +1559,18 @@
 <Allolog Form="торгующим"/>
 <Allolog Form="торгующие"/>
 <Allolog Form="торги"/>
+<Allolog Form="торгую"/>
+<Allolog Form="торгом"/>
 <Allolog Form="торгующей"/>
 <Allolog Form="торгуй"/>
-<Allolog Form="торгу"/>
+<Allolog Form="торгующими"/>
+<Allolog Form="торгующая"/>
+<Allolog Form="торгующую"/>
 <Allolog Form="торго"/>
-<Allolog Form="торгую"/>
 <Allolog Form="торгуйте"/>
 </Word>
 
-<Word Stem="платеж" Weight="0.0590615888256531">
+<Word Stem="платеж" Weight="0.05">
 <Allolog Form="платеж"/>
 <Allolog Form="платежа"/>
 <Allolog Form="платежи"/>
@@ -1598,7 +1583,7 @@
 <Allolog Form="платежу"/>
 </Word>
 
-<Word Stem="менеджер" Weight="0.507270806764802">
+<Word Stem="менеджер" Weight="0.5">
 <Allolog Form="менеджером"/>
 <Allolog Form="менеджеры"/>
 <Allolog Form="менеджерам"/>
@@ -1608,9 +1593,10 @@
 <Allolog Form="менеджерами"/>
 <Allolog Form="менеджеру"/>
 <Allolog Form="менеджере"/>
+<Allolog Form="менеджерах"/>
 </Word>
 
-<Word Stem="контор" Weight="0.0517123287671233">
+<Word Stem="контор" Weight="0.05">
 <Allolog Form="контору"/>
 <Allolog Form="конторой"/>
 <Allolog Form="контор"/>
@@ -1618,6 +1604,8 @@
 <Allolog Form="конторами"/>
 <Allolog Form="контора"/>
 <Allolog Form="конторе"/>
+<Allolog Form="конторам"/>
+<Allolog Form="конторах"/>
 </Word>
 
 <Word Stem="учетн" Weight="0.0515537798072045">
@@ -1630,7 +1618,7 @@
 <Allolog Form="учетную"/>
 </Word>
 
-<Word Stem="уплат" Weight="0.0659761936427716">
+<Word Stem="уплат" Weight="0.05">
 <Allolog Form="уплатить"/>
 <Allolog Form="уплату"/>
 <Allolog Form="уплате"/>
@@ -1640,9 +1628,10 @@
 <Allolog Form="уплата"/>
 <Allolog Form="уплатили"/>
 <Allolog Form="уплатив"/>
+<Allolog Form="уплатила"/>
 </Word>
 
-<Word Stem="уплачива" Weight="0.0553603335318642">
+<Word Stem="уплачива" Weight="0.05">
 <Allolog Form="уплачиваемая"/>
 <Allolog Form="уплачивали"/>
 <Allolog Form="уплачивать"/>
@@ -1656,13 +1645,16 @@
 <Allolog Form="уплачиваются"/>
 <Allolog Form="уплачивается"/>
 <Allolog Form="уплачивающих"/>
+<Allolog Form="уплачиваться"/>
+<Allolog Form="уплачивающие"/>
+<Allolog Form="уплачивающего"/>
 </Word>
 
-<Word Stem="комиссионных" Weight="0.0549986162999862">
+<Word Stem="комиссионных" Weight="0.0538677741838558">
 <Allolog Form="комиссионных"/>
 </Word>
 
-<Word Stem="оплачива" Weight="0.0543860881742739">
+<Word Stem="оплачива" Weight="0.05">
 <Allolog Form="оплачивать"/>
 <Allolog Form="оплачивает"/>
 <Allolog Form="оплачивают"/>
@@ -1679,13 +1671,18 @@
 <Allolog Form="оплачиваемый"/>
 <Allolog Form="оплачиваемое"/>
 <Allolog Form="оплачиваться"/>
-<Allolog Form="оплачиваемым"/>
+<Allolog Form="оплачиваем"/>
 <Allolog Form="оплачивала"/>
-<Allolog Form="оплачивался"/>
+<Allolog Form="оплачиваемым"/>
+<Allolog Form="оплачиваете"/>
+<Allolog Form="оплачивающие"/>
 <Allolog Form="оплачиваю"/>
+<Allolog Form="оплачивался"/>
+<Allolog Form="оплачивалось"/>
+<Allolog Form="оплачивающим"/>
 </Word>
 
-<Word Stem="предпринимател" Weight="0.120427536503178">
+<Word Stem="предпринимател" Weight="0.0674567915459156">
 <Allolog Form="предпринимателем"/>
 <Allolog Form="предприниматель"/>
 <Allolog Form="предпринимателями"/>
@@ -1695,16 +1692,18 @@
 <Allolog Form="предприниматели"/>
 <Allolog Form="предпринимателям"/>
 <Allolog Form="предпринимателе"/>
+<Allolog Form="предпринимателях"/>
 </Word>
 
-<Word Stem="кредитован" Weight="0.0532232070910556">
+<Word Stem="кредитован" Weight="0.0524621575668079">
 <Allolog Form="кредитованию"/>
 <Allolog Form="кредитование"/>
 <Allolog Form="кредитования"/>
 <Allolog Form="кредитовании"/>
+<Allolog Form="кредитованием"/>
 </Word>
 
-<Word Stem="банковск" Weight="0.526740391944633">
+<Word Stem="банковск" Weight="0.504156560699016">
 <Allolog Form="банковской"/>
 <Allolog Form="банковская"/>
 <Allolog Form="банковский"/>
@@ -1718,41 +1717,47 @@
 <Allolog Form="банковскими"/>
 </Word>
 
-<Word Stem="филиал" Weight="0.0513979882205016">
+<Word Stem="филиал" Weight="0.05">
 <Allolog Form="филиалов"/>
+<Allolog Form="филиале"/>
 <Allolog Form="филиалом"/>
 <Allolog Form="филиалу"/>
 <Allolog Form="филиалах"/>
 <Allolog Form="филиалы"/>
 <Allolog Form="филиалами"/>
+<Allolog Form="филиалам"/>
 </Word>
 
-<Word Stem="найм" Weight="0.0530499054471657">
+<Word Stem="найм" Weight="0.0516925472086297">
 <Allolog Form="найму"/>
 <Allolog Form="найма"/>
 <Allolog Form="найм"/>
 <Allolog Form="найме"/>
-<Allolog Form="наймем"/>
 <Allolog Form="наймите"/>
+<Allolog Form="наймитесь"/>
+<Allolog Form="наймом"/>
+<Allolog Form="наймах"/>
+<Allolog Form="наймем"/>
 <Allolog Form="найми"/>
 </Word>
 
-<Word Stem="коммерческ" Weight="0.518430569013222">
+<Word Stem="коммерческ" Weight="0.5">
 <Allolog Form="коммерческой"/>
 <Allolog Form="коммерческих"/>
 <Allolog Form="коммерческом"/>
+<Allolog Form="коммерческого"/>
 <Allolog Form="коммерческая"/>
 <Allolog Form="коммерческую"/>
 <Allolog Form="коммерческие"/>
-<Allolog Form="коммерческого"/>
 <Allolog Form="коммерческий"/>
 <Allolog Form="коммерческим"/>
 <Allolog Form="коммерческое"/>
 <Allolog Form="коммерческими"/>
 <Allolog Form="коммерчески"/>
+<Allolog Form="коммерческо"/>
 </Word>
 
-<Word Stem="зарплат" Weight="0.0821576145881612">
+<Word Stem="зарплат" Weight="0.0615204496448611">
 <Allolog Form="зарплату"/>
 <Allolog Form="зарплата"/>
 <Allolog Form="зарплате"/>
@@ -1762,7 +1767,7 @@
 <Allolog Form="зарплатах"/>
 </Word>
 
-<Word Stem="актив" Weight="0.0739135569201701">
+<Word Stem="актив" Weight="0.0697828520480646">
 <Allolog Form="активов"/>
 <Allolog Form="активы"/>
 <Allolog Form="активами"/>
@@ -1775,7 +1780,7 @@
 <Allolog Form="активи"/>
 </Word>
 
-<Word Stem="кредитн" Weight="0.51541095890411">
+<Word Stem="кредитн" Weight="0.503314234438168">
 <Allolog Form="кредитной"/>
 <Allolog Form="кредитными"/>
 <Allolog Form="кредитного"/>
@@ -1786,44 +1791,49 @@
 <Allolog Form="кредитно"/>
 <Allolog Form="кредитное"/>
 <Allolog Form="кредитном"/>
+<Allolog Form="кредитным"/>
 </Word>
 
-<Word Stem="доход" Weight="0.747199111201401">
+<Word Stem="доход" Weight="0.601912077453139">
 <Allolog Form="доход"/>
 <Allolog Form="доходов"/>
 <Allolog Form="доходы"/>
 <Allolog Form="доходах"/>
 <Allolog Form="доходить"/>
 <Allolog Form="доходя"/>
+<Allolog Form="дохода"/>
 <Allolog Form="доходила"/>
 <Allolog Form="доходил"/>
 <Allolog Form="доходившие"/>
-<Allolog Form="дохода"/>
 <Allolog Form="доходами"/>
 <Allolog Form="доходом"/>
 <Allolog Form="доходу"/>
 <Allolog Form="доходам"/>
 <Allolog Form="доходили"/>
 <Allolog Form="доходе"/>
-<Allolog Form="доходим"/>
-<Allolog Form="доходившего"/>
 <Allolog Form="доходившее"/>
 <Allolog Form="доходите"/>
+<Allolog Form="доходим"/>
+<Allolog Form="доходившего"/>
+<Allolog Form="доходишь"/>
 </Word>
 
-<Word Stem="рынок" Weight="0.565811125539473">
+<Word Stem="рынок" Weight="0.545417201648582">
 <Allolog Form="рынок"/>
 </Word>
 
 <Word Stem="поруч" Weight="0.05">
 <Allolog Form="поручившееся"/>
 <Allolog Form="поручили"/>
+<Allolog Form="поручитесь"/>
+<Allolog Form="поручила"/>
+<Allolog Form="поручил"/>
 <Allolog Form="поручиться"/>
 <Allolog Form="поручена"/>
 <Allolog Form="поручить"/>
-<Allolog Form="поручил"/>
-<Allolog Form="поручила"/>
 <Allolog Form="поручившего"/>
+<Allolog Form="поручив"/>
+<Allolog Form="поручись"/>
 <Allolog Form="поручите"/>
 <Allolog Form="поручая"/>
 </Word>
@@ -1834,13 +1844,14 @@
 <Allolog Form="страховку"/>
 <Allolog Form="страховкой"/>
 <Allolog Form="страховке"/>
+<Allolog Form="страховками"/>
 </Word>
 
-<Word Stem="налоговых" Weight="0.50220156555773">
+<Word Stem="налоговых" Weight="0.5">
 <Allolog Form="налоговых"/>
 </Word>
 
-<Word Stem="кредитор" Weight="0.0533293816627129">
+<Word Stem="кредитор" Weight="0.05">
 <Allolog Form="кредитора"/>
 <Allolog Form="кредитору"/>
 <Allolog Form="кредитор"/>
@@ -1854,19 +1865,19 @@
 <Word Stem="невыгодн" Weight="0.0577425637850528">
 <Allolog Form="невыгодная"/>
 <Allolog Form="невыгодно"/>
-<Allolog Form="невыгодной"/>
+<Allolog Form="невыгодные"/>
 <Allolog Form="невыгодном"/>
+<Allolog Form="невыгодной"/>
 <Allolog Form="невыгодным"/>
 <Allolog Form="невыгодными"/>
 <Allolog Form="невыгодное"/>
 <Allolog Form="невыгодность"/>
-<Allolog Form="невыгодные"/>
 <Allolog Form="невыгодна"/>
 <Allolog Form="невыгодности"/>
 <Allolog Form="невыгодный"/>
 <Allolog Form="невыгодную"/>
-<Allolog Form="невыгодного"/>
 <Allolog Form="невыгодны"/>
+<Allolog Form="невыгодного"/>
 </Word>
 
 <Word Stem="продав" Weight="0.0533974777125462">
@@ -1879,9 +1890,10 @@
 <Allolog Form="закупочной"/>
 <Allolog Form="закупочными"/>
 <Allolog Form="закупочная"/>
+<Allolog Form="закупочным"/>
 </Word>
 
-<Word Stem="тариф" Weight="0.0568211285867298">
+<Word Stem="тариф" Weight="0.0544429310895319">
 <Allolog Form="тарифах"/>
 <Allolog Form="тарифов"/>
 <Allolog Form="тариф"/>
@@ -1890,6 +1902,8 @@
 <Allolog Form="тарифами"/>
 <Allolog Form="тарифам"/>
 <Allolog Form="тарифе"/>
+<Allolog Form="тарифу"/>
+<Allolog Form="тарифом"/>
 </Word>
 
 <Word Stem="профессиональных" Weight="0.05">
@@ -1905,7 +1919,7 @@
 <Allolog Form="депозита"/>
 </Word>
 
-<Word Stem="импортн" Weight="0.503456243894497">
+<Word Stem="импортн" Weight="0.502760114298785">
 <Allolog Form="импортный"/>
 <Allolog Form="импортную"/>
 <Allolog Form="импортного"/>
@@ -1918,7 +1932,7 @@
 <Allolog Form="импортными"/>
 </Word>
 
-<Word Stem="финанс" Weight="0.504079714702894">
+<Word Stem="финанс" Weight="0.5">
 <Allolog Form="финансов"/>
 <Allolog Form="финансы"/>
 <Allolog Form="финансам"/>
@@ -1927,29 +1941,18 @@
 <Allolog Form="финансо"/>
 </Word>
 
-<Word Stem="приток" Weight="0.00101409714327298">
-<Allolog Form="притока"/>
-<Allolog Form="приток"/>
-<Allolog Form="притоку"/>
-<Allolog Form="притоков"/>
-<Allolog Form="притоком"/>
-<Allolog Form="притоки"/>
-<Allolog Form="притоке"/>
-<Allolog Form="притоками"/>
-</Word>
-
-<Word Stem="излишек" Weight="0.0513881649196571">
+<Word Stem="излишек" Weight="0.05">
 <Allolog Form="излишек"/>
 </Word>
 
-<Word Stem="электроэнерг" Weight="0.0592261296258434">
+<Word Stem="электроэнерг" Weight="0.0577400503964116">
 <Allolog Form="электроэнергии"/>
-<Allolog Form="электроэнергия"/>
-<Allolog Form="электроэнергию"/>
 <Allolog Form="электроэнергией"/>
+<Allolog Form="электроэнергию"/>
+<Allolog Form="электроэнергия"/>
 </Word>
 
-<Word Stem="прилавк" Weight="0.0514242800660128">
+<Word Stem="прилавк" Weight="0.05">
 <Allolog Form="прилавках"/>
 <Allolog Form="прилавком"/>
 <Allolog Form="прилавкам"/>
@@ -1961,7 +1964,7 @@
 <Allolog Form="прилавка"/>
 </Word>
 
-<Word Stem="застрахова" Weight="0.077682576657227">
+<Word Stem="застрахова" Weight="0.0777545435749345">
 <Allolog Form="застрахованы"/>
 <Allolog Form="застрахована"/>
 <Allolog Form="застраховано"/>
@@ -1976,29 +1979,19 @@
 <Allolog Form="застрахованными"/>
 <Allolog Form="застраховав"/>
 <Allolog Form="застраховаться"/>
+<Allolog Form="застраховали"/>
+<Allolog Form="застрахованную"/>
 </Word>
 
-<Word Stem="годов" Weight="0.00452561071932611">
-<Allolog Form="годовой"/>
-<Allolog Form="годовые"/>
-<Allolog Form="годовыми"/>
-<Allolog Form="годовая"/>
-<Allolog Form="годовую"/>
-<Allolog Form="годового"/>
-<Allolog Form="годовым"/>
-<Allolog Form="годовом"/>
-<Allolog Form="годовое"/>
-<Allolog Form="годовы"/>
-</Word>
-
-<Word Stem="производительн" Weight="0.105699362906199">
+<Word Stem="производительн" Weight="0.0994155018655737">
 <Allolog Form="производительности"/>
 <Allolog Form="производительность"/>
 <Allolog Form="производительностью"/>
+<Allolog Form="производительней"/>
+<Allolog Form="производительной"/>
 <Allolog Form="производительные"/>
 <Allolog Form="производительную"/>
 <Allolog Form="производительными"/>
-<Allolog Form="производительной"/>
 <Allolog Form="производительна"/>
 <Allolog Form="производительная"/>
 <Allolog Form="производительным"/>
@@ -2007,15 +2000,14 @@
 <Allolog Form="производительно"/>
 <Allolog Form="производительный"/>
 <Allolog Form="производительном"/>
-<Allolog Form="производительней"/>
 <Allolog Form="производительнее"/>
 <Allolog Form="производительное"/>
 </Word>
 
 <Word Stem="скупа" Weight="0.0518733169418101">
 <Allolog Form="скупают"/>
-<Allolog Form="скупал"/>
 <Allolog Form="скупать"/>
+<Allolog Form="скупал"/>
 <Allolog Form="скупает"/>
 <Allolog Form="скупали"/>
 <Allolog Form="скупаемой"/>
@@ -2046,9 +2038,10 @@
 <Allolog Form="кооперативными"/>
 <Allolog Form="кооперативном"/>
 <Allolog Form="кооперативную"/>
+<Allolog Form="кооперативное"/>
 </Word>
 
-<Word Stem="торговых" Weight="0.512917752237009">
+<Word Stem="торговых" Weight="0.504753306799666">
 <Allolog Form="торговых"/>
 </Word>
 
@@ -2063,22 +2056,25 @@
 <Allolog Form="металлургическим"/>
 </Word>
 
-<Word Stem="производим" Weight="0.0588543496077743">
+<Word Stem="производим" Weight="0.0565321410196629">
 <Allolog Form="производимые"/>
 <Allolog Form="производимой"/>
-<Allolog Form="производимое"/>
 <Allolog Form="производимого"/>
+<Allolog Form="производимое"/>
 <Allolog Form="производимый"/>
 <Allolog Form="производимым"/>
 <Allolog Form="производимая"/>
 <Allolog Form="производимую"/>
 <Allolog Form="производимыми"/>
+<Allolog Form="производимом"/>
 </Word>
 
 <Word Stem="израсходова" Weight="0.0533974777125462">
 <Allolog Form="израсходованного"/>
 <Allolog Form="израсходованы"/>
 <Allolog Form="израсходованными"/>
+<Allolog Form="израсходованную"/>
+<Allolog Form="израсходованные"/>
 <Allolog Form="израсходовать"/>
 <Allolog Form="израсходовал"/>
 <Allolog Form="израсходовало"/>
@@ -2088,14 +2084,13 @@
 <Allolog Form="израсходован"/>
 <Allolog Form="израсходовано"/>
 <Allolog Form="израсходовали"/>
-<Allolog Form="израсходованные"/>
 <Allolog Form="израсходованное"/>
 <Allolog Form="израсходовалась"/>
 <Allolog Form="израсходовав"/>
 <Allolog Form="израсходовавших"/>
 </Word>
 
-<Word Stem="экономик" Weight="0.619895549002319">
+<Word Stem="экономик" Weight="0.599094135168591">
 <Allolog Form="экономики"/>
 <Allolog Form="экономике"/>
 <Allolog Form="экономику"/>
@@ -2107,7 +2102,7 @@
 <Allolog Form="экономиками"/>
 </Word>
 
-<Word Stem="экономическ" Weight="0.704314819861133">
+<Word Stem="экономическ" Weight="0.597323167182771">
 <Allolog Form="экономических"/>
 <Allolog Form="экономическом"/>
 <Allolog Form="экономический"/>
@@ -2123,7 +2118,7 @@
 <Allolog Form="экономическо"/>
 </Word>
 
-<Word Stem="держател" Weight="0.0518252515439136">
+<Word Stem="держател" Weight="0.0512194706828869">
 <Allolog Form="держателя"/>
 <Allolog Form="держатель"/>
 <Allolog Form="держателей"/>
@@ -2132,9 +2127,10 @@
 <Allolog Form="держателю"/>
 <Allolog Form="держателе"/>
 <Allolog Form="держателем"/>
+<Allolog Form="держателям"/>
 </Word>
 
-<Word Stem="излишк" Weight="0.00372332981781051">
+<Word Stem="излишк" Weight="0.00233017980192345">
 <Allolog Form="излишков"/>
 <Allolog Form="излишки"/>
 <Allolog Form="излишку"/>
@@ -2145,18 +2141,18 @@
 <Allolog Form="излишком"/>
 </Word>
 
-<Word Stem="поставщик" Weight="0.062966024598051">
+<Word Stem="поставщик" Weight="0.0528584079465355">
 <Allolog Form="поставщиков"/>
 <Allolog Form="поставщики"/>
+<Allolog Form="поставщика"/>
+<Allolog Form="поставщиком"/>
 <Allolog Form="поставщику"/>
 <Allolog Form="поставщикам"/>
-<Allolog Form="поставщиком"/>
 <Allolog Form="поставщиками"/>
-<Allolog Form="поставщика"/>
 <Allolog Form="поставщик"/>
 </Word>
 
-<Word Stem="квартал" Weight="0.053748611625324">
+<Word Stem="квартал" Weight="0.0521463563485331">
 <Allolog Form="квартале"/>
 <Allolog Form="кварталы"/>
 <Allolog Form="кварталов"/>
@@ -2164,9 +2160,10 @@
 <Allolog Form="кварталами"/>
 <Allolog Form="кварталу"/>
 <Allolog Form="кварталом"/>
+<Allolog Form="кварталам"/>
 </Word>
 
-<Word Stem="ценов" Weight="0.501712328767123">
+<Word Stem="ценов" Weight="0.5">
 <Allolog Form="ценовая"/>
 <Allolog Form="ценовом"/>
 <Allolog Form="ценовые"/>
@@ -2175,50 +2172,51 @@
 <Allolog Form="ценовую"/>
 </Word>
 
-<Word Stem="тратят" Weight="0.0518733169418101">
+<Word Stem="тратят" Weight="0.05">
 <Allolog Form="тратят"/>
 <Allolog Form="тратятся"/>
 </Word>
 
-<Word Stem="издержек" Weight="0.112269441483645">
+<Word Stem="издержек" Weight="0.10563997441432">
 <Allolog Form="издержек"/>
 </Word>
 
-<Word Stem="конфискац" Weight="0.0527065841802917">
+<Word Stem="конфискац" Weight="0.05">
 <Allolog Form="конфискацией"/>
 <Allolog Form="конфискации"/>
 <Allolog Form="конфискация"/>
 <Allolog Form="конфискаций"/>
 <Allolog Form="конфискациям"/>
+<Allolog Form="конфискацию"/>
 </Word>
 
-<Word Stem="конкурирова" Weight="0.0575578649031649">
+<Word Stem="конкурирова" Weight="0.0543741630568787">
 <Allolog Form="конкурировать"/>
+<Allolog Form="конкурировал"/>
 <Allolog Form="конкурировали"/>
 <Allolog Form="конкурировала"/>
-<Allolog Form="конкурировал"/>
 </Word>
 
-<Word Stem="персона" Weight="0.0543452185919928">
+<Word Stem="персона" Weight="0.05">
 <Allolog Form="персонал"/>
 <Allolog Form="персонала"/>
 </Word>
 
-<Word Stem="финансов" Weight="0.530318828216775">
+<Word Stem="финансов" Weight="0.5">
 <Allolog Form="финансовым"/>
 <Allolog Form="финансовая"/>
-<Allolog Form="финансовый"/>
-<Allolog Form="финансовые"/>
-<Allolog Form="финансовую"/>
+<Allolog Form="финансовое"/>
 <Allolog Form="финансовой"/>
+<Allolog Form="финансовые"/>
+<Allolog Form="финансовый"/>
+<Allolog Form="финансовую"/>
 <Allolog Form="финансовыми"/>
 <Allolog Form="финансовом"/>
-<Allolog Form="финансовое"/>
 <Allolog Form="финансового"/>
 <Allolog Form="финансово"/>
 </Word>
 
-<Word Stem="выплачива" Weight="0.0650343242319759">
+<Word Stem="выплачива" Weight="0.0552233433364887">
 <Allolog Form="выплачивает"/>
 <Allolog Form="выплачиваться"/>
 <Allolog Form="выплачивают"/>
@@ -2239,50 +2237,61 @@
 <Allolog Form="выплачивалось"/>
 <Allolog Form="выплачиваемой"/>
 <Allolog Form="выплачиваемое"/>
+<Allolog Form="выплачиваете"/>
+<Allolog Form="выплачиваемого"/>
+<Allolog Form="выплачиваем"/>
 </Word>
 
-<Word Stem="бюджет" Weight="0.528650729698272">
+<Word Stem="бюджет" Weight="0.504448592009547">
 <Allolog Form="бюджете"/>
 <Allolog Form="бюджета"/>
-<Allolog Form="бюджеты"/>
-<Allolog Form="бюджетов"/>
-<Allolog Form="бюджету"/>
 <Allolog Form="бюджет"/>
+<Allolog Form="бюджетов"/>
+<Allolog Form="бюджеты"/>
+<Allolog Form="бюджету"/>
 <Allolog Form="бюджетом"/>
 <Allolog Form="бюджетами"/>
 <Allolog Form="бюджетах"/>
+<Allolog Form="бюджетам"/>
 </Word>
 
-<Word Stem="аренд" Weight="0.503801496429978">
+<Word Stem="аренд" Weight="0.5">
 <Allolog Form="аренды"/>
 <Allolog Form="аренду"/>
-<Allolog Form="аренде"/>
 <Allolog Form="аренда"/>
+<Allolog Form="аренде"/>
 <Allolog Form="арендуйте"/>
 <Allolog Form="арендой"/>
 <Allolog Form="аренд"/>
 </Word>
 
-<Word Stem="брокер" Weight="0.0523683934288564">
+<Word Stem="брокер" Weight="0.05">
 <Allolog Form="брокеров"/>
 <Allolog Form="брокеры"/>
 <Allolog Form="брокерами"/>
 <Allolog Form="брокера"/>
 <Allolog Form="брокер"/>
 <Allolog Form="брокерам"/>
+<Allolog Form="брокеру"/>
+<Allolog Form="брокером"/>
+<Allolog Form="брокере"/>
 </Word>
 
-<Word Stem="возмест" Weight="0.0510962528085816">
+<Word Stem="возмест" Weight="0.05">
 <Allolog Form="возместить"/>
 <Allolog Form="возместил"/>
 <Allolog Form="возместите"/>
+<Allolog Form="возместили"/>
+<Allolog Form="возместив"/>
+<Allolog Form="возместила"/>
+<Allolog Form="возместившей"/>
 </Word>
 
-<Word Stem="произведенных" Weight="0.0514312941261848">
+<Word Stem="произведенных" Weight="0.05">
 <Allolog Form="произведенных"/>
 </Word>
 
-<Word Stem="прем" Weight="0.0551323160267226">
+<Word Stem="прем" Weight="0.05">
 <Allolog Form="премию"/>
 <Allolog Form="премии"/>
 <Allolog Form="премия"/>
@@ -2294,7 +2303,7 @@
 <Allolog Form="премиях"/>
 </Word>
 
-<Word Stem="убытк" Weight="0.06409346819201">
+<Word Stem="убытк" Weight="0.05">
 <Allolog Form="убытков"/>
 <Allolog Form="убытки"/>
 <Allolog Form="убытках"/>
@@ -2307,23 +2316,24 @@
 
 <Word Stem="благосклон" Weight="0.0518733169418101">
 <Allolog Form="благосклонно"/>
+<Allolog Form="благосклонна"/>
 <Allolog Form="благосклонны"/>
 <Allolog Form="благосклонная"/>
 <Allolog Form="благосклонность"/>
 <Allolog Form="благосклонности"/>
 <Allolog Form="благосклонного"/>
+<Allolog Form="благосклонностью"/>
 <Allolog Form="благосклонной"/>
 <Allolog Form="благосклонное"/>
-<Allolog Form="благосклонностью"/>
 <Allolog Form="благосклоннее"/>
 </Word>
 
-<Word Stem="чиновник" Weight="0.0537581627957225">
+<Word Stem="чиновник" Weight="0.05">
 <Allolog Form="чиновников"/>
 <Allolog Form="чиновники"/>
 <Allolog Form="чиновник"/>
-<Allolog Form="чиновника"/>
 <Allolog Form="чиновником"/>
+<Allolog Form="чиновника"/>
 <Allolog Form="чиновникам"/>
 <Allolog Form="чиновниках"/>
 <Allolog Form="чиновниками"/>
@@ -2331,7 +2341,7 @@
 <Allolog Form="чиновнике"/>
 </Word>
 
-<Word Stem="муниципальн" Weight="0.0584831243507043">
+<Word Stem="муниципальн" Weight="0.05">
 <Allolog Form="муниципальные"/>
 <Allolog Form="муниципальным"/>
 <Allolog Form="муниципальными"/>
@@ -2341,24 +2351,25 @@
 <Allolog Form="муниципальную"/>
 <Allolog Form="муниципальном"/>
 <Allolog Form="муниципальной"/>
+<Allolog Form="муниципальная"/>
 </Word>
 
-<Word Stem="компаньон" Weight="0.0541027592397455">
+<Word Stem="компаньон" Weight="0.0514783722830154">
 <Allolog Form="компаньон"/>
 <Allolog Form="компаньоном"/>
-<Allolog Form="компаньонами"/>
-<Allolog Form="компаньону"/>
+<Allolog Form="компаньона"/>
 <Allolog Form="компаньонов"/>
 <Allolog Form="компаньоны"/>
-<Allolog Form="компаньона"/>
+<Allolog Form="компаньону"/>
+<Allolog Form="компаньонами"/>
 <Allolog Form="компаньонам"/>
 </Word>
 
-<Word Stem="производимых" Weight="0.0551792660240149">
+<Word Stem="производимых" Weight="0.0535501108161363">
 <Allolog Form="производимых"/>
 </Word>
 
-<Word Stem="бухгалтер" Weight="0.501347459601383">
+<Word Stem="бухгалтер" Weight="0.5">
 <Allolog Form="бухгалтеры"/>
 <Allolog Form="бухгалтера"/>
 <Allolog Form="бухгалтер"/>
@@ -2367,35 +2378,41 @@
 <Allolog Form="бухгалтером"/>
 <Allolog Form="бухгалтерии"/>
 <Allolog Form="бухгалтерам"/>
+<Allolog Form="бухгалтерами"/>
 <Allolog Form="бухгалтерия"/>
 <Allolog Form="бухгалтерию"/>
+<Allolog Form="бухгалтерией"/>
+<Allolog Form="бухгалтере"/>
 </Word>
 
-<Word Stem="гражданств" Weight="0.0520364733074018">
+<Word Stem="гражданств" Weight="0.05">
 <Allolog Form="гражданства"/>
 <Allolog Form="гражданство"/>
 <Allolog Form="гражданстве"/>
 <Allolog Form="гражданств"/>
+<Allolog Form="гражданством"/>
+<Allolog Form="гражданству"/>
 </Word>
 
-<Word Stem="наличн" Weight="0.0629247549408082">
+<Word Stem="наличн" Weight="0.0582362219593867">
 <Allolog Form="наличными"/>
 <Allolog Form="наличный"/>
+<Allolog Form="наличные"/>
+<Allolog Form="наличной"/>
 <Allolog Form="наличного"/>
 <Allolog Form="наличном"/>
 <Allolog Form="наличная"/>
 <Allolog Form="наличным"/>
 <Allolog Form="налично"/>
-<Allolog Form="наличные"/>
 <Allolog Form="наличности"/>
 <Allolog Form="наличность"/>
-<Allolog Form="наличной"/>
 <Allolog Form="наличное"/>
 <Allolog Form="наличностью"/>
 <Allolog Form="наличную"/>
+<Allolog Form="наличною"/>
 </Word>
 
-<Word Stem="выручк" Weight="0.0682400238237046">
+<Word Stem="выручк" Weight="0.0635637794734002">
 <Allolog Form="выручки"/>
 <Allolog Form="выручку"/>
 <Allolog Form="выручка"/>
@@ -2403,7 +2420,7 @@
 <Allolog Form="выручке"/>
 </Word>
 
-<Word Stem="нанима" Weight="0.0532232070910556">
+<Word Stem="нанима" Weight="0.0510566352357319">
 <Allolog Form="нанимайте"/>
 <Allolog Form="нанимались"/>
 <Allolog Form="нанимающий"/>
@@ -2418,20 +2435,12 @@
 <Allolog Form="наниматься"/>
 <Allolog Form="нанималось"/>
 <Allolog Form="нанимался"/>
+<Allolog Form="нанимаете"/>
+<Allolog Form="нанимаем"/>
+<Allolog Form="нанимала"/>
 </Word>
 
-<Word Stem="заказчик" Weight="0.00287766362252664">
-<Allolog Form="заказчику"/>
-<Allolog Form="заказчика"/>
-<Allolog Form="заказчиком"/>
-<Allolog Form="заказчиками"/>
-<Allolog Form="заказчиков"/>
-<Allolog Form="заказчики"/>
-<Allolog Form="заказчик"/>
-<Allolog Form="заказчикам"/>
-</Word>
-
-<Word Stem="арендн" Weight="0.0548184135074865">
+<Word Stem="арендн" Weight="0.0517764721557585">
 <Allolog Form="арендной"/>
 <Allolog Form="арендную"/>
 <Allolog Form="арендные"/>
@@ -2439,15 +2448,16 @@
 <Allolog Form="арендном"/>
 <Allolog Form="арендная"/>
 <Allolog Form="арендного"/>
+<Allolog Form="арендный"/>
 </Word>
 
-<Word Stem="фонд" Weight="0.531036938310967">
+<Word Stem="фонд" Weight="0.502064573830687">
 <Allolog Form="фондов"/>
 <Allolog Form="фондом"/>
 <Allolog Form="фонд"/>
+<Allolog Form="фонда"/>
 <Allolog Form="фондю"/>
 <Allolog Form="фонды"/>
-<Allolog Form="фонда"/>
 <Allolog Form="фондам"/>
 <Allolog Form="фондах"/>
 <Allolog Form="фонде"/>
@@ -2456,26 +2466,29 @@
 <Allolog Form="фондо"/>
 </Word>
 
-<Word Stem="исчисля" Weight="0.0535726365635041">
+<Word Stem="исчисля" Weight="0.05">
 <Allolog Form="исчисляться"/>
 <Allolog Form="исчисляются"/>
 <Allolog Form="исчисляемую"/>
 <Allolog Form="исчисляется"/>
-<Allolog Form="исчисляли"/>
+<Allolog Form="исчисляющееся"/>
 <Allolog Form="исчисляемое"/>
+<Allolog Form="исчисляют"/>
+<Allolog Form="исчислялся"/>
+<Allolog Form="исчисляли"/>
 <Allolog Form="исчислялись"/>
 <Allolog Form="исчислялось"/>
 <Allolog Form="исчисляемые"/>
 <Allolog Form="исчислялась"/>
-<Allolog Form="исчисляют"/>
 <Allolog Form="исчислять"/>
 <Allolog Form="исчисляющий"/>
 <Allolog Form="исчисляющее"/>
 <Allolog Form="исчисляет"/>
 <Allolog Form="исчисляемого"/>
-<Allolog Form="исчисляющееся"/>
 <Allolog Form="исчислявшиеся"/>
-<Allolog Form="исчислялся"/>
+<Allolog Form="исчисляемый"/>
+<Allolog Form="исчисляемым"/>
+<Allolog Form="исчисляемая"/>
 </Word>
 
 <Word Stem="облага" Weight="0.0541027592397455">
@@ -2489,53 +2502,46 @@
 <Allolog Form="облагаемый"/>
 <Allolog Form="облагают"/>
 <Allolog Form="облагаемой"/>
+<Allolog Form="облагаемым"/>
 <Allolog Form="облагаться"/>
 </Word>
 
-<Word Stem="месячн" Weight="0.00129130305861906">
-<Allolog Form="месячного"/>
-<Allolog Form="месячный"/>
-<Allolog Form="месячной"/>
-<Allolog Form="месячным"/>
-<Allolog Form="месячные"/>
-<Allolog Form="месячную"/>
-<Allolog Form="месячная"/>
-<Allolog Form="месячное"/>
-<Allolog Form="месячном"/>
-</Word>
-
-<Word Stem="переговор" Weight="0.054063826509316">
+<Word Stem="переговор" Weight="0.05">
 <Allolog Form="переговорам"/>
 <Allolog Form="переговоры"/>
 <Allolog Form="переговоров"/>
 <Allolog Form="переговорах"/>
 <Allolog Form="переговорами"/>
-<Allolog Form="переговорены"/>
 <Allolog Form="переговорю"/>
+<Allolog Form="переговорены"/>
 <Allolog Form="переговорила"/>
 <Allolog Form="переговорил"/>
 <Allolog Form="переговорили"/>
+<Allolog Form="переговорить"/>
+<Allolog Form="переговорим"/>
+<Allolog Form="переговори"/>
+<Allolog Form="переговорив"/>
 </Word>
 
 <Word Stem="прошен" Weight="0.0515537798072045">
 <Allolog Form="прошение"/>
-<Allolog Form="прошения"/>
 <Allolog Form="прошением"/>
+<Allolog Form="прошения"/>
 <Allolog Form="прошении"/>
 <Allolog Form="прошений"/>
 <Allolog Form="прошенно"/>
 <Allolog Form="прошеная"/>
 </Word>
 
-<Word Stem="законных" Weight="0.0527065841802917">
+<Word Stem="законных" Weight="0.05">
 <Allolog Form="законных"/>
 </Word>
 
-<Word Stem="судебных" Weight="0.0510962528085816">
+<Word Stem="судебных" Weight="0.05">
 <Allolog Form="судебных"/>
 </Word>
 
-<Word Stem="пенсионер" Weight="0.0060882800608828">
+<Word Stem="пенсионер" Weight="0.0038743722258648">
 <Allolog Form="пенсионеры"/>
 <Allolog Form="пенсионеру"/>
 <Allolog Form="пенсионерами"/>
@@ -2564,7 +2570,7 @@
 <Allolog Form="узаконенные"/>
 </Word>
 
-<Word Stem="должник" Weight="0.0560696549107795">
+<Word Stem="должник" Weight="0.05">
 <Allolog Form="должника"/>
 <Allolog Form="должников"/>
 <Allolog Form="должники"/>
@@ -2577,7 +2583,7 @@
 <Allolog Form="должниках"/>
 </Word>
 
-<Word Stem="заработн" Weight="0.62139051847587">
+<Word Stem="заработн" Weight="0.551735456988597">
 <Allolog Form="заработную"/>
 <Allolog Form="заработная"/>
 <Allolog Form="заработной"/>
@@ -2585,7 +2591,7 @@
 <Allolog Form="заработные"/>
 </Word>
 
-<Word Stem="пенс" Weight="0.192471466487429">
+<Word Stem="пенс" Weight="0.180518409723278">
 <Allolog Form="пенсию"/>
 <Allolog Form="пенсии"/>
 <Allolog Form="пенсий"/>
@@ -2596,9 +2602,11 @@
 <Allolog Form="пенсиям"/>
 <Allolog Form="пенсы"/>
 <Allolog Form="пенсов"/>
+<Allolog Form="пенса"/>
+<Allolog Form="пенс"/>
 </Word>
 
-<Word Stem="финансовых" Weight="0.507969620583975">
+<Word Stem="финансовых" Weight="0.5">
 <Allolog Form="финансовых"/>
 </Word>
 
@@ -2615,42 +2623,20 @@
 <Allolog Form="обложен"/>
 </Word>
 
-<Word Stem="бизнесм" Weight="0.0520364733074018">
+<Word Stem="бизнесм" Weight="0.05">
 <Allolog Form="бизнесмена"/>
 <Allolog Form="бизнесмены"/>
 </Word>
 
-<Word Stem="сертификат" Weight="0.0518733169418101">
+<Word Stem="сертификат" Weight="0.05">
 <Allolog Form="сертификат"/>
 <Allolog Form="сертификаты"/>
 <Allolog Form="сертификатом"/>
 <Allolog Form="сертификата"/>
 <Allolog Form="сертификатами"/>
 <Allolog Form="сертификатов"/>
-</Word>
-
-<Word Stem="усовершенствова" Weight="0.00398264391242976">
-<Allolog Form="усовершенствовать"/>
-<Allolog Form="усовершенствовали"/>
-<Allolog Form="усовершенствованный"/>
-<Allolog Form="усовершенствованное"/>
-<Allolog Form="усовершенствованные"/>
-<Allolog Form="усовершенствована"/>
-<Allolog Form="усовершенствованная"/>
-<Allolog Form="усовершенствован"/>
-<Allolog Form="усовершенствовано"/>
-<Allolog Form="усовершенствовал"/>
-<Allolog Form="усовершенствованы"/>
-<Allolog Form="усовершенствованного"/>
-<Allolog Form="усовершенствовалась"/>
-<Allolog Form="усовершенствовались"/>
-<Allolog Form="усовершенствованной"/>
-<Allolog Form="усовершенствовало"/>
-<Allolog Form="усовершенствоваться"/>
-<Allolog Form="усовершенствованном"/>
-<Allolog Form="усовершенствовавшие"/>
-<Allolog Form="усовершенствованную"/>
-<Allolog Form="усовершенствовав"/>
+<Allolog Form="сертификату"/>
+<Allolog Form="сертификате"/>
 </Word>
 
 <Word Stem="эксплуатируем" Weight="0.0518733169418101">
@@ -2673,14 +2659,17 @@
 <Allolog Form="ликвидной"/>
 </Word>
 
-<Word Stem="сберкасс" Weight="0.0525367833587012">
+<Word Stem="сберкасс" Weight="0.05">
 <Allolog Form="сберкассе"/>
 <Allolog Form="сберкассы"/>
 <Allolog Form="сберкассах"/>
 <Allolog Form="сберкассу"/>
+<Allolog Form="сберкасс"/>
+<Allolog Form="сберкассой"/>
+<Allolog Form="сберкасса"/>
 </Word>
 
-<Word Stem="снабжа" Weight="0.0522248210659163">
+<Word Stem="снабжа" Weight="0.0517597631926957">
 <Allolog Form="снабжаются"/>
 <Allolog Form="снабжают"/>
 <Allolog Form="снабжаемые"/>
@@ -2689,13 +2678,13 @@
 <Allolog Form="снабжает"/>
 <Allolog Form="снабжать"/>
 <Allolog Form="снабжающие"/>
+<Allolog Form="снабжали"/>
+<Allolog Form="снабжал"/>
 <Allolog Form="снабжающей"/>
 <Allolog Form="снабжавшим"/>
 <Allolog Form="снабжавшие"/>
-<Allolog Form="снабжали"/>
 <Allolog Form="снабжавших"/>
 <Allolog Form="снабжала"/>
-<Allolog Form="снабжал"/>
 <Allolog Form="снабжаемым"/>
 <Allolog Form="снабжаем"/>
 <Allolog Form="снабжающих"/>
@@ -2703,44 +2692,48 @@
 <Allolog Form="снабжаемую"/>
 <Allolog Form="снабжайте"/>
 <Allolog Form="снабжался"/>
+<Allolog Form="снабжались"/>
 <Allolog Form="снабжаемый"/>
 <Allolog Form="снабжаемая"/>
 <Allolog Form="снабжае"/>
 <Allolog Form="снабжаете"/>
+<Allolog Form="снабжало"/>
 </Word>
 
 <Word Stem="economy" Weight="0.0525367833587012">
 <Allolog Form="economy"/>
 </Word>
 
-<Word Stem="процвета" Weight="0.0540682660155194">
+<Word Stem="процвета" Weight="0.0519417485214429">
 <Allolog Form="процветающего"/>
 <Allolog Form="процветающим"/>
-<Allolog Form="процветали"/>
+<Allolog Form="процветающую"/>
+<Allolog Form="процветающий"/>
 <Allolog Form="процветала"/>
+<Allolog Form="процветать"/>
+<Allolog Form="процветали"/>
+<Allolog Form="процветает"/>
 <Allolog Form="процветал"/>
 <Allolog Form="процветающей"/>
-<Allolog Form="процветать"/>
-<Allolog Form="процветает"/>
 <Allolog Form="процветают"/>
-<Allolog Form="процветающий"/>
 <Allolog Form="процветающее"/>
 <Allolog Form="процветало"/>
 <Allolog Form="процветающих"/>
 <Allolog Form="процветающие"/>
 <Allolog Form="процветающими"/>
 <Allolog Form="процветавшей"/>
+<Allolog Form="процветающая"/>
 <Allolog Form="процветаем"/>
 </Word>
 
-<Word Stem="колониальн" Weight="0.0514967826271126">
+<Word Stem="колониальн" Weight="0.051531459808243">
 <Allolog Form="колониальные"/>
 <Allolog Form="колониальной"/>
 <Allolog Form="колониальная"/>
+<Allolog Form="колониальным"/>
 <Allolog Form="колониального"/>
 <Allolog Form="колониальный"/>
 <Allolog Form="колониальными"/>
-<Allolog Form="колониальным"/>
 <Allolog Form="колониальную"/>
 <Allolog Form="колониальном"/>
 </Word>
@@ -2751,11 +2744,11 @@
 <Allolog Form="ликвидируете"/>
 </Word>
 
-<Word Stem="ценных" Weight="0.0678624345038456">
+<Word Stem="ценных" Weight="0.0590446342964044">
 <Allolog Form="ценных"/>
 </Word>
 
-<Word Stem="периодизац" Weight="0.0512203301223755">
+<Word Stem="периодизац" Weight="0.0513481114291641">
 <Allolog Form="периодизация"/>
 <Allolog Form="периодизации"/>
 <Allolog Form="периодизацию"/>
@@ -2777,20 +2770,21 @@
 <Word Stem="добавочн" Weight="0.00572361745306951">
 <Allolog Form="добавочные"/>
 <Allolog Form="добавочным"/>
+<Allolog Form="добавочный"/>
 <Allolog Form="добавочными"/>
 <Allolog Form="добавочного"/>
 <Allolog Form="добавочно"/>
 <Allolog Form="добавочной"/>
-<Allolog Form="добавочный"/>
 <Allolog Form="добавочное"/>
+<Allolog Form="добавочную"/>
 </Word>
 
-<Word Stem="производя" Weight="0.0557746889565756">
+<Word Stem="производя" Weight="0.0530271733113236">
 <Allolog Form="производящих"/>
+<Allolog Form="производящей"/>
+<Allolog Form="производящие"/>
 <Allolog Form="производящее"/>
 <Allolog Form="производящая"/>
-<Allolog Form="производящие"/>
-<Allolog Form="производящей"/>
 <Allolog Form="производящую"/>
 <Allolog Form="производящим"/>
 <Allolog Form="производящий"/>
@@ -2802,12 +2796,12 @@
 
 <Word Stem="пересчет" Weight="0.0513979882205016">
 <Allolog Form="пересчете"/>
+<Allolog Form="пересчета"/>
 <Allolog Form="пересчету"/>
 <Allolog Form="пересчет"/>
-<Allolog Form="пересчета"/>
 </Word>
 
-<Word Stem="конкурентоспособн" Weight="0.063153798256538">
+<Word Stem="конкурентоспособн" Weight="0.0590569758441263">
 <Allolog Form="конкурентоспособность"/>
 <Allolog Form="конкурентоспособностью"/>
 <Allolog Form="конкурентоспособным"/>
@@ -2823,9 +2817,10 @@
 <Allolog Form="конкурентоспособна"/>
 <Allolog Form="конкурентоспособное"/>
 <Allolog Form="конкурентоспособная"/>
+<Allolog Form="конкурентоспособную"/>
 </Word>
 
-<Word Stem="земледел" Weight="0.0771043868692405">
+<Word Stem="земледел" Weight="0.0776121307764018">
 <Allolog Form="земледелия"/>
 <Allolog Form="земледелию"/>
 <Allolog Form="земледелие"/>
@@ -2852,7 +2847,7 @@
 <Allolog Form="организационных"/>
 </Word>
 
-<Word Stem="добыва" Weight="0.0579635932466602">
+<Word Stem="добыва" Weight="0.0558305302164398">
 <Allolog Form="добывающих"/>
 <Allolog Form="добывающие"/>
 <Allolog Form="добывается"/>
@@ -2870,24 +2865,26 @@
 <Allolog Form="добывающими"/>
 <Allolog Form="добывала"/>
 <Allolog Form="добывающую"/>
+<Allolog Form="добывал"/>
 <Allolog Form="добывалось"/>
 <Allolog Form="добываемый"/>
-<Allolog Form="добывал"/>
 <Allolog Form="добываемое"/>
 <Allolog Form="добываю"/>
 <Allolog Form="добывает"/>
 <Allolog Form="добывающего"/>
+<Allolog Form="добывайте"/>
+<Allolog Form="добываются"/>
 </Word>
 
 <Word Stem="добавочных" Weight="0.0528776636225266">
 <Allolog Form="добавочных"/>
 </Word>
 
-<Word Stem="наличных" Weight="0.0568211285867298">
+<Word Stem="наличных" Weight="0.0553816236797335">
 <Allolog Form="наличных"/>
 </Word>
 
-<Word Stem="хозяйствен" Weight="0.0812124766016944">
+<Word Stem="хозяйствен" Weight="0.0681284876870289">
 <Allolog Form="хозяйственное"/>
 <Allolog Form="хозяйственно"/>
 <Allolog Form="хозяйственную"/>
@@ -2901,6 +2898,7 @@
 <Allolog Form="хозяйственном"/>
 <Allolog Form="хозяйственными"/>
 <Allolog Form="хозяйственности"/>
+<Allolog Form="хозяйственность"/>
 </Word>
 
 <Word Stem="хозяйствован" Weight="0.0528776636225266">
@@ -2909,14 +2907,14 @@
 <Allolog Form="хозяйствование"/>
 </Word>
 
-<Word Stem="урбанизац" Weight="0.0551095609693383">
+<Word Stem="урбанизац" Weight="0.0551342739994877">
 <Allolog Form="урбанизация"/>
 <Allolog Form="урбанизации"/>
 <Allolog Form="урбанизацией"/>
 <Allolog Form="урбанизацию"/>
 </Word>
 
-<Word Stem="сельскохозяйствен" Weight="0.0679265216785011">
+<Word Stem="сельскохозяйствен" Weight="0.0566783324279697">
 <Allolog Form="сельскохозяйственные"/>
 <Allolog Form="сельскохозяйственными"/>
 <Allolog Form="сельскохозяйственное"/>
@@ -2930,18 +2928,19 @@
 <Allolog Form="сельскохозяйственную"/>
 <Allolog Form="сельскохозяйственые"/>
 <Allolog Form="сельскохозяйственны"/>
+<Allolog Form="сельскохозяйственая"/>
 </Word>
 
-<Word Stem="сельскохозяйственных" Weight="0.0566816413645857">
+<Word Stem="сельскохозяйственных" Weight="0.0550154563671755">
 <Allolog Form="сельскохозяйственных"/>
 </Word>
 
-<Word Stem="фермер" Weight="0.0594122123735339">
+<Word Stem="фермер" Weight="0.0546164311723406">
 <Allolog Form="фермеров"/>
 <Allolog Form="фермером"/>
 <Allolog Form="фермера"/>
-<Allolog Form="фермер"/>
 <Allolog Form="фермеры"/>
+<Allolog Form="фермер"/>
 <Allolog Form="фермерами"/>
 <Allolog Form="фермеру"/>
 <Allolog Form="фермерам"/>
@@ -2963,9 +2962,11 @@
 <Allolog Form="сберегающих"/>
 <Allolog Form="сберегаемую"/>
 <Allolog Form="сберегаемая"/>
+<Allolog Form="сберегаете"/>
+<Allolog Form="сберегающая"/>
 </Word>
 
-<Word Stem="экспорт" Weight="0.525239325482656">
+<Word Stem="экспорт" Weight="0.517606970616198">
 <Allolog Form="экспорт"/>
 <Allolog Form="экспорту"/>
 <Allolog Form="экспорта"/>
@@ -2973,7 +2974,7 @@
 <Allolog Form="экспорте"/>
 </Word>
 
-<Word Stem="урожайн" Weight="0.0528776636225266">
+<Word Stem="урожайн" Weight="0.0519696190653271">
 <Allolog Form="урожайность"/>
 <Allolog Form="урожайностью"/>
 <Allolog Form="урожайная"/>
@@ -2984,9 +2985,10 @@
 <Allolog Form="урожайным"/>
 </Word>
 
-<Word Stem="конкурир" Weight="0.0528720865529448">
+<Word Stem="конкурир" Weight="0.0514605257660179">
 <Allolog Form="конкурирующих"/>
 <Allolog Form="конкурирую"/>
+<Allolog Form="конкурирующей"/>
 <Allolog Form="конкурирующая"/>
 <Allolog Form="конкурирующие"/>
 <Allolog Form="конкурирующего"/>
@@ -2995,7 +2997,6 @@
 <Allolog Form="конкурируй"/>
 <Allolog Form="конкурирующими"/>
 <Allolog Form="конкурирующий"/>
-<Allolog Form="конкурирующей"/>
 </Word>
 
 <Word Stem="рант" Weight="0.0548184135074865">
@@ -3009,7 +3010,7 @@
 <Allolog Form="рантам"/>
 </Word>
 
-<Word Stem="хозяйственных" Weight="0.0566375175899601">
+<Word Stem="хозяйственных" Weight="0.0543678204345429">
 <Allolog Form="хозяйственных"/>
 </Word>
 
@@ -3024,29 +3025,31 @@
 <Allolog Form="индустриа"/>
 <Allolog Form="индустрия"/>
 <Allolog Form="индустрию"/>
+<Allolog Form="индустрий"/>
+<Allolog Form="индустриях"/>
 </Word>
 
-<Word Stem="продовольств" Weight="0.0531442913183803">
+<Word Stem="продовольств" Weight="0.0532051990336748">
 <Allolog Form="продовольствия"/>
 <Allolog Form="продовольствие"/>
 <Allolog Form="продовольствием"/>
 <Allolog Form="продовольствии"/>
 </Word>
 
-<Word Stem="изобретательн" Weight="0.0518061037095016">
+<Word Stem="изобретательн" Weight="0.0512580233755124">
 <Allolog Form="изобретательности"/>
+<Allolog Form="изобретательностью"/>
+<Allolog Form="изобретательны"/>
 <Allolog Form="изобретательность"/>
 <Allolog Form="изобретательнее"/>
 <Allolog Form="изобретательный"/>
 <Allolog Form="изобретательно"/>
-<Allolog Form="изобретательностью"/>
-<Allolog Form="изобретательны"/>
 <Allolog Form="изобретательными"/>
 <Allolog Form="изобретательные"/>
-<Allolog Form="изобретательном"/>
-<Allolog Form="изобретательным"/>
-<Allolog Form="изобретательней"/>
 <Allolog Form="изобретательна"/>
+<Allolog Form="изобретательным"/>
+<Allolog Form="изобретательном"/>
+<Allolog Form="изобретательней"/>
 <Allolog Form="изобретательной"/>
 </Word>
 
@@ -3054,7 +3057,7 @@
 <Allolog Form="конкурируют"/>
 </Word>
 
-<Word Stem="импорт" Weight="0.516353192723056">
+<Word Stem="импорт" Weight="0.513243790361163">
 <Allolog Form="импорт"/>
 <Allolog Form="импорта"/>
 <Allolog Form="импортом"/>
@@ -3062,14 +3065,14 @@
 <Allolog Form="импорту"/>
 </Word>
 
-<Word Stem="фабрик" Weight="0.102974674336915">
+<Word Stem="фабрик" Weight="0.0732367923079278">
 <Allolog Form="фабрикой"/>
-<Allolog Form="фабрик"/>
-<Allolog Form="фабриками"/>
 <Allolog Form="фабрика"/>
-<Allolog Form="фабрике"/>
 <Allolog Form="фабрики"/>
+<Allolog Form="фабрик"/>
+<Allolog Form="фабрике"/>
 <Allolog Form="фабрику"/>
+<Allolog Form="фабриками"/>
 <Allolog Form="фабриках"/>
 <Allolog Form="фабрикам"/>
 </Word>
@@ -3084,9 +3087,10 @@
 <Allolog Form="экспортировал"/>
 <Allolog Form="экспортировала"/>
 <Allolog Form="экспортированные"/>
+<Allolog Form="экспортировавших"/>
 </Word>
 
-<Word Stem="конкурентн" Weight="0.0586686643835617">
+<Word Stem="конкурентн" Weight="0.0565293036055781">
 <Allolog Form="конкурентно"/>
 <Allolog Form="конкурентным"/>
 <Allolog Form="конкурентной"/>
@@ -3101,17 +3105,960 @@
 <Allolog Form="конкурентное"/>
 <Allolog Form="конкурентными"/>
 <Allolog Form="конкурентную"/>
+<Allolog Form="конкурентна"/>
 </Word>
 
 <Word Stem="фиксированных" Weight="0.0510962528085816">
 <Allolog Form="фиксированных"/>
 </Word>
 
-<Word Stem="кооперац" Weight="0.501864611862937">
+<Word Stem="кооперац" Weight="0.501937676540874">
 <Allolog Form="кооперация"/>
+<Allolog Form="кооперации"/>
 <Allolog Form="кооперацию"/>
 <Allolog Form="кооперацией"/>
-<Allolog Form="кооперации"/>
+</Word>
+
+<Word Stem="феодализм" Weight="0.063435253964293">
+<Allolog Form="феодализма"/>
+<Allolog Form="феодализм"/>
+<Allolog Form="феодализму"/>
+<Allolog Form="феодализмом"/>
+<Allolog Form="феодализме"/>
+</Word>
+
+<Word Stem="капитализм" Weight="0.526386623477828">
+<Allolog Form="капитализма"/>
+<Allolog Form="капитализм"/>
+<Allolog Form="капитализме"/>
+<Allolog Form="капитализму"/>
+<Allolog Form="капитализмом"/>
+</Word>
+
+<Word Stem="производительных" Weight="0.0593479582710822">
+<Allolog Form="производительных"/>
+</Word>
+
+<Word Stem="правительствен" Weight="0.055736047581981">
+<Allolog Form="правительственным"/>
+<Allolog Form="правительственного"/>
+<Allolog Form="правительственные"/>
+<Allolog Form="правительственными"/>
+<Allolog Form="правительственный"/>
+<Allolog Form="правительственно"/>
+<Allolog Form="правительственной"/>
+<Allolog Form="правительственную"/>
+<Allolog Form="правительственное"/>
+<Allolog Form="правительственном"/>
+<Allolog Form="правительственная"/>
+<Allolog Form="правительственны"/>
+</Word>
+
+<Word Stem="декрет" Weight="0.0540469934198211">
+<Allolog Form="декретом"/>
+<Allolog Form="декрета"/>
+<Allolog Form="декрету"/>
+<Allolog Form="декретами"/>
+<Allolog Form="декрет"/>
+<Allolog Form="декреты"/>
+<Allolog Form="декретов"/>
+<Allolog Form="декрете"/>
+<Allolog Form="декретам"/>
+</Word>
+
+<Word Stem="комитет" Weight="0.05">
+<Allolog Form="комитет"/>
+<Allolog Form="комитета"/>
+<Allolog Form="комитетов"/>
+<Allolog Form="комитеты"/>
+<Allolog Form="комитетом"/>
+<Allolog Form="комитету"/>
+<Allolog Form="комитетах"/>
+<Allolog Form="комитетам"/>
+<Allolog Form="комитетами"/>
+<Allolog Form="комитете"/>
+</Word>
+
+<Word Stem="стерлинг" Weight="0.0515537798072045">
+<Allolog Form="стерлингов"/>
+<Allolog Form="стерлинга"/>
+<Allolog Form="стерлинг"/>
+</Word>
+
+<Word Stem="спекулятивн" Weight="0.00111676279093585">
+<Allolog Form="спекулятивные"/>
+<Allolog Form="спекулятивная"/>
+<Allolog Form="спекулятивной"/>
+<Allolog Form="спекулятивного"/>
+<Allolog Form="спекулятивную"/>
+<Allolog Form="спекулятивно"/>
+<Allolog Form="спекулятивности"/>
+<Allolog Form="спекулятивным"/>
+<Allolog Form="спекулятивными"/>
+<Allolog Form="спекулятивный"/>
+<Allolog Form="спекулятивном"/>
+<Allolog Form="спекулятивное"/>
+</Word>
+
+<Word Stem="спекуляц" Weight="0.0514795165212215">
+<Allolog Form="спекуляций"/>
+<Allolog Form="спекуляцией"/>
+<Allolog Form="спекуляции"/>
+<Allolog Form="спекуляциями"/>
+<Allolog Form="спекуляцию"/>
+<Allolog Form="спекуляция"/>
+<Allolog Form="спекуляциях"/>
+<Allolog Form="спекуляциям"/>
+</Word>
+
+<Word Stem="металлург" Weight="0.0551748747129318">
+<Allolog Form="металлурги"/>
+<Allolog Form="металлургии"/>
+<Allolog Form="металлургия"/>
+<Allolog Form="металлургов"/>
+<Allolog Form="металлургию"/>
+<Allolog Form="металлургам"/>
+<Allolog Form="металлург"/>
+<Allolog Form="металлургами"/>
+<Allolog Form="металлурга"/>
+</Word>
+
+<Word Stem="торговц" Weight="0.604709273232822">
+<Allolog Form="торговцем"/>
+<Allolog Form="торговцы"/>
+<Allolog Form="торговцев"/>
+<Allolog Form="торговца"/>
+<Allolog Form="торговцами"/>
+<Allolog Form="торговцам"/>
+<Allolog Form="торговцу"/>
+<Allolog Form="торговцах"/>
+<Allolog Form="торговце"/>
+</Word>
+
+<Word Stem="торговец" Weight="0.0584831243507043">
+<Allolog Form="торговец"/>
+</Word>
+
+<Word Stem="барон" Weight="0.0520661157165141">
+<Allolog Form="барон"/>
+<Allolog Form="барона"/>
+<Allolog Form="баронов"/>
+<Allolog Form="бароны"/>
+<Allolog Form="бароном"/>
+<Allolog Form="барону"/>
+<Allolog Form="баронами"/>
+<Allolog Form="бароне"/>
+<Allolog Form="баронам"/>
+<Allolog Form="баронах"/>
+</Word>
+
+<Word Stem="курфюрст" Weight="0.052868496879744">
+<Allolog Form="курфюрст"/>
+<Allolog Form="курфюрстов"/>
+<Allolog Form="курфюрста"/>
+<Allolog Form="курфюрсту"/>
+<Allolog Form="курфюрстом"/>
+</Word>
+
+<Word Stem="сырьев" Weight="0.0570049813200498">
+<Allolog Form="сырьевую"/>
+<Allolog Form="сырьевая"/>
+<Allolog Form="сырьевые"/>
+<Allolog Form="сырьевого"/>
+<Allolog Form="сырьевой"/>
+<Allolog Form="сырьевым"/>
+<Allolog Form="сырьевыми"/>
+<Allolog Form="сырьевом"/>
+</Word>
+
+<Word Stem="харт" Weight="0.0549190482451277">
+<Allolog Form="харт"/>
+<Allolog Form="хартия"/>
+<Allolog Form="хартией"/>
+<Allolog Form="хартии"/>
+<Allolog Form="хартию"/>
+<Allolog Form="хартиями"/>
+<Allolog Form="хартий"/>
+<Allolog Form="харта"/>
+<Allolog Form="харту"/>
+</Word>
+
+<Word Stem="электростанц" Weight="0.0523683934288564">
+<Allolog Form="электростанций"/>
+<Allolog Form="электростанции"/>
+<Allolog Form="электростанцией"/>
+<Allolog Form="электростанциях"/>
+<Allolog Form="электростанциями"/>
+<Allolog Form="электростанцию"/>
+<Allolog Form="электростанция"/>
+</Word>
+
+<Word Stem="конгресс" Weight="0.05">
+<Allolog Form="конгрессах"/>
+<Allolog Form="конгресса"/>
+<Allolog Form="конгрессу"/>
+<Allolog Form="конгресс"/>
+<Allolog Form="конгрессом"/>
+<Allolog Form="конгрессов"/>
+<Allolog Form="конгрессе"/>
+<Allolog Form="конгрессы"/>
+<Allolog Form="конгрессами"/>
+</Word>
+
+<Word Stem="плановых" Weight="0.0012453300124533">
+<Allolog Form="плановых"/>
+</Word>
+
+<Word Stem="долгосрочн" Weight="0.0146435230462804">
+<Allolog Form="долгосрочной"/>
+<Allolog Form="долгосрочным"/>
+<Allolog Form="долгосрочного"/>
+<Allolog Form="долгосрочные"/>
+<Allolog Form="долгосрочное"/>
+<Allolog Form="долгосрочном"/>
+<Allolog Form="долгосрочный"/>
+<Allolog Form="долгосрочную"/>
+<Allolog Form="долгосрочная"/>
+<Allolog Form="долгосрочными"/>
+<Allolog Form="долгосрочности"/>
+</Word>
+
+<Word Stem="финансирован" Weight="0.515688106031931">
+<Allolog Form="финансирование"/>
+<Allolog Form="финансирования"/>
+<Allolog Form="финансировании"/>
+<Allolog Form="финансированием"/>
+<Allolog Form="финансированию"/>
+</Word>
+
+<Word Stem="импортирова" Weight="0.0513979882205016">
+<Allolog Form="импортирована"/>
+<Allolog Form="импортирован"/>
+<Allolog Form="импортировав"/>
+<Allolog Form="импортировать"/>
+<Allolog Form="импортировалось"/>
+<Allolog Form="импортировала"/>
+<Allolog Form="импортировано"/>
+<Allolog Form="импортированного"/>
+<Allolog Form="импортироваться"/>
+<Allolog Form="импортировали"/>
+<Allolog Form="импортировал"/>
+<Allolog Form="импортировавшей"/>
+</Word>
+
+<Word Stem="советник" Weight="0.0553419867197204">
+<Allolog Form="советник"/>
+<Allolog Form="советником"/>
+<Allolog Form="советникам"/>
+<Allolog Form="советниками"/>
+<Allolog Form="советники"/>
+<Allolog Form="советников"/>
+<Allolog Form="советника"/>
+<Allolog Form="советнику"/>
+</Word>
+
+<Word Stem="накопленных" Weight="0.05">
+<Allolog Form="накопленных"/>
+</Word>
+
+<Word Stem="контракт" Weight="0.05">
+<Allolog Form="контракту"/>
+<Allolog Form="контракт"/>
+<Allolog Form="контрактов"/>
+<Allolog Form="контрактах"/>
+<Allolog Form="контрактами"/>
+<Allolog Form="контракте"/>
+<Allolog Form="контракта"/>
+<Allolog Form="контракты"/>
+<Allolog Form="контрактом"/>
+<Allolog Form="контрактам"/>
+</Word>
+
+<Word Stem="процентных" Weight="0.0530383175828966">
+<Allolog Form="процентных"/>
+</Word>
+
+<Word Stem="выкуп" Weight="0.05">
+<Allolog Form="выкупить"/>
+<Allolog Form="выкуп"/>
+<Allolog Form="выкупив"/>
+<Allolog Form="выкупа"/>
+<Allolog Form="выкупая"/>
+<Allolog Form="выкупил"/>
+<Allolog Form="выкупом"/>
+<Allolog Form="выкупе"/>
+<Allolog Form="выкупила"/>
+<Allolog Form="выкупу"/>
+</Word>
+
+<Word Stem="промысл" Weight="0.0608430730683589">
+<Allolog Form="промыслом"/>
+<Allolog Form="промысле"/>
+<Allolog Form="промысл"/>
+<Allolog Form="промысла"/>
+<Allolog Form="промыслы"/>
+<Allolog Form="промыслов"/>
+<Allolog Form="промыслах"/>
+<Allolog Form="промыслами"/>
+<Allolog Form="промыслам"/>
+<Allolog Form="промыслу"/>
+</Word>
+
+<Word Stem="монопол" Weight="0.527324248618782">
+<Allolog Form="монополию"/>
+<Allolog Form="монополия"/>
+<Allolog Form="монополией"/>
+<Allolog Form="монополии"/>
+<Allolog Form="монополиями"/>
+<Allolog Form="монополиям"/>
+<Allolog Form="монополий"/>
+<Allolog Form="монополи"/>
+<Allolog Form="монополиях"/>
+</Word>
+
+<Word Stem="финансирует" Weight="0.0510962528085816">
+<Allolog Form="финансируется"/>
+<Allolog Form="финансирует"/>
+</Word>
+
+<Word Stem="диверсификац" Weight="0.0522015655577299">
+<Allolog Form="диверсификация"/>
+<Allolog Form="диверсификации"/>
+<Allolog Form="диверсификацией"/>
+</Word>
+
+<Word Stem="финансируем" Weight="0.0512453300124533">
+<Allolog Form="финансируемым"/>
+<Allolog Form="финансируемая"/>
+<Allolog Form="финансируемые"/>
+<Allolog Form="финансируемой"/>
+<Allolog Form="финансируемый"/>
+<Allolog Form="финансируемого"/>
+</Word>
+
+<Word Stem="субсид" Weight="0.0564357871395072">
+<Allolog Form="субсидии"/>
+<Allolog Form="субсидий"/>
+<Allolog Form="субсидию"/>
+<Allolog Form="субсидиями"/>
+<Allolog Form="субсидией"/>
+<Allolog Form="субсидиях"/>
+<Allolog Form="субсидия"/>
+</Word>
+
+<Word Stem="долгосрочных" Weight="0.0551792660240149">
+<Allolog Form="долгосрочных"/>
+</Word>
+
+<Word Stem="инфраструктур" Weight="0.0526662648175471">
+<Allolog Form="инфраструктуры"/>
+<Allolog Form="инфраструктура"/>
+<Allolog Form="инфраструктуру"/>
+<Allolog Form="инфраструктурам"/>
+<Allolog Form="инфраструктурой"/>
+<Allolog Form="инфраструктуре"/>
+<Allolog Form="инфраструктур"/>
+</Word>
+
+<Word Stem="энергоемк" Weight="0.0517123287671233">
+<Allolog Form="энергоемкие"/>
+<Allolog Form="энергоемки"/>
+<Allolog Form="энергоемкости"/>
+<Allolog Form="энергоемких"/>
+<Allolog Form="энергоемкость"/>
+<Allolog Form="энергоемкое"/>
+<Allolog Form="энергоемко"/>
+<Allolog Form="энергоемкой"/>
+<Allolog Form="энергоемкий"/>
+</Word>
+
+<Word Stem="промышленник" Weight="0.0541027592397455">
+<Allolog Form="промышленники"/>
+<Allolog Form="промышленников"/>
+<Allolog Form="промышленник"/>
+<Allolog Form="промышленникам"/>
+<Allolog Form="промышленника"/>
+<Allolog Form="промышленниками"/>
+<Allolog Form="промышленниках"/>
+<Allolog Form="промышленником"/>
+<Allolog Form="промышленнику"/>
+</Word>
+
+<Word Stem="отсрочк" Weight="0.05">
+<Allolog Form="отсрочка"/>
+<Allolog Form="отсрочку"/>
+<Allolog Form="отсрочки"/>
+<Allolog Form="отсрочкой"/>
+<Allolog Form="отсрочке"/>
+<Allolog Form="отсрочкою"/>
+</Word>
+
+<Word Stem="деловых" Weight="0.05">
+<Allolog Form="деловых"/>
+</Word>
+
+<Word Stem="рентабельн" Weight="0.0601577033654659">
+<Allolog Form="рентабельным"/>
+<Allolog Form="рентабельнее"/>
+<Allolog Form="рентабельность"/>
+<Allolog Form="рентабельными"/>
+<Allolog Form="рентабельности"/>
+<Allolog Form="рентабельной"/>
+<Allolog Form="рентабельные"/>
+<Allolog Form="рентабельностью"/>
+<Allolog Form="рентабельное"/>
+<Allolog Form="рентабельный"/>
+</Word>
+
+<Word Stem="экономист" Weight="0.526066130015721">
+<Allolog Form="экономистов"/>
+<Allolog Form="экономиста"/>
+<Allolog Form="экономист"/>
+<Allolog Form="экономисты"/>
+<Allolog Form="экономистом"/>
+<Allolog Form="экономистами"/>
+<Allolog Form="экономисту"/>
+<Allolog Form="экономистам"/>
+<Allolog Form="экономистах"/>
+</Word>
+
+<Word Stem="товариществ" Weight="0.0580932770695743">
+<Allolog Form="товарищества"/>
+<Allolog Form="товариществе"/>
+<Allolog Form="товариществ"/>
+<Allolog Form="товарищество"/>
+<Allolog Form="товариществом"/>
+<Allolog Form="товариществами"/>
+<Allolog Form="товариществах"/>
+<Allolog Form="товариществу"/>
+<Allolog Form="товариществам"/>
+</Word>
+
+<Word Stem="выгоден" Weight="0.0512453300124533">
+<Allolog Form="выгоден"/>
+</Word>
+
+<Word Stem="среднегодов" Weight="0.00155377980720446">
+<Allolog Form="среднегодовая"/>
+<Allolog Form="среднегодовым"/>
+<Allolog Form="среднегодовой"/>
+<Allolog Form="среднегодовые"/>
+<Allolog Form="среднегодового"/>
+<Allolog Form="среднегодовую"/>
+</Word>
+
+<Word Stem="товарных" Weight="0.0519696190653271">
+<Allolog Form="товарных"/>
+</Word>
+
+<Word Stem="наня" Weight="0.05">
+<Allolog Form="наняли"/>
+<Allolog Form="нанял"/>
+<Allolog Form="нанять"/>
+<Allolog Form="наняла"/>
+<Allolog Form="наняться"/>
+<Allolog Form="нанялся"/>
+<Allolog Form="нанявшие"/>
+<Allolog Form="нанялась"/>
+<Allolog Form="наняло"/>
+</Word>
+
+<Word Stem="контрабанд" Weight="0.0528776636225266">
+<Allolog Form="контрабанду"/>
+<Allolog Form="контрабанда"/>
+<Allolog Form="контрабандой"/>
+<Allolog Form="контрабанды"/>
+<Allolog Form="контрабанде"/>
+</Word>
+
+<Word Stem="биржев" Weight="0.503397477712546">
+<Allolog Form="биржевые"/>
+<Allolog Form="биржевым"/>
+<Allolog Form="биржевой"/>
+<Allolog Form="биржевом"/>
+<Allolog Form="биржевого"/>
+<Allolog Form="биржевую"/>
+<Allolog Form="биржевыми"/>
+<Allolog Form="биржевая"/>
+<Allolog Form="биржевое"/>
+</Word>
+
+<Word Stem="бедных" Weight="0.053753320728043">
+<Allolog Form="бедных"/>
+</Word>
+
+<Word Stem="разоря" Weight="0.0528776636225266">
+<Allolog Form="разоряемая"/>
+<Allolog Form="разорять"/>
+<Allolog Form="разоряли"/>
+<Allolog Form="разоряют"/>
+<Allolog Form="разоряться"/>
+<Allolog Form="разоряются"/>
+<Allolog Form="разоряется"/>
+<Allolog Form="разоряет"/>
+<Allolog Form="разорялись"/>
+<Allolog Form="разорял"/>
+<Allolog Form="разоряемся"/>
+<Allolog Form="разоряющиеся"/>
+<Allolog Form="разоряющегося"/>
+</Word>
+
+<Word Stem="торгуют" Weight="0.0510962528085816">
+<Allolog Form="торгуют"/>
+</Word>
+
+<Word Stem="предприимчив" Weight="0.0525367833587012">
+<Allolog Form="предприимчивые"/>
+<Allolog Form="предприимчивость"/>
+<Allolog Form="предприимчивы"/>
+<Allolog Form="предприимчивости"/>
+<Allolog Form="предприимчивого"/>
+<Allolog Form="предприимчивостью"/>
+<Allolog Form="предприимчивой"/>
+<Allolog Form="предприимчивым"/>
+<Allolog Form="предприимчивая"/>
+<Allolog Form="предприимчивый"/>
+<Allolog Form="предприимчива"/>
+<Allolog Form="предприимчивыми"/>
+<Allolog Form="предприимчивее"/>
+</Word>
+
+<Word Stem="торгова" Weight="0.0583558362439788">
+<Allolog Form="торговали"/>
+<Allolog Form="торговать"/>
+<Allolog Form="торговала"/>
+<Allolog Form="торговавшие"/>
+<Allolog Form="торговал"/>
+<Allolog Form="торговало"/>
+<Allolog Form="торговаться"/>
+<Allolog Form="торговались"/>
+<Allolog Form="торговалась"/>
+<Allolog Form="торговавших"/>
+</Word>
+
+<Word Stem="финансирова" Weight="0.0549986162999862">
+<Allolog Form="финансировались"/>
+<Allolog Form="финансировать"/>
+<Allolog Form="финансировали"/>
+<Allolog Form="финансировал"/>
+<Allolog Form="финансировавшийся"/>
+<Allolog Form="финансировалась"/>
+<Allolog Form="финансироваться"/>
+<Allolog Form="финансировало"/>
+<Allolog Form="финансировался"/>
+<Allolog Form="финансировала"/>
+</Word>
+
+<Word Stem="продуктов" Weight="0.0510962528085816">
+<Allolog Form="продуктовую"/>
+<Allolog Form="продуктовили"/>
+<Allolog Form="продуктового"/>
+<Allolog Form="продуктовой"/>
+<Allolog Form="продуктовая"/>
+<Allolog Form="продуктовые"/>
+<Allolog Form="продуктовый"/>
+<Allolog Form="продуктовом"/>
+</Word>
+
+<Word Stem="валов" Weight="0.512590652699436">
+<Allolog Form="валового"/>
+<Allolog Form="валовым"/>
+<Allolog Form="валовый"/>
+<Allolog Form="валовые"/>
+<Allolog Form="валовой"/>
+<Allolog Form="валовом"/>
+<Allolog Form="валовую"/>
+<Allolog Form="валовое"/>
+<Allolog Form="валовыми"/>
+<Allolog Form="валовая"/>
+<Allolog Form="валова"/>
+</Word>
+
+<Word Stem="коммерц" Weight="0.05">
+<Allolog Form="коммерция"/>
+<Allolog Form="коммерции"/>
+<Allolog Form="коммерцией"/>
+<Allolog Form="коммерц"/>
+<Allolog Form="коммерцию"/>
+</Word>
+
+<Word Stem="мануфактур" Weight="0.0532232070910556">
+<Allolog Form="мануфактурой"/>
+<Allolog Form="мануфактур"/>
+<Allolog Form="мануфактурами"/>
+<Allolog Form="мануфактуры"/>
+<Allolog Form="мануфактура"/>
+<Allolog Form="мануфактуре"/>
+<Allolog Form="мануфактурах"/>
+<Allolog Form="мануфактуру"/>
+</Word>
+
+<Word Stem="планов" Weight="0.00342977956488295">
+<Allolog Form="плановые"/>
+<Allolog Form="плановый"/>
+<Allolog Form="плановая"/>
+<Allolog Form="плановым"/>
+<Allolog Form="плановыми"/>
+<Allolog Form="планового"/>
+<Allolog Form="плановой"/>
+<Allolog Form="плановую"/>
+<Allolog Form="плановое"/>
+<Allolog Form="планово"/>
+<Allolog Form="плановом"/>
+<Allolog Form="плановости"/>
+</Word>
+
+<Word Stem="ремеслен" Weight="0.0603808244186118">
+<Allolog Form="ремесленный"/>
+<Allolog Form="ремесленной"/>
+<Allolog Form="ремесленные"/>
+<Allolog Form="ремесленном"/>
+<Allolog Form="ремесленное"/>
+<Allolog Form="ремесленно"/>
+<Allolog Form="ремеслен"/>
+<Allolog Form="ремесленного"/>
+<Allolog Form="ремесленная"/>
+<Allolog Form="ремесленным"/>
+<Allolog Form="ремесленными"/>
+</Word>
+
+<Word Stem="банкнот" Weight="0.0515537798072045">
+<Allolog Form="банкноту"/>
+<Allolog Form="банкнот"/>
+<Allolog Form="банкноты"/>
+<Allolog Form="банкнотами"/>
+<Allolog Form="банкнотов"/>
+</Word>
+
+<Word Stem="ремесленник" Weight="0.0594768633046293">
+<Allolog Form="ремесленник"/>
+<Allolog Form="ремесленникам"/>
+<Allolog Form="ремесленники"/>
+<Allolog Form="ремесленников"/>
+<Allolog Form="ремесленниками"/>
+<Allolog Form="ремесленника"/>
+<Allolog Form="ремесленниках"/>
+<Allolog Form="ремесленником"/>
+<Allolog Form="ремесленнику"/>
+</Word>
+
+<Word Stem="рабск" Weight="0.00134175525406582">
+<Allolog Form="рабского"/>
+<Allolog Form="рабском"/>
+<Allolog Form="рабской"/>
+<Allolog Form="рабский"/>
+<Allolog Form="рабское"/>
+<Allolog Form="рабски"/>
+<Allolog Form="рабские"/>
+<Allolog Form="рабско"/>
+<Allolog Form="рабским"/>
+<Allolog Form="рабскую"/>
+<Allolog Form="рабских"/>
+<Allolog Form="рабская"/>
+</Word>
+
+<Word Stem="привилегирова" Weight="0.0511754802870951">
+<Allolog Form="привилегированного"/>
+<Allolog Form="привилегированные"/>
+<Allolog Form="привилегированной"/>
+<Allolog Form="привилегированное"/>
+<Allolog Form="привилегированным"/>
+<Allolog Form="привилегированном"/>
+<Allolog Form="привилегированными"/>
+<Allolog Form="привилегированная"/>
+<Allolog Form="привилегированную"/>
+<Allolog Form="привилегированный"/>
+</Word>
+
+<Word Stem="рабовладельц" Weight="0.0725884013853043">
+<Allolog Form="рабовладельцы"/>
+<Allolog Form="рабовладельцев"/>
+<Allolog Form="рабовладельца"/>
+<Allolog Form="рабовладельцами"/>
+<Allolog Form="рабовладельцем"/>
+<Allolog Form="рабовладельцам"/>
+<Allolog Form="рабовладельцу"/>
+</Word>
+
+<Word Stem="отчислен" Weight="0.0553379646655849">
+<Allolog Form="отчисленного"/>
+<Allolog Form="отчислений"/>
+<Allolog Form="отчисления"/>
+<Allolog Form="отчисление"/>
+<Allolog Form="отчислениям"/>
+<Allolog Form="отчислениями"/>
+<Allolog Form="отчислениях"/>
+<Allolog Form="отчислен"/>
+</Word>
+
+<Word Stem="привилегированных" Weight="0.0512453300124533">
+<Allolog Form="привилегированных"/>
+</Word>
+
+<Word Stem="посредничеств" Weight="0.0512453300124533">
+<Allolog Form="посредничестве"/>
+<Allolog Form="посредничество"/>
+<Allolog Form="посредничества"/>
+<Allolog Form="посредничеству"/>
+<Allolog Form="посредничеством"/>
+</Word>
+
+<Word Stem="фондов" Weight="0.0584831243507043">
+<Allolog Form="фондовая"/>
+<Allolog Form="фондовую"/>
+<Allolog Form="фондовые"/>
+<Allolog Form="фондовый"/>
+<Allolog Form="фондовой"/>
+<Allolog Form="фондовом"/>
+<Allolog Form="фондовыми"/>
+</Word>
+
+<Word Stem="бирж" Weight="0.515276545025282">
+<Allolog Form="биржа"/>
+<Allolog Form="биржи"/>
+<Allolog Form="биржу"/>
+<Allolog Form="бирже"/>
+<Allolog Form="биржам"/>
+<Allolog Form="бирж"/>
+<Allolog Form="биржах"/>
+<Allolog Form="биржей"/>
+</Word>
+
+<Word Stem="получател" Weight="0.05">
+<Allolog Form="получатели"/>
+<Allolog Form="получатель"/>
+<Allolog Form="получателей"/>
+<Allolog Form="получателем"/>
+<Allolog Form="получателя"/>
+<Allolog Form="получателям"/>
+<Allolog Form="получателями"/>
+<Allolog Form="получателю"/>
+<Allolog Form="получателе"/>
+</Word>
+
+<Word Stem="разорен" Weight="0.00249686256397742">
+<Allolog Form="разорение"/>
+<Allolog Form="разорению"/>
+<Allolog Form="разорения"/>
+<Allolog Form="разоренные"/>
+<Allolog Form="разоренными"/>
+<Allolog Form="разорении"/>
+<Allolog Form="разорением"/>
+<Allolog Form="разоренной"/>
+<Allolog Form="разореные"/>
+<Allolog Form="разоренным"/>
+<Allolog Form="разоренная"/>
+<Allolog Form="разоренное"/>
+<Allolog Form="разоренную"/>
+</Word>
+
+<Word Stem="купц" Weight="0.0539687513991013">
+<Allolog Form="купцы"/>
+<Allolog Form="купцов"/>
+<Allolog Form="купцами"/>
+<Allolog Form="купцом"/>
+<Allolog Form="купца"/>
+<Allolog Form="купцам"/>
+<Allolog Form="купцу"/>
+<Allolog Form="купцах"/>
+<Allolog Form="купце"/>
+</Word>
+
+<Word Stem="шеллер" Weight="0.0512453300124533">
+<Allolog Form="шеллер"/>
+<Allolog Form="шеллером"/>
+<Allolog Form="шеллера"/>
+</Word>
+
+<Word Stem="жалован" Weight="0.05">
+<Allolog Form="жалованье"/>
+<Allolog Form="жалование"/>
+<Allolog Form="жалованья"/>
+<Allolog Form="жалованьем"/>
+<Allolog Form="жалованью"/>
+<Allolog Form="жалований"/>
+<Allolog Form="жалования"/>
+</Word>
+
+<Word Stem="гумбольдт" Weight="0.0510962528085816">
+<Allolog Form="гумбольдт"/>
+<Allolog Form="гумбольдта"/>
+<Allolog Form="гумбольдтом"/>
+<Allolog Form="гумбольдту"/>
+</Word>
+
+<Word Stem="инфляцион" Weight="0.5">
+<Allolog Form="инфляционный"/>
+<Allolog Form="инфляционного"/>
+<Allolog Form="инфляционное"/>
+<Allolog Form="инфляционном"/>
+<Allolog Form="инфляционную"/>
+<Allolog Form="инфляционная"/>
+<Allolog Form="инфляционной"/>
+<Allolog Form="инфляционные"/>
+<Allolog Form="инфляционным"/>
+<Allolog Form="инфляционными"/>
+</Word>
+
+<Word Stem="перепроизводств" Weight="0.0520364733074018">
+<Allolog Form="перепроизводство"/>
+<Allolog Form="перепроизводства"/>
+<Allolog Form="перепроизводстве"/>
+<Allolog Form="перепроизводством"/>
+</Word>
+
+<Word Stem="крах" Weight="0.0535625405750563">
+<Allolog Form="крахом"/>
+<Allolog Form="краху"/>
+<Allolog Form="краха"/>
+<Allolog Form="крахами"/>
+<Allolog Form="крахе"/>
+</Word>
+
+<Word Stem="сделок" Weight="0.05">
+<Allolog Form="сделок"/>
+</Word>
+
+<Word Stem="ирригацион" Weight="0.053925338460306">
+<Allolog Form="ирригационные"/>
+<Allolog Form="ирригационное"/>
+<Allolog Form="ирригационым"/>
+<Allolog Form="ирригационной"/>
+<Allolog Form="ирригационная"/>
+<Allolog Form="ирригационными"/>
+<Allolog Form="ирригационном"/>
+<Allolog Form="ирригационным"/>
+<Allolog Form="ирригационную"/>
+<Allolog Form="ирригационного"/>
+</Word>
+
+<Word Stem="оклад" Weight="0.513031469365246">
+<Allolog Form="окладом"/>
+<Allolog Form="окладами"/>
+<Allolog Form="оклада"/>
+<Allolog Form="оклад"/>
+<Allolog Form="окладу"/>
+<Allolog Form="окладов"/>
+<Allolog Form="окладам"/>
+<Allolog Form="оклады"/>
+<Allolog Form="окладе"/>
+</Word>
+
+<Word Stem="дискриминац" Weight="0.00166963146530848">
+<Allolog Form="дискриминации"/>
+<Allolog Form="дискриминация"/>
+<Allolog Form="дискриминацию"/>
+<Allolog Form="дискриминацией"/>
+<Allolog Form="дискриминаций"/>
+</Word>
+
+<Word Stem="олигархическ" Weight="0.0520364733074018">
+<Allolog Form="олигархического"/>
+<Allolog Form="олигархическая"/>
+<Allolog Form="олигархическом"/>
+<Allolog Form="олигархической"/>
+<Allolog Form="олигархическую"/>
+<Allolog Form="олигархическим"/>
+<Allolog Form="олигархическое"/>
+<Allolog Form="олигархические"/>
+<Allolog Form="олигархических"/>
+<Allolog Form="олигархическими"/>
+</Word>
+
+<Word Stem="децентрализац" Weight="0.0220206888776143">
+<Allolog Form="децентрализации"/>
+<Allolog Form="децентрализация"/>
+<Allolog Form="децентрализацию"/>
+<Allolog Form="децентрализацией"/>
+</Word>
+
+<Word Stem="сократил" Weight="0.00139798822050162">
+<Allolog Form="сократилось"/>
+<Allolog Form="сократило"/>
+</Word>
+
+<Word Stem="земледельц" Weight="0.0563807132389935">
+<Allolog Form="земледельцам"/>
+<Allolog Form="земледельцу"/>
+<Allolog Form="земледельцы"/>
+<Allolog Form="земледельцев"/>
+<Allolog Form="земледельца"/>
+<Allolog Form="земледельцами"/>
+<Allolog Form="земледельцем"/>
+</Word>
+
+<Word Stem="земледельческ" Weight="0.0605537343167307">
+<Allolog Form="земледельческих"/>
+<Allolog Form="земледельческие"/>
+<Allolog Form="земледельческими"/>
+<Allolog Form="земледельческого"/>
+<Allolog Form="земледельческая"/>
+<Allolog Form="земледельческой"/>
+<Allolog Form="земледельческое"/>
+<Allolog Form="земледельческим"/>
+<Allolog Form="земледельческий"/>
+<Allolog Form="земледельческом"/>
+<Allolog Form="земледельческо"/>
+</Word>
+
+<Word Stem="трудя" Weight="0.0410521015731225">
+<Allolog Form="трудящихся"/>
+<Allolog Form="трудящимися"/>
+<Allolog Form="трудящуюся"/>
+<Allolog Form="трудящиеся"/>
+<Allolog Form="трудящейся"/>
+<Allolog Form="трудящего"/>
+<Allolog Form="трудящегося"/>
+<Allolog Form="трудящимся"/>
+<Allolog Form="трудящийся"/>
+<Allolog Form="трудящееся"/>
+<Allolog Form="трудящаяся"/>
+<Allolog Form="трудящемся"/>
+</Word>
+
+<Word Stem="буржуазн" Weight="0.0613530835511308">
+<Allolog Form="буржуазные"/>
+<Allolog Form="буржуазной"/>
+<Allolog Form="буржуазная"/>
+<Allolog Form="буржуазного"/>
+<Allolog Form="буржуазно"/>
+<Allolog Form="буржуазный"/>
+<Allolog Form="буржуазную"/>
+<Allolog Form="буржуазна"/>
+<Allolog Form="буржуазность"/>
+<Allolog Form="буржуазном"/>
+<Allolog Form="буржуазным"/>
+<Allolog Form="буржуазное"/>
+<Allolog Form="буржуазны"/>
+<Allolog Form="буржуазными"/>
+<Allolog Form="буржуазности"/>
+</Word>
+
+<Word Stem="капиталист" Weight="0.0926148306119513">
+<Allolog Form="капиталистов"/>
+<Allolog Form="капиталисти"/>
+<Allolog Form="капиталистами"/>
+<Allolog Form="капиталисты"/>
+<Allolog Form="капиталист"/>
+<Allolog Form="капиталисту"/>
+<Allolog Form="капиталистом"/>
+<Allolog Form="капиталиста"/>
+<Allolog Form="капиталистам"/>
+</Word>
+
+<Word Stem="оборотн" Weight="0.0544594795263021">
+<Allolog Form="оборотней"/>
+<Allolog Form="оборотная"/>
+<Allolog Form="оборотной"/>
+<Allolog Form="оборотного"/>
+<Allolog Form="оборотным"/>
+<Allolog Form="оборотный"/>
+<Allolog Form="оборотные"/>
+<Allolog Form="оборотную"/>
+<Allolog Form="оборотни"/>
+<Allolog Form="оборотнях"/>
+<Allolog Form="оборотня"/>
+<Allolog Form="оборотнем"/>
 </Word>
 
 <Word Stem="купеческ" Weight="0.0523683934288564">
@@ -3138,7 +4085,7 @@
 <Allolog Form="покупные"/>
 </Word>
 
-<Word Stem="закупа" Weight="0.0544594795263021">
+<Word Stem="закупа" Weight="0.0531706099533712">
 <Allolog Form="закупаю"/>
 <Allolog Form="закупать"/>
 <Allolog Form="закупают"/>
@@ -3147,6 +4094,10 @@
 <Allolog Form="закупали"/>
 <Allolog Form="закупавшие"/>
 <Allolog Form="закупаемые"/>
+<Allolog Form="закупала"/>
+<Allolog Form="закупал"/>
+<Allolog Form="закупаете"/>
+<Allolog Form="закупаем"/>
 <Allolog Form="закупалась"/>
 <Allolog Form="закупайтесь"/>
 </Word>
@@ -3159,6 +4110,9 @@
 <Allolog Form="коммунальным"/>
 <Allolog Form="коммунальную"/>
 <Allolog Form="коммунальная"/>
+<Allolog Form="коммунальность"/>
+<Allolog Form="коммунальности"/>
+<Allolog Form="коммунально"/>
 </Word>
 
 <Word Stem="фабричн" Weight="0.062966024598051">
@@ -3175,22 +4129,7 @@
 <Allolog Form="фабричная"/>
 </Word>
 
-<Word Stem="разоря" Weight="0.0528776636225266">
-<Allolog Form="разорять"/>
-<Allolog Form="разоряли"/>
-<Allolog Form="разоряют"/>
-<Allolog Form="разоряться"/>
-<Allolog Form="разоряются"/>
-<Allolog Form="разоряется"/>
-<Allolog Form="разоряет"/>
-<Allolog Form="разорялись"/>
-<Allolog Form="разорял"/>
-<Allolog Form="разоряемся"/>
-<Allolog Form="разоряющиеся"/>
-<Allolog Form="разоряющегося"/>
-</Word>
-
-<Word Stem="оптов" Weight="0.0559057869723232">
+<Word Stem="оптов" Weight="0.0546337441743541">
 <Allolog Form="оптовые"/>
 <Allolog Form="оптовой"/>
 <Allolog Form="оптовую"/>
@@ -3200,17 +4139,7 @@
 <Allolog Form="оптовыми"/>
 <Allolog Form="оптового"/>
 <Allolog Form="оптовый"/>
-</Word>
-
-<Word Stem="торговц" Weight="0.612910273278439">
-<Allolog Form="торговцы"/>
-<Allolog Form="торговца"/>
-<Allolog Form="торговцев"/>
-<Allolog Form="торговцами"/>
-<Allolog Form="торговцем"/>
-<Allolog Form="торговцам"/>
-<Allolog Form="торговцу"/>
-<Allolog Form="торговцах"/>
+<Allolog Form="оптовое"/>
 </Word>
 
 <Word Stem="экспортер" Weight="0.504638689570196">
@@ -3221,18 +4150,6 @@
 <Allolog Form="экспортерам"/>
 <Allolog Form="экспортерами"/>
 <Allolog Form="экспортер"/>
-</Word>
-
-<Word Stem="импортирова" Weight="0.0513979882205016">
-<Allolog Form="импортировав"/>
-<Allolog Form="импортировать"/>
-<Allolog Form="импортировалось"/>
-<Allolog Form="импортировала"/>
-<Allolog Form="импортировано"/>
-<Allolog Form="импортированного"/>
-<Allolog Form="импортироваться"/>
-<Allolog Form="импортировали"/>
-<Allolog Form="импортировавшей"/>
 </Word>
 
 <Word Stem="эссен" Weight="0.0594122123735339">
@@ -3252,47 +4169,18 @@
 <Allolog Form="наемное"/>
 </Word>
 
-<Word Stem="контракт" Weight="0.0587741150802089">
-<Allolog Form="контракт"/>
-<Allolog Form="контрактов"/>
-<Allolog Form="контрактах"/>
-<Allolog Form="контрактами"/>
-<Allolog Form="контракте"/>
-<Allolog Form="контракта"/>
-<Allolog Form="контракты"/>
-<Allolog Form="контракту"/>
-<Allolog Form="контрактом"/>
-<Allolog Form="контрактам"/>
-</Word>
-
-<Word Stem="закупк" Weight="0.0551792660240149">
+<Word Stem="закупк" Weight="0.053156098481912">
 <Allolog Form="закупке"/>
 <Allolog Form="закупки"/>
 <Allolog Form="закупку"/>
 <Allolog Form="закупками"/>
 <Allolog Form="закупка"/>
 <Allolog Form="закупкой"/>
+<Allolog Form="закупкам"/>
+<Allolog Form="закупках"/>
 </Word>
 
-<Word Stem="буржуазн" Weight="0.0594678722671413">
-<Allolog Form="буржуазной"/>
-<Allolog Form="буржуазная"/>
-<Allolog Form="буржуазного"/>
-<Allolog Form="буржуазно"/>
-<Allolog Form="буржуазный"/>
-<Allolog Form="буржуазную"/>
-<Allolog Form="буржуазна"/>
-<Allolog Form="буржуазность"/>
-<Allolog Form="буржуазном"/>
-<Allolog Form="буржуазные"/>
-<Allolog Form="буржуазным"/>
-<Allolog Form="буржуазное"/>
-<Allolog Form="буржуазны"/>
-<Allolog Form="буржуазными"/>
-<Allolog Form="буржуазности"/>
-</Word>
-
-<Word Stem="дефицитн" Weight="0.0517686127397818">
+<Word Stem="дефицитн" Weight="0.0517980715047013">
 <Allolog Form="дефицитные"/>
 <Allolog Form="дефицитный"/>
 <Allolog Form="дефицитное"/>
@@ -3302,9 +4190,11 @@
 <Allolog Form="дефицитного"/>
 <Allolog Form="дефицитным"/>
 <Allolog Form="дефицитны"/>
+<Allolog Form="дефицитными"/>
+<Allolog Form="дефицитная"/>
 </Word>
 
-<Word Stem="капитальн" Weight="0.0769446571560925">
+<Word Stem="капитальн" Weight="0.0739727905724251">
 <Allolog Form="капитального"/>
 <Allolog Form="капитальную"/>
 <Allolog Form="капитальные"/>
@@ -3317,15 +4207,6 @@
 <Allolog Form="капитальный"/>
 <Allolog Form="капитальная"/>
 <Allolog Form="капитально"/>
-</Word>
-
-<Word Stem="продуктов" Weight="0.0510962528085816">
-<Allolog Form="продуктовили"/>
-<Allolog Form="продуктового"/>
-<Allolog Form="продуктовой"/>
-<Allolog Form="продуктовая"/>
-<Allolog Form="продуктовую"/>
-<Allolog Form="продуктовые"/>
 </Word>
 
 <Word Stem="доходн" Weight="0.0573733611044354">
@@ -3341,13 +4222,6 @@
 <Allolog Form="доходной"/>
 <Allolog Form="доходная"/>
 <Allolog Form="доходностей"/>
-</Word>
-
-<Word Stem="стимулирован" Weight="0.00171232876712329">
-<Allolog Form="стимулировании"/>
-<Allolog Form="стимулирование"/>
-<Allolog Form="стимулирования"/>
-<Allolog Form="стимулированию"/>
 </Word>
 
 <Word Stem="сбережен" Weight="0.112269441483645">
@@ -3371,72 +4245,28 @@
 <Allolog Form="капиталовложениях"/>
 <Allolog Form="капиталовложение"/>
 <Allolog Form="капиталовложениями"/>
+<Allolog Form="капиталовложении"/>
 </Word>
 
-<Word Stem="земледельческ" Weight="0.0604247057481615">
-<Allolog Form="земледельческих"/>
-<Allolog Form="земледельческие"/>
-<Allolog Form="земледельческими"/>
-<Allolog Form="земледельческого"/>
-<Allolog Form="земледельческая"/>
-<Allolog Form="земледельческой"/>
-<Allolog Form="земледельческое"/>
-<Allolog Form="земледельческим"/>
-<Allolog Form="земледельческий"/>
-<Allolog Form="земледельческом"/>
-<Allolog Form="земледельческо"/>
-</Word>
-
-<Word Stem="нищет" Weight="0.00102185767153997">
-<Allolog Form="нищета"/>
-<Allolog Form="нищеты"/>
-<Allolog Form="нищете"/>
-<Allolog Form="нищету"/>
-<Allolog Form="нищетой"/>
-</Word>
-
-<Word Stem="издержк" Weight="0.170082498065264">
+<Word Stem="издержк" Weight="0.157131762526084">
 <Allolog Form="издержками"/>
 <Allolog Form="издержки"/>
 <Allolog Form="издержкам"/>
 <Allolog Form="издержках"/>
 </Word>
 
-<Word Stem="земледельц" Weight="0.0562434640137011">
-<Allolog Form="земледельцы"/>
-<Allolog Form="земледельцев"/>
-<Allolog Form="земледельца"/>
-<Allolog Form="земледельцами"/>
-<Allolog Form="земледельцу"/>
-<Allolog Form="земледельцам"/>
-<Allolog Form="земледельцем"/>
-</Word>
-
-<Word Stem="ирригацион" Weight="0.053925338460306">
-<Allolog Form="ирригационное"/>
-<Allolog Form="ирригационные"/>
-<Allolog Form="ирригационым"/>
-<Allolog Form="ирригационной"/>
-<Allolog Form="ирригационная"/>
-<Allolog Form="ирригационными"/>
-<Allolog Form="ирригационном"/>
-<Allolog Form="ирригационным"/>
-<Allolog Form="ирригационную"/>
-<Allolog Form="ирригационного"/>
-</Word>
-
-<Word Stem="земельных" Weight="0.0535726365635041">
+<Word Stem="земельных" Weight="0.05">
 <Allolog Form="земельных"/>
 </Word>
 
-<Word Stem="централизац" Weight="0.0154397682759831">
+<Word Stem="централизац" Weight="0.0154644813061325">
 <Allolog Form="централизации"/>
 <Allolog Form="централизацией"/>
 <Allolog Form="централизацию"/>
 <Allolog Form="централизация"/>
 </Word>
 
-<Word Stem="управленческ" Weight="0.0585633406978962">
+<Word Stem="управленческ" Weight="0.0529282519658694">
 <Allolog Form="управленческих"/>
 <Allolog Form="управленческого"/>
 <Allolog Form="управленческой"/>
@@ -3446,6 +4276,7 @@
 <Allolog Form="управленческо"/>
 <Allolog Form="управленческие"/>
 <Allolog Form="управленческую"/>
+<Allolog Form="управленческое"/>
 </Word>
 
 <Word Stem="общинник" Weight="0.063717446936625">
@@ -3458,11 +4289,7 @@
 <Allolog Form="общинник"/>
 </Word>
 
-<Word Stem="производительных" Weight="0.0592578047353654">
-<Allolog Form="производительных"/>
-</Word>
-
-<Word Stem="поставк" Weight="0.0592877399788077">
+<Word Stem="поставк" Weight="0.05">
 <Allolog Form="поставкой"/>
 <Allolog Form="поставках"/>
 <Allolog Form="поставку"/>
@@ -3473,35 +4300,7 @@
 <Allolog Form="поставка"/>
 </Word>
 
-<Word Stem="бедных" Weight="0.0537383367608879">
-<Allolog Form="бедных"/>
-</Word>
-
-<Word Stem="ремесленник" Weight="0.059023004497394">
-<Allolog Form="ремесленники"/>
-<Allolog Form="ремесленников"/>
-<Allolog Form="ремесленниками"/>
-<Allolog Form="ремесленника"/>
-<Allolog Form="ремесленник"/>
-<Allolog Form="ремесленникам"/>
-<Allolog Form="ремесленниках"/>
-<Allolog Form="ремесленником"/>
-</Word>
-
-<Word Stem="ремеслен" Weight="0.0603422230739983">
-<Allolog Form="ремесленной"/>
-<Allolog Form="ремесленные"/>
-<Allolog Form="ремесленном"/>
-<Allolog Form="ремесленное"/>
-<Allolog Form="ремесленно"/>
-<Allolog Form="ремеслен"/>
-<Allolog Form="ремесленного"/>
-<Allolog Form="ремесленная"/>
-<Allolog Form="ремесленным"/>
-<Allolog Form="ремесленными"/>
-</Word>
-
-<Word Stem="землевладельц" Weight="0.0595608354109045">
+<Word Stem="землевладельц" Weight="0.0536552220723703">
 <Allolog Form="землевладельцев"/>
 <Allolog Form="землевладельцы"/>
 <Allolog Form="землевладельцами"/>
@@ -3525,31 +4324,6 @@
 <Allolog Form="долгова"/>
 </Word>
 
-<Word Stem="рабск" Weight="0.00103016250643554">
-<Allolog Form="рабского"/>
-<Allolog Form="рабский"/>
-<Allolog Form="рабское"/>
-<Allolog Form="рабской"/>
-<Allolog Form="рабски"/>
-<Allolog Form="рабские"/>
-<Allolog Form="рабском"/>
-<Allolog Form="рабско"/>
-<Allolog Form="рабским"/>
-<Allolog Form="рабскую"/>
-<Allolog Form="рабских"/>
-<Allolog Form="рабская"/>
-</Word>
-
-<Word Stem="рабовладельц" Weight="0.0725884013853043">
-<Allolog Form="рабовладельцы"/>
-<Allolog Form="рабовладельца"/>
-<Allolog Form="рабовладельцев"/>
-<Allolog Form="рабовладельцами"/>
-<Allolog Form="рабовладельцем"/>
-<Allolog Form="рабовладельцам"/>
-<Allolog Form="рабовладельцу"/>
-</Word>
-
 <Word Stem="рудник" Weight="0.0551792660240149">
 <Allolog Form="рудников"/>
 <Allolog Form="рудниках"/>
@@ -3561,60 +4335,8 @@
 <Allolog Form="рудниками"/>
 </Word>
 
-<Word Stem="разорен" Weight="0.0024521079364915">
-<Allolog Form="разорению"/>
-<Allolog Form="разорения"/>
-<Allolog Form="разорение"/>
-<Allolog Form="разоренные"/>
-<Allolog Form="разоренными"/>
-<Allolog Form="разорении"/>
-<Allolog Form="разорением"/>
-<Allolog Form="разоренной"/>
-<Allolog Form="разореные"/>
-<Allolog Form="разоренным"/>
-<Allolog Form="разоренная"/>
-<Allolog Form="разоренное"/>
-<Allolog Form="разоренную"/>
-</Word>
-
-<Word Stem="жалован" Weight="0.0517759619365816">
-<Allolog Form="жалованье"/>
-<Allolog Form="жалование"/>
-<Allolog Form="жалованья"/>
-<Allolog Form="жалованьем"/>
-<Allolog Form="жалованью"/>
-<Allolog Form="жалований"/>
-<Allolog Form="жалования"/>
-</Word>
-
-<Word Stem="правовых" Weight="0.0554529634113319">
+<Word Stem="правовых" Weight="0.05">
 <Allolog Form="правовых"/>
-</Word>
-
-<Word Stem="декрет" Weight="0.0549986162999862">
-<Allolog Form="декретами"/>
-<Allolog Form="декретом"/>
-<Allolog Form="декрет"/>
-<Allolog Form="декреты"/>
-<Allolog Form="декретов"/>
-<Allolog Form="декрета"/>
-<Allolog Form="декрете"/>
-<Allolog Form="декрету"/>
-<Allolog Form="декретам"/>
-</Word>
-
-<Word Stem="законодательн" Weight="0.00507496862294748">
-<Allolog Form="законодательная"/>
-<Allolog Form="законодательно"/>
-<Allolog Form="законодательной"/>
-<Allolog Form="законодательным"/>
-<Allolog Form="законодательные"/>
-<Allolog Form="законодательный"/>
-<Allolog Form="законодательное"/>
-<Allolog Form="законодательного"/>
-<Allolog Form="законодательными"/>
-<Allolog Form="законодательном"/>
-<Allolog Form="законодательную"/>
 </Word>
 
 <Word Stem="ростовщичеств" Weight="0.0530499054471657">
@@ -3624,29 +4346,7 @@
 <Allolog Form="ростовщичеством"/>
 </Word>
 
-<Word Stem="советник" Weight="0.0551028600231813">
-<Allolog Form="советниками"/>
-<Allolog Form="советники"/>
-<Allolog Form="советник"/>
-<Allolog Form="советников"/>
-<Allolog Form="советником"/>
-<Allolog Form="советникам"/>
-<Allolog Form="советника"/>
-<Allolog Form="советнику"/>
-</Word>
-
-<Word Stem="купц" Weight="0.0536377992171163">
-<Allolog Form="купцов"/>
-<Allolog Form="купцы"/>
-<Allolog Form="купцами"/>
-<Allolog Form="купцом"/>
-<Allolog Form="купца"/>
-<Allolog Form="купцам"/>
-<Allolog Form="купцу"/>
-<Allolog Form="купцах"/>
-</Word>
-
-<Word Stem="феодальн" Weight="0.0648807010778309">
+<Word Stem="феодальн" Weight="0.0656015181035489">
 <Allolog Form="феодальным"/>
 <Allolog Form="феодальные"/>
 <Allolog Form="феодальной"/>
@@ -3660,30 +4360,11 @@
 <Allolog Form="феодальное"/>
 </Word>
 
-<Word Stem="феодализм" Weight="0.0633171954157091">
-<Allolog Form="феодализм"/>
-<Allolog Form="феодализму"/>
-<Allolog Form="феодализма"/>
-<Allolog Form="феодализмом"/>
-<Allolog Form="феодализме"/>
-</Word>
-
 <Word Stem="феодальных" Weight="0.0544594795263021">
 <Allolog Form="феодальных"/>
 </Word>
 
-<Word Stem="барон" Weight="0.0589000271655332">
-<Allolog Form="барона"/>
-<Allolog Form="барон"/>
-<Allolog Form="баронов"/>
-<Allolog Form="бароны"/>
-<Allolog Form="бароном"/>
-<Allolog Form="барону"/>
-<Allolog Form="баронами"/>
-<Allolog Form="бароне"/>
-</Word>
-
-<Word Stem="крепостн" Weight="0.0523647128217479">
+<Word Stem="крепостн" Weight="0.0523729493439013">
 <Allolog Form="крепостной"/>
 <Allolog Form="крепостными"/>
 <Allolog Form="крепостном"/>
@@ -3720,32 +4401,6 @@
 <Allolog Form="ремесленных"/>
 </Word>
 
-<Word Stem="оборотн" Weight="0.0544594795263021">
-<Allolog Form="оборотная"/>
-<Allolog Form="оборотной"/>
-<Allolog Form="оборотного"/>
-<Allolog Form="оборотным"/>
-<Allolog Form="оборотный"/>
-<Allolog Form="оборотные"/>
-<Allolog Form="оборотни"/>
-<Allolog Form="оборотнях"/>
-<Allolog Form="оборотней"/>
-<Allolog Form="оборотня"/>
-<Allolog Form="оборотнем"/>
-<Allolog Form="оборотную"/>
-</Word>
-
-<Word Stem="товариществ" Weight="0.0618406712140857">
-<Allolog Form="товарищества"/>
-<Allolog Form="товариществе"/>
-<Allolog Form="товариществ"/>
-<Allolog Form="товарищество"/>
-<Allolog Form="товариществом"/>
-<Allolog Form="товариществами"/>
-<Allolog Form="товариществах"/>
-<Allolog Form="товариществу"/>
-</Word>
-
 <Word Stem="колхозн" Weight="0.0512453300124533">
 <Allolog Form="колхозного"/>
 <Allolog Form="колхозный"/>
@@ -3756,38 +4411,6 @@
 <Allolog Form="колхозно"/>
 <Allolog Form="колхозной"/>
 <Allolog Form="колхозную"/>
-</Word>
-
-<Word Stem="спекуляц" Weight="0.0518646118629369">
-<Allolog Form="спекуляцией"/>
-<Allolog Form="спекуляцию"/>
-<Allolog Form="спекуляция"/>
-<Allolog Form="спекуляции"/>
-<Allolog Form="спекуляциями"/>
-<Allolog Form="спекуляций"/>
-<Allolog Form="спекуляциях"/>
-<Allolog Form="спекуляциям"/>
-</Word>
-
-<Word Stem="крах" Weight="0.0542664807550656">
-<Allolog Form="крахом"/>
-<Allolog Form="краху"/>
-<Allolog Form="краха"/>
-<Allolog Form="крахами"/>
-<Allolog Form="крахе"/>
-</Word>
-
-<Word Stem="промысл" Weight="0.0618905640246754">
-<Allolog Form="промысле"/>
-<Allolog Form="промыслы"/>
-<Allolog Form="промыслом"/>
-<Allolog Form="промыслов"/>
-<Allolog Form="промыслах"/>
-<Allolog Form="промысла"/>
-<Allolog Form="промыслами"/>
-<Allolog Form="промыслам"/>
-<Allolog Form="промыслу"/>
-<Allolog Form="промысл"/>
 </Word>
 
 <Word Stem="эксплуататорск" Weight="0.0510962528085816">
@@ -3807,7 +4430,7 @@
 <Allolog Form="либерализацию"/>
 </Word>
 
-<Word Stem="капиталистическ" Weight="0.0954843371189437">
+<Word Stem="капиталистическ" Weight="0.0968190446891598">
 <Allolog Form="капиталистического"/>
 <Allolog Form="капиталистические"/>
 <Allolog Form="капиталистическом"/>
@@ -3820,9 +4443,10 @@
 <Allolog Form="капиталистическим"/>
 <Allolog Form="капиталистическими"/>
 <Allolog Form="капиталистическо"/>
+<Allolog Form="капиталистически"/>
 </Word>
 
-<Word Stem="парламент" Weight="0.0532102056258189">
+<Word Stem="парламент" Weight="0.0527779724134522">
 <Allolog Form="парламенте"/>
 <Allolog Form="парламентом"/>
 <Allolog Form="парламенты"/>
@@ -3834,15 +4458,8 @@
 <Allolog Form="парламентах"/>
 </Word>
 
-<Word Stem="трудовых" Weight="0.052903276695756">
+<Word Stem="трудовых" Weight="0.05">
 <Allolog Form="трудовых"/>
-</Word>
-
-<Word Stem="гумбольдт" Weight="0.0510962528085816">
-<Allolog Form="гумбольдт"/>
-<Allolog Form="гумбольдта"/>
-<Allolog Form="гумбольдтом"/>
-<Allolog Form="гумбольдту"/>
 </Word>
 
 <Word Stem="вкладчик" Weight="0.0940255719890605">
@@ -3857,7 +4474,7 @@
 <Allolog Form="вкладчиках"/>
 </Word>
 
-<Word Stem="инвестор" Weight="0.53623976226716">
+<Word Stem="инвестор" Weight="0.527088475810646">
 <Allolog Form="инвесторы"/>
 <Allolog Form="инвесторам"/>
 <Allolog Form="инвесторов"/>
@@ -3866,6 +4483,7 @@
 <Allolog Form="инвесторами"/>
 <Allolog Form="инвестору"/>
 <Allolog Form="инвестором"/>
+<Allolog Form="инвесторах"/>
 </Word>
 
 <Word Stem="бродел" Weight="0.0517123287671233">
@@ -3873,15 +4491,7 @@
 <Allolog Form="броделя"/>
 </Word>
 
-<Word Stem="капитализм" Weight="0.526324558640556">
-<Allolog Form="капитализм"/>
-<Allolog Form="капитализме"/>
-<Allolog Form="капитализма"/>
-<Allolog Form="капитализму"/>
-<Allolog Form="капитализмом"/>
-</Word>
-
-<Word Stem="прибавочн" Weight="0.0266395513129714">
+<Word Stem="прибавочн" Weight="0.0266665224538506">
 <Allolog Form="прибавочного"/>
 <Allolog Form="прибавочной"/>
 <Allolog Form="прибавочный"/>
@@ -3891,46 +4501,11 @@
 <Allolog Form="прибавочную"/>
 </Word>
 
-<Word Stem="правительствен" Weight="0.0585165782117031">
-<Allolog Form="правительственные"/>
-<Allolog Form="правительственным"/>
-<Allolog Form="правительственный"/>
-<Allolog Form="правительственно"/>
-<Allolog Form="правительственной"/>
-<Allolog Form="правительственную"/>
-<Allolog Form="правительственного"/>
-<Allolog Form="правительственное"/>
-<Allolog Form="правительственными"/>
-<Allolog Form="правительственном"/>
-<Allolog Form="правительственная"/>
-<Allolog Form="правительственны"/>
-</Word>
-
-<Word Stem="дискриминац" Weight="0.00165236422696779">
-<Allolog Form="дискриминации"/>
-<Allolog Form="дискриминация"/>
-<Allolog Form="дискриминацию"/>
-<Allolog Form="дискриминацией"/>
-<Allolog Form="дискриминаций"/>
-</Word>
-
 <Word Stem="производст" Weight="0.0510962528085816">
 <Allolog Form="производст"/>
 </Word>
 
-<Word Stem="привилегирова" Weight="0.0517585795565053">
-<Allolog Form="привилегированные"/>
-<Allolog Form="привилегированной"/>
-<Allolog Form="привилегированным"/>
-<Allolog Form="привилегированное"/>
-<Allolog Form="привилегированном"/>
-<Allolog Form="привилегированного"/>
-<Allolog Form="привилегированными"/>
-<Allolog Form="привилегированная"/>
-<Allolog Form="привилегированную"/>
-</Word>
-
-<Word Stem="аграрн" Weight="0.0922235812137732">
+<Word Stem="аграрн" Weight="0.0923490271331038">
 <Allolog Form="аграрным"/>
 <Allolog Form="аграрное"/>
 <Allolog Form="аграрном"/>
@@ -3945,7 +4520,7 @@
 <Allolog Form="аграрный"/>
 </Word>
 
-<Word Stem="институциональн" Weight="0.0551538569561527">
+<Word Stem="институциональн" Weight="0.0552018964629713">
 <Allolog Form="институционального"/>
 <Allolog Form="институциональные"/>
 <Allolog Form="институциональную"/>
@@ -3957,20 +4532,10 @@
 <Allolog Form="институциональными"/>
 <Allolog Form="институциональном"/>
 <Allolog Form="институционально"/>
+<Allolog Form="институциональность"/>
 </Word>
 
-<Word Stem="сырьев" Weight="0.0570049813200498">
-<Allolog Form="сырьевая"/>
-<Allolog Form="сырьевые"/>
-<Allolog Form="сырьевого"/>
-<Allolog Form="сырьевой"/>
-<Allolog Form="сырьевым"/>
-<Allolog Form="сырьевую"/>
-<Allolog Form="сырьевыми"/>
-<Allolog Form="сырьевом"/>
-</Word>
-
-<Word Stem="предпринимательств" Weight="0.0639118324689675">
+<Word Stem="предпринимательств" Weight="0.059759444807962">
 <Allolog Form="предпринимательства"/>
 <Allolog Form="предпринимательство"/>
 <Allolog Form="предпринимательству"/>
@@ -3985,46 +4550,9 @@
 <Allolog Form="надомника"/>
 </Word>
 
-<Word Stem="деловых" Weight="0.0532699130433766">
-<Allolog Form="деловых"/>
-</Word>
-
-<Word Stem="выкуп" Weight="0.0515537798072045">
-<Allolog Form="выкуп"/>
-<Allolog Form="выкупить"/>
-<Allolog Form="выкупив"/>
-<Allolog Form="выкупа"/>
-<Allolog Form="выкупая"/>
-<Allolog Form="выкупил"/>
-<Allolog Form="выкупом"/>
-</Word>
-
 <Word Stem="колониализм" Weight="0.0513979882205016">
 <Allolog Form="колониализм"/>
 <Allolog Form="колониализма"/>
-</Word>
-
-<Word Stem="сократил" Weight="0.00139798822050162">
-<Allolog Form="сократилось"/>
-<Allolog Form="сократило"/>
-</Word>
-
-<Word Stem="капиталист" Weight="0.0923703638585201">
-<Allolog Form="капиталисти"/>
-<Allolog Form="капиталистами"/>
-<Allolog Form="капиталисты"/>
-<Allolog Form="капиталистов"/>
-<Allolog Form="капиталист"/>
-<Allolog Form="капиталисту"/>
-<Allolog Form="капиталистом"/>
-<Allolog Form="капиталиста"/>
-<Allolog Form="капиталистам"/>
-</Word>
-
-<Word Stem="диверсификац" Weight="0.0522015655577299">
-<Allolog Form="диверсификация"/>
-<Allolog Form="диверсификации"/>
-<Allolog Form="диверсификацией"/>
 </Word>
 
 <Word Stem="мигрант" Weight="0.0548184135074865">
@@ -4035,7 +4563,7 @@
 <Allolog Form="мигрантах"/>
 </Word>
 
-<Word Stem="инвестиц" Weight="0.640116247597359">
+<Word Stem="инвестиц" Weight="0.629199022103414">
 <Allolog Form="инвестиций"/>
 <Allolog Form="инвестиции"/>
 <Allolog Form="инвестициях"/>
@@ -4045,20 +4573,6 @@
 <Allolog Form="инвестицию"/>
 </Word>
 
-<Word Stem="планов" Weight="0.00463868957019642">
-<Allolog Form="плановый"/>
-<Allolog Form="плановая"/>
-<Allolog Form="плановым"/>
-<Allolog Form="плановые"/>
-<Allolog Form="плановыми"/>
-<Allolog Form="планового"/>
-<Allolog Form="плановой"/>
-<Allolog Form="плановую"/>
-<Allolog Form="плановое"/>
-<Allolog Form="планово"/>
-<Allolog Form="плановом"/>
-</Word>
-
 <Word Stem="механизац" Weight="0.0601577033654659">
 <Allolog Form="механизации"/>
 <Allolog Form="механизация"/>
@@ -4066,19 +4580,7 @@
 <Allolog Form="механизацию"/>
 </Word>
 
-<Word Stem="инфраструктур" Weight="0.0566375175899601">
-<Allolog Form="инфраструктура"/>
-<Allolog Form="инфраструктуры"/>
-<Allolog Form="инфраструктуру"/>
-<Allolog Form="инфраструктурой"/>
-</Word>
-
-<Word Stem="финансирует" Weight="0.0510962528085816">
-<Allolog Form="финансирует"/>
-<Allolog Form="финансируется"/>
-</Word>
-
-<Word Stem="бюрократ" Weight="0.0822747741440125">
+<Word Stem="бюрократ" Weight="0.0803894922918625">
 <Allolog Form="бюрократии"/>
 <Allolog Form="бюрократия"/>
 <Allolog Form="бюрократов"/>
@@ -4094,25 +4596,7 @@
 <Allolog Form="бюрократом"/>
 </Word>
 
-<Word Stem="торговец" Weight="0.0584831243507043">
-<Allolog Form="торговец"/>
-</Word>
-
-<Word Stem="предприимчив" Weight="0.0525367833587012">
-<Allolog Form="предприимчивость"/>
-<Allolog Form="предприимчивы"/>
-<Allolog Form="предприимчивости"/>
-<Allolog Form="предприимчивого"/>
-<Allolog Form="предприимчивостью"/>
-<Allolog Form="предприимчивой"/>
-<Allolog Form="предприимчивые"/>
-<Allolog Form="предприимчивым"/>
-<Allolog Form="предприимчивая"/>
-<Allolog Form="предприимчивый"/>
-<Allolog Form="предприимчивыми"/>
-</Word>
-
-<Word Stem="инновацион" Weight="0.0518733169418101">
+<Word Stem="инновацион" Weight="0.0511331631900718">
 <Allolog Form="инновационный"/>
 <Allolog Form="инновационным"/>
 <Allolog Form="инновационная"/>
@@ -4124,7 +4608,7 @@
 <Allolog Form="инновационное"/>
 </Word>
 
-<Word Stem="предпринимательск" Weight="0.511840671214086">
+<Word Stem="предпринимательск" Weight="0.501298355196184">
 <Allolog Form="предпринимательский"/>
 <Allolog Form="предпринимательской"/>
 <Allolog Form="предпринимательским"/>
@@ -4145,7 +4629,7 @@
 <Allolog Form="реформированием"/>
 </Word>
 
-<Word Stem="налогообложен" Weight="0.0614661002254205">
+<Word Stem="налогообложен" Weight="0.0544980670314858">
 <Allolog Form="налогообложения"/>
 <Allolog Form="налогообложением"/>
 <Allolog Form="налогообложении"/>
@@ -4153,31 +4637,8 @@
 <Allolog Form="налогообложению"/>
 </Word>
 
-<Word Stem="экономист" Weight="0.530057378165215">
-<Allolog Form="экономиста"/>
-<Allolog Form="экономист"/>
-<Allolog Form="экономисты"/>
-<Allolog Form="экономистом"/>
-<Allolog Form="экономистов"/>
-<Allolog Form="экономистами"/>
-<Allolog Form="экономисту"/>
-<Allolog Form="экономистам"/>
-<Allolog Form="экономистах"/>
-</Word>
-
-<Word Stem="крепостных" Weight="0.054395107165763">
+<Word Stem="крепостных" Weight="0.0545700552212008">
 <Allolog Form="крепостных"/>
-</Word>
-
-<Word Stem="металлург" Weight="0.0551366474169048">
-<Allolog Form="металлургия"/>
-<Allolog Form="металлургии"/>
-<Allolog Form="металлурги"/>
-<Allolog Form="металлургов"/>
-<Allolog Form="металлургию"/>
-<Allolog Form="металлургам"/>
-<Allolog Form="металлургами"/>
-<Allolog Form="металлурга"/>
 </Word>
 
 <Word Stem="машиностроен" Weight="0.0555417921564818">
@@ -4185,9 +4646,10 @@
 <Allolog Form="машиностроении"/>
 <Allolog Form="машиностроения"/>
 <Allolog Form="машиностроением"/>
+<Allolog Form="машиностроению"/>
 </Word>
 
-<Word Stem="банкир" Weight="0.514469678763118">
+<Word Stem="банкир" Weight="0.507083491680243">
 <Allolog Form="банкиром"/>
 <Allolog Form="банкиру"/>
 <Allolog Form="банкира"/>
@@ -4196,35 +4658,7 @@
 <Allolog Form="банкирами"/>
 <Allolog Form="банкирам"/>
 <Allolog Form="банкиров"/>
-</Word>
-
-<Word Stem="биржев" Weight="0.503397477712546">
-<Allolog Form="биржевым"/>
-<Allolog Form="биржевые"/>
-<Allolog Form="биржевой"/>
-<Allolog Form="биржевом"/>
-<Allolog Form="биржевого"/>
-<Allolog Form="биржевую"/>
-<Allolog Form="биржевыми"/>
-<Allolog Form="биржевая"/>
-</Word>
-
-<Word Stem="спекулятивн" Weight="0.001009322196816">
-<Allolog Form="спекулятивного"/>
-<Allolog Form="спекулятивную"/>
-<Allolog Form="спекулятивно"/>
-<Allolog Form="спекулятивные"/>
-<Allolog Form="спекулятивности"/>
-<Allolog Form="спекулятивным"/>
-<Allolog Form="спекулятивной"/>
-<Allolog Form="спекулятивными"/>
-<Allolog Form="спекулятивный"/>
-<Allolog Form="спекулятивном"/>
-<Allolog Form="спекулятивное"/>
-</Word>
-
-<Word Stem="накопленных" Weight="0.0515537798072045">
-<Allolog Form="накопленных"/>
+<Allolog Form="банкире"/>
 </Word>
 
 <Word Stem="конфедерац" Weight="0.0510962528085816">
@@ -4232,39 +4666,6 @@
 <Allolog Form="конфедерации"/>
 <Allolog Form="конфедерация"/>
 <Allolog Form="конфедерацией"/>
-</Word>
-
-<Word Stem="промышленник" Weight="0.0541027592397455">
-<Allolog Form="промышленники"/>
-<Allolog Form="промышленников"/>
-<Allolog Form="промышленник"/>
-<Allolog Form="промышленникам"/>
-<Allolog Form="промышленника"/>
-<Allolog Form="промышленниками"/>
-<Allolog Form="промышленниках"/>
-<Allolog Form="промышленнику"/>
-</Word>
-
-<Word Stem="оклад" Weight="0.51409346819201">
-<Allolog Form="окладами"/>
-<Allolog Form="оклада"/>
-<Allolog Form="оклад"/>
-<Allolog Form="окладом"/>
-<Allolog Form="окладу"/>
-<Allolog Form="окладов"/>
-<Allolog Form="окладам"/>
-<Allolog Form="оклады"/>
-</Word>
-
-<Word Stem="монопол" Weight="0.528279878416779">
-<Allolog Form="монополией"/>
-<Allolog Form="монополия"/>
-<Allolog Form="монополию"/>
-<Allolog Form="монополии"/>
-<Allolog Form="монополиями"/>
-<Allolog Form="монополиям"/>
-<Allolog Form="монополий"/>
-<Allolog Form="монополи"/>
 </Word>
 
 <Word Stem="меркантилизм" Weight="0.0697513333580824">
@@ -4275,17 +4676,7 @@
 <Allolog Form="меркантилизме"/>
 </Word>
 
-<Word Stem="мануфактур" Weight="0.0532232070910556">
-<Allolog Form="мануфактур"/>
-<Allolog Form="мануфактурами"/>
-<Allolog Form="мануфактуры"/>
-<Allolog Form="мануфактура"/>
-<Allolog Form="мануфактуре"/>
-<Allolog Form="мануфактурах"/>
-<Allolog Form="мануфактуру"/>
-</Word>
-
-<Word Stem="сбыт" Weight="0.070507496494445">
+<Word Stem="сбыт" Weight="0.0551264759917329">
 <Allolog Form="сбыт"/>
 <Allolog Form="сбыта"/>
 <Allolog Form="сбыту"/>
@@ -4303,45 +4694,7 @@
 <Allolog Form="крепостнику"/>
 </Word>
 
-<Word Stem="валов" Weight="0.512590652699436">
-<Allolog Form="валовым"/>
-<Allolog Form="валового"/>
-<Allolog Form="валовый"/>
-<Allolog Form="валовые"/>
-<Allolog Form="валовой"/>
-<Allolog Form="валовом"/>
-<Allolog Form="валовую"/>
-<Allolog Form="валовое"/>
-<Allolog Form="валовыми"/>
-<Allolog Form="валовая"/>
-<Allolog Form="валова"/>
-</Word>
-
-<Word Stem="бирж" Weight="0.516730323333191">
-<Allolog Form="биржи"/>
-<Allolog Form="биржу"/>
-<Allolog Form="бирже"/>
-<Allolog Form="биржам"/>
-<Allolog Form="бирж"/>
-<Allolog Form="биржах"/>
-<Allolog Form="биржа"/>
-<Allolog Form="биржей"/>
-</Word>
-
-<Word Stem="комитет" Weight="0.05">
-<Allolog Form="комитет"/>
-<Allolog Form="комитета"/>
-<Allolog Form="комитетов"/>
-<Allolog Form="комитеты"/>
-<Allolog Form="комитетом"/>
-<Allolog Form="комитету"/>
-<Allolog Form="комитетах"/>
-<Allolog Form="комитетам"/>
-<Allolog Form="комитетами"/>
-<Allolog Form="комитете"/>
-</Word>
-
-<Word Stem="бюрократическ" Weight="0.0687062017279974">
+<Word Stem="бюрократическ" Weight="0.0673856292883649">
 <Allolog Form="бюрократическо"/>
 <Allolog Form="бюрократических"/>
 <Allolog Form="бюрократическое"/>
@@ -4357,21 +4710,6 @@
 <Allolog Form="бюрократическими"/>
 </Word>
 
-<Word Stem="трудя" Weight="0.0409222082786518">
-<Allolog Form="трудящихся"/>
-<Allolog Form="трудящимися"/>
-<Allolog Form="трудящуюся"/>
-<Allolog Form="трудящиеся"/>
-<Allolog Form="трудящейся"/>
-<Allolog Form="трудящего"/>
-<Allolog Form="трудящегося"/>
-<Allolog Form="трудящимся"/>
-<Allolog Form="трудящийся"/>
-<Allolog Form="трудящееся"/>
-<Allolog Form="трудящаяся"/>
-<Allolog Form="трудящемся"/>
-</Word>
-
 <Word Stem="квот" Weight="0.0512453300124533">
 <Allolog Form="квоты"/>
 <Allolog Form="квот"/>
@@ -4385,19 +4723,7 @@
 <Allolog Form="коммунальных"/>
 </Word>
 
-<Word Stem="конгресс" Weight="0.05">
-<Allolog Form="конгрессов"/>
-<Allolog Form="конгрессах"/>
-<Allolog Form="конгресс"/>
-<Allolog Form="конгресса"/>
-<Allolog Form="конгрессе"/>
-<Allolog Form="конгрессом"/>
-<Allolog Form="конгрессы"/>
-<Allolog Form="конгрессами"/>
-<Allolog Form="конгрессу"/>
-</Word>
-
-<Word Stem="безработиц" Weight="0.532823598427194">
+<Word Stem="безработиц" Weight="0.531601515936681">
 <Allolog Form="безработицей"/>
 <Allolog Form="безработицы"/>
 <Allolog Form="безработице"/>
@@ -4405,25 +4731,7 @@
 <Allolog Form="безработицу"/>
 </Word>
 
-<Word Stem="отчислен" Weight="0.0566375175899601">
-<Allolog Form="отчислений"/>
-<Allolog Form="отчисления"/>
-<Allolog Form="отчисление"/>
-<Allolog Form="отчислениям"/>
-<Allolog Form="отчислениями"/>
-<Allolog Form="отчислениях"/>
-<Allolog Form="отчислен"/>
-</Word>
-
-<Word Stem="финансирован" Weight="0.522701378744721">
-<Allolog Form="финансирования"/>
-<Allolog Form="финансированием"/>
-<Allolog Form="финансирование"/>
-<Allolog Form="финансировании"/>
-<Allolog Form="финансированию"/>
-</Word>
-
-<Word Stem="льгот" Weight="0.0614661002254205">
+<Word Stem="льгот" Weight="0.05">
 <Allolog Form="льгота"/>
 <Allolog Form="льгот"/>
 <Allolog Form="льготах"/>
@@ -4432,13 +4740,14 @@
 <Allolog Form="льготами"/>
 <Allolog Form="льготу"/>
 <Allolog Form="льготой"/>
+<Allolog Form="льготам"/>
 </Word>
 
-<Word Stem="экономическом" Weight="0.0562969320948173">
+<Word Stem="экономическом" Weight="0.056318952011767">
 <Allolog Form="экономическому"/>
 </Word>
 
-<Word Stem="конъюнктур" Weight="0.0541027592397455">
+<Word Stem="конъюнктур" Weight="0.0525970529479746">
 <Allolog Form="конъюнктуры"/>
 <Allolog Form="конъюнктуре"/>
 <Allolog Form="конъюнктурой"/>
@@ -4446,7 +4755,7 @@
 <Allolog Form="конъюнктура"/>
 </Word>
 
-<Word Stem="отраслев" Weight="0.0577425637850528">
+<Word Stem="отраслев" Weight="0.05338372673381">
 <Allolog Form="отраслевой"/>
 <Allolog Form="отраслевая"/>
 <Allolog Form="отраслевого"/>
@@ -4454,9 +4763,11 @@
 <Allolog Form="отраслевыми"/>
 <Allolog Form="отраслевую"/>
 <Allolog Form="отраслевые"/>
+<Allolog Form="отраслевом"/>
+<Allolog Form="отраслевым"/>
 </Word>
 
-<Word Stem="бизнесмен" Weight="0.0528776636225266">
+<Word Stem="бизнесмен" Weight="0.05">
 <Allolog Form="бизнесменов"/>
 <Allolog Form="бизнесмен"/>
 <Allolog Form="бизнесменам"/>
@@ -4464,15 +4775,18 @@
 <Allolog Form="бизнесменом"/>
 <Allolog Form="бизнесмену"/>
 <Allolog Form="бизнесменами"/>
+<Allolog Form="бизнесмене"/>
 </Word>
 
-<Word Stem="дивиденд" Weight="0.0566375175899601">
+<Word Stem="дивиденд" Weight="0.0549207290388344">
 <Allolog Form="дивиденды"/>
 <Allolog Form="дивиденда"/>
 <Allolog Form="дивидендов"/>
 <Allolog Form="дивиденд"/>
 <Allolog Form="дивидендами"/>
 <Allolog Form="дивиденду"/>
+<Allolog Form="дивидендом"/>
+<Allolog Form="дивидендам"/>
 </Word>
 
 <Word Stem="учредител" Weight="0.0533974777125462">
@@ -4483,23 +4797,15 @@
 <Allolog Form="учредителям"/>
 <Allolog Form="учредителю"/>
 <Allolog Form="учредитель"/>
-</Word>
-
-<Word Stem="харт" Weight="0.0559057869723232">
-<Allolog Form="хартия"/>
-<Allolog Form="хартией"/>
-<Allolog Form="хартии"/>
-<Allolog Form="харт"/>
-<Allolog Form="хартию"/>
-<Allolog Form="хартиями"/>
-<Allolog Form="хартий"/>
-<Allolog Form="харта"/>
+<Allolog Form="учредителя"/>
+<Allolog Form="учредителях"/>
 </Word>
 
 <Word Stem="капитализац" Weight="0.0557236174530695">
 <Allolog Form="капитализации"/>
 <Allolog Form="капитализацию"/>
 <Allolog Form="капитализация"/>
+<Allolog Form="капитализацией"/>
 </Word>
 
 <Word Stem="внеэкономическ" Weight="0.0548184135074865">
@@ -4509,30 +4815,6 @@
 <Allolog Form="внеэкономическим"/>
 <Allolog Form="внеэкономическое"/>
 <Allolog Form="внеэкономическими"/>
-</Word>
-
-<Word Stem="товарных" Weight="0.0528776636225266">
-<Allolog Form="товарных"/>
-</Word>
-
-<Word Stem="рентабельн" Weight="0.0601577033654659">
-<Allolog Form="рентабельность"/>
-<Allolog Form="рентабельными"/>
-<Allolog Form="рентабельности"/>
-<Allolog Form="рентабельной"/>
-<Allolog Form="рентабельные"/>
-<Allolog Form="рентабельностью"/>
-<Allolog Form="рентабельное"/>
-<Allolog Form="рентабельным"/>
-<Allolog Form="рентабельный"/>
-</Word>
-
-<Word Stem="сделок" Weight="0.058112508421289">
-<Allolog Form="сделок"/>
-</Word>
-
-<Word Stem="долгосрочных" Weight="0.0551792660240149">
-<Allolog Form="долгосрочных"/>
 </Word>
 
 <Word Stem="домашин" Weight="0.0510962528085816">
@@ -4554,7 +4836,7 @@
 <Allolog Form="уравнительная"/>
 </Word>
 
-<Word Stem="акционерн" Weight="0.0718314818601059">
+<Word Stem="акционерн" Weight="0.0656746284343543">
 <Allolog Form="акционерная"/>
 <Allolog Form="акционерное"/>
 <Allolog Form="акционерного"/>
@@ -4564,6 +4846,7 @@
 <Allolog Form="акционерном"/>
 <Allolog Form="акционерным"/>
 <Allolog Form="акционерной"/>
+<Allolog Form="акционерную"/>
 </Word>
 
 <Word Stem="прожиточн" Weight="0.0517123287671233">
@@ -4573,7 +4856,7 @@
 <Allolog Form="прожиточным"/>
 </Word>
 
-<Word Stem="платят" Weight="0.0568211285867298">
+<Word Stem="платят" Weight="0.0526536089027857">
 <Allolog Form="платят"/>
 <Allolog Form="платятся"/>
 </Word>
@@ -4593,23 +4876,16 @@
 <Allolog Form="общинных"/>
 </Word>
 
-<Word Stem="децентрализац" Weight="0.0220206888776143">
-<Allolog Form="децентрализации"/>
-<Allolog Form="децентрализация"/>
-<Allolog Form="децентрализацию"/>
-<Allolog Form="децентрализацией"/>
-</Word>
-
 <Word Stem="взяток" Weight="0.0510962528085816">
 <Allolog Form="взяток"/>
 </Word>
 
-<Word Stem="филиа" Weight="0.0515537798072045">
+<Word Stem="филиа" Weight="0.05">
 <Allolog Form="филиал"/>
 <Allolog Form="филиала"/>
 </Word>
 
-<Word Stem="юрисдикц" Weight="0.0520364733074018">
+<Word Stem="юрисдикц" Weight="0.05">
 <Allolog Form="юрисдикции"/>
 <Allolog Form="юрисдикция"/>
 <Allolog Form="юрисдикцией"/>
@@ -4627,7 +4903,7 @@
 <Allolog Form="ростовщиком"/>
 </Word>
 
-<Word Stem="капитал" Weight="0.537948367771036">
+<Word Stem="капитал" Weight="0.534255150996987">
 <Allolog Form="капиталы"/>
 <Allolog Form="капиталом"/>
 <Allolog Form="капиталу"/>
@@ -4638,28 +4914,8 @@
 <Allolog Form="капиталам"/>
 </Word>
 
-<Word Stem="рыночных" Weight="0.510344342278101">
+<Word Stem="рыночных" Weight="0.50862787786902">
 <Allolog Form="рыночных"/>
-</Word>
-
-<Word Stem="привилегированных" Weight="0.0512453300124533">
-<Allolog Form="привилегированных"/>
-</Word>
-
-<Word Stem="посредничеств" Weight="0.0512453300124533">
-<Allolog Form="посредничество"/>
-<Allolog Form="посредничества"/>
-<Allolog Form="посредничеству"/>
-<Allolog Form="посредничестве"/>
-<Allolog Form="посредничеством"/>
-</Word>
-
-<Word Stem="фондов" Weight="0.0584831243507043">
-<Allolog Form="фондовую"/>
-<Allolog Form="фондовые"/>
-<Allolog Form="фондовый"/>
-<Allolog Form="фондовой"/>
-<Allolog Form="фондовая"/>
 </Word>
 
 <Word Stem="фабрикант" Weight="0.0520364733074018">
@@ -4673,17 +4929,6 @@
 <Allolog Form="фабриканты"/>
 </Word>
 
-<Word Stem="торгова" Weight="0.060344342278101">
-<Allolog Form="торговавшие"/>
-<Allolog Form="торговать"/>
-<Allolog Form="торговал"/>
-<Allolog Form="торговали"/>
-<Allolog Form="торговало"/>
-<Allolog Form="торговаться"/>
-<Allolog Form="торговалась"/>
-<Allolog Form="торговавших"/>
-</Word>
-
 <Word Stem="гильд" Weight="0.063153798256538">
 <Allolog Form="гильдии"/>
 <Allolog Form="гильдий"/>
@@ -4694,7 +4939,7 @@
 <Allolog Form="гильдия"/>
 </Word>
 
-<Word Stem="работодател" Weight="0.503572636563504">
+<Word Stem="работодател" Weight="0.5">
 <Allolog Form="работодателя"/>
 <Allolog Form="работодателям"/>
 <Allolog Form="работодателей"/>
@@ -4705,7 +4950,7 @@
 <Allolog Form="работодателю"/>
 </Word>
 
-<Word Stem="казначейств" Weight="0.0515537798072045">
+<Word Stem="казначейств" Weight="0.05">
 <Allolog Form="казначейство"/>
 <Allolog Form="казначействе"/>
 <Allolog Form="казначейства"/>
@@ -4723,19 +4968,11 @@
 <Allolog Form="непроизводительное"/>
 </Word>
 
-<Word Stem="курфюрст" Weight="0.0528431604220806">
-<Allolog Form="курфюрстов"/>
-<Allolog Form="курфюрста"/>
-<Allolog Form="курфюрст"/>
-<Allolog Form="курфюрсту"/>
-<Allolog Form="курфюрстом"/>
-</Word>
-
 <Word Stem="economics" Weight="0.0546386895701964">
 <Allolog Form="economics"/>
 </Word>
 
-<Word Stem="бюджетн" Weight="0.0549986162999862">
+<Word Stem="бюджетн" Weight="0.0517984426056479">
 <Allolog Form="бюджетный"/>
 <Allolog Form="бюджетного"/>
 <Allolog Form="бюджетным"/>
@@ -4743,13 +4980,16 @@
 <Allolog Form="бюджетной"/>
 <Allolog Form="бюджетно"/>
 <Allolog Form="бюджетное"/>
+<Allolog Form="бюджетная"/>
+<Allolog Form="бюджетную"/>
+<Allolog Form="бюджетном"/>
 </Word>
 
-<Word Stem="economic" Weight="0.0641234477383181">
+<Word Stem="economic" Weight="0.0641561795116642">
 <Allolog Form="economic"/>
 </Word>
 
-<Word Stem="инвестирован" Weight="0.512966024598051">
+<Word Stem="инвестирован" Weight="0.511382361210882">
 <Allolog Form="инвестирования"/>
 <Allolog Form="инвестирование"/>
 <Allolog Form="инвестировании"/>
@@ -4772,7 +5012,7 @@
 <Allolog Form="инвестиционных"/>
 </Word>
 
-<Word Stem="банкротств" Weight="0.504280821917808">
+<Word Stem="банкротств" Weight="0.5">
 <Allolog Form="банкротство"/>
 <Allolog Form="банкротств"/>
 <Allolog Form="банкротстве"/>
@@ -4780,30 +5020,14 @@
 <Allolog Form="банкротству"/>
 <Allolog Form="банкротства"/>
 <Allolog Form="банкротством"/>
+<Allolog Form="банкротствах"/>
 </Word>
 
-<Word Stem="долгосрочн" Weight="0.0221538992711465">
-<Allolog Form="долгосрочные"/>
-<Allolog Form="долгосрочной"/>
-<Allolog Form="долгосрочном"/>
-<Allolog Form="долгосрочный"/>
-<Allolog Form="долгосрочную"/>
-<Allolog Form="долгосрочное"/>
-<Allolog Form="долгосрочным"/>
-<Allolog Form="долгосрочного"/>
-<Allolog Form="долгосрочная"/>
-<Allolog Form="долгосрочными"/>
-</Word>
-
-<Word Stem="процентных" Weight="0.053925338460306">
-<Allolog Form="процентных"/>
-</Word>
-
-<Word Stem="ставок" Weight="0.0570049813200498">
+<Word Stem="ставок" Weight="0.0517169358477913">
 <Allolog Form="ставок"/>
 </Word>
 
-<Word Stem="кооператив" Weight="0.0605747523938749">
+<Word Stem="кооператив" Weight="0.0583057981922787">
 <Allolog Form="кооперативами"/>
 <Allolog Form="кооперативов"/>
 <Allolog Form="кооператива"/>
@@ -4824,9 +5048,11 @@
 <Allolog Form="приватизирован"/>
 <Allolog Form="приватизированные"/>
 <Allolog Form="приватизировавших"/>
+<Allolog Form="приватизированная"/>
+<Allolog Form="приватизированной"/>
 </Word>
 
-<Word Stem="коррупц" Weight="0.0559057869723232">
+<Word Stem="коррупц" Weight="0.0545308197615912">
 <Allolog Form="коррупцию"/>
 <Allolog Form="коррупции"/>
 <Allolog Form="коррупцией"/>
@@ -4838,29 +5064,16 @@
 <Allolog Form="industry"/>
 </Word>
 
-<Word Stem="плановых" Weight="0.0012453300124533">
-<Allolog Form="плановых"/>
-</Word>
-
 <Word Stem="партнерств" Weight="0.0513979882205016">
 <Allolog Form="партнерство"/>
 <Allolog Form="партнерств"/>
 <Allolog Form="партнерства"/>
 <Allolog Form="партнерстве"/>
+<Allolog Form="партнерством"/>
+<Allolog Form="партнерству"/>
 </Word>
 
-<Word Stem="финансирова" Weight="0.0549986162999862">
-<Allolog Form="финансировать"/>
-<Allolog Form="финансировались"/>
-<Allolog Form="финансировал"/>
-<Allolog Form="финансировавшийся"/>
-<Allolog Form="финансировалась"/>
-<Allolog Form="финансироваться"/>
-<Allolog Form="финансировало"/>
-<Allolog Form="финансировали"/>
-</Word>
-
-<Word Stem="инвестицион" Weight="0.515222621957782">
+<Word Stem="инвестицион" Weight="0.505782825217624">
 <Allolog Form="инвестиционные"/>
 <Allolog Form="инвестиционный"/>
 <Allolog Form="инвестиционного"/>
@@ -4870,9 +5083,10 @@
 <Allolog Form="инвестиционная"/>
 <Allolog Form="инвестиционно"/>
 <Allolog Form="инвестиционным"/>
+<Allolog Form="инвестиционном"/>
 </Word>
 
-<Word Stem="прибыльн" Weight="0.0635295112464062">
+<Word Stem="прибыльн" Weight="0.0602660265343726">
 <Allolog Form="прибыльными"/>
 <Allolog Form="прибыльные"/>
 <Allolog Form="прибыльность"/>
@@ -4887,9 +5101,10 @@
 <Allolog Form="прибыльном"/>
 <Allolog Form="прибыльны"/>
 <Allolog Form="прибыльно"/>
+<Allolog Form="прибыльнее"/>
 </Word>
 
-<Word Stem="акционер" Weight="0.0577425637850528">
+<Word Stem="акционер" Weight="0.0544573975702429">
 <Allolog Form="акционеров"/>
 <Allolog Form="акционерами"/>
 <Allolog Form="акционеры"/>
@@ -4897,17 +5112,7 @@
 <Allolog Form="акционер"/>
 <Allolog Form="акционеру"/>
 <Allolog Form="акционера"/>
-</Word>
-
-<Word Stem="инфляцион" Weight="0.501096252808582">
-<Allolog Form="инфляционной"/>
-<Allolog Form="инфляционную"/>
-<Allolog Form="инфляционные"/>
-<Allolog Form="инфляционного"/>
-<Allolog Form="инфляционное"/>
-<Allolog Form="инфляционным"/>
-<Allolog Form="инфляционный"/>
-<Allolog Form="инфляционная"/>
+<Allolog Form="акционером"/>
 </Word>
 
 <Word Stem="сберегательн" Weight="0.0515537798072045">
@@ -4919,6 +5124,7 @@
 <Allolog Form="сберегательные"/>
 <Allolog Form="сберегательными"/>
 <Allolog Form="сберегательны"/>
+<Allolog Form="сберегательной"/>
 </Word>
 
 <Word Stem="покупательн" Weight="0.0541027592397455">
@@ -4943,7 +5149,7 @@
 <Allolog Form="политизирован"/>
 </Word>
 
-<Word Stem="валютн" Weight="0.50627107768526">
+<Word Stem="валютн" Weight="0.502240146590004">
 <Allolog Form="валютного"/>
 <Allolog Form="валютное"/>
 <Allolog Form="валютные"/>
@@ -4972,6 +5178,8 @@
 <Allolog Form="безработным"/>
 <Allolog Form="безработными"/>
 <Allolog Form="безработного"/>
+<Allolog Form="безработной"/>
+<Allolog Form="безработная"/>
 </Word>
 
 <Word Stem="налогооблага" Weight="0.0570049813200498">
@@ -4982,15 +5190,6 @@
 <Allolog Form="налогооблагаемый"/>
 <Allolog Form="налогооблагаемым"/>
 <Allolog Form="налогооблагаемыми"/>
-</Word>
-
-<Word Stem="среднегодов" Weight="0.00155377980720446">
-<Allolog Form="среднегодовым"/>
-<Allolog Form="среднегодовой"/>
-<Allolog Form="среднегодовые"/>
-<Allolog Form="среднегодового"/>
-<Allolog Form="среднегодовая"/>
-<Allolog Form="среднегодовую"/>
 </Word>
 
 <Word Stem="конвертац" Weight="0.0510962528085816">
@@ -5015,22 +5214,12 @@
 <Allolog Form="монопольная"/>
 </Word>
 
-<Word Stem="получател" Weight="0.0527065841802917">
-<Allolog Form="получатели"/>
-<Allolog Form="получателей"/>
-<Allolog Form="получателем"/>
-<Allolog Form="получателя"/>
-<Allolog Form="получателям"/>
-<Allolog Form="получателями"/>
-<Allolog Form="получатель"/>
-<Allolog Form="получателю"/>
-</Word>
-
-<Word Stem="взиман" Weight="0.0520364733074018">
+<Word Stem="взиман" Weight="0.05">
 <Allolog Form="взиманию"/>
 <Allolog Form="взимание"/>
 <Allolog Form="взимании"/>
 <Allolog Form="взимания"/>
+<Allolog Form="взиманием"/>
 </Word>
 
 <Word Stem="дотац" Weight="0.0551792660240149">
@@ -5041,13 +5230,6 @@
 <Allolog Form="дотация"/>
 <Allolog Form="дотацию"/>
 <Allolog Form="дотациями"/>
-</Word>
-
-<Word Stem="финансируем" Weight="0.0512453300124533">
-<Allolog Form="финансируемые"/>
-<Allolog Form="финансируемым"/>
-<Allolog Form="финансируемой"/>
-<Allolog Form="финансируемый"/>
 </Word>
 
 <Word Stem="перераспределительн" Weight="0.0570049813200498">
@@ -5063,29 +5245,22 @@
 <Allolog Form="перераспределительного"/>
 </Word>
 
-<Word Stem="задолжен" Weight="0.0527065841802917">
+<Word Stem="задолжен" Weight="0.05">
 <Allolog Form="задолженности"/>
 <Allolog Form="задолженность"/>
+<Allolog Form="задолженностей"/>
+<Allolog Form="задолженностью"/>
 </Word>
 
 <Word Stem="капитальных" Weight="0.00829773653459027">
 <Allolog Form="капитальных"/>
 </Word>
 
-<Word Stem="субсид" Weight="0.0588543496077743">
-<Allolog Form="субсидии"/>
-<Allolog Form="субсидий"/>
-<Allolog Form="субсидию"/>
-<Allolog Form="субсидиями"/>
-<Allolog Form="субсидией"/>
-<Allolog Form="субсидиях"/>
-</Word>
-
 <Word Stem="долговых" Weight="0.0535726365635041">
 <Allolog Form="долговых"/>
 </Word>
 
-<Word Stem="взима" Weight="0.0564541622760801">
+<Word Stem="взима" Weight="0.05">
 <Allolog Form="взимать"/>
 <Allolog Form="взималась"/>
 <Allolog Form="взимали"/>
@@ -5100,10 +5275,7 @@
 <Allolog Form="взимала"/>
 <Allolog Form="взимаемая"/>
 <Allolog Form="взимаются"/>
-</Word>
-
-<Word Stem="выгоден" Weight="0.0512453300124533">
-<Allolog Form="выгоден"/>
+<Allolog Form="взимал"/>
 </Word>
 
 <Word Stem="трансферт" Weight="0.0542808219178082">
@@ -5111,6 +5283,7 @@
 <Allolog Form="трансфертов"/>
 <Allolog Form="трансферты"/>
 <Allolog Form="трансферт"/>
+<Allolog Form="трансфертами"/>
 </Word>
 
 <Word Stem="перераспределительных" Weight="0.0528776636225266">
@@ -5143,7 +5316,7 @@
 <Allolog Form="фискальную"/>
 </Word>
 
-<Word Stem="дееспособн" Weight="0.0520364733074018">
+<Word Stem="дееспособн" Weight="0.05">
 <Allolog Form="дееспособного"/>
 <Allolog Form="дееспособные"/>
 <Allolog Form="дееспособным"/>
@@ -5153,6 +5326,9 @@
 <Allolog Form="дееспособность"/>
 <Allolog Form="дееспособности"/>
 <Allolog Form="дееспособны"/>
+<Allolog Form="дееспособный"/>
+<Allolog Form="дееспособными"/>
+<Allolog Form="дееспособностью"/>
 </Word>
 
 <Word Stem="экспроприац" Weight="0.0533974777125462">
@@ -5163,10 +5339,12 @@
 <Allolog Form="экспроприацией"/>
 </Word>
 
-<Word Stem="инвалидн" Weight="0.0633416277598208">
+<Word Stem="инвалидн" Weight="0.0610044419315257">
 <Allolog Form="инвалидности"/>
 <Allolog Form="инвалидность"/>
 <Allolog Form="инвалидностью"/>
+<Allolog Form="инвалидной"/>
+<Allolog Form="инвалидном"/>
 <Allolog Form="инвалидного"/>
 </Word>
 
@@ -5256,15 +5434,6 @@
 <Allolog Form="неурожайный"/>
 </Word>
 
-<Word Stem="электростанц" Weight="0.0523683934288564">
-<Allolog Form="электростанции"/>
-<Allolog Form="электростанциями"/>
-<Allolog Form="электростанций"/>
-<Allolog Form="электростанцию"/>
-<Allolog Form="электростанциях"/>
-<Allolog Form="электростанция"/>
-</Word>
-
 <Word Stem="монополизирова" Weight="0.0513979882205016">
 <Allolog Form="монополизированы"/>
 <Allolog Form="монополизирована"/>
@@ -5275,6 +5444,7 @@
 <Allolog Form="монополизировано"/>
 <Allolog Form="монополизировали"/>
 <Allolog Form="монополизирован"/>
+<Allolog Form="монополизировавшие"/>
 <Allolog Form="монополизировавшей"/>
 </Word>
 
@@ -5301,7 +5471,7 @@
 <Allolog Form="поотраслевом"/>
 </Word>
 
-<Word Stem="себестоим" Weight="0.0560882800608828">
+<Word Stem="себестоим" Weight="0.0547047328094315">
 <Allolog Form="себестоимости"/>
 <Allolog Form="себестоимость"/>
 <Allolog Form="себестоимостью"/>
@@ -5321,18 +5491,22 @@
 <Allolog Form="товаропроизводителем"/>
 </Word>
 
-<Word Stem="безвозмездн" Weight="0.0510962528085816">
+<Word Stem="безвозмездн" Weight="0.05">
 <Allolog Form="безвозмездно"/>
 <Allolog Form="безвозмездным"/>
 <Allolog Form="безвозмездной"/>
 <Allolog Form="безвозмездную"/>
+<Allolog Form="безвозмездного"/>
+<Allolog Form="безвозмездное"/>
+<Allolog Form="безвозмездный"/>
+<Allolog Form="безвозмездном"/>
 </Word>
 
 <Word Stem="наемных" Weight="0.0667303233331911">
 <Allolog Form="наемных"/>
 </Word>
 
-<Word Stem="ссуд" Weight="0.515599333905993">
+<Word Stem="ссуд" Weight="0.51224029172324">
 <Allolog Form="ссуду"/>
 <Allolog Form="ссудой"/>
 <Allolog Form="ссуды"/>
@@ -5343,6 +5517,8 @@
 <Allolog Form="ссудили"/>
 <Allolog Form="ссуд"/>
 <Allolog Form="ссудами"/>
+<Allolog Form="ссудах"/>
+<Allolog Form="ссудил"/>
 </Word>
 
 <Word Stem="годовых" Weight="0.0517123287671233">
@@ -5359,7 +5535,7 @@
 <Allolog Form="неэквивалентно"/>
 </Word>
 
-<Word Stem="розничн" Weight="0.0548184135074865">
+<Word Stem="розничн" Weight="0.05">
 <Allolog Form="розничной"/>
 <Allolog Form="розничную"/>
 <Allolog Form="розничная"/>
@@ -5367,6 +5543,7 @@
 <Allolog Form="розничным"/>
 <Allolog Form="розничными"/>
 <Allolog Form="розничный"/>
+<Allolog Form="розничного"/>
 </Word>
 
 <Word Stem="децентрализова" Weight="0.0560882800608828">
@@ -5387,20 +5564,7 @@
 <Allolog Form="децентрализованная"/>
 </Word>
 
-<Word Stem="олигархическ" Weight="0.0520364733074018">
-<Allolog Form="олигархическая"/>
-<Allolog Form="олигархическом"/>
-<Allolog Form="олигархической"/>
-<Allolog Form="олигархическую"/>
-<Allolog Form="олигархическим"/>
-<Allolog Form="олигархического"/>
-<Allolog Form="олигархическое"/>
-<Allolog Form="олигархические"/>
-<Allolog Form="олигархических"/>
-<Allolog Form="олигархическими"/>
-</Word>
-
-<Word Stem="розничных" Weight="0.0518733169418101">
+<Word Stem="розничных" Weight="0.0511445750290578">
 <Allolog Form="розничных"/>
 </Word>
 
@@ -5412,24 +5576,15 @@
 <Allolog Form="хозяйственником"/>
 </Word>
 
-<Word Stem="убыток" Weight="0.0515537798072045">
+<Word Stem="убыток" Weight="0.05">
 <Allolog Form="убыток"/>
-</Word>
-
-<Word Stem="наня" Weight="0.0513979882205016">
-<Allolog Form="нанять"/>
-<Allolog Form="нанял"/>
-<Allolog Form="наняли"/>
-<Allolog Form="наняла"/>
-<Allolog Form="нанялся"/>
-<Allolog Form="наняло"/>
 </Word>
 
 <Word Stem="рабовладелец" Weight="0.0517123287671233">
 <Allolog Form="рабовладелец"/>
 </Word>
 
-<Word Stem="арендатор" Weight="0.0535726365635041">
+<Word Stem="арендатор" Weight="0.05">
 <Allolog Form="арендаторами"/>
 <Allolog Form="арендатора"/>
 <Allolog Form="арендатором"/>
@@ -5444,28 +5599,13 @@
 <Allolog Form="промышленному"/>
 </Word>
 
-<Word Stem="отсрочк" Weight="0.0517123287671233">
-<Allolog Form="отсрочка"/>
-<Allolog Form="отсрочки"/>
-<Allolog Form="отсрочкой"/>
-<Allolog Form="отсрочку"/>
-<Allolog Form="отсрочке"/>
-<Allolog Form="отсрочкою"/>
-</Word>
-
-<Word Stem="перепроизводств" Weight="0.0520364733074018">
-<Allolog Form="перепроизводства"/>
-<Allolog Form="перепроизводстве"/>
-<Allolog Form="перепроизводством"/>
-<Allolog Form="перепроизводство"/>
-</Word>
-
 <Word Stem="синдикат" Weight="0.0570049813200498">
 <Allolog Form="синдикатов"/>
 <Allolog Form="синдикатами"/>
 <Allolog Form="синдикаты"/>
 <Allolog Form="синдикатам"/>
 <Allolog Form="синдикат"/>
+<Allolog Form="синдиката"/>
 </Word>
 
 <Word Stem="трест" Weight="0.508112508421289">
@@ -5477,18 +5617,21 @@
 <Allolog Form="трестам"/>
 <Allolog Form="трестах"/>
 <Allolog Form="тресту"/>
+<Allolog Form="трестом"/>
 </Word>
 
-<Word Stem="межотраслев" Weight="0.501553779807205">
+<Word Stem="межотраслев" Weight="0.5">
 <Allolog Form="межотраслевое"/>
 <Allolog Form="межотраслевой"/>
 <Allolog Form="межотраслевые"/>
 <Allolog Form="межотраслевую"/>
 <Allolog Form="межотраслевая"/>
 <Allolog Form="межотраслевого"/>
+<Allolog Form="межотраслевым"/>
+<Allolog Form="межотраслевом"/>
 </Word>
 
-<Word Stem="бухгалтерск" Weight="0.503748611625324">
+<Word Stem="бухгалтерск" Weight="0.5">
 <Allolog Form="бухгалтерском"/>
 <Allolog Form="бухгалтерского"/>
 <Allolog Form="бухгалтерский"/>
@@ -5498,6 +5641,8 @@
 <Allolog Form="бухгалтерская"/>
 <Allolog Form="бухгалтерской"/>
 <Allolog Form="бухгалтерское"/>
+<Allolog Form="бухгалтерскими"/>
+<Allolog Form="бухгалтерским"/>
 </Word>
 
 <Word Stem="энергоресурс" Weight="0.0513979882205016">
@@ -5510,13 +5655,14 @@
 <Allolog Form="кооперативных"/>
 </Word>
 
-<Word Stem="ценообразован" Weight="0.50700498132005">
+<Word Stem="ценообразован" Weight="0.50580475031051">
 <Allolog Form="ценообразования"/>
 <Allolog Form="ценообразование"/>
 <Allolog Form="ценообразованию"/>
+<Allolog Form="ценообразовании"/>
 </Word>
 
-<Word Stem="колхоз" Weight="0.052005116216899">
+<Word Stem="колхоз" Weight="0.05">
 <Allolog Form="колхозов"/>
 <Allolog Form="колхозы"/>
 <Allolog Form="колхозам"/>
@@ -5525,12 +5671,15 @@
 <Allolog Form="колхозах"/>
 <Allolog Form="колхоз"/>
 <Allolog Form="колхозу"/>
+<Allolog Form="колхозом"/>
 </Word>
 
-<Word Stem="совхоз" Weight="0.0510962528085816">
+<Word Stem="совхоз" Weight="0.05">
 <Allolog Form="совхозов"/>
 <Allolog Form="совхозы"/>
 <Allolog Form="совхоза"/>
+<Allolog Form="совхоз"/>
+<Allolog Form="совхозе"/>
 </Word>
 
 <Word Stem="безработных" Weight="0.0542808219178082">
@@ -5550,26 +5699,17 @@
 <Allolog Form="убыточными"/>
 </Word>
 
-<Word Stem="расценк" Weight="0.0510962528085816">
+<Word Stem="расценк" Weight="0.05">
 <Allolog Form="расценки"/>
 <Allolog Form="расценка"/>
+<Allolog Form="расценкам"/>
+<Allolog Form="расценках"/>
 </Word>
 
 <Word Stem="подоходн" Weight="0.0522015655577299">
 <Allolog Form="подоходного"/>
 <Allolog Form="подоходным"/>
 <Allolog Form="подоходный"/>
-</Word>
-
-<Word Stem="начислен" Weight="0.00203647330740177">
-<Allolog Form="начислением"/>
-<Allolog Form="начислению"/>
-<Allolog Form="начисления"/>
-<Allolog Form="начислении"/>
-<Allolog Form="начисленные"/>
-<Allolog Form="начислений"/>
-<Allolog Form="начисление"/>
-<Allolog Form="начислено"/>
 </Word>
 
 <Word Stem="неконкурентоспособн" Weight="0.053925338460306">
@@ -5582,6 +5722,7 @@
 <Allolog Form="неконкурентоспособно"/>
 <Allolog Form="неконкурентоспособность"/>
 <Allolog Form="неконкурентоспособный"/>
+<Allolog Form="неконкурентоспособными"/>
 </Word>
 
 <Word Stem="пенсион" Weight="0.113600168545606">
@@ -5662,18 +5803,11 @@
 <Allolog Form="консорциумы"/>
 <Allolog Form="консорциумом"/>
 <Allolog Form="консорциуму"/>
+<Allolog Form="консорциуме"/>
 </Word>
 
 <Word Stem="монопольных" Weight="0.0513979882205016">
 <Allolog Form="монопольных"/>
-</Word>
-
-<Word Stem="контрабанд" Weight="0.0528776636225266">
-<Allolog Form="контрабанда"/>
-<Allolog Form="контрабандой"/>
-<Allolog Form="контрабанды"/>
-<Allolog Form="контрабанде"/>
-<Allolog Form="контрабанду"/>
 </Word>
 
 <Word Stem="политизац" Weight="0.0510962528085816">
@@ -5691,9 +5825,11 @@
 <Allolog Form="легализовали"/>
 <Allolog Form="легализовала"/>
 <Allolog Form="легализовавшись"/>
+<Allolog Form="легализованное"/>
+<Allolog Form="легализован"/>
 </Word>
 
-<Word Stem="муниципальных" Weight="0.0518733169418101">
+<Word Stem="муниципальных" Weight="0.05">
 <Allolog Form="муниципальных"/>
 </Word>
 
@@ -5706,6 +5842,7 @@
 <Allolog Form="муниципалитете"/>
 <Allolog Form="муниципалитетом"/>
 <Allolog Form="муниципалитету"/>
+<Allolog Form="муниципалитеты"/>
 </Word>
 
 <Word Stem="лоточник" Weight="0.0513979882205016">
@@ -5713,13 +5850,11 @@
 <Allolog Form="лоточников"/>
 <Allolog Form="лоточника"/>
 <Allolog Form="лоточниками"/>
+<Allolog Form="лоточникам"/>
+<Allolog Form="лоточником"/>
 </Word>
 
-<Word Stem="торгуют" Weight="0.0510962528085816">
-<Allolog Form="торгуют"/>
-</Word>
-
-<Word Stem="финансист" Weight="0.0667303233331911">
+<Word Stem="финансист" Weight="0.0651409313307569">
 <Allolog Form="финансистов"/>
 <Allolog Form="финансисты"/>
 <Allolog Form="финансистами"/>
@@ -5740,22 +5875,25 @@
 <Allolog Form="концессиями"/>
 </Word>
 
-<Word Stem="забастовк" Weight="0.0525367833587012">
+<Word Stem="забастовк" Weight="0.0512221543772998">
 <Allolog Form="забастовках"/>
 <Allolog Form="забастовки"/>
 <Allolog Form="забастовка"/>
 <Allolog Form="забастовке"/>
 <Allolog Form="забастовку"/>
 <Allolog Form="забастовкии"/>
+<Allolog Form="забастовкой"/>
 </Word>
 
-<Word Stem="списан" Weight="0.0512453300124533">
+<Word Stem="списан" Weight="0.05">
 <Allolog Form="списания"/>
 <Allolog Form="списание"/>
 <Allolog Form="списаний"/>
 <Allolog Form="списанием"/>
 <Allolog Form="списаниями"/>
 <Allolog Form="списаниях"/>
+<Allolog Form="списании"/>
+<Allolog Form="списанию"/>
 </Word>
 
 <Word Stem="дирекц" Weight="0.05">
@@ -5802,6 +5940,7 @@
 <Allolog Form="капиталоемких"/>
 <Allolog Form="капиталоемки"/>
 <Allolog Form="капиталоемкими"/>
+<Allolog Form="капиталоемкий"/>
 </Word>
 
 <Word Stem="трансакц" Weight="0.0535726365635041">
@@ -5812,6 +5951,7 @@
 <Allolog Form="трансакциям"/>
 <Allolog Form="трансакциях"/>
 <Allolog Form="трансакцией"/>
+<Allolog Form="трансакциями"/>
 </Word>
 
 <Word Stem="капитализирова" Weight="0.0510962528085816">
@@ -5827,7 +5967,7 @@
 <Allolog Form="фондовых"/>
 </Word>
 
-<Word Stem="вексел" Weight="0.0622155287817938">
+<Word Stem="вексел" Weight="0.0611871091366769">
 <Allolog Form="векселя"/>
 <Allolog Form="векселей"/>
 <Allolog Form="вексель"/>
@@ -5846,6 +5986,7 @@
 <Allolog Form="нанимателями"/>
 <Allolog Form="нанимателя"/>
 <Allolog Form="нанимателем"/>
+<Allolog Form="нанимателям"/>
 </Word>
 
 <Word Stem="конвертируем" Weight="0.0513979882205016">
@@ -5862,25 +6003,30 @@
 <Allolog Form="совокупных"/>
 </Word>
 
-<Word Stem="инвестирова" Weight="0.0549986162999862">
+<Word Stem="инвестирова" Weight="0.0532898684009699">
 <Allolog Form="инвестировать"/>
 <Allolog Form="инвестировали"/>
 <Allolog Form="инвестированным"/>
 <Allolog Form="инвестированной"/>
 <Allolog Form="инвестированного"/>
 <Allolog Form="инвестированы"/>
+<Allolog Form="инвестировал"/>
+<Allolog Form="инвестированный"/>
+<Allolog Form="инвестированные"/>
 </Word>
 
-<Word Stem="импортер" Weight="0.501245330012453">
+<Word Stem="импортер" Weight="0.5">
 <Allolog Form="импортеров"/>
 <Allolog Form="импортеры"/>
 <Allolog Form="импортер"/>
 <Allolog Form="импортерами"/>
 <Allolog Form="импортерам"/>
 <Allolog Form="импортера"/>
+<Allolog Form="импортером"/>
+<Allolog Form="импортеру"/>
 </Word>
 
-<Word Stem="кредитных" Weight="0.503223207091056">
+<Word Stem="кредитных" Weight="0.5">
 <Allolog Form="кредитных"/>
 </Word>
 
@@ -5904,7 +6050,7 @@
 <Allolog Form="делегированию"/>
 </Word>
 
-<Word Stem="маркетинговых" Weight="0.504638689570196">
+<Word Stem="маркетинговых" Weight="0.501940165312752">
 <Allolog Form="маркетинговых"/>
 </Word>
 
@@ -5915,22 +6061,16 @@
 <Allolog Form="клаузевица"/>
 </Word>
 
-<Word Stem="коммерц" Weight="0.0512453300124533">
-<Allolog Form="коммерция"/>
-<Allolog Form="коммерции"/>
-<Allolog Form="коммерцией"/>
-<Allolog Form="коммерц"/>
-</Word>
-
-<Word Stem="маркетолог" Weight="0.503397477712546">
+<Word Stem="маркетолог" Weight="0.502127424133012">
 <Allolog Form="маркетологи"/>
 <Allolog Form="маркетологов"/>
 <Allolog Form="маркетологам"/>
 <Allolog Form="маркетолога"/>
 <Allolog Form="маркетолог"/>
+<Allolog Form="маркетологами"/>
 </Word>
 
-<Word Stem="business" Weight="0.0544594795263021">
+<Word Stem="business" Weight="0.0535505528964216">
 <Allolog Form="business"/>
 </Word>
 
@@ -5964,7 +6104,7 @@
 <Allolog Form="зелигман"/>
 </Word>
 
-<Word Stem="гульден" Weight="0.0517411928285969">
+<Word Stem="гульден" Weight="0.0517717298438217">
 <Allolog Form="гульденов"/>
 <Allolog Form="гульден"/>
 </Word>
@@ -5980,6 +6120,7 @@
 <Allolog Form="ипотечный"/>
 <Allolog Form="ипотечную"/>
 <Allolog Form="ипотечные"/>
+<Allolog Form="ипотечной"/>
 </Word>
 
 <Word Stem="талер" Weight="0.0564541622760801">
@@ -5987,10 +6128,6 @@
 <Allolog Form="талер"/>
 <Allolog Form="талера"/>
 <Allolog Form="талерами"/>
-</Word>
-
-<Word Stem="стерлинг" Weight="0.0515537798072045">
-<Allolog Form="стерлингов"/>
 </Word>
 
 <Word Stem="кассел" Weight="0.0510962528085816">
@@ -6047,11 +6184,11 @@
 <Allolog Form="бургомистру"/>
 </Word>
 
-<Word Stem="карнег" Weight="0.0512453300124533">
+<Word Stem="карнег" Weight="0.05">
 <Allolog Form="карнеги"/>
 </Word>
 
-<Word Stem="мальтус" Weight="0.051735109396495">
+<Word Stem="мальтус" Weight="0.0517601128344678">
 <Allolog Form="мальтусом"/>
 <Allolog Form="мальтус"/>
 <Allolog Form="мальтуса"/>
@@ -6059,7 +6196,7 @@
 <Allolog Form="мальтусу"/>
 </Word>
 
-<Word Stem="сталелитейн" Weight="0.0559057869723232">
+<Word Stem="сталелитейн" Weight="0.0547388215753104">
 <Allolog Form="сталелитейной"/>
 <Allolog Form="сталелитейная"/>
 <Allolog Form="сталелитейную"/>
@@ -6068,6 +6205,7 @@
 <Allolog Form="сталелитейными"/>
 <Allolog Form="сталелитейные"/>
 <Allolog Form="сталелитейном"/>
+<Allolog Form="сталелитейным"/>
 </Word>
 
 <Word Stem="месмер" Weight="0.0510962528085816">
@@ -6150,12 +6288,6 @@
 <Allolog Form="зеллинга"/>
 </Word>
 
-<Word Stem="шеллер" Weight="0.0512453300124533">
-<Allolog Form="шеллером"/>
-<Allolog Form="шеллер"/>
-<Allolog Form="шеллера"/>
-</Word>
-
 <Word Stem="берндорф" Weight="0.0510962528085816">
 <Allolog Form="берндорф"/>
 <Allolog Form="берндорфе"/>
@@ -6188,7 +6320,7 @@
 <Allolog Form="купф"/>
 </Word>
 
-<Word Stem="приватизац" Weight="0.0518493413423021">
+<Word Stem="приватизац" Weight="0.05">
 <Allolog Form="приватизации"/>
 <Allolog Form="приватизация"/>
 <Allolog Form="приватизацией"/>
@@ -6243,6 +6375,7 @@
 <Allolog Form="инноватора"/>
 <Allolog Form="инноваторам"/>
 <Allolog Form="инноваторы"/>
+<Allolog Form="инноватором"/>
 </Word>
 
 <Word Stem="capitalism" Weight="0.0518733169418101">
@@ -6276,14 +6409,6 @@
 <Allolog Form="инкорпорированию"/>
 </Word>
 
-<Word Stem="банкнот" Weight="0.0515537798072045">
-<Allolog Form="банкнот"/>
-<Allolog Form="банкноту"/>
-<Allolog Form="банкноты"/>
-<Allolog Form="банкнотами"/>
-<Allolog Form="банкнотов"/>
-</Word>
-
 <Word Stem="инкорпорац" Weight="0.0517123287671233">
 <Allolog Form="инкорпорации"/>
 <Allolog Form="инкорпорация"/>
@@ -6291,17 +6416,6 @@
 
 <Word Stem="mergers" Weight="0.0513979882205016">
 <Allolog Form="mergers"/>
-</Word>
-
-<Word Stem="энергоемк" Weight="0.0517123287671233">
-<Allolog Form="энергоемкие"/>
-<Allolog Form="энергоемки"/>
-<Allolog Form="энергоемкости"/>
-<Allolog Form="энергоемких"/>
-<Allolog Form="энергоемкость"/>
-<Allolog Form="энергоемкое"/>
-<Allolog Form="энергоемко"/>
-<Allolog Form="энергоемкой"/>
 </Word>
 
 <Word Stem="market" Weight="0.0510962528085816">
@@ -6321,6 +6435,15 @@
 <Allolog Form="энергоносителям"/>
 </Word>
 
+<Word Stem="чубайс" Weight="0.00102940704188596">
+<Allolog Form="чубайса"/>
+<Allolog Form="чубайс"/>
+<Allolog Form="чубайсу"/>
+<Allolog Form="чубайсом"/>
+<Allolog Form="чубайсы"/>
+<Allolog Form="чубайсов"/>
+</Word>
+
 <Word Stem="автарк" Weight="0.0525367833587012">
 <Allolog Form="автаркии"/>
 <Allolog Form="автаркия"/>
@@ -6332,6 +6455,7 @@
 <Allolog Form="безналичной"/>
 <Allolog Form="безналичную"/>
 <Allolog Form="безналичная"/>
+<Allolog Form="безналичном"/>
 </Word>
 
 <Word Stem="ассигнац" Weight="0.501712328767123">
