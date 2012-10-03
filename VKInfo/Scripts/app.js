@@ -1,13 +1,13 @@
 ﻿/// <reference path="jquery-1.7.2-vsdoc.js" />
 
 var app = {
-	//appId: 3016703,
-	//appSecret: "Zz8fFBdaRDyMBQ0NDElV",
-	//redirectUri: "http://manology.info/User/Auth"
+	appId: 3016703,
+	appSecret: "Zz8fFBdaRDyMBQ0NDElV",
+	redirectUri: "http://manology.info/User/Auth"
 
-	appId: 2995743,
-	appSecret: "5pxH8x5L8rT977WflGn0",
-	redirectUri: "http://127.0.0.1:4621/User/Auth"
+	//appId: 2995743,
+	//appSecret: "5pxH8x5L8rT977WflGn0",
+	//redirectUri: "http://127.0.0.1:4621/User/Auth"
 }
 
 getSVG = function (charts) {
@@ -1640,7 +1640,7 @@ function renderPostsAndLikesByMonthsGraph(likedContent) {
 				plotBands: plotBands
 			},
 			title: {
-				text: "Лайки"
+				text: "Популярность"
 			},
 			series: [{
 				name: 'Лайки',
@@ -2276,20 +2276,24 @@ function backToMyStats() {
 }
 
 function addToWatchList(id) {
-	$.ajax({
-		url: "https://api.vk.com/method/users.get?" + access_token + "&uids=" + id + "&fields=photo_rec",
-		dataType: "jsonp",
-		success: function (data) {
-			$.ajax({
-				type: 'POST',
-				url: '/Database/AddToWatchList',
-				data: { userId: viewer_id, watchedUser: JSON.stringify(data.response[0]) },
-				success: function () {
-					location.href = "/Like/Me";
-				}
-			});
-		}
-	})
+	if (id != viewer_id) {
+		$.ajax({
+			url: "https://api.vk.com/method/users.get?" + access_token + "&uids=" + id + "&fields=photo_rec",
+			dataType: "jsonp",
+			success: function (data) {
+				$.ajax({
+					type: 'POST',
+					url: '/Database/AddToWatchList',
+					data: { userId: viewer_id, watchedUser: JSON.stringify(data.response[0]) },
+					success: function () {
+						location.href = "/Like/Me";
+					}
+				});
+			}
+		})
+	}
+	else
+		location.href = "/Like/Me";
 }
 
 function setOwnerId(id) {
@@ -2303,7 +2307,8 @@ function setOwnerId(id) {
 			else {
 				localStorage['user_id'] = "&owner_id=" + data.response[0].uid;
 				localStorage['user_link'] = data.response[0].uid;
-				addToWatchList(data.response[0].uid);
+		
+					addToWatchList(data.response[0].uid);
 			}
 		}
 	});
@@ -2452,22 +2457,26 @@ function getPsySummary(psyType) {
 }
 
 function renderPsyType() {
-	console.log("--------------------------");
-	console.log(psyContent);
-	console.log(psyType);
-	console.log("--------------------------");
+	if (psyContent.length > 4) {
+		$('#target-chart-container').append($('<div />', {
+			'id': 'activitiesContainer'
+		}));
+		$('#activitiesContainer').append("<p>Нет данных</p>");
+		return;
+	}
 	$('#target-chart-container').append($('<div />', {
 		'id': 'psyContainer'
 	}));
 	$('#psyContainer').append("<span>Определены следующие психотипы: </span>");
-	for (var i in psyType) {
-		$('<a href="#psy-modal" data-toggle="modal" data-psy="' + psyType[i] + '">' + psyType[i] + '</a><span> </span>').appendTo('#psyContainer')
+	for (var i = 0; i < psyType.length; i++) {
+		$('<a href="#psy-modal" data-toggle="modal" data-psy="' + psyType[i] + '">' + psyType[i] + '</a>').appendTo('#psyContainer')
 			.click(function () {
 				var item = $(this).attr('data-psy');
 				$('#psy-modal .modal-header').html('<h2>' + item + '</h2>');
 				$('#psy-modal .modal-body').text(psyTypeText[item]);
 			})
-
+		if (i != psyType.length - 1)
+			$('#psyContainer').append('<span>, </span>');
 	}
 	$('#psyContainer').append("<br/><p>Возможные психотипы: </p>");
 	for (var i = 0; i < psyContent.length; i++) {
@@ -2510,7 +2519,7 @@ $(function () {
 		$('.auth, .image-main-wrapper, #header').hide();
 
 		var sentUserId = location.hash.substring(1);
-		if (sentUserId && user_id.split('=')[1] != viewer_id && user_id.split('=')[1] != sentUserId) {
+		if (sentUserId && user_id.split('=')[1] != viewer_id && user_id.split('=')[1] != sentUserId && sentUserId != viewer_id) {
 			setOwnerId(sentUserId);
 		}
 
@@ -2592,7 +2601,8 @@ $(function () {
 			if (key.keyCode === 13) {
 				$('#search-warning').hide();
 				var id = link.lastIndexOf('/') != -1 ? link.substr(link.lastIndexOf('/') + 1) : link;
-				setOwnerId(id);
+				
+					setOwnerId(id);
 			}
 		})
 

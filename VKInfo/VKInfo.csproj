@@ -138,6 +138,7 @@
     <Content Include="Content\bootstrap-responsive.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\custom.css" />
     <Content Include="Content\docs.css" />
     <Content Include="Content\images\1340195753_thumbs_up.png" />
     <Content Include="Content\images\1341923792_link_sticker.png" />
@@ -154,6 +155,7 @@
     <Content Include="Content\images\activity.png" />
     <Content Include="Content\images\activity_2.png" />
     <Content Include="Content\images\avi-icon.png" />
+    <Content Include="Content\images\bg.png" />
     <Content Include="Content\images\content_bg.png" />
     <Content Include="Content\images\girl.jpg" />
     <Content Include="Content\images\girl_2.png" />
@@ -166,8 +168,10 @@
     <Content Include="Content\images\post.png" />
     <Content Include="Content\images\progress.gif" />
     <Content Include="Content\images\psy.png" />
+    <Content Include="Content\images\random_grey_variations.png" />
     <Content Include="Content\images\retweet.png" />
     <Content Include="Content\images\twitter_web_sprite_icons.png" />
+    <Content Include="Content\images\vk-letter-large.png" />
     <Content Include="Content\images\vk_logo.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
@@ -321,6 +325,8 @@
     <Content Include="Views\Home\Contacts.cshtml" />
     <Content Include="Views\Search\Index.cshtml" />
     <Content Include="Views\Home\Hobbies.cshtml" />
+    <Content Include="Views\Shared\_VkLoginButton.cshtml" />
+    <Content Include="Views\Shared\_InfoBlock.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TextClassifierLib\TextClassifierLib.csproj">
