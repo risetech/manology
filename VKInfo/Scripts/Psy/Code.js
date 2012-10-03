@@ -70,7 +70,7 @@ function getDescription(text, callback) {
 								});
 							}
 							if (compareResult == 1) {
-								psy.push("интраверт")
+								psy.push("интроверт")
 								result = $.grep(result, function (el) {
 									return el.type[2] === 'i'
 								});

@@ -1,72 +1,82 @@
 ﻿@model VKInfo.Models.Language
 @{
 	ViewBag.Title = "Manology.info";
+	Layout = null;
 }
-<script>
-	$(function () {
-		if (access_token) {
-			location.href = '/Like/Me';
-		}
-	});
-</script>
-<div class="page-header" id="header">
-	<h1>@Model.PageHeaderH1 <small>@Model.PageHeaderSmall</small></h1>
-</div>
-<div class="auth">
-	<div class="row">
-		<div class="span5">
-			<p class="well">
-				@Model.Span5Well<br /><br />
-						Manology – узнай лучше себя и других людей!
-			</p>
-		</div>
-		<div class="span7">
-			<ul class="nav nav-list">
-				<li><h3><i class="icon-heart"></i>&nbsp;@Model.Span7HeartH1&nbsp;<br /><small>@Model.Span7HeartSmall</small></h3>
-				</li>
-				@*<li><i class="icon-book"></i>&nbsp;<h3>
-					@Model.Span7BookH1&nbsp;<small>@Model.Span7BookSmall</small></h3>
-				</li>*@
-				<li><h3><i class="icon-eye-open"></i>&nbsp;@Model.Span7EyeH1&nbsp;<br /><small>@Model.Span7EyeSmall</small></h3>
-				</li>
-				<li><h3><i class="icon-user"></i>&nbsp;@Model.Span7UserH1&nbsp;<br /><small>@Model.Span7UserSmall</small></h3>
-				</li>
-			</ul>
-		</div>
-	</div>
-	<div class="row">
-		<div class="span12">
-            <div style="text-align: center;">
-                <p><small style="font-size:16px">Для начала работы необходимо авторизироваться</small></p>
-			    <a href="#" class="connectButton" onclick="auth()" style="margin: auto">@Model.Span12</a>
-            </div>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Manology</title>
+	<link href="@Url.Content("~/Content/custom.css")" rel="stylesheet" />
+	<script src="@Url.Content("~/scripts/jquery-1.7.2.min.js")"></script>
+	<script src="@Url.Content("~/scripts/app.js")"></script>
+	<script type="text/javascript" src="http://vkontakte.ru/js/api/share.js?9" charset="windows-1251"></script>
+</head>
+<body>
+	<script>
+		$(function () {
+			if (access_token) {
+				location.href = '/Like/Me';
+			}
+		});
+	</script>
+	<div class="container" style="overflow:hidden; height:100%">
+		<div class="center content">
+			<img src="@Url.Content("~/Content/images/bg.png")" alt="Manology" class="centeredImage" />
+			<div id="info">
+				<h1>Manology – узнай лучше себя и своих друзей
+				</h1>
+				<em>Анализ человека по его профилю в социальных сетях</em>
+				@Html.Partial("_VkLoginButton")
+			</div>
+			<div class="tip" data-info="infoblock">i</div>
+			<div id="infoblock"></div>
+			@*<div class="square" id="sq1"></div>
+			<div class="square" id="sq2"></div>
+			<div class="square" id="sq3"></div>*@
 		</div>
 	</div>
-</div>
-<div class="image-main-wrapper">
-	<div class="over over-left">
-		<p class="size-x">
-			@Model.ImageKnow<br />
-			@Model.ImageKnowBR
-		</p>
-		<p class="size-m">
-			@Model.ImageFind</p>
-		<p class="size-x">
-			@Model.ImagePrepare<br />
-			@Model.ImagePrepareBR
-		</p>
-	</div>
-	<img src="/content/images/girl.jpg" alt="socialmask" />
-	<div class="over over-right">
-		<p class="size-m">
-			@Model.ImageGo</p>
-		<p class="size-x">
-			@Model.ImageChoose<br />
-			@Model.ImageChooseBR
-		</p>
-		<p class="size-x">
-			@Model.ImageSee<br />
-			@Model.ImageSeeBR
-		</p>
-	</div>
-</div>
+	<script>
+		$(function () {
+			$('[data-info]')
+				.on('click', function (e) {
+					infoblockId = '#' + $(this).attr('data-info');
+
+					$info = $(infoblockId);
+
+					if ($info.html() == '') {
+						$(infoblockId)
+							.load('/home/infoblock', function (data) {
+								console.log(data);
+							})
+					}
+
+					if ($(this).hasClass('infoblockOpen')) {
+						$info
+							.animate({
+								top: '-450px'
+							}, 800);
+						$(this).removeClass('infoblockOpen');
+					}
+					else {
+						$info
+							.animate({
+								top: '0px'
+							}, 800);
+						$(this).addClass('infoblockOpen');
+					}
+				});
+
+			$(document).keyup(function (e) {
+				if (e.keyCode == 27) {
+					$('#infoblock')
+						.animate({
+							top: '-450px'
+						}, 800);
+					$('.tip').removeClass('infoblockOpen');
+				}
+			});
+		})
+	</script>
+</body>
+</html>
