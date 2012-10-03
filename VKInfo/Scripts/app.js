@@ -1,13 +1,13 @@
 ﻿/// <reference path="jquery-1.7.2-vsdoc.js" />
 
 var app = {
-	//appId: 3016703,
-	//appSecret: "Zz8fFBdaRDyMBQ0NDElV",
-	//redirectUri: "http://manology.info/User/Auth"
+	appId: 3016703,
+	appSecret: "Zz8fFBdaRDyMBQ0NDElV",
+	redirectUri: "http://manology.info/User/Auth"
 
-	appId: 2995743,
-	appSecret: "5pxH8x5L8rT977WflGn0",
-	redirectUri: "http://127.0.0.1:81/User/Auth"
+	//appId: 2995743,
+	//appSecret: "5pxH8x5L8rT977WflGn0",
+	//redirectUri: "http://127.0.0.1:81/User/Auth"
 }
 
 getSVG = function (charts) {
