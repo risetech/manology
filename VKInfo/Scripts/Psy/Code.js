@@ -24,7 +24,6 @@ function getDescription(text, callback) {
 		data: { text: text },
 		success: function (dataSI) {
 			compareResult = ComparePsy(dataSI[0].sensor, dataSI[0].intuit)
-			console.log(dataSI);
 			if (compareResult == -1) {
 				psy.push("сенсор")
 				result = $.grep(result, function (el) {
@@ -42,8 +41,7 @@ function getDescription(text, callback) {
 				type: 'POST',
 				data: { text: text },
 				success: function (dataLE) {
-					compareResult = ComparePsy(dataLE[0].logic, dataLE[0].etic)
-					console.log(dataLE);
+					compareResult = ComparePsy(dataLE[0].logica, dataLE[0].etica)
 					if (compareResult == -1) {
 						psy.push("логик")
 						result = $.grep(result, function (el) {
@@ -61,7 +59,6 @@ function getDescription(text, callback) {
 						type: 'POST',
 						data: { text: text },
 						success: function (dataEI) {
-							console.log(dataEI);
 							compareResult = ComparePsy(dataEI[0].extra, dataEI[0].intra)
 							if (compareResult == -1) {
 								psy.push("экстраверт")
@@ -80,7 +77,6 @@ function getDescription(text, callback) {
 								type: 'POST',
 								data: { text: text },
 								success: function (dataRI) {
-									console.log(dataRI);
 									compareResult = ComparePsy(dataRI[0].racional, dataRI[0].irracional)
 									if (compareResult == -1) {
 										psy.push("рационал")
