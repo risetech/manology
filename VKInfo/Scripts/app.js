@@ -1,13 +1,11 @@
 ﻿/// <reference path="jquery-1.7.2-vsdoc.js" />
 
-var app = {
-	appId: 3016703,
-	appSecret: "Zz8fFBdaRDyMBQ0NDElV",
-	redirectUri: "http://manology.info/User/Auth"
-
-	/*appId: 2995743,
-	appSecret: "5pxH8x5L8rT977WflGn0",
-	redirectUri: "http://127.0.0.1:4621/User/Auth"*/
+var app;
+if (location.hostname == 'localhost' || (location.hostname.indexOf('127.0.0.1') + 1)) {
+	app = { appId: 2995743, appSecret: '5pxH8x5L8rT977WflGn0', redirectUri: 'http://127.0.0.1:4621/User/Auth' }
+}
+else {
+	app = { appId: 3016703, appSecret: 'Zz8fFBdaRDyMBQ0NDElV', redirectUri: 'http://manology.info/User/Auth' }
 }
 
 getSVG = function (charts) {
@@ -46,7 +44,7 @@ var user_id = localStorage['user_id'] || "";
 var user_link = localStorage['user_link'] || "";
 
 var scope = "friends,wall,video,photos,groups,pages";
-var auth = function () {
+function auth() {
 	location.href = "http://oauth.vk.com/authorize?client_id=" + app.appId + "&display=page&scope=" + scope + "&redirect_uri=" + app.redirectUri + "&response_type=token";
 }
 var access_token = getCookie("access_token") || "";
@@ -219,10 +217,14 @@ function loadData(userId) {
 
 					renderPostsAndLikesByMonthsGraph(JSON.parse(userObj.LikedContent));
 				}
-
+				
 				renderInterests(JSON.parse(userObj.Interests));
 				renderThemes(JSON.parse(userObj.Themes));
-				savePsyType(JSON.parse(userObj.PsyResult), JSON.parse(userObj.PsyType));
+				var psyContentLoaded = JSON.parse(userObj.PsyResult);
+				var psyContentStatic = result.filter(function (item) {
+					return $.inArray(item.type, psyContentLoaded) != -1;
+				});
+				savePsyType(psyContentStatic, JSON.parse(userObj.PsyType));
 
 				dataLoaded();
 			}
@@ -348,7 +350,6 @@ function toNormalTitle(word) {
 				return "Медицина";
 			case "it":
 				return "Информационные технологии";
-
 			case "auto":
 				return "Автомобили";
 			case "biologiy":
@@ -359,7 +360,6 @@ function toNormalTitle(word) {
 				return "Культура, искусство";
 			case "economica":
 				return "Экономика";
-
 			case "himiy":
 				return "Химия";
 			case "philosof":
@@ -370,6 +370,19 @@ function toNormalTitle(word) {
 				return "Музыка";
 			case "sport":
 				return "Спорт";
+
+			case "Cosmos":
+				return "Космос";
+			case "Ezoter":
+				return "Эзотерика";
+			case "PR":
+				return "Пиар";
+			case "Samosov":
+				return "Самосовершенствование";
+			case "sEX":
+				return "Секс";
+			case "Ur":
+				return "Юриспруденция";
 			default:
 				return "Неизвестно";
 		}
@@ -2499,6 +2512,9 @@ function renderPsyType() {
 		gr.find('.accordion-inner').append(hr);
 		gr.append('</div></div>');
 	}
+	if (psyContent.length == 1) {
+		$('.accordion-body.collapse').addClass('in');
+	}
 }
 
 $(function () {
@@ -2551,6 +2567,8 @@ $(function () {
 			$('#show-my-rating').show();
 			$('#current-user').show();
 			$('#recalculate-button').show();
+			//localStorage['user_link'] = "";
+			localStorage['owner_id'] = "";
 		}
 		else {
 			location.hash = viewer_id;

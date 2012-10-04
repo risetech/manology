@@ -1,6 +1,6 @@
 ﻿function ComparePsy(psy1, psy2) {
 	k = 1.1;
-	ymin = 2;
+	ymin = 0.6;
 	if (psy1 + psy2 < ymin)
 		return undefined;
 	if (psy2 > psy1 * k + ymin)
@@ -94,7 +94,9 @@ function getDescription(text, callback) {
 											return el.type[3] === 'i'
 										});
 									}
-									saveDataToMongoDB(JSON.stringify(result), 'PsyResult');
+									saveDataToMongoDB(JSON.stringify(result.map(function (item) {
+										return item.type;
+									})), 'PsyResult');
 									saveDataToMongoDB(JSON.stringify(psy), 'PsyType');
 									callback(result, psy);
 								}
