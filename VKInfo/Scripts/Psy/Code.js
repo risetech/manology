@@ -1,5 +1,5 @@
 ﻿function ComparePsy(psy1, psy2) {
-	k = 1.1;
+	k = 1.05;
 	ymin = 0.6;
 	if (psy1 + psy2 < ymin)
 		return undefined;

@@ -355,7 +355,7 @@ function toNormalTitle(word) {
 			case "biologiy":
 				return "Биология";
 			case "culinariy":
-				return "Еда";
+				return "Кулинария";
 			case "cultura":
 				return "Культура, искусство";
 			case "economica":
@@ -427,10 +427,13 @@ function loadAllPosts(offset) {
 
 				renderGroupReposts(allPosts);
 				var str = '';
+				var strNoReposts = '';
 				for (var i = 0; i < allPosts.length; i++) {
 					str += allPosts[i].text + ' ';
+					//strNoReposts += (!allPosts[i].copy_owner_id ? allPosts[i].text : '') + ' ';
 				}
 				requestThemes(str);
+
 				getDescription(str, savePsyType);
 				if (likedContent && likedContent.length == 0) {
 					renderContentRating('post');
