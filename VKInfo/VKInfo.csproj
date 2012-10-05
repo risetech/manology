@@ -168,6 +168,7 @@
     <Content Include="Content\images\post.png" />
     <Content Include="Content\images\progress.gif" />
     <Content Include="Content\images\psy.png" />
+    <Content Include="Content\images\question.jpg" />
     <Content Include="Content\images\random_grey_variations.png" />
     <Content Include="Content\images\retweet.png" />
     <Content Include="Content\images\twitter_web_sprite_icons.png" />

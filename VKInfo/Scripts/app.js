@@ -217,7 +217,7 @@ function loadData(userId) {
 
 					renderPostsAndLikesByMonthsGraph(JSON.parse(userObj.LikedContent));
 				}
-				
+
 				renderInterests(JSON.parse(userObj.Interests));
 				renderThemes(JSON.parse(userObj.Themes));
 				var psyContentLoaded = JSON.parse(userObj.PsyResult);
@@ -2323,8 +2323,8 @@ function setOwnerId(id) {
 			else {
 				localStorage['user_id'] = "&owner_id=" + data.response[0].uid;
 				localStorage['user_link'] = data.response[0].uid;
-		
-					addToWatchList(data.response[0].uid);
+
+				addToWatchList(data.response[0].uid);
 			}
 		}
 	});
@@ -2582,12 +2582,17 @@ $(function () {
 					var model = data.response[0];
 					$('#tell-friends > div').append(VK.Share.button({
 						url: location.href,
-						title: model.first_name + ' ' + model.last_name + ' на Manology.info'
+						title: model.first_name + ' ' + model.last_name + ' на Manology.info',
+						image: 'http://manology.info/content/images/question.jpg'
 					},
 					{
 						type: 'custom',
 						text: "<img src=\"http://vk.com/images/vk32.png?1\" />"
 					}));
+					$('#tell-friends').click(function (e) {
+						if (!$(e.target).is('a') && !$(e.target).is('img'))
+							$('#tell-friends a').click();
+					});
 					ko.applyBindings(new CurrentUserModel(model), $('#current-user')[0]);
 				}
 			});
@@ -2622,8 +2627,8 @@ $(function () {
 			if (key.keyCode === 13) {
 				$('#search-warning').hide();
 				var id = link.lastIndexOf('/') != -1 ? link.substr(link.lastIndexOf('/') + 1) : link;
-				
-					setOwnerId(id);
+
+				setOwnerId(id);
 			}
 		})
 
@@ -2638,7 +2643,8 @@ $(function () {
 		$('.body-info, .subhead.custom, .navbar-search').hide();
 		$('#tell-friends > div').append(VK.Share.button({
 			url: location.href,
-			title: 'Manology.info'
+			title: 'Manology.info',
+			image: 'http://127.0.0.1:4621/content/images/question.jpg'
 		},
 					{
 						type: 'custom',
