@@ -1,31 +1,5 @@
 ﻿<Words>
 
-<Word Stem="пуска" Weight="0.5">
-<Allolog Form="пускай"/>
-<Allolog Form="пускается"/>
-<Allolog Form="пускайте"/>
-<Allolog Form="пускаемый"/>
-<Allolog Form="пускать"/>
-<Allolog Form="пускавшийся"/>
-<Allolog Form="пускался"/>
-<Allolog Form="пускают"/>
-<Allolog Form="пускает"/>
-<Allolog Form="пускаться"/>
-<Allolog Form="пускали"/>
-<Allolog Form="пускалась"/>
-<Allolog Form="пускаются"/>
-<Allolog Form="пускайтесь"/>
-<Allolog Form="пускала"/>
-<Allolog Form="пускающий"/>
-<Allolog Form="пускаемые"/>
-<Allolog Form="пускающих"/>
-<Allolog Form="пускал"/>
-<Allolog Form="пускавших"/>
-<Allolog Form="пускаешь"/>
-<Allolog Form="пускаетесь"/>
-<Allolog Form="пускаете"/>
-</Word>
-
 <Word Stem="машин" Weight="0.05">
 <Allolog Form="машины"/>
 <Allolog Form="машин"/>
@@ -37,6 +11,7 @@
 <Allolog Form="машиной"/>
 <Allolog Form="машинная"/>
 <Allolog Form="машинам"/>
+<Allolog Form="машинные"/>
 <Allolog Form="машинной"/>
 <Allolog Form="машинном"/>
 <Allolog Form="машинного"/>
@@ -46,7 +21,7 @@
 <Allolog Form="машинно"/>
 <Allolog Form="машинный"/>
 <Allolog Form="машинное"/>
-<Allolog Form="машинные"/>
+<Allolog Form="машиною"/>
 </Word>
 
 <Word Stem="расположен" Weight="0.05">
@@ -67,8 +42,8 @@
 <Allolog Form="расположенную"/>
 <Allolog Form="расположенным"/>
 <Allolog Form="расположении"/>
-<Allolog Form="расположениям"/>
 <Allolog Form="расположений"/>
+<Allolog Form="расположениям"/>
 <Allolog Form="расположенностью"/>
 <Allolog Form="расположенность"/>
 <Allolog Form="расположенности"/>
@@ -115,6 +90,7 @@
 <Allolog Form="массами"/>
 <Allolog Form="массив"/>
 <Allolog Form="масси"/>
+<Allolog Form="массою"/>
 </Word>
 
 <Word Stem="линейк" Weight="0.5">
@@ -122,10 +98,10 @@
 <Allolog Form="линейки"/>
 <Allolog Form="линейке"/>
 <Allolog Form="линейку"/>
-<Allolog Form="линейка"/>
 <Allolog Form="линейкой"/>
-<Allolog Form="линейкам"/>
+<Allolog Form="линейка"/>
 <Allolog Form="линейками"/>
+<Allolog Form="линейкам"/>
 </Word>
 
 <Word Stem="процедур" Weight="0.05">
@@ -166,7 +142,7 @@
 <Allolog Form="задачею"/>
 </Word>
 
-<Word Stem="специалист" Weight="0.5">
+<Word Stem="специалист" Weight="0.05">
 <Allolog Form="специалисты"/>
 <Allolog Form="специалистами"/>
 <Allolog Form="специалистов"/>
@@ -175,6 +151,7 @@
 <Allolog Form="специалистом"/>
 <Allolog Form="специалиста"/>
 <Allolog Form="специалисту"/>
+<Allolog Form="специалисте"/>
 <Allolog Form="специалистах"/>
 </Word>
 
@@ -193,11 +170,13 @@
 <Allolog Form="зависимое"/>
 <Allolog Form="зависимого"/>
 <Allolog Form="зависимую"/>
+<Allolog Form="зависимом"/>
 <Allolog Form="зависимы"/>
 <Allolog Form="зависима"/>
 <Allolog Form="зависимым"/>
-<Allolog Form="зависимом"/>
+<Allolog Form="зависимостям"/>
 <Allolog Form="зависимее"/>
+<Allolog Form="зависимостях"/>
 </Word>
 
 <Word Stem="модел" Weight="0.05">
@@ -236,6 +215,7 @@
 <Allolog Form="агрегатах"/>
 <Allolog Form="агрегате"/>
 <Allolog Form="агрегату"/>
+<Allolog Form="агрегато"/>
 </Word>
 
 <Word Stem="вариант" Weight="0.05">
@@ -280,18 +260,19 @@
 <Allolog Form="выполняющая"/>
 <Allolog Form="выполнялось"/>
 <Allolog Form="выполняемой"/>
-<Allolog Form="выполнялась"/>
+<Allolog Form="выполняющуюся"/>
 <Allolog Form="выполнялись"/>
-<Allolog Form="выполнявшие"/>
-<Allolog Form="выполняло"/>
+<Allolog Form="выполнялась"/>
 <Allolog Form="выполнялся"/>
+<Allolog Form="выполнявшие"/>
+<Allolog Form="выполняющийся"/>
+<Allolog Form="выполняем"/>
+<Allolog Form="выполняло"/>
 <Allolog Form="выполнявшихся"/>
 <Allolog Form="выполняемую"/>
 <Allolog Form="выполняемая"/>
 <Allolog Form="выполняемое"/>
-<Allolog Form="выполняем"/>
 <Allolog Form="выполняющиеся"/>
-<Allolog Form="выполняющийся"/>
 <Allolog Form="выполняющееся"/>
 <Allolog Form="выполняющимся"/>
 <Allolog Form="выполняешь"/>
@@ -299,12 +280,15 @@
 <Allolog Form="выполняемыми"/>
 <Allolog Form="выполняй"/>
 <Allolog Form="выполнявшуюся"/>
+<Allolog Form="выполнявшей"/>
+<Allolog Form="выполняющейся"/>
 <Allolog Form="выполняе"/>
 <Allolog Form="выполняющую"/>
 <Allolog Form="выполнявшим"/>
+<Allolog Form="выполнявшее"/>
 </Word>
 
-<Word Stem="связ" Weight="0.5">
+<Word Stem="связ" Weight="0.05">
 <Allolog Form="связь"/>
 <Allolog Form="связи"/>
 <Allolog Form="связа"/>
@@ -315,16 +299,16 @@
 <Allolog Form="связям"/>
 <Allolog Form="связующими"/>
 <Allolog Form="связующим"/>
+<Allolog Form="связующая"/>
 <Allolog Form="связующего"/>
 <Allolog Form="связующий"/>
 <Allolog Form="связующее"/>
 <Allolog Form="связующие"/>
+<Allolog Form="связующих"/>
 <Allolog Form="связы"/>
 <Allolog Form="связя"/>
-<Allolog Form="связующих"/>
 <Allolog Form="связующей"/>
 <Allolog Form="связующую"/>
-<Allolog Form="связующая"/>
 <Allolog Form="связ"/>
 </Word>
 
@@ -332,8 +316,8 @@
 <Allolog Form="комментарии"/>
 <Allolog Form="комментарий"/>
 <Allolog Form="комментариев"/>
-<Allolog Form="комментариями"/>
 <Allolog Form="комментариях"/>
+<Allolog Form="комментариями"/>
 <Allolog Form="комментарием"/>
 <Allolog Form="комментария"/>
 <Allolog Form="комментариям"/>
@@ -342,9 +326,9 @@
 <Word Stem="интернет" Weight="0.5">
 <Allolog Form="интернет"/>
 <Allolog Form="интернета"/>
-<Allolog Form="интернетом"/>
 <Allolog Form="интернету"/>
 <Allolog Form="интернете"/>
+<Allolog Form="интернетом"/>
 </Word>
 
 <Word Stem="автоматическ" Weight="0.05">
@@ -387,7 +371,7 @@
 <Allolog Form="очередям"/>
 </Word>
 
-<Word Stem="программ" Weight="0.5">
+<Word Stem="программ" Weight="0.05">
 <Allolog Form="программы"/>
 <Allolog Form="программа"/>
 <Allolog Form="программами"/>
@@ -398,6 +382,7 @@
 <Allolog Form="программой"/>
 <Allolog Form="программах"/>
 <Allolog Form="программи"/>
+<Allolog Form="программою"/>
 </Word>
 
 <Word Stem="автономн" Weight="0.05">
@@ -414,6 +399,7 @@
 <Allolog Form="автономными"/>
 <Allolog Form="автономное"/>
 <Allolog Form="автономная"/>
+<Allolog Form="автономны"/>
 <Allolog Form="автономную"/>
 <Allolog Form="автономна"/>
 </Word>
@@ -473,26 +459,31 @@
 
 <Word Stem="абзац" Weight="0.5">
 <Allolog Form="абзац"/>
+<Allolog Form="абзацами"/>
 <Allolog Form="абзацем"/>
 <Allolog Form="абзаца"/>
 <Allolog Form="абзацев"/>
 <Allolog Form="абзаце"/>
-<Allolog Form="абзацам"/>
 <Allolog Form="абзацы"/>
+<Allolog Form="абзацам"/>
+<Allolog Form="абзацу"/>
+<Allolog Form="абзацах"/>
 </Word>
 
 <Word Stem="виртуальн" Weight="0.5">
 <Allolog Form="виртуальном"/>
+<Allolog Form="виртуальное"/>
+<Allolog Form="виртуальные"/>
+<Allolog Form="виртуальными"/>
+<Allolog Form="виртуальны"/>
 <Allolog Form="виртуальной"/>
 <Allolog Form="виртуальный"/>
 <Allolog Form="виртуально"/>
-<Allolog Form="виртуальное"/>
-<Allolog Form="виртуальные"/>
-<Allolog Form="виртуальная"/>
 <Allolog Form="виртуальную"/>
+<Allolog Form="виртуальная"/>
 <Allolog Form="виртуальность"/>
 <Allolog Form="виртуальности"/>
-<Allolog Form="виртуальными"/>
+<Allolog Form="виртуального"/>
 <Allolog Form="виртуальным"/>
 </Word>
 
@@ -502,16 +493,16 @@
 <Allolog Form="команды"/>
 <Allolog Form="командой"/>
 <Allolog Form="команде"/>
-<Allolog Form="командах"/>
 <Allolog Form="команду"/>
+<Allolog Form="командам"/>
+<Allolog Form="командующего"/>
+<Allolog Form="командах"/>
 <Allolog Form="командующим"/>
 <Allolog Form="командующий"/>
 <Allolog Form="командами"/>
-<Allolog Form="командам"/>
 <Allolog Form="командующих"/>
 <Allolog Form="командующие"/>
 <Allolog Form="командо"/>
-<Allolog Form="командующего"/>
 <Allolog Form="командую"/>
 <Allolog Form="командуй"/>
 <Allolog Form="команди"/>
@@ -535,6 +526,7 @@
 <Allolog Form="группами"/>
 <Allolog Form="группо"/>
 <Allolog Form="группи"/>
+<Allolog Form="группого"/>
 </Word>
 
 <Word Stem="авар" Weight="0.05">
@@ -549,7 +541,7 @@
 <Allolog Form="авариями"/>
 </Word>
 
-<Word Stem="знак" Weight="0.5">
+<Word Stem="знак" Weight="0.05">
 <Allolog Form="знак"/>
 <Allolog Form="знаки"/>
 <Allolog Form="знаках"/>
@@ -574,12 +566,13 @@
 <Allolog Form="условие"/>
 <Allolog Form="услови"/>
 <Allolog Form="условившись"/>
+<Allolog Form="условиться"/>
+<Allolog Form="условились"/>
+<Allolog Form="условимся"/>
 <Allolog Form="условию"/>
 <Allolog Form="условье"/>
-<Allolog Form="условимся"/>
-<Allolog Form="условились"/>
-<Allolog Form="условиться"/>
 <Allolog Form="условила"/>
+<Allolog Form="условился"/>
 </Word>
 
 <Word Stem="документ" Weight="0.05">
@@ -606,24 +599,25 @@
 <Allolog Form="автоматов"/>
 <Allolog Form="автоматами"/>
 <Allolog Form="автоматам"/>
+<Allolog Form="автомату"/>
 </Word>
 
-<Word Stem="громк" Weight="0.5">
+<Word Stem="громк" Weight="0.05">
 <Allolog Form="громким"/>
 <Allolog Form="громко"/>
 <Allolog Form="громкий"/>
 <Allolog Form="громкой"/>
-<Allolog Form="громкое"/>
 <Allolog Form="громкие"/>
-<Allolog Form="громком"/>
-<Allolog Form="громкости"/>
+<Allolog Form="громкое"/>
 <Allolog Form="громкими"/>
 <Allolog Form="громкого"/>
+<Allolog Form="громкая"/>
+<Allolog Form="громкую"/>
+<Allolog Form="громких"/>
+<Allolog Form="громком"/>
+<Allolog Form="громкости"/>
 <Allolog Form="громкость"/>
 <Allolog Form="громки"/>
-<Allolog Form="громких"/>
-<Allolog Form="громкую"/>
-<Allolog Form="громкая"/>
 <Allolog Form="громкостью"/>
 </Word>
 
@@ -631,13 +625,14 @@
 <Allolog Form="роботом"/>
 <Allolog Form="роботов"/>
 <Allolog Form="робот"/>
+<Allolog Form="робота"/>
+<Allolog Form="роботах"/>
 <Allolog Form="роботы"/>
 <Allolog Form="роботами"/>
 <Allolog Form="роботи"/>
-<Allolog Form="робота"/>
+<Allolog Form="роботам"/>
 <Allolog Form="роботу"/>
 <Allolog Form="роботе"/>
-<Allolog Form="роботам"/>
 </Word>
 
 <Word Stem="уровен" Weight="0.05">
@@ -653,8 +648,8 @@
 <Allolog Form="технологиям"/>
 <Allolog Form="технологией"/>
 <Allolog Form="технологиями"/>
-<Allolog Form="технологи"/>
 <Allolog Form="технологиях"/>
+<Allolog Form="технологи"/>
 <Allolog Form="технологов"/>
 <Allolog Form="технологам"/>
 <Allolog Form="технолога"/>
@@ -671,6 +666,7 @@
 <Allolog Form="передачей"/>
 <Allolog Form="передаче"/>
 <Allolog Form="передачами"/>
+<Allolog Form="передачам"/>
 </Word>
 
 <Word Stem="свойств" Weight="0.05">
@@ -683,6 +679,7 @@
 <Allolog Form="свойством"/>
 <Allolog Form="свойству"/>
 <Allolog Form="свойстве"/>
+<Allolog Form="свойствена"/>
 </Word>
 
 <Word Stem="вращен" Weight="0.05">
@@ -692,8 +689,8 @@
 <Allolog Form="вращение"/>
 <Allolog Form="вращении"/>
 <Allolog Form="вращению"/>
-<Allolog Form="вращениях"/>
 <Allolog Form="вращений"/>
+<Allolog Form="вращениях"/>
 <Allolog Form="вращениями"/>
 <Allolog Form="вращениям"/>
 </Word>
@@ -705,15 +702,16 @@
 <Allolog Form="диапазоном"/>
 <Allolog Form="диапазона"/>
 <Allolog Form="диапазонах"/>
-<Allolog Form="диапазонов"/>
 <Allolog Form="диапазону"/>
+<Allolog Form="диапазонов"/>
 </Word>
 
-<Word Stem="информац" Weight="0.5">
+<Word Stem="информац" Weight="0.05">
 <Allolog Form="информации"/>
 <Allolog Form="информация"/>
 <Allolog Form="информацию"/>
 <Allolog Form="информацией"/>
+<Allolog Form="информаций"/>
 </Word>
 
 <Word Stem="приложен" Weight="0.05">
@@ -728,9 +726,9 @@
 <Allolog Form="приложением"/>
 <Allolog Form="приложенной"/>
 <Allolog Form="приложениях"/>
+<Allolog Form="приложений"/>
 <Allolog Form="приложенное"/>
 <Allolog Form="приложенный"/>
-<Allolog Form="приложений"/>
 <Allolog Form="приложениями"/>
 <Allolog Form="приложению"/>
 <Allolog Form="приложенном"/>
@@ -755,13 +753,16 @@
 <Allolog Form="неисправные"/>
 <Allolog Form="неисправном"/>
 <Allolog Form="неисправны"/>
+<Allolog Form="неисправностям"/>
 <Allolog Form="неисправный"/>
 <Allolog Form="неисправную"/>
 <Allolog Form="неисправным"/>
+<Allolog Form="неисправными"/>
 </Word>
 
 <Word Stem="отладк" Weight="0.5">
 <Allolog Form="отладке"/>
+<Allolog Form="отладкой"/>
 <Allolog Form="отладки"/>
 </Word>
 
@@ -774,6 +775,7 @@
 <Allolog Form="пользователя"/>
 <Allolog Form="пользователь"/>
 <Allolog Form="пользователях"/>
+<Allolog Form="пользователями"/>
 </Word>
 
 <Word Stem="телефон" Weight="0.05">
@@ -785,17 +787,20 @@
 <Allolog Form="телефонный"/>
 <Allolog Form="телефонной"/>
 <Allolog Form="телефонов"/>
-<Allolog Form="телефоном"/>
 <Allolog Form="телефоне"/>
+<Allolog Form="телефонно"/>
+<Allolog Form="телефоном"/>
 <Allolog Form="телефонные"/>
 <Allolog Form="телефонными"/>
-<Allolog Form="телефонного"/>
 <Allolog Form="телефонную"/>
+<Allolog Form="телефонного"/>
 <Allolog Form="телефонию"/>
 <Allolog Form="телефонами"/>
-<Allolog Form="телефонном"/>
+<Allolog Form="телефонии"/>
 <Allolog Form="телефонам"/>
 <Allolog Form="телефонах"/>
+<Allolog Form="телефонным"/>
+<Allolog Form="телефонном"/>
 </Word>
 
 <Word Stem="архитектур" Weight="0.05">
@@ -805,12 +810,13 @@
 <Allolog Form="архитектуре"/>
 <Allolog Form="архитектуру"/>
 <Allolog Form="архитектур"/>
+<Allolog Form="архитектурах"/>
 </Word>
 
 <Word Stem="клавиатур" Weight="0.5">
 <Allolog Form="клавиатуры"/>
-<Allolog Form="клавиатуру"/>
 <Allolog Form="клавиатуре"/>
+<Allolog Form="клавиатуру"/>
 <Allolog Form="клавиатурой"/>
 <Allolog Form="клавиатурах"/>
 <Allolog Form="клавиатура"/>
@@ -822,6 +828,8 @@
 <Allolog Form="ноутбука"/>
 <Allolog Form="ноутбук"/>
 <Allolog Form="ноутбуку"/>
+<Allolog Form="ноутбуком"/>
+<Allolog Form="ноутбуки"/>
 <Allolog Form="ноутбуке"/>
 </Word>
 
@@ -852,13 +860,13 @@
 <Word Stem="атак" Weight="0.05">
 <Allolog Form="атаки"/>
 <Allolog Form="атака"/>
-<Allolog Form="атаку"/>
+<Allolog Form="атак"/>
 <Allolog Form="атаке"/>
+<Allolog Form="атаку"/>
 <Allolog Form="атакой"/>
 <Allolog Form="атакующих"/>
 <Allolog Form="атакующая"/>
 <Allolog Form="атаках"/>
-<Allolog Form="атак"/>
 <Allolog Form="атакующей"/>
 <Allolog Form="атакующий"/>
 <Allolog Form="атакам"/>
@@ -868,12 +876,12 @@
 <Allolog Form="атакующим"/>
 <Allolog Form="атако"/>
 <Allolog Form="атакующую"/>
-<Allolog Form="атакующего"/>
 <Allolog Form="атакующими"/>
+<Allolog Form="атакующего"/>
 <Allolog Form="атакующем"/>
 </Word>
 
-<Word Stem="клиент" Weight="0.5">
+<Word Stem="клиент" Weight="0.05">
 <Allolog Form="клиентом"/>
 <Allolog Form="клиенты"/>
 <Allolog Form="клиентов"/>
@@ -889,13 +897,14 @@
 <Word Stem="отображен" Weight="0.05">
 <Allolog Form="отображение"/>
 <Allolog Form="отображения"/>
-<Allolog Form="отображению"/>
 <Allolog Form="отображением"/>
 <Allolog Form="отображено"/>
+<Allolog Form="отображению"/>
+<Allolog Form="отображен"/>
 <Allolog Form="отображении"/>
 <Allolog Form="отображений"/>
 <Allolog Form="отображениях"/>
-<Allolog Form="отображен"/>
+<Allolog Form="отображенное"/>
 <Allolog Form="отображениям"/>
 </Word>
 
@@ -907,6 +916,7 @@
 <Allolog Form="администратором"/>
 <Allolog Form="администратору"/>
 <Allolog Form="администраторам"/>
+<Allolog Form="администраторами"/>
 </Word>
 
 <Word Stem="администрирован" Weight="0.5">
@@ -925,6 +935,13 @@
 <Allolog Form="запросить"/>
 <Allolog Form="запрос"/>
 <Allolog Form="запросил"/>
+<Allolog Form="запросили"/>
+<Allolog Form="запросила"/>
+<Allolog Form="запросите"/>
+<Allolog Form="запросив"/>
+<Allolog Form="запросом"/>
+<Allolog Form="запросе"/>
+<Allolog Form="запросах"/>
 </Word>
 
 <Word Stem="mysql" Weight="0.5">
@@ -940,8 +957,9 @@
 <Allolog Form="программист"/>
 <Allolog Form="программистами"/>
 <Allolog Form="программистов"/>
-<Allolog Form="программисты"/>
 <Allolog Form="программистом"/>
+<Allolog Form="программисты"/>
+<Allolog Form="программистам"/>
 </Word>
 
 <Word Stem="software" Weight="0.5">
@@ -953,10 +971,13 @@
 <Allolog Form="аналитики"/>
 <Allolog Form="аналитиков"/>
 <Allolog Form="аналитика"/>
+<Allolog Form="аналитико"/>
+<Allolog Form="аналитикой"/>
 <Allolog Form="аналитику"/>
 <Allolog Form="аналитикам"/>
 <Allolog Form="аналитиком"/>
-<Allolog Form="аналитико"/>
+<Allolog Form="аналитиками"/>
+<Allolog Form="аналитике"/>
 </Word>
 
 <Word Stem="ruby" Weight="0.5">
@@ -965,8 +986,8 @@
 
 <Word Stem="информатик" Weight="0.5">
 <Allolog Form="информатики"/>
-<Allolog Form="информатике"/>
 <Allolog Form="информатика"/>
+<Allolog Form="информатике"/>
 <Allolog Form="информатику"/>
 </Word>
 
@@ -978,8 +999,8 @@
 <Allolog Form="поддержки"/>
 <Allolog Form="поддержку"/>
 <Allolog Form="поддержкой"/>
-<Allolog Form="поддержка"/>
 <Allolog Form="поддержке"/>
+<Allolog Form="поддержка"/>
 <Allolog Form="поддержкею"/>
 <Allolog Form="поддержкам"/>
 </Word>
@@ -1021,13 +1042,14 @@
 <Allolog Form="исполненный"/>
 <Allolog Form="исполненные"/>
 <Allolog Form="исполнен"/>
+<Allolog Form="исполненная"/>
 <Allolog Form="исполненное"/>
 <Allolog Form="исполненном"/>
-<Allolog Form="исполненная"/>
 <Allolog Form="исполненным"/>
 <Allolog Form="исполненного"/>
 <Allolog Form="исполненную"/>
 <Allolog Form="исполненье"/>
+<Allolog Form="исполненными"/>
 </Word>
 
 <Word Stem="заголовок" Weight="0.5">
@@ -1039,37 +1061,29 @@
 <Allolog Form="реквизиты"/>
 <Allolog Form="реквизита"/>
 <Allolog Form="реквизит"/>
+<Allolog Form="реквизитах"/>
 </Word>
 
-<Word Stem="секретн" Weight="0.5">
+<Word Stem="секретн" Weight="0.05">
 <Allolog Form="секретность"/>
 <Allolog Form="секретного"/>
 <Allolog Form="секретности"/>
 <Allolog Form="секретные"/>
+<Allolog Form="секретная"/>
+<Allolog Form="секретностью"/>
+<Allolog Form="секретную"/>
 <Allolog Form="секретной"/>
 <Allolog Form="секретное"/>
-<Allolog Form="секретную"/>
 <Allolog Form="секретны"/>
 <Allolog Form="секретным"/>
 <Allolog Form="секретно"/>
-<Allolog Form="секретностью"/>
-<Allolog Form="секретная"/>
-<Allolog Form="секретном"/>
 <Allolog Form="секретный"/>
-<Allolog Form="секретна"/>
+<Allolog Form="секретном"/>
+<Allolog Form="секретнейшую"/>
 <Allolog Form="секретными"/>
+<Allolog Form="секретна"/>
 <Allolog Form="секретнейшей"/>
 <Allolog Form="секретнейшим"/>
-</Word>
-
-<Word Stem="злоумышленник" Weight="0.5">
-<Allolog Form="злоумышленника"/>
-<Allolog Form="злоумышленников"/>
-<Allolog Form="злоумышленники"/>
-<Allolog Form="злоумышленниками"/>
-<Allolog Form="злоумышленник"/>
-<Allolog Form="злоумышленникам"/>
-<Allolog Form="злоумышленником"/>
 </Word>
 
 <Word Stem="блокировк" Weight="0.05">
@@ -1080,7 +1094,7 @@
 <Allolog Form="блокировкой"/>
 </Word>
 
-<Word Stem="величин" Weight="0.5">
+<Word Stem="величин" Weight="0.05">
 <Allolog Form="величину"/>
 <Allolog Form="величины"/>
 <Allolog Form="величина"/>
@@ -1089,8 +1103,8 @@
 <Allolog Form="величиной"/>
 <Allolog Form="величин"/>
 <Allolog Form="величинах"/>
-<Allolog Form="величиною"/>
 <Allolog Form="величинам"/>
+<Allolog Form="величиною"/>
 <Allolog Form="величинные"/>
 </Word>
 
@@ -1101,12 +1115,15 @@
 <Allolog Form="переключатели"/>
 <Allolog Form="переключателем"/>
 <Allolog Form="переключателей"/>
+<Allolog Form="переключателях"/>
 </Word>
 
 <Word Stem="громкоговорител" Weight="0.5">
 <Allolog Form="громкоговорителя"/>
 <Allolog Form="громкоговорителей"/>
+<Allolog Form="громкоговорителях"/>
 <Allolog Form="громкоговорители"/>
+<Allolog Form="громкоговорителями"/>
 <Allolog Form="громкоговорителем"/>
 </Word>
 
@@ -1123,24 +1140,27 @@
 <Allolog Form="блокам"/>
 </Word>
 
-<Word Stem="смещен" Weight="0.5">
+<Word Stem="смещен" Weight="0.05">
 <Allolog Form="смещением"/>
 <Allolog Form="смещение"/>
 <Allolog Form="смещения"/>
 <Allolog Form="смещенного"/>
 <Allolog Form="смещено"/>
-<Allolog Form="смещен"/>
-<Allolog Form="смещений"/>
-<Allolog Form="смещении"/>
-<Allolog Form="смещениями"/>
 <Allolog Form="смещению"/>
 <Allolog Form="смещениям"/>
-<Allolog Form="смещениях"/>
+<Allolog Form="смещенной"/>
+<Allolog Form="смещениями"/>
 <Allolog Form="смещенными"/>
+<Allolog Form="смещений"/>
+<Allolog Form="смещении"/>
+<Allolog Form="смещенном"/>
+<Allolog Form="смещен"/>
+<Allolog Form="смещениях"/>
 <Allolog Form="смещенные"/>
 <Allolog Form="смещенность"/>
+<Allolog Form="смещенный"/>
 <Allolog Form="смещенным"/>
-<Allolog Form="смещенной"/>
+<Allolog Form="смещенную"/>
 </Word>
 
 <Word Stem="схем" Weight="0.05">
@@ -1150,8 +1170,8 @@
 <Allolog Form="схему"/>
 <Allolog Form="схемы"/>
 <Allolog Form="схемах"/>
-<Allolog Form="схемам"/>
 <Allolog Form="схемами"/>
+<Allolog Form="схемам"/>
 </Word>
 
 <Word Stem="лент" Weight="0.05">
@@ -1161,10 +1181,11 @@
 <Allolog Form="лент"/>
 <Allolog Form="лента"/>
 <Allolog Form="ленто"/>
-<Allolog Form="лентами"/>
 <Allolog Form="ленте"/>
 <Allolog Form="лентах"/>
+<Allolog Form="лентами"/>
 <Allolog Form="лентою"/>
+<Allolog Form="лентяя"/>
 </Word>
 
 <Word Stem="доступ" Weight="0.05">
@@ -1179,18 +1200,19 @@
 <Allolog Form="возвращения"/>
 <Allolog Form="возвращение"/>
 <Allolog Form="возвращении"/>
+<Allolog Form="возвращением"/>
+<Allolog Form="возвращениях"/>
+<Allolog Form="возвращен"/>
+<Allolog Form="возвращениями"/>
 <Allolog Form="возвращенное"/>
 <Allolog Form="возвращению"/>
-<Allolog Form="возвращением"/>
 <Allolog Form="возвращенные"/>
-<Allolog Form="возвращен"/>
 <Allolog Form="возвращенная"/>
-<Allolog Form="возвращениями"/>
 <Allolog Form="возвращений"/>
 <Allolog Form="возвращено"/>
-<Allolog Form="возвращениях"/>
 <Allolog Form="возвращенный"/>
 <Allolog Form="возвращенного"/>
+<Allolog Form="возвращенную"/>
 </Word>
 
 <Word Stem="метк" Weight="0.5">
@@ -1201,11 +1223,11 @@
 <Allolog Form="метке"/>
 <Allolog Form="метку"/>
 <Allolog Form="метка"/>
-<Allolog Form="меткими"/>
 <Allolog Form="метко"/>
+<Allolog Form="меткими"/>
+<Allolog Form="меткий"/>
 <Allolog Form="метким"/>
 <Allolog Form="меткость"/>
-<Allolog Form="меткий"/>
 <Allolog Form="меткие"/>
 <Allolog Form="метких"/>
 <Allolog Form="меткости"/>
@@ -1251,6 +1273,10 @@
 <Allolog Form="микропроцессоры"/>
 <Allolog Form="микропроцессоре"/>
 <Allolog Form="микропроцессором"/>
+<Allolog Form="микропроцессорах"/>
+<Allolog Form="микропроцессору"/>
+<Allolog Form="микропроцессорами"/>
+<Allolog Form="микропроцессора"/>
 </Word>
 
 <Word Stem="напряжен" Weight="0.05">
@@ -1270,12 +1296,12 @@
 <Allolog Form="напряженностью"/>
 <Allolog Form="напряженными"/>
 <Allolog Form="напряженная"/>
+<Allolog Form="напряжениями"/>
 <Allolog Form="напряжении"/>
 <Allolog Form="напряженной"/>
 <Allolog Form="напряжен"/>
 <Allolog Form="напряженном"/>
 <Allolog Form="напряженное"/>
-<Allolog Form="напряжениями"/>
 <Allolog Form="напряженную"/>
 <Allolog Form="напряжени"/>
 <Allolog Form="напряжениях"/>
@@ -1285,6 +1311,7 @@
 <Allolog Form="напряженностей"/>
 <Allolog Form="напряженностях"/>
 <Allolog Form="напряжениям"/>
+<Allolog Form="напряженнейшего"/>
 <Allolog Form="напряженнейшие"/>
 <Allolog Form="напряженья"/>
 </Word>
@@ -1297,8 +1324,8 @@
 <Allolog Form="счетчика"/>
 <Allolog Form="счетчиком"/>
 <Allolog Form="счетчик"/>
-<Allolog Form="счетчиков"/>
 <Allolog Form="счетчики"/>
+<Allolog Form="счетчиков"/>
 <Allolog Form="счетчиках"/>
 <Allolog Form="счетчиками"/>
 <Allolog Form="счетчику"/>
@@ -1309,10 +1336,10 @@
 <Allolog Form="строке"/>
 <Allolog Form="строкой"/>
 <Allolog Form="строк"/>
+<Allolog Form="строки"/>
 <Allolog Form="строку"/>
 <Allolog Form="строками"/>
 <Allolog Form="строках"/>
-<Allolog Form="строки"/>
 <Allolog Form="строкам"/>
 </Word>
 
@@ -1327,9 +1354,9 @@
 <Allolog Form="восстановленного"/>
 <Allolog Form="восстановленный"/>
 <Allolog Form="восстановлен"/>
+<Allolog Form="восстановлено"/>
 <Allolog Form="восстановленная"/>
 <Allolog Form="восстановленную"/>
-<Allolog Form="восстановлено"/>
 <Allolog Form="восстановленное"/>
 <Allolog Form="восстановлений"/>
 </Word>
@@ -1366,6 +1393,7 @@
 <Allolog Form="активизировать"/>
 <Allolog Form="активизировался"/>
 <Allolog Form="активизироваться"/>
+<Allolog Form="активизированы"/>
 <Allolog Form="активизировавшая"/>
 <Allolog Form="активизировал"/>
 <Allolog Form="активизированная"/>
@@ -1375,6 +1403,8 @@
 <Allolog Form="активизировали"/>
 <Allolog Form="активизировалось"/>
 <Allolog Form="активизировало"/>
+<Allolog Form="активизирован"/>
+<Allolog Form="активизировав"/>
 </Word>
 
 <Word Stem="неактивн" Weight="0.5">
@@ -1385,12 +1415,12 @@
 <Allolog Form="неактивную"/>
 <Allolog Form="неактивна"/>
 <Allolog Form="неактивной"/>
+<Allolog Form="неактивным"/>
+<Allolog Form="неактивными"/>
 <Allolog Form="неактивное"/>
 <Allolog Form="неактивности"/>
-<Allolog Form="неактивным"/>
 <Allolog Form="неактивный"/>
 <Allolog Form="неактивно"/>
-<Allolog Form="неактивными"/>
 </Word>
 
 <Word Stem="задержк" Weight="0.05">
@@ -1401,6 +1431,7 @@
 <Allolog Form="задержке"/>
 <Allolog Form="задержками"/>
 <Allolog Form="задержках"/>
+<Allolog Form="задержкам"/>
 </Word>
 
 <Word Stem="парол" Weight="0.5">
@@ -1409,6 +1440,11 @@
 <Allolog Form="паролем"/>
 <Allolog Form="пароли"/>
 <Allolog Form="паролями"/>
+<Allolog Form="паролей"/>
+<Allolog Form="паролях"/>
+<Allolog Form="паролю"/>
+<Allolog Form="пароле"/>
+<Allolog Form="паролям"/>
 </Word>
 
 <Word Stem="пауз" Weight="0.05">
@@ -1416,8 +1452,8 @@
 <Allolog Form="паузы"/>
 <Allolog Form="паузами"/>
 <Allolog Form="пауза"/>
-<Allolog Form="паузой"/>
 <Allolog Form="пауз"/>
+<Allolog Form="паузой"/>
 <Allolog Form="паузах"/>
 <Allolog Form="паузе"/>
 <Allolog Form="паузою"/>
@@ -1448,24 +1484,28 @@
 <Allolog Form="емкостях"/>
 <Allolog Form="емкость"/>
 <Allolog Form="емкостью"/>
-<Allolog Form="емкостям"/>
 <Allolog Form="емкостей"/>
+<Allolog Form="емкостям"/>
 <Allolog Form="емкостями"/>
 </Word>
 
-<Word Stem="переполнен" Weight="0.5">
+<Word Stem="переполнен" Weight="0.05">
 <Allolog Form="переполнении"/>
 <Allolog Form="переполнения"/>
+<Allolog Form="переполнен"/>
+<Allolog Form="переполненным"/>
 <Allolog Form="переполнением"/>
 <Allolog Form="переполнение"/>
-<Allolog Form="переполнениях"/>
-<Allolog Form="переполнен"/>
+<Allolog Form="переполненности"/>
+<Allolog Form="переполнено"/>
 <Allolog Form="переполненный"/>
+<Allolog Form="переполнениях"/>
 <Allolog Form="переполненном"/>
 <Allolog Form="переполненной"/>
 <Allolog Form="переполненные"/>
 <Allolog Form="переполненного"/>
-<Allolog Form="переполнено"/>
+<Allolog Form="переполненную"/>
+<Allolog Form="переполненными"/>
 </Word>
 
 <Word Stem="фильтр" Weight="0.5">
@@ -1478,6 +1518,7 @@
 <Allolog Form="фильтрующие"/>
 <Allolog Form="фильтров"/>
 <Allolog Form="фильтром"/>
+<Allolog Form="фильтру"/>
 <Allolog Form="фильтрующая"/>
 <Allolog Form="фильтрующей"/>
 <Allolog Form="фильтрами"/>
@@ -1485,6 +1526,7 @@
 <Allolog Form="фильтрующих"/>
 <Allolog Form="фильтрующего"/>
 <Allolog Form="фильтрующую"/>
+<Allolog Form="фильтруй"/>
 <Allolog Form="фильтруйте"/>
 </Word>
 
@@ -1539,6 +1581,7 @@
 <Allolog Form="неработающего"/>
 <Allolog Form="неработающий"/>
 <Allolog Form="неработаю"/>
+<Allolog Form="неработавшего"/>
 <Allolog Form="неработает"/>
 </Word>
 
@@ -1552,9 +1595,11 @@
 <Word Stem="модул" Weight="0.05">
 <Allolog Form="модулем"/>
 <Allolog Form="модуль"/>
-<Allolog Form="модуля"/>
-<Allolog Form="модули"/>
 <Allolog Form="модулю"/>
+<Allolog Form="модуля"/>
+<Allolog Form="модуле"/>
+<Allolog Form="модули"/>
+<Allolog Form="модулями"/>
 <Allolog Form="модулей"/>
 <Allolog Form="модулях"/>
 <Allolog Form="модулям"/>
@@ -1567,8 +1612,8 @@
 <Allolog Form="индекса"/>
 <Allolog Form="индекс"/>
 <Allolog Form="индексов"/>
-<Allolog Form="индексах"/>
 <Allolog Form="индексе"/>
+<Allolog Form="индексах"/>
 <Allolog Form="индексам"/>
 <Allolog Form="индексу"/>
 </Word>
@@ -1580,17 +1625,17 @@
 <Allolog Form="недопустимая"/>
 <Allolog Form="недопустимым"/>
 <Allolog Form="недопустимый"/>
+<Allolog Form="недопустимость"/>
+<Allolog Form="недопустимой"/>
 <Allolog Form="недопустимы"/>
 <Allolog Form="недопустимые"/>
 <Allolog Form="недопустимую"/>
-<Allolog Form="недопустимость"/>
 <Allolog Form="недопустимыми"/>
-<Allolog Form="недопустимой"/>
 <Allolog Form="недопустимости"/>
 <Allolog Form="недопустимое"/>
 </Word>
 
-<Word Stem="оператор" Weight="0.5">
+<Word Stem="оператор" Weight="0.05">
 <Allolog Form="оператора"/>
 <Allolog Form="оператор"/>
 <Allolog Form="операторов"/>
@@ -1598,8 +1643,8 @@
 <Allolog Form="операторами"/>
 <Allolog Form="операторы"/>
 <Allolog Form="операторам"/>
-<Allolog Form="операторе"/>
 <Allolog Form="оператору"/>
+<Allolog Form="операторе"/>
 </Word>
 
 <Word Stem="признак" Weight="0.05">
@@ -1626,11 +1671,11 @@
 <Allolog Form="логического"/>
 <Allolog Form="логическое"/>
 <Allolog Form="логическим"/>
-<Allolog Form="логическая"/>
-<Allolog Form="логический"/>
 <Allolog Form="логические"/>
 <Allolog Form="логическими"/>
 <Allolog Form="логических"/>
+<Allolog Form="логическая"/>
+<Allolog Form="логический"/>
 <Allolog Form="логическом"/>
 <Allolog Form="логическою"/>
 </Word>
@@ -1643,10 +1688,10 @@
 <Allolog Form="локальными"/>
 <Allolog Form="локальной"/>
 <Allolog Form="локальный"/>
-<Allolog Form="локальная"/>
-<Allolog Form="локальном"/>
 <Allolog Form="локальным"/>
+<Allolog Form="локальная"/>
 <Allolog Form="локальную"/>
+<Allolog Form="локальном"/>
 <Allolog Form="локальность"/>
 <Allolog Form="локальности"/>
 <Allolog Form="локальны"/>
@@ -1662,13 +1707,15 @@
 <Allolog Form="циклах"/>
 <Allolog Form="циклом"/>
 <Allolog Form="циклами"/>
-<Allolog Form="цикло"/>
 <Allolog Form="циклам"/>
+<Allolog Form="циклиться"/>
+<Allolog Form="цикло"/>
 <Allolog Form="циклитесь"/>
 </Word>
 
 <Word Stem="навигатор" Weight="0.5">
 <Allolog Form="навигатор"/>
+<Allolog Form="навигаторы"/>
 </Word>
 
 <Word Stem="shell" Weight="0.5">
@@ -1678,18 +1725,20 @@
 <Word Stem="формат" Weight="0.5">
 <Allolog Form="формат"/>
 <Allolog Form="формате"/>
+<Allolog Form="форматом"/>
 <Allolog Form="форматах"/>
 <Allolog Form="формату"/>
 <Allolog Form="формата"/>
 <Allolog Form="форматы"/>
-<Allolog Form="форматом"/>
+<Allolog Form="форматами"/>
+<Allolog Form="форматов"/>
 </Word>
 
-<Word Stem="вступлен" Weight="0.5">
+<Word Stem="вступлен" Weight="0.05">
 <Allolog Form="вступление"/>
 <Allolog Form="вступления"/>
-<Allolog Form="вступлением"/>
 <Allolog Form="вступлении"/>
+<Allolog Form="вступлением"/>
 <Allolog Form="вступлению"/>
 <Allolog Form="вступлений"/>
 </Word>
@@ -1718,14 +1767,14 @@
 <Allolog Form="ошибками"/>
 </Word>
 
-<Word Stem="гамм" Weight="0.5">
+<Word Stem="гамм" Weight="0.05">
 <Allolog Form="гамма"/>
 <Allolog Form="гамму"/>
 <Allolog Form="гамме"/>
+<Allolog Form="гамм"/>
 <Allolog Form="гаммы"/>
 <Allolog Form="гаммой"/>
 <Allolog Form="гаммах"/>
-<Allolog Form="гамм"/>
 <Allolog Form="гаммам"/>
 <Allolog Form="гаммами"/>
 <Allolog Form="гаммою"/>
@@ -1740,20 +1789,23 @@
 <Allolog Form="переносу"/>
 <Allolog Form="переносили"/>
 <Allolog Form="переноситься"/>
-<Allolog Form="переносим"/>
-<Allolog Form="переносил"/>
-<Allolog Form="переносилась"/>
 <Allolog Form="переносы"/>
+<Allolog Form="переносил"/>
+<Allolog Form="переносим"/>
+<Allolog Form="переносилась"/>
+<Allolog Form="переносов"/>
+<Allolog Form="переносите"/>
+<Allolog Form="переносясь"/>
 <Allolog Form="переноси"/>
 <Allolog Form="переносишь"/>
-<Allolog Form="переносите"/>
 <Allolog Form="переноситесь"/>
 <Allolog Form="переносились"/>
-<Allolog Form="переносов"/>
 <Allolog Form="переносила"/>
+<Allolog Form="переносился"/>
+<Allolog Form="переносившие"/>
 </Word>
 
-<Word Stem="кист" Weight="0.5">
+<Word Stem="кист" Weight="0.05">
 <Allolog Form="кистях"/>
 <Allolog Form="кисть"/>
 <Allolog Form="кистью"/>
@@ -1769,15 +1821,19 @@
 <Allolog Form="кистой"/>
 <Allolog Form="кистеи"/>
 <Allolog Form="кисте"/>
+<Allolog Form="кисту"/>
 </Word>
 
 <Word Stem="монитор" Weight="0.5">
 <Allolog Form="монитора"/>
 <Allolog Form="мониторе"/>
-<Allolog Form="мониторов"/>
+<Allolog Form="мониторы"/>
 <Allolog Form="монитор"/>
-<Allolog Form="монитором"/>
+<Allolog Form="мониторов"/>
 <Allolog Form="монитору"/>
+<Allolog Form="мониторах"/>
+<Allolog Form="мониторам"/>
+<Allolog Form="монитором"/>
 </Word>
 
 <Word Stem="операц" Weight="0.05">
@@ -1800,25 +1856,26 @@
 <Allolog Form="возврата"/>
 <Allolog Form="возврате"/>
 <Allolog Form="возвратом"/>
+<Allolog Form="возвратились"/>
 <Allolog Form="возвратил"/>
+<Allolog Form="возвратившись"/>
 <Allolog Form="возвратимся"/>
+<Allolog Form="возвратился"/>
 <Allolog Form="возвратившиеся"/>
 <Allolog Form="возвратила"/>
 <Allolog Form="возвратишься"/>
 <Allolog Form="возвратив"/>
 <Allolog Form="возвратившимися"/>
-<Allolog Form="возвратился"/>
 <Allolog Form="возвратов"/>
-<Allolog Form="возвратились"/>
+<Allolog Form="возвратилась"/>
 <Allolog Form="возвратитесь"/>
 <Allolog Form="возвратишь"/>
 <Allolog Form="возвратившийся"/>
-<Allolog Form="возвратившись"/>
 <Allolog Form="возврати"/>
-<Allolog Form="возвратилась"/>
 <Allolog Form="возвратившегося"/>
 <Allolog Form="возвраты"/>
 <Allolog Form="возвратясь"/>
+<Allolog Form="возвратившимся"/>
 <Allolog Form="возвратами"/>
 </Word>
 
@@ -1855,9 +1912,9 @@
 <Allolog Form="выражен"/>
 <Allolog Form="выражении"/>
 <Allolog Form="выражений"/>
+<Allolog Form="выражениях"/>
 <Allolog Form="выраженном"/>
 <Allolog Form="выражениями"/>
-<Allolog Form="выражениях"/>
 <Allolog Form="выражениям"/>
 <Allolog Form="выраженией"/>
 <Allolog Form="выраженно"/>
@@ -1872,14 +1929,14 @@
 <Allolog Form="дорожку"/>
 <Allolog Form="дорожке"/>
 <Allolog Form="дорожкам"/>
-<Allolog Form="дорожка"/>
 <Allolog Form="дорожки"/>
+<Allolog Form="дорожка"/>
 <Allolog Form="дорожках"/>
-<Allolog Form="дорожкой"/>
 <Allolog Form="дорожками"/>
+<Allolog Form="дорожкой"/>
 </Word>
 
-<Word Stem="знан" Weight="0.5">
+<Word Stem="знан" Weight="0.05">
 <Allolog Form="знании"/>
 <Allolog Form="знания"/>
 <Allolog Form="знаний"/>
@@ -1910,17 +1967,17 @@
 <Allolog Form="листа"/>
 <Allolog Form="листьях"/>
 <Allolog Form="листом"/>
-<Allolog Form="листье"/>
 <Allolog Form="листу"/>
+<Allolog Form="листьям"/>
+<Allolog Form="листье"/>
 <Allolog Form="листам"/>
 <Allolog Form="листо"/>
-<Allolog Form="листьям"/>
 <Allolog Form="листь"/>
 <Allolog Form="листя"/>
 <Allolog Form="листая"/>
 </Word>
 
-<Word Stem="восстанов" Weight="0.5">
+<Word Stem="восстанов" Weight="0.05">
 <Allolog Form="восстановил"/>
 <Allolog Form="восстановить"/>
 <Allolog Form="восстановите"/>
@@ -1933,18 +1990,19 @@
 <Allolog Form="восстановим"/>
 <Allolog Form="восстановившие"/>
 <Allolog Form="восстановила"/>
+<Allolog Form="восстановившими"/>
 <Allolog Form="восстановился"/>
 </Word>
 
 <Word Stem="страниц" Weight="0.05">
 <Allolog Form="страницах"/>
 <Allolog Form="страница"/>
-<Allolog Form="страницам"/>
-<Allolog Form="страницы"/>
-<Allolog Form="страниц"/>
-<Allolog Form="страницу"/>
 <Allolog Form="странице"/>
+<Allolog Form="страницу"/>
+<Allolog Form="страницы"/>
 <Allolog Form="страницами"/>
+<Allolog Form="страницам"/>
+<Allolog Form="страниц"/>
 <Allolog Form="страницей"/>
 <Allolog Form="страницею"/>
 </Word>
@@ -1953,14 +2011,16 @@
 <Allolog Form="геометрию"/>
 <Allolog Form="геометрия"/>
 <Allolog Form="геометрии"/>
-<Allolog Form="геометриях"/>
 <Allolog Form="геометрией"/>
-<Allolog Form="геометр"/>
+<Allolog Form="геометров"/>
 <Allolog Form="геометра"/>
+<Allolog Form="геометриях"/>
+<Allolog Form="геометр"/>
 <Allolog Form="геометрий"/>
 <Allolog Form="геометры"/>
 <Allolog Form="геометри"/>
 <Allolog Form="геометром"/>
+<Allolog Form="геометриями"/>
 </Word>
 
 <Word Stem="анализ" Weight="0.05">
@@ -1971,8 +2031,8 @@
 <Allolog Form="анализу"/>
 <Allolog Form="анализом"/>
 <Allolog Form="анализы"/>
-<Allolog Form="анализи"/>
 <Allolog Form="анализах"/>
+<Allolog Form="анализи"/>
 <Allolog Form="анализами"/>
 </Word>
 
@@ -1990,6 +2050,7 @@
 <Allolog Form="компенсацию"/>
 <Allolog Form="компенсация"/>
 <Allolog Form="компенсаций"/>
+<Allolog Form="компенсациях"/>
 </Word>
 
 <Word Stem="затухан" Weight="0.5">
@@ -2009,25 +2070,26 @@
 <Allolog Form="перемен"/>
 <Allolog Form="переменная"/>
 <Allolog Form="переменную"/>
-<Allolog Form="переменил"/>
-<Allolog Form="переменам"/>
+<Allolog Form="переменными"/>
+<Allolog Form="переменности"/>
+<Allolog Form="переменность"/>
+<Allolog Form="переменностью"/>
 <Allolog Form="перемене"/>
+<Allolog Form="переменам"/>
+<Allolog Form="перемену"/>
+<Allolog Form="переменив"/>
+<Allolog Form="переменах"/>
+<Allolog Form="переменить"/>
+<Allolog Form="переменил"/>
 <Allolog Form="переменного"/>
 <Allolog Form="переменами"/>
-<Allolog Form="перемену"/>
-<Allolog Form="переменах"/>
 <Allolog Form="перемениться"/>
 <Allolog Form="переменилась"/>
-<Allolog Form="переменив"/>
-<Allolog Form="переменными"/>
 <Allolog Form="переменой"/>
 <Allolog Form="переменном"/>
 <Allolog Form="перемени"/>
 <Allolog Form="перемените"/>
-<Allolog Form="переменить"/>
 <Allolog Form="переменою"/>
-<Allolog Form="переменность"/>
-<Allolog Form="переменностью"/>
 <Allolog Form="переменим"/>
 <Allolog Form="переменились"/>
 <Allolog Form="переменяясь"/>
@@ -2046,10 +2108,11 @@
 <Allolog Form="избыточные"/>
 <Allolog Form="избыточным"/>
 <Allolog Form="избыточности"/>
-<Allolog Form="избыточными"/>
-<Allolog Form="избыточном"/>
 <Allolog Form="избыточно"/>
 <Allolog Form="избыточностью"/>
+<Allolog Form="избыточными"/>
+<Allolog Form="избыточном"/>
+<Allolog Form="избыточны"/>
 <Allolog Form="избыточна"/>
 </Word>
 
@@ -2085,25 +2148,25 @@
 <Allolog Form="параллельный"/>
 <Allolog Form="параллельные"/>
 <Allolog Form="параллельна"/>
+<Allolog Form="параллельны"/>
+<Allolog Form="параллельным"/>
+<Allolog Form="параллельными"/>
+<Allolog Form="параллельного"/>
+<Allolog Form="параллельную"/>
 <Allolog Form="параллельность"/>
 <Allolog Form="параллельном"/>
-<Allolog Form="параллельными"/>
 <Allolog Form="параллельности"/>
-<Allolog Form="параллельным"/>
-<Allolog Form="параллельны"/>
-<Allolog Form="параллельную"/>
-<Allolog Form="параллельного"/>
 </Word>
 
 <Word Stem="платформ" Weight="0.5">
 <Allolog Form="платформа"/>
 <Allolog Form="платформы"/>
 <Allolog Form="платформами"/>
-<Allolog Form="платформам"/>
+<Allolog Form="платформ"/>
 <Allolog Form="платформе"/>
 <Allolog Form="платформу"/>
+<Allolog Form="платформам"/>
 <Allolog Form="платформой"/>
-<Allolog Form="платформ"/>
 <Allolog Form="платформах"/>
 </Word>
 
@@ -2119,17 +2182,18 @@
 <Allolog Form="объединенный"/>
 <Allolog Form="объединенные"/>
 <Allolog Form="объединенного"/>
-<Allolog Form="объединен"/>
-<Allolog Form="объединений"/>
 <Allolog Form="объединенная"/>
+<Allolog Form="объединенным"/>
+<Allolog Form="объединений"/>
+<Allolog Form="объединен"/>
 <Allolog Form="объединениями"/>
 <Allolog Form="объединениям"/>
 <Allolog Form="объединено"/>
 <Allolog Form="объединенную"/>
-<Allolog Form="объединенным"/>
 <Allolog Form="объединениях"/>
 <Allolog Form="объединеная"/>
 <Allolog Form="объединенном"/>
+<Allolog Form="объединенности"/>
 </Word>
 
 <Word Stem="вирус" Weight="0.05">
@@ -2140,23 +2204,27 @@
 <Allolog Form="вируса"/>
 <Allolog Form="вирусам"/>
 <Allolog Form="вирус"/>
+<Allolog Form="вирусах"/>
 <Allolog Form="вирусу"/>
+<Allolog Form="вирусе"/>
 </Word>
 
-<Word Stem="подмен" Weight="0.5">
+<Word Stem="подмен" Weight="0.05">
 <Allolog Form="подменой"/>
 <Allolog Form="подменить"/>
+<Allolog Form="подмену"/>
+<Allolog Form="подменили"/>
 <Allolog Form="подмене"/>
 <Allolog Form="подменил"/>
-<Allolog Form="подменили"/>
 <Allolog Form="подменив"/>
 <Allolog Form="подменяя"/>
-<Allolog Form="подмену"/>
 <Allolog Form="подменя"/>
 <Allolog Form="подменной"/>
 <Allolog Form="подменена"/>
 <Allolog Form="подмен"/>
 <Allolog Form="подменим"/>
+<Allolog Form="подменились"/>
+<Allolog Form="подменила"/>
 <Allolog Form="подменю"/>
 </Word>
 
@@ -2184,23 +2252,26 @@
 <Allolog Form="несущими"/>
 <Allolog Form="несущих"/>
 <Allolog Form="несущим"/>
-<Allolog Form="несущимися"/>
-<Allolog Form="несущихся"/>
+<Allolog Form="несущейся"/>
+<Allolog Form="несущемся"/>
+<Allolog Form="несущимся"/>
 <Allolog Form="несущегося"/>
+<Allolog Form="несущиеся"/>
+<Allolog Form="несущихся"/>
+<Allolog Form="несущийся"/>
+<Allolog Form="несущимися"/>
 <Allolog Form="несущем"/>
 <Allolog Form="несущее"/>
-<Allolog Form="несущиеся"/>
-<Allolog Form="несущейся"/>
 </Word>
 
 <Word Stem="вектор" Weight="0.5">
 <Allolog Form="вектор"/>
 <Allolog Form="векторами"/>
 <Allolog Form="векторов"/>
-<Allolog Form="вектору"/>
-<Allolog Form="векторы"/>
 <Allolog Form="вектором"/>
 <Allolog Form="вектора"/>
+<Allolog Form="векторы"/>
+<Allolog Form="вектору"/>
 <Allolog Form="векторам"/>
 <Allolog Form="векторах"/>
 <Allolog Form="векторе"/>
@@ -2216,25 +2287,25 @@
 <Allolog Form="насыщенности"/>
 <Allolog Form="насыщенными"/>
 <Allolog Form="насыщенная"/>
+<Allolog Form="насыщенной"/>
+<Allolog Form="насыщенные"/>
 <Allolog Form="насыщенный"/>
+<Allolog Form="насыщению"/>
 <Allolog Form="насыщенным"/>
 <Allolog Form="насыщенного"/>
 <Allolog Form="насыщение"/>
 <Allolog Form="насыщении"/>
 <Allolog Form="насыщенную"/>
 <Allolog Form="насыщенностью"/>
-<Allolog Form="насыщенной"/>
 <Allolog Form="насыщенном"/>
-<Allolog Form="насыщению"/>
-<Allolog Form="насыщенные"/>
+<Allolog Form="насыщенное"/>
 <Allolog Form="насыщеные"/>
 <Allolog Form="насыщений"/>
-<Allolog Form="насыщенное"/>
 <Allolog Form="насыщенна"/>
 <Allolog Form="насыщенно"/>
 <Allolog Form="насыщением"/>
-<Allolog Form="насыщенней"/>
 <Allolog Form="насыщеннее"/>
+<Allolog Form="насыщенней"/>
 </Word>
 
 <Word Stem="искажен" Weight="0.05">
@@ -2243,37 +2314,39 @@
 <Allolog Form="искаженные"/>
 <Allolog Form="искажение"/>
 <Allolog Form="искажению"/>
+<Allolog Form="искаженное"/>
+<Allolog Form="искаженная"/>
+<Allolog Form="искаженной"/>
+<Allolog Form="искажениями"/>
+<Allolog Form="искажении"/>
 <Allolog Form="искажений"/>
-<Allolog Form="искаженно"/>
+<Allolog Form="искажен"/>
+<Allolog Form="искажено"/>
+<Allolog Form="искаженного"/>
 <Allolog Form="искаженный"/>
 <Allolog Form="искаженном"/>
+<Allolog Form="искаженно"/>
 <Allolog Form="искажением"/>
-<Allolog Form="искаженного"/>
-<Allolog Form="искаженной"/>
-<Allolog Form="искажен"/>
 <Allolog Form="искаженную"/>
-<Allolog Form="искажениями"/>
 <Allolog Form="искаженными"/>
-<Allolog Form="искаженное"/>
-<Allolog Form="искажено"/>
-<Allolog Form="искаженная"/>
-<Allolog Form="искажениях"/>
-<Allolog Form="искажении"/>
 <Allolog Form="искажениям"/>
+<Allolog Form="искажениях"/>
 </Word>
 
 <Word Stem="подтверд" Weight="0.05">
 <Allolog Form="подтвердить"/>
 <Allolog Form="подтвердили"/>
+<Allolog Form="подтвердилась"/>
 <Allolog Form="подтвердил"/>
+<Allolog Form="подтвердился"/>
+<Allolog Form="подтвердила"/>
 <Allolog Form="подтвердив"/>
 <Allolog Form="подтвердившую"/>
-<Allolog Form="подтвердила"/>
 <Allolog Form="подтвердились"/>
 <Allolog Form="подтвердивших"/>
-<Allolog Form="подтвердилась"/>
-<Allolog Form="подтвердился"/>
+<Allolog Form="подтвердивший"/>
 <Allolog Form="подтверди"/>
+<Allolog Form="подтвердившее"/>
 <Allolog Form="подтвердите"/>
 </Word>
 
@@ -2301,14 +2374,16 @@
 <Allolog Form="сообщения"/>
 <Allolog Form="сообщении"/>
 <Allolog Form="сообщенные"/>
-<Allolog Form="сообщению"/>
-<Allolog Form="сообщениях"/>
-<Allolog Form="сообщениям"/>
-<Allolog Form="сообщений"/>
-<Allolog Form="сообщено"/>
 <Allolog Form="сообщением"/>
+<Allolog Form="сообщений"/>
+<Allolog Form="сообщениям"/>
+<Allolog Form="сообщению"/>
+<Allolog Form="сообщенной"/>
 <Allolog Form="сообщениями"/>
 <Allolog Form="сообщенного"/>
+<Allolog Form="сообщениях"/>
+<Allolog Form="сообщено"/>
+<Allolog Form="сообщенным"/>
 <Allolog Form="сообщенное"/>
 <Allolog Form="сообщенная"/>
 <Allolog Form="сообщенный"/>
@@ -2318,7 +2393,7 @@
 <Allolog Form="сообщене"/>
 </Word>
 
-<Word Stem="опоздан" Weight="0.5">
+<Word Stem="опоздан" Weight="0.05">
 <Allolog Form="опоздании"/>
 <Allolog Form="опоздание"/>
 <Allolog Form="опозданием"/>
@@ -2326,28 +2401,36 @@
 <Allolog Form="опозданию"/>
 <Allolog Form="опозданий"/>
 <Allolog Form="опоздани"/>
+<Allolog Form="опозданиях"/>
+<Allolog Form="опозданиями"/>
 </Word>
 
-<Word Stem="отвод" Weight="0.5">
+<Word Stem="отвод" Weight="0.05">
 <Allolog Form="отвода"/>
 <Allolog Form="отвод"/>
 <Allolog Form="отводим"/>
 <Allolog Form="отводах"/>
+<Allolog Form="отводилась"/>
+<Allolog Form="отводом"/>
+<Allolog Form="отводился"/>
 <Allolog Form="отводя"/>
 <Allolog Form="отводил"/>
-<Allolog Form="отводилась"/>
 <Allolog Form="отводившееся"/>
 <Allolog Form="отводила"/>
-<Allolog Form="отводом"/>
+<Allolog Form="отводите"/>
+<Allolog Form="отводивший"/>
 <Allolog Form="отводе"/>
 <Allolog Form="отводиться"/>
 <Allolog Form="отводу"/>
 <Allolog Form="отводить"/>
 <Allolog Form="отводили"/>
-<Allolog Form="отводите"/>
 <Allolog Form="отводи"/>
 <Allolog Form="отводов"/>
 <Allolog Form="отводились"/>
+<Allolog Form="отводившее"/>
+<Allolog Form="отводишь"/>
+<Allolog Form="отводы"/>
+<Allolog Form="отводам"/>
 </Word>
 
 <Word Stem="аргумент" Weight="0.5">
@@ -2355,28 +2438,29 @@
 <Allolog Form="аргументы"/>
 <Allolog Form="аргументом"/>
 <Allolog Form="аргументов"/>
-<Allolog Form="аргумента"/>
 <Allolog Form="аргументами"/>
 <Allolog Form="аргументах"/>
+<Allolog Form="аргумента"/>
 <Allolog Form="аргументам"/>
 <Allolog Form="аргументу"/>
 <Allolog Form="аргументе"/>
 </Word>
 
-<Word Stem="имитирова" Weight="0.5">
+<Word Stem="имитирова" Weight="0.05">
 <Allolog Form="имитировать"/>
+<Allolog Form="имитировали"/>
+<Allolog Form="имитировала"/>
 <Allolog Form="имитированные"/>
 <Allolog Form="имитировал"/>
-<Allolog Form="имитировала"/>
-<Allolog Form="имитировали"/>
+<Allolog Form="имитировано"/>
 <Allolog Form="имитировавший"/>
 <Allolog Form="имитированный"/>
 </Word>
 
-<Word Stem="имитац" Weight="0.5">
+<Word Stem="имитац" Weight="0.05">
 <Allolog Form="имитации"/>
-<Allolog Form="имитациями"/>
 <Allolog Form="имитация"/>
+<Allolog Form="имитациями"/>
 <Allolog Form="имитацией"/>
 <Allolog Form="имитацию"/>
 <Allolog Form="имитаций"/>
@@ -2410,14 +2494,17 @@
 <Allolog Form="заданиями"/>
 <Allolog Form="заданиях"/>
 <Allolog Form="заданность"/>
+<Allolog Form="заданностью"/>
 </Word>
 
-<Word Stem="валик" Weight="0.5">
+<Word Stem="валик" Weight="0.05">
 <Allolog Form="валики"/>
 <Allolog Form="валика"/>
 <Allolog Form="валик"/>
 <Allolog Form="валиков"/>
 <Allolog Form="валиком"/>
+<Allolog Form="валику"/>
+<Allolog Form="валиках"/>
 <Allolog Form="валико"/>
 </Word>
 
@@ -2425,10 +2512,10 @@
 <Allolog Form="ветки"/>
 <Allolog Form="веткам"/>
 <Allolog Form="ветками"/>
+<Allolog Form="ветках"/>
 <Allolog Form="веткой"/>
 <Allolog Form="ветку"/>
 <Allolog Form="ветка"/>
-<Allolog Form="ветках"/>
 <Allolog Form="ветке"/>
 </Word>
 
@@ -2464,22 +2551,22 @@
 <Allolog Form="неправда"/>
 <Allolog Form="неправду"/>
 <Allolog Form="неправде"/>
-<Allolog Form="неправдой"/>
 <Allolog Form="неправды"/>
+<Allolog Form="неправдой"/>
 <Allolog Form="неправдо"/>
 </Word>
 
 <Word Stem="вложен" Weight="0.05">
 <Allolog Form="вложением"/>
 <Allolog Form="вложенной"/>
+<Allolog Form="вложенные"/>
 <Allolog Form="вложения"/>
+<Allolog Form="вложен"/>
+<Allolog Form="вложенный"/>
+<Allolog Form="вложенным"/>
 <Allolog Form="вложенное"/>
 <Allolog Form="вложение"/>
-<Allolog Form="вложенным"/>
-<Allolog Form="вложен"/>
-<Allolog Form="вложенные"/>
 <Allolog Form="вложений"/>
-<Allolog Form="вложенный"/>
 <Allolog Form="вложениями"/>
 <Allolog Form="вложениях"/>
 <Allolog Form="вложении"/>
@@ -2496,23 +2583,26 @@
 <Allolog Form="умолчанию"/>
 <Allolog Form="умолчаний"/>
 <Allolog Form="умолчания"/>
+<Allolog Form="умолчаниях"/>
+<Allolog Form="умолчаниям"/>
 <Allolog Form="умолчание"/>
 </Word>
 
 <Word Stem="диспл" Weight="0.5">
 <Allolog Form="дисплей"/>
 <Allolog Form="дисплее"/>
+<Allolog Form="дисплеи"/>
 </Word>
 
-<Word Stem="наложен" Weight="0.5">
+<Word Stem="наложен" Weight="0.05">
 <Allolog Form="наложен"/>
 <Allolog Form="наложение"/>
 <Allolog Form="наложении"/>
 <Allolog Form="наложения"/>
 <Allolog Form="наложением"/>
+<Allolog Form="наложенным"/>
 <Allolog Form="наложений"/>
 <Allolog Form="наложенный"/>
-<Allolog Form="наложенным"/>
 <Allolog Form="наложенного"/>
 <Allolog Form="наложенными"/>
 <Allolog Form="наложенные"/>
@@ -2530,10 +2620,12 @@
 
 <Word Stem="информирован" Weight="0.5">
 <Allolog Form="информированности"/>
-<Allolog Form="информирование"/>
 <Allolog Form="информирования"/>
-<Allolog Form="информированием"/>
 <Allolog Form="информированность"/>
+<Allolog Form="информирование"/>
+<Allolog Form="информированием"/>
+<Allolog Form="информированию"/>
+<Allolog Form="информировании"/>
 <Allolog Form="информированностью"/>
 </Word>
 
@@ -2541,21 +2633,23 @@
 <Allolog Form="график"/>
 <Allolog Form="графику"/>
 <Allolog Form="графике"/>
+<Allolog Form="графиком"/>
 <Allolog Form="графика"/>
 <Allolog Form="графики"/>
 <Allolog Form="графиками"/>
-<Allolog Form="графиком"/>
 <Allolog Form="графиков"/>
 <Allolog Form="графиках"/>
+<Allolog Form="графикой"/>
+<Allolog Form="графикам"/>
 </Word>
 
-<Word Stem="легенд" Weight="0.5">
+<Word Stem="легенд" Weight="0.05">
 <Allolog Form="легенду"/>
-<Allolog Form="легенде"/>
-<Allolog Form="легенд"/>
 <Allolog Form="легенды"/>
 <Allolog Form="легендой"/>
+<Allolog Form="легенде"/>
 <Allolog Form="легенда"/>
+<Allolog Form="легенд"/>
 <Allolog Form="легендах"/>
 <Allolog Form="легендам"/>
 <Allolog Form="легендами"/>
@@ -2568,9 +2662,11 @@
 <Allolog Form="коммутаторы"/>
 <Allolog Form="коммутатору"/>
 <Allolog Form="коммутаторами"/>
+<Allolog Form="коммутаторов"/>
+<Allolog Form="коммутаторе"/>
 </Word>
 
-<Word Stem="ампер" Weight="0.5">
+<Word Stem="ампер" Weight="0.05">
 <Allolog Form="ампер"/>
 <Allolog Form="амперов"/>
 <Allolog Form="ампера"/>
@@ -2590,10 +2686,11 @@
 <Allolog Form="каталогам"/>
 <Allolog Form="каталогов"/>
 <Allolog Form="каталог"/>
-<Allolog Form="каталогами"/>
 <Allolog Form="каталоги"/>
-<Allolog Form="каталогу"/>
 <Allolog Form="каталога"/>
+<Allolog Form="каталогу"/>
+<Allolog Form="каталогами"/>
+<Allolog Form="каталогом"/>
 </Word>
 
 <Word Stem="подложк" Weight="0.5">
@@ -2604,14 +2701,15 @@
 <Allolog Form="подложку"/>
 </Word>
 
-<Word Stem="демон" Weight="0.5">
+<Word Stem="демон" Weight="0.05">
 <Allolog Form="демон"/>
-<Allolog Form="демоны"/>
-<Allolog Form="демонами"/>
 <Allolog Form="демоном"/>
-<Allolog Form="демонах"/>
 <Allolog Form="демонов"/>
+<Allolog Form="демонами"/>
 <Allolog Form="демона"/>
+<Allolog Form="демоны"/>
+<Allolog Form="демонах"/>
+<Allolog Form="демонам"/>
 <Allolog Form="демоне"/>
 <Allolog Form="демону"/>
 </Word>
@@ -2632,6 +2730,8 @@
 <Allolog Form="буферов"/>
 <Allolog Form="буфере"/>
 <Allolog Form="буферами"/>
+<Allolog Form="буферах"/>
+<Allolog Form="буферам"/>
 </Word>
 
 <Word Stem="прокрутк" Weight="0.5">
@@ -2659,10 +2759,10 @@
 <Allolog Form="сущности"/>
 <Allolog Form="сущность"/>
 <Allolog Form="сущностью"/>
+<Allolog Form="сущностей"/>
 <Allolog Form="сущно"/>
 <Allolog Form="сущностями"/>
 <Allolog Form="сущностям"/>
-<Allolog Form="сущностей"/>
 <Allolog Form="сущным"/>
 <Allolog Form="сущн"/>
 </Word>
@@ -2674,7 +2774,7 @@
 <Allolog Form="выпрямители"/>
 </Word>
 
-<Word Stem="ножниц" Weight="0.5">
+<Word Stem="ножниц" Weight="0.05">
 <Allolog Form="ножницами"/>
 <Allolog Form="ножницы"/>
 <Allolog Form="ножниц"/>
@@ -2683,10 +2783,10 @@
 
 <Word Stem="делител" Weight="0.5">
 <Allolog Form="делителя"/>
+<Allolog Form="делителей"/>
+<Allolog Form="делитель"/>
 <Allolog Form="делител"/>
 <Allolog Form="делители"/>
-<Allolog Form="делитель"/>
-<Allolog Form="делителей"/>
 <Allolog Form="делителю"/>
 <Allolog Form="делителем"/>
 <Allolog Form="делителями"/>
@@ -2696,6 +2796,7 @@
 <Allolog Form="канал"/>
 <Allolog Form="канала"/>
 <Allolog Form="канав"/>
+<Allolog Form="канали"/>
 <Allolog Form="канан"/>
 <Allolog Form="канаешь"/>
 </Word>
@@ -2703,11 +2804,11 @@
 <Word Stem="настройк" Weight="0.05">
 <Allolog Form="настройки"/>
 <Allolog Form="настройка"/>
+<Allolog Form="настройке"/>
 <Allolog Form="настройку"/>
 <Allolog Form="настройкой"/>
-<Allolog Form="настройке"/>
-<Allolog Form="настройках"/>
 <Allolog Form="настройками"/>
+<Allolog Form="настройках"/>
 </Word>
 
 <Word Stem="шаблон" Weight="0.5">
@@ -2720,10 +2821,15 @@
 <Allolog Form="шаблонов"/>
 <Allolog Form="шаблонно"/>
 <Allolog Form="шаблонную"/>
-<Allolog Form="шаблоне"/>
 <Allolog Form="шаблонной"/>
+<Allolog Form="шаблоне"/>
 <Allolog Form="шаблонам"/>
 <Allolog Form="шаблонное"/>
+<Allolog Form="шаблонность"/>
+<Allolog Form="шаблонные"/>
+<Allolog Form="шаблонными"/>
+<Allolog Form="шаблонным"/>
+<Allolog Form="шаблонах"/>
 <Allolog Form="шаблонности"/>
 </Word>
 
@@ -2740,20 +2846,21 @@
 <Allolog Form="вводить"/>
 <Allolog Form="вводили"/>
 <Allolog Form="вводя"/>
+<Allolog Form="вводились"/>
+<Allolog Form="вводившей"/>
+<Allolog Form="вводом"/>
+<Allolog Form="вводилась"/>
 <Allolog Form="вводим"/>
 <Allolog Form="ввода"/>
 <Allolog Form="вводивший"/>
-<Allolog Form="вводилась"/>
-<Allolog Form="вводились"/>
 <Allolog Form="вводивших"/>
 <Allolog Form="ввод"/>
 <Allolog Form="вводил"/>
 <Allolog Form="вводила"/>
 <Allolog Form="вводился"/>
+<Allolog Form="вводите"/>
 <Allolog Form="вводиться"/>
 <Allolog Form="вводившиеся"/>
-<Allolog Form="вводите"/>
-<Allolog Form="вводом"/>
 <Allolog Form="вводившая"/>
 <Allolog Form="вводу"/>
 <Allolog Form="вводи"/>
@@ -2765,15 +2872,20 @@
 
 <Word Stem="зависан" Weight="0.5">
 <Allolog Form="зависание"/>
+<Allolog Form="зависания"/>
 <Allolog Form="зависаний"/>
 </Word>
 
-<Word Stem="консультант" Weight="0.5">
+<Word Stem="консультант" Weight="0.05">
 <Allolog Form="консультант"/>
 <Allolog Form="консультантом"/>
 <Allolog Form="консультантов"/>
 <Allolog Form="консультанты"/>
 <Allolog Form="консультанта"/>
+<Allolog Form="консультантами"/>
+<Allolog Form="консультанте"/>
+<Allolog Form="консультантам"/>
+<Allolog Form="консультанту"/>
 </Word>
 
 <Word Stem="шифр" Weight="0.5">
@@ -2784,6 +2896,8 @@
 <Allolog Form="шифрующего"/>
 <Allolog Form="шифрующие"/>
 <Allolog Form="шифром"/>
+<Allolog Form="шифрами"/>
+<Allolog Form="шифров"/>
 </Word>
 
 <Word Stem="обновля" Weight="0.5">
@@ -2800,7 +2914,10 @@
 <Allolog Form="обновлялась"/>
 <Allolog Form="обновляющей"/>
 <Allolog Form="обновляйте"/>
+<Allolog Form="обновляемый"/>
 <Allolog Form="обновлялись"/>
+<Allolog Form="обновляющимися"/>
+<Allolog Form="обновляете"/>
 <Allolog Form="обновляли"/>
 <Allolog Form="обновляешь"/>
 </Word>
@@ -2815,16 +2932,16 @@
 <Word Stem="диаграмм" Weight="0.5">
 <Allolog Form="диаграмма"/>
 <Allolog Form="диаграмме"/>
-<Allolog Form="диаграмму"/>
-<Allolog Form="диаграммы"/>
-<Allolog Form="диаграммами"/>
 <Allolog Form="диаграммой"/>
+<Allolog Form="диаграммы"/>
+<Allolog Form="диаграмму"/>
+<Allolog Form="диаграммами"/>
 <Allolog Form="диаграмм"/>
-<Allolog Form="диаграммах"/>
 <Allolog Form="диаграммам"/>
+<Allolog Form="диаграммах"/>
 </Word>
 
-<Word Stem="протокол" Weight="0.5">
+<Word Stem="протокол" Weight="0.05">
 <Allolog Form="протоколах"/>
 <Allolog Form="протокол"/>
 <Allolog Form="протоколу"/>
@@ -2834,6 +2951,7 @@
 <Allolog Form="протоколов"/>
 <Allolog Form="протоколом"/>
 <Allolog Form="протоколам"/>
+<Allolog Form="протоколами"/>
 </Word>
 
 <Word Stem="mercury" Weight="0.5">
@@ -2844,14 +2962,16 @@
 <Allolog Form="передатчика"/>
 <Allolog Form="передатчики"/>
 <Allolog Form="передатчик"/>
-<Allolog Form="передатчиком"/>
 <Allolog Form="передатчиками"/>
+<Allolog Form="передатчиком"/>
+<Allolog Form="передатчику"/>
 <Allolog Form="передатчиков"/>
 </Word>
 
 <Word Stem="пейджер" Weight="0.5">
 <Allolog Form="пейджер"/>
 <Allolog Form="пейджеры"/>
+<Allolog Form="пейджерами"/>
 <Allolog Form="пейджера"/>
 </Word>
 
@@ -2860,14 +2980,17 @@
 <Allolog Form="дизайнеры"/>
 <Allolog Form="дизайнеров"/>
 <Allolog Form="дизайнер"/>
+<Allolog Form="дизайнеру"/>
+<Allolog Form="дизайнерами"/>
 <Allolog Form="дизайнером"/>
+<Allolog Form="дизайнерам"/>
 </Word>
 
-<Word Stem="микрон" Weight="0.5">
+<Word Stem="микрон" Weight="0.05">
 <Allolog Form="микрон"/>
-<Allolog Form="микронной"/>
 <Allolog Form="микрона"/>
 <Allolog Form="микронах"/>
+<Allolog Form="микронной"/>
 <Allolog Form="микрону"/>
 </Word>
 
@@ -2875,20 +2998,20 @@
 <Allolog Form="кадр"/>
 <Allolog Form="кадры"/>
 <Allolog Form="кадром"/>
-<Allolog Form="кадров"/>
-<Allolog Form="кадрам"/>
-<Allolog Form="кадру"/>
 <Allolog Form="кадре"/>
+<Allolog Form="кадрах"/>
+<Allolog Form="кадров"/>
+<Allolog Form="кадру"/>
 <Allolog Form="кадра"/>
 <Allolog Form="кадрами"/>
-<Allolog Form="кадрах"/>
+<Allolog Form="кадрам"/>
 <Allolog Form="кадрили"/>
 <Allolog Form="кадро"/>
 <Allolog Form="кадрить"/>
 <Allolog Form="кадри"/>
 </Word>
 
-<Word Stem="несовместим" Weight="0.5">
+<Word Stem="несовместим" Weight="0.05">
 <Allolog Form="несовместимые"/>
 <Allolog Form="несовместимы"/>
 <Allolog Form="несовместимость"/>
@@ -2897,9 +3020,13 @@
 <Allolog Form="несовместимой"/>
 <Allolog Form="несовместима"/>
 <Allolog Form="несовместимостью"/>
-<Allolog Form="несовместимо"/>
 <Allolog Form="несовместимое"/>
+<Allolog Form="несовместимо"/>
+<Allolog Form="несовместимостей"/>
 <Allolog Form="несовместимым"/>
+<Allolog Form="несовместимого"/>
+<Allolog Form="несовместимый"/>
+<Allolog Form="несовместимую"/>
 </Word>
 
 <Word Stem="атрибут" Weight="0.5">
@@ -2907,21 +3034,25 @@
 <Allolog Form="атрибутами"/>
 <Allolog Form="атрибутом"/>
 <Allolog Form="атрибуты"/>
+<Allolog Form="атрибутов"/>
 <Allolog Form="атрибута"/>
 <Allolog Form="атрибутах"/>
-<Allolog Form="атрибутов"/>
 </Word>
 
 <Word Stem="логик" Weight="0.05">
 <Allolog Form="логика"/>
 <Allolog Form="логике"/>
 <Allolog Form="логики"/>
+<Allolog Form="логико"/>
 <Allolog Form="логику"/>
 <Allolog Form="логикой"/>
 <Allolog Form="логик"/>
-<Allolog Form="логико"/>
 <Allolog Form="логиков"/>
 <Allolog Form="логиком"/>
+<Allolog Form="логикам"/>
+<Allolog Form="логиками"/>
+<Allolog Form="логикою"/>
+<Allolog Form="логиках"/>
 </Word>
 
 <Word Stem="кассет" Weight="0.5">
@@ -2930,11 +3061,11 @@
 <Allolog Form="кассетами"/>
 <Allolog Form="кассет"/>
 <Allolog Form="кассета"/>
-<Allolog Form="кассетах"/>
 <Allolog Form="кассете"/>
+<Allolog Form="кассетах"/>
 </Word>
 
-<Word Stem="слуг" Weight="0.5">
+<Word Stem="слуг" Weight="0.05">
 <Allolog Form="слуг"/>
 <Allolog Form="слуга"/>
 <Allolog Form="слуги"/>
@@ -2942,8 +3073,8 @@
 <Allolog Form="слугой"/>
 <Allolog Form="слугах"/>
 <Allolog Form="слуге"/>
-<Allolog Form="слугою"/>
 <Allolog Form="слугу"/>
+<Allolog Form="слугою"/>
 <Allolog Form="слугам"/>
 </Word>
 
@@ -2960,13 +3091,13 @@
 
 <Word Stem="сценар" Weight="0.5">
 <Allolog Form="сценарий"/>
-<Allolog Form="сценариев"/>
-<Allolog Form="сценарии"/>
-<Allolog Form="сценарию"/>
-<Allolog Form="сценариями"/>
-<Allolog Form="сценариям"/>
-<Allolog Form="сценариях"/>
 <Allolog Form="сценария"/>
+<Allolog Form="сценариев"/>
+<Allolog Form="сценарию"/>
+<Allolog Form="сценарии"/>
+<Allolog Form="сценариями"/>
+<Allolog Form="сценариях"/>
+<Allolog Form="сценариям"/>
 <Allolog Form="сценарием"/>
 </Word>
 
@@ -2980,10 +3111,10 @@
 <Allolog Form="иерархий"/>
 <Allolog Form="иерархиях"/>
 <Allolog Form="иерархом"/>
+<Allolog Form="иерархами"/>
 <Allolog Form="иерарх"/>
 <Allolog Form="иерархам"/>
 <Allolog Form="иерархиям"/>
-<Allolog Form="иерархами"/>
 <Allolog Form="иерарха"/>
 </Word>
 
@@ -2992,21 +3123,24 @@
 <Allolog Form="исчисляются"/>
 <Allolog Form="исчисляемую"/>
 <Allolog Form="исчисляется"/>
-<Allolog Form="исчисляли"/>
+<Allolog Form="исчисляющееся"/>
 <Allolog Form="исчисляемое"/>
+<Allolog Form="исчисляют"/>
+<Allolog Form="исчислялся"/>
+<Allolog Form="исчисляли"/>
 <Allolog Form="исчислялись"/>
 <Allolog Form="исчислялось"/>
 <Allolog Form="исчисляемые"/>
 <Allolog Form="исчислялась"/>
-<Allolog Form="исчисляют"/>
 <Allolog Form="исчислять"/>
 <Allolog Form="исчисляющий"/>
 <Allolog Form="исчисляющее"/>
 <Allolog Form="исчисляет"/>
 <Allolog Form="исчисляемого"/>
-<Allolog Form="исчисляющееся"/>
 <Allolog Form="исчислявшиеся"/>
-<Allolog Form="исчислялся"/>
+<Allolog Form="исчисляемый"/>
+<Allolog Form="исчисляемым"/>
+<Allolog Form="исчисляемая"/>
 </Word>
 
 <Word Stem="адресат" Weight="0.5">
@@ -3016,16 +3150,17 @@
 <Allolog Form="адресатов"/>
 <Allolog Form="адресатом"/>
 <Allolog Form="адресатами"/>
-<Allolog Form="адресате"/>
+<Allolog Form="адресаты"/>
 <Allolog Form="адресатам"/>
+<Allolog Form="адресате"/>
 </Word>
 
 <Word Stem="маск" Weight="0.05">
 <Allolog Form="маски"/>
-<Allolog Form="маска"/>
 <Allolog Form="маской"/>
-<Allolog Form="масках"/>
 <Allolog Form="масками"/>
+<Allolog Form="маска"/>
+<Allolog Form="масках"/>
 <Allolog Form="маску"/>
 <Allolog Form="маскам"/>
 <Allolog Form="маске"/>
@@ -3048,10 +3183,12 @@
 
 <Word Stem="лэптоп" Weight="0.5">
 <Allolog Form="лэптоп"/>
+<Allolog Form="лэптопов"/>
 </Word>
 
 <Word Stem="оцифровыва" Weight="0.5">
 <Allolog Form="оцифровывается"/>
+<Allolog Form="оцифровывай"/>
 </Word>
 
 <Word Stem="clarion" Weight="0.5">
@@ -3061,10 +3198,10 @@
 <Word Stem="лазер" Weight="0.5">
 <Allolog Form="лазер"/>
 <Allolog Form="лазера"/>
-<Allolog Form="лазером"/>
-<Allolog Form="лазеры"/>
-<Allolog Form="лазеров"/>
 <Allolog Form="лазерами"/>
+<Allolog Form="лазеры"/>
+<Allolog Form="лазером"/>
+<Allolog Form="лазеров"/>
 <Allolog Form="лазерах"/>
 <Allolog Form="лазере"/>
 </Word>
@@ -3079,25 +3216,31 @@
 
 <Word Stem="контент" Weight="0.5">
 <Allolog Form="контент"/>
+<Allolog Form="контента"/>
+<Allolog Form="контенту"/>
 </Word>
 
 <Word Stem="адресн" Weight="0.5">
 <Allolog Form="адресного"/>
 <Allolog Form="адресная"/>
 <Allolog Form="адресно"/>
+<Allolog Form="адресные"/>
 <Allolog Form="адресную"/>
+<Allolog Form="адресной"/>
+<Allolog Form="адресном"/>
+<Allolog Form="адресными"/>
 </Word>
 
 <Word Stem="каскад" Weight="0.5">
 <Allolog Form="каскады"/>
 <Allolog Form="каскадом"/>
 <Allolog Form="каскаде"/>
-<Allolog Form="каскада"/>
 <Allolog Form="каскад"/>
+<Allolog Form="каскада"/>
 <Allolog Form="каскадах"/>
 </Word>
 
-<Word Stem="матриц" Weight="0.5">
+<Word Stem="матриц" Weight="0.05">
 <Allolog Form="матриц"/>
 <Allolog Form="матрицей"/>
 <Allolog Form="матрицами"/>
@@ -3113,8 +3256,8 @@
 <Allolog Form="наращивания"/>
 <Allolog Form="наращивание"/>
 <Allolog Form="наращивании"/>
-<Allolog Form="наращиванию"/>
 <Allolog Form="наращиванием"/>
+<Allolog Form="наращиванию"/>
 </Word>
 
 <Word Stem="кодирован" Weight="0.5">
@@ -3145,11 +3288,11 @@
 <Allolog Form="окруженными"/>
 <Allolog Form="окруженный"/>
 <Allolog Form="окруженной"/>
+<Allolog Form="окруженная"/>
 <Allolog Form="окружен"/>
+<Allolog Form="окруженным"/>
 <Allolog Form="окружении"/>
 <Allolog Form="окруженного"/>
-<Allolog Form="окруженным"/>
-<Allolog Form="окруженная"/>
 <Allolog Form="окружениях"/>
 </Word>
 
@@ -3160,6 +3303,8 @@
 <Allolog Form="трансляцией"/>
 <Allolog Form="трансляциях"/>
 <Allolog Form="трансляциями"/>
+<Allolog Form="трансляциям"/>
+<Allolog Form="трансляций"/>
 </Word>
 
 <Word Stem="активац" Weight="0.5">
@@ -3169,7 +3314,7 @@
 <Allolog Form="активацией"/>
 </Word>
 
-<Word Stem="наследован" Weight="0.5">
+<Word Stem="наследован" Weight="0.05">
 <Allolog Form="наследование"/>
 <Allolog Form="наследования"/>
 <Allolog Form="наследовании"/>
@@ -3177,7 +3322,7 @@
 <Allolog Form="наследованием"/>
 </Word>
 
-<Word Stem="выпаден" Weight="0.5">
+<Word Stem="выпаден" Weight="0.05">
 <Allolog Form="выпадению"/>
 <Allolog Form="выпадения"/>
 <Allolog Form="выпадений"/>
@@ -3197,7 +3342,7 @@
 <Allolog Form="инверсиям"/>
 </Word>
 
-<Word Stem="локализац" Weight="0.5">
+<Word Stem="локализац" Weight="0.05">
 <Allolog Form="локализации"/>
 <Allolog Form="локализация"/>
 <Allolog Form="локализацию"/>
@@ -3214,11 +3359,13 @@
 <Allolog Form="клониться"/>
 <Allolog Form="клонная"/>
 <Allolog Form="клонностями"/>
+<Allolog Form="клонишь"/>
+<Allolog Form="клонился"/>
+<Allolog Form="клоните"/>
 <Allolog Form="клоню"/>
 <Allolog Form="клонить"/>
 <Allolog Form="клонилась"/>
 <Allolog Form="клонились"/>
-<Allolog Form="клонился"/>
 <Allolog Form="клонным"/>
 <Allolog Form="клонами"/>
 </Word>
@@ -3235,8 +3382,8 @@
 <Allolog Form="адаптивны"/>
 <Allolog Form="адаптивный"/>
 <Allolog Form="адаптивно"/>
-<Allolog Form="адаптивность"/>
 <Allolog Form="адаптивным"/>
+<Allolog Form="адаптивность"/>
 </Word>
 
 <Word Stem="кластер" Weight="0.5">
@@ -3258,7 +3405,7 @@
 <Allolog Form="полиморфизму"/>
 </Word>
 
-<Word Stem="идентификац" Weight="0.5">
+<Word Stem="идентификац" Weight="0.05">
 <Allolog Form="идентификацией"/>
 <Allolog Form="идентификации"/>
 <Allolog Form="идентификация"/>
@@ -3287,11 +3434,11 @@
 <Allolog Form="нейронов"/>
 <Allolog Form="нейронами"/>
 <Allolog Form="нейронах"/>
+<Allolog Form="нейронам"/>
 <Allolog Form="нейрона"/>
 <Allolog Form="нейронными"/>
 <Allolog Form="нейронной"/>
 <Allolog Form="нейрону"/>
-<Allolog Form="нейронам"/>
 <Allolog Form="нейроне"/>
 <Allolog Form="нейронном"/>
 <Allolog Form="нейронным"/>
@@ -3334,6 +3481,7 @@
 <Allolog Form="модуляция"/>
 <Allolog Form="модуляцию"/>
 <Allolog Form="модуляций"/>
+<Allolog Form="модуляциями"/>
 </Word>
 
 <Word Stem="синапс" Weight="0.5">
@@ -3361,8 +3509,8 @@
 <Word Stem="неравенств" Weight="0.5">
 <Allolog Form="неравенства"/>
 <Allolog Form="неравенстве"/>
-<Allolog Form="неравенству"/>
 <Allolog Form="неравенство"/>
+<Allolog Form="неравенству"/>
 <Allolog Form="неравенством"/>
 <Allolog Form="неравенствам"/>
 <Allolog Form="неравенств"/>
@@ -3373,8 +3521,8 @@
 <Word Stem="комбинаторик" Weight="0.5">
 <Allolog Form="комбинаторикой"/>
 <Allolog Form="комбинаторики"/>
-<Allolog Form="комбинаторике"/>
 <Allolog Form="комбинаторика"/>
+<Allolog Form="комбинаторике"/>
 <Allolog Form="комбинаторику"/>
 </Word>
 
@@ -3385,6 +3533,7 @@
 
 <Word Stem="огиба" Weight="0.05">
 <Allolog Form="огибают"/>
+<Allolog Form="огибали"/>
 <Allolog Form="огибает"/>
 <Allolog Form="огибающей"/>
 <Allolog Form="огибающая"/>
@@ -3405,24 +3554,25 @@
 
 <Word Stem="десятичн" Weight="0.5">
 <Allolog Form="десятичного"/>
+<Allolog Form="десятичную"/>
 <Allolog Form="десятичной"/>
+<Allolog Form="десятичный"/>
 <Allolog Form="десятичные"/>
 <Allolog Form="десятичным"/>
 <Allolog Form="десятичная"/>
 <Allolog Form="десятичными"/>
-<Allolog Form="десятичную"/>
 <Allolog Form="десятичное"/>
-<Allolog Form="десятичный"/>
 </Word>
 
 <Word Stem="констант" Weight="0.5">
 <Allolog Form="константы"/>
 <Allolog Form="константа"/>
 <Allolog Form="констант"/>
-<Allolog Form="константи"/>
-<Allolog Form="константой"/>
 <Allolog Form="константе"/>
 <Allolog Form="константу"/>
+<Allolog Form="константой"/>
+<Allolog Form="константах"/>
+<Allolog Form="константи"/>
 <Allolog Form="константами"/>
 </Word>
 
@@ -3430,35 +3580,36 @@
 <Allolog Form="алфавит"/>
 <Allolog Form="алфавита"/>
 <Allolog Form="алфавитом"/>
-<Allolog Form="алфавиту"/>
 <Allolog Form="алфавитов"/>
+<Allolog Form="алфавиту"/>
 </Word>
 
 <Word Stem="домен" Weight="0.5">
 <Allolog Form="доменов"/>
 <Allolog Form="доменам"/>
 <Allolog Form="домен"/>
+<Allolog Form="доменах"/>
+<Allolog Form="доменной"/>
 <Allolog Form="доменное"/>
 <Allolog Form="доменные"/>
 <Allolog Form="доменом"/>
 <Allolog Form="доменную"/>
 <Allolog Form="доменного"/>
-<Allolog Form="доменной"/>
 <Allolog Form="доменный"/>
 <Allolog Form="доменном"/>
-<Allolog Form="доменах"/>
 <Allolog Form="доменная"/>
 <Allolog Form="домену"/>
 <Allolog Form="доменами"/>
+<Allolog Form="домене"/>
 </Word>
 
 <Word Stem="интерпретац" Weight="0.5">
 <Allolog Form="интерпретацию"/>
-<Allolog Form="интерпретациям"/>
-<Allolog Form="интерпретации"/>
 <Allolog Form="интерпретация"/>
+<Allolog Form="интерпретации"/>
 <Allolog Form="интерпретацией"/>
 <Allolog Form="интерпретациях"/>
+<Allolog Form="интерпретациям"/>
 <Allolog Form="интерпретаций"/>
 <Allolog Form="интерпретаци"/>
 <Allolog Form="интерпретациями"/>
@@ -3467,6 +3618,7 @@
 <Word Stem="экстраполяц" Weight="0.5">
 <Allolog Form="экстраполяция"/>
 <Allolog Form="экстраполяции"/>
+<Allolog Form="экстраполяцией"/>
 </Word>
 
 <Word Stem="интерполяц" Weight="0.5">
@@ -3480,21 +3632,22 @@
 <Allolog Form="кванта"/>
 <Allolog Form="квантов"/>
 <Allolog Form="квант"/>
-<Allolog Form="кванте"/>
-<Allolog Form="квантом"/>
 <Allolog Form="кванты"/>
+<Allolog Form="кванту"/>
+<Allolog Form="квантами"/>
+<Allolog Form="квантом"/>
+<Allolog Form="кванте"/>
 <Allolog Form="кванто"/>
 <Allolog Form="квантам"/>
-<Allolog Form="квантами"/>
 </Word>
 
 <Word Stem="шлюз" Weight="0.05">
 <Allolog Form="шлюз"/>
-<Allolog Form="шлюзы"/>
+<Allolog Form="шлюза"/>
 <Allolog Form="шлюзов"/>
+<Allolog Form="шлюзы"/>
 <Allolog Form="шлюзами"/>
 <Allolog Form="шлюзом"/>
-<Allolog Form="шлюза"/>
 </Word>
 
 <Word Stem="файл" Weight="0.5">
@@ -3505,6 +3658,9 @@
 <Allolog Form="файлов"/>
 <Allolog Form="файлу"/>
 <Allolog Form="файлами"/>
+<Allolog Form="файлам"/>
+<Allolog Form="файле"/>
+<Allolog Form="файлом"/>
 </Word>
 
 <Word Stem="ассоциирова" Weight="0.5">
@@ -3516,6 +3672,7 @@
 <Allolog Form="ассоциированный"/>
 <Allolog Form="ассоциирована"/>
 <Allolog Form="ассоциировать"/>
+<Allolog Form="ассоциировал"/>
 <Allolog Form="ассоциировалась"/>
 <Allolog Form="ассоциироваться"/>
 <Allolog Form="ассоциировалось"/>
@@ -3525,9 +3682,9 @@
 <Allolog Form="ассоциированным"/>
 <Allolog Form="ассоциированное"/>
 <Allolog Form="ассоциировался"/>
-<Allolog Form="ассоциировал"/>
 <Allolog Form="ассоциировано"/>
 <Allolog Form="ассоциировала"/>
+<Allolog Form="ассоциировали"/>
 </Word>
 
 <Word Stem="импорт" Weight="0.5">
@@ -3562,106 +3719,389 @@
 <Allolog Form="зацикливании"/>
 </Word>
 
-<Word Stem="вырезк" Weight="0.5">
-<Allolog Form="вырезки"/>
-<Allolog Form="вырезка"/>
-<Allolog Form="вырезку"/>
+<Word Stem="запоминан" Weight="0.05">
+<Allolog Form="запоминания"/>
+<Allolog Form="запоминании"/>
+<Allolog Form="запоминанию"/>
+<Allolog Form="запоминание"/>
+<Allolog Form="запоминанием"/>
 </Word>
 
-<Word Stem="corn" Weight="0.5">
-<Allolog Form="corn"/>
+<Word Stem="алгол" Weight="0.5">
+<Allolog Form="алголь"/>
+<Allolog Form="алголя"/>
+<Allolog Form="алголем"/>
+<Allolog Form="алголями"/>
+<Allolog Form="алголей"/>
 </Word>
 
-<Word Stem="лисп" Weight="0.5">
-<Allolog Form="лиспа"/>
-<Allolog Form="лисп"/>
-<Allolog Form="лиспе"/>
+<Word Stem="синтаксис" Weight="0.5">
+<Allolog Form="синтаксис"/>
+<Allolog Form="синтаксиса"/>
+<Allolog Form="синтаксисом"/>
+<Allolog Form="синтаксису"/>
+<Allolog Form="синтаксисе"/>
 </Word>
 
-<Word Stem="геркулес" Weight="0.5">
-<Allolog Form="геркулеса"/>
-<Allolog Form="геркулес"/>
+<Word Stem="ангстр" Weight="0.5">
+<Allolog Form="ангстрем"/>
+</Word>
+
+<Word Stem="грануляц" Weight="0.5">
+<Allolog Form="грануляции"/>
+<Allolog Form="грануляция"/>
+<Allolog Form="грануляцией"/>
+<Allolog Form="грануляций"/>
+</Word>
+
+<Word Stem="communication" Weight="0.5">
+<Allolog Form="communication"/>
+</Word>
+
+<Word Stem="бомб" Weight="0.05">
+<Allolog Form="бомбы"/>
+<Allolog Form="бомб"/>
+<Allolog Form="бомба"/>
+<Allolog Form="бомбам"/>
+<Allolog Form="бомбе"/>
+<Allolog Form="бомбей"/>
+<Allolog Form="бомбу"/>
+<Allolog Form="бомбить"/>
+<Allolog Form="бомбее"/>
+<Allolog Form="бомбой"/>
+<Allolog Form="бомбили"/>
+<Allolog Form="бомби"/>
+<Allolog Form="бомбила"/>
+<Allolog Form="бомбами"/>
+<Allolog Form="бомбил"/>
+</Word>
+
+<Word Stem="адаптер" Weight="0.5">
+<Allolog Form="адаптерами"/>
+<Allolog Form="адаптеры"/>
+<Allolog Form="адаптером"/>
+<Allolog Form="адаптер"/>
+</Word>
+
+<Word Stem="абонент" Weight="0.5">
+<Allolog Form="абонент"/>
+<Allolog Form="абонента"/>
+<Allolog Form="абонентов"/>
+<Allolog Form="абоненты"/>
+<Allolog Form="абонентами"/>
+<Allolog Form="абонентам"/>
+<Allolog Form="абонентом"/>
+</Word>
+
+<Word Stem="дешифровк" Weight="0.5">
+<Allolog Form="дешифровке"/>
+<Allolog Form="дешифровки"/>
+<Allolog Form="дешифровкой"/>
+<Allolog Form="дешифровк"/>
+</Word>
+
+<Word Stem="инкремент" Weight="0.5">
+<Allolog Form="инкремент"/>
+<Allolog Form="инкрементом"/>
+<Allolog Form="инкрементов"/>
+<Allolog Form="инкременты"/>
+</Word>
+
+<Word Stem="библиотек" Weight="0.05">
+<Allolog Form="библиотеку"/>
+<Allolog Form="библиотеке"/>
+<Allolog Form="библиотека"/>
+<Allolog Form="библиотеки"/>
+<Allolog Form="библиотек"/>
+<Allolog Form="библиотеках"/>
+<Allolog Form="библиотекам"/>
+<Allolog Form="библиотекой"/>
+<Allolog Form="библиотеками"/>
+</Word>
+
+<Word Stem="программирован" Weight="0.5">
+<Allolog Form="программированию"/>
+<Allolog Form="программирования"/>
+<Allolog Form="программирование"/>
+<Allolog Form="программировании"/>
+<Allolog Form="программированием"/>
+<Allolog Form="программированности"/>
+</Word>
+
+<Word Stem="двоичн" Weight="0.5">
+<Allolog Form="двоичном"/>
+<Allolog Form="двоичного"/>
+<Allolog Form="двоичная"/>
+<Allolog Form="двоичной"/>
+<Allolog Form="двоичный"/>
+<Allolog Form="двоичную"/>
+<Allolog Form="двоичными"/>
+<Allolog Form="двоичные"/>
+<Allolog Form="двоичным"/>
+<Allolog Form="двоичностью"/>
+<Allolog Form="двоичность"/>
+<Allolog Form="двоичное"/>
+</Word>
+
+<Word Stem="пиксел" Weight="0.5">
+<Allolog Form="пиксел"/>
+<Allolog Form="пикселов"/>
+<Allolog Form="пикселы"/>
+<Allolog Form="пиксела"/>
+<Allolog Form="пикселе"/>
+<Allolog Form="пикселами"/>
+<Allolog Form="пиксели"/>
+</Word>
+
+<Word Stem="фракта" Weight="0.5">
+<Allolog Form="фрактала"/>
+<Allolog Form="фрактал"/>
+</Word>
+
+<Word Stem="фортра" Weight="0.5">
+<Allolog Form="фортран"/>
+<Allolog Form="фортрал"/>
+</Word>
+
+<Word Stem="артефакт" Weight="0.5">
+<Allolog Form="артефакты"/>
+<Allolog Form="артефактов"/>
+<Allolog Form="артефактам"/>
+<Allolog Form="артефакт"/>
+<Allolog Form="артефактами"/>
+<Allolog Form="артефакта"/>
+<Allolog Form="артефактах"/>
+</Word>
+
+<Word Stem="интерпретатор" Weight="0.5">
+<Allolog Form="интерпретатора"/>
+<Allolog Form="интерпретаторам"/>
+<Allolog Form="интерпретатор"/>
+<Allolog Form="интерпретаторов"/>
+<Allolog Form="интерпретаторами"/>
+<Allolog Form="интерпретатором"/>
+</Word>
+
+<Word Stem="перезагрузк" Weight="0.5">
+<Allolog Form="перезагрузка"/>
+<Allolog Form="перезагрузки"/>
+<Allolog Form="перезагрузку"/>
 </Word>
 
 <Word Stem="волшебник" Weight="0.5">
 <Allolog Form="волшебник"/>
+<Allolog Form="волшебнике"/>
 <Allolog Form="волшебником"/>
 <Allolog Form="волшебниками"/>
-<Allolog Form="волшебнике"/>
 <Allolog Form="волшебники"/>
 <Allolog Form="волшебника"/>
-</Word>
-
-<Word Stem="подсказк" Weight="0.5">
-<Allolog Form="подсказки"/>
-<Allolog Form="подсказка"/>
-<Allolog Form="подсказкой"/>
-<Allolog Form="подсказку"/>
-<Allolog Form="подсказке"/>
-</Word>
-
-<Word Stem="аполлон" Weight="0.5">
-<Allolog Form="аполлону"/>
-<Allolog Form="аполлон"/>
-<Allolog Form="аполлона"/>
-<Allolog Form="аполлоний"/>
-<Allolog Form="аполлоном"/>
-<Allolog Form="аполлоне"/>
-<Allolog Form="аполлони"/>
-<Allolog Form="аполлония"/>
+<Allolog Form="волшебников"/>
 </Word>
 
 <Word Stem="округлен" Weight="0.5">
+<Allolog Form="округлением"/>
+<Allolog Form="округленными"/>
 <Allolog Form="округлен"/>
 <Allolog Form="округление"/>
-<Allolog Form="округленными"/>
+<Allolog Form="округлении"/>
 <Allolog Form="округления"/>
 <Allolog Form="округленная"/>
 <Allolog Form="округленным"/>
 <Allolog Form="округлено"/>
+<Allolog Form="округленного"/>
+<Allolog Form="округленный"/>
 <Allolog Form="округленные"/>
 </Word>
 
+<Word Stem="подсказк" Weight="0.05">
+<Allolog Form="подсказка"/>
+<Allolog Form="подсказки"/>
+<Allolog Form="подсказку"/>
+<Allolog Form="подсказке"/>
+<Allolog Form="подсказкой"/>
+<Allolog Form="подсказкам"/>
+<Allolog Form="подсказками"/>
+</Word>
+
+<Word Stem="бифуркац" Weight="0.5">
+<Allolog Form="бифуркации"/>
+<Allolog Form="бифуркаций"/>
+<Allolog Form="бифуркация"/>
+<Allolog Form="бифуркациях"/>
+</Word>
+
+<Word Stem="кибернетик" Weight="0.5">
+<Allolog Form="кибернетики"/>
+<Allolog Form="кибернетиков"/>
+<Allolog Form="кибернетиком"/>
+<Allolog Form="кибернетика"/>
+<Allolog Form="кибернетике"/>
+<Allolog Form="кибернетику"/>
+<Allolog Form="кибернетикой"/>
+<Allolog Form="кибернетико"/>
+</Word>
+
+<Word Stem="суперкомпьютер" Weight="0.5">
+<Allolog Form="суперкомпьютера"/>
+<Allolog Form="суперкомпьютеры"/>
+<Allolog Form="суперкомпьютере"/>
+<Allolog Form="суперкомпьютеров"/>
+<Allolog Form="суперкомпьютерах"/>
+</Word>
+
+<Word Stem="генр" Weight="0.5">
+<Allolog Form="генри"/>
+<Allolog Form="генрих"/>
+</Word>
+
+<Word Stem="манипулятор" Weight="0.5">
+<Allolog Form="манипулятор"/>
+<Allolog Form="манипулятора"/>
+<Allolog Form="манипулятором"/>
+<Allolog Form="манипуляторы"/>
+<Allolog Form="манипуляторов"/>
+<Allolog Form="манипуляторах"/>
+</Word>
+
+<Word Stem="геостационарн" Weight="0.5">
+<Allolog Form="геостационарную"/>
+<Allolog Form="геостационарными"/>
+<Allolog Form="геостационарные"/>
+<Allolog Form="геостационарн"/>
+</Word>
+
+<Word Stem="ловушк" Weight="0.05">
+<Allolog Form="ловушки"/>
+<Allolog Form="ловушку"/>
+<Allolog Form="ловушке"/>
+<Allolog Form="ловушкой"/>
+<Allolog Form="ловушка"/>
+<Allolog Form="ловушкам"/>
+<Allolog Form="ловушками"/>
+</Word>
+
+<Word Stem="паскал" Weight="0.5">
+<Allolog Form="паскаля"/>
+<Allolog Form="паскаль"/>
+<Allolog Form="паскалем"/>
+<Allolog Form="паскалю"/>
+<Allolog Form="паскале"/>
+</Word>
+
+<Word Stem="видеодиск" Weight="0.5">
+<Allolog Form="видеодисков"/>
+<Allolog Form="видеодиски"/>
+<Allolog Form="видеодисках"/>
+</Word>
+
+<Word Stem="предуслов" Weight="0.5">
+<Allolog Form="предусловием"/>
+</Word>
+
+<Word Stem="трансмутац" Weight="0.05">
+<Allolog Form="трансмутацию"/>
+<Allolog Form="трансмутации"/>
+<Allolog Form="трансмутация"/>
+</Word>
+
+<Word Stem="array" Weight="0.5">
+<Allolog Form="array"/>
+</Word>
+
+<Word Stem="герц" Weight="0.05">
+<Allolog Form="герц"/>
+<Allolog Form="герцена"/>
+<Allolog Form="герца"/>
+<Allolog Form="герцов"/>
+<Allolog Form="герцем"/>
+<Allolog Form="герцах"/>
+</Word>
+
+<Word Stem="арифметик" Weight="0.5">
+<Allolog Form="арифметике"/>
+<Allolog Form="арифметику"/>
+<Allolog Form="арифметика"/>
+<Allolog Form="арифметики"/>
+<Allolog Form="арифметикой"/>
+</Word>
+
+<Word Stem="пиктограмм" Weight="0.5">
+<Allolog Form="пиктограммами"/>
+<Allolog Form="пиктограмм"/>
+<Allolog Form="пиктограммы"/>
+</Word>
+
+<Word Stem="идеограмм" Weight="0.5">
+<Allolog Form="идеограмма"/>
+<Allolog Form="идеограмм"/>
+</Word>
+
+<Word Stem="декодирован" Weight="0.5">
+<Allolog Form="декодирования"/>
+<Allolog Form="декодирование"/>
+<Allolog Form="декодировании"/>
+<Allolog Form="декодированию"/>
+<Allolog Form="декодированием"/>
+</Word>
+
+<Word Stem="кабел" Weight="0.5">
+<Allolog Form="кабелями"/>
+<Allolog Form="кабели"/>
+<Allolog Form="кабелей"/>
+<Allolog Form="кабель"/>
+<Allolog Form="кабеля"/>
+<Allolog Form="кабелем"/>
+<Allolog Form="кабеле"/>
+<Allolog Form="кабелю"/>
+<Allolog Form="кабелям"/>
+<Allolog Form="кабелях"/>
+</Word>
+
+<Word Stem="лингвистик" Weight="0.5">
+<Allolog Form="лингвистике"/>
+<Allolog Form="лингвистики"/>
+<Allolog Form="лингвистикой"/>
+<Allolog Form="лингвистика"/>
+<Allolog Form="лингвистику"/>
+</Word>
+
+<Word Stem="false" Weight="0.5">
+<Allolog Form="false"/>
+</Word>
+
 <Word Stem="переименова" Weight="0.5">
+<Allolog Form="переименован"/>
+<Allolog Form="переименовали"/>
+<Allolog Form="переименовать"/>
 <Allolog Form="переименовав"/>
 <Allolog Form="переименованном"/>
 <Allolog Form="переименовал"/>
 <Allolog Form="переименованное"/>
 <Allolog Form="переименованный"/>
 <Allolog Form="переименована"/>
-<Allolog Form="переименовать"/>
 <Allolog Form="переименованы"/>
 <Allolog Form="переименовались"/>
-<Allolog Form="переименован"/>
 <Allolog Form="переименованная"/>
-<Allolog Form="переименовали"/>
 <Allolog Form="переименованные"/>
+<Allolog Form="переименовавших"/>
 <Allolog Form="переименованной"/>
 <Allolog Form="переименоваться"/>
 </Word>
 
-<Word Stem="бомб" Weight="0.05">
-<Allolog Form="бомбей"/>
-<Allolog Form="бомб"/>
-<Allolog Form="бомбу"/>
-<Allolog Form="бомбе"/>
-<Allolog Form="бомбы"/>
-<Allolog Form="бомба"/>
-<Allolog Form="бомбили"/>
-<Allolog Form="бомбить"/>
-<Allolog Form="бомбой"/>
-<Allolog Form="бомби"/>
-<Allolog Form="бомбила"/>
-<Allolog Form="бомбами"/>
-<Allolog Form="бомбил"/>
-<Allolog Form="бомбее"/>
+<Word Stem="квантован" Weight="0.5">
+<Allolog Form="квантованности"/>
+<Allolog Form="квантованию"/>
+<Allolog Form="квантования"/>
+<Allolog Form="квантование"/>
+<Allolog Form="квантовании"/>
+<Allolog Form="квантованность"/>
 </Word>
 
-<Word Stem="выразительн" Weight="0.5">
-<Allolog Form="выразительного"/>
-<Allolog Form="выразительно"/>
+<Word Stem="выразительн" Weight="0.05">
 <Allolog Form="выразительное"/>
 <Allolog Form="выразительным"/>
+<Allolog Form="выразительно"/>
+<Allolog Form="выразительного"/>
 <Allolog Form="выразительность"/>
 <Allolog Form="выразительный"/>
 <Allolog Form="выразительной"/>
@@ -3674,6 +4114,23 @@
 <Allolog Form="выразительная"/>
 <Allolog Form="выразительны"/>
 <Allolog Form="выразительна"/>
+</Word>
+
+<Word Stem="вырезк" Weight="0.5">
+<Allolog Form="вырезки"/>
+<Allolog Form="вырезка"/>
+<Allolog Form="вырезку"/>
+<Allolog Form="вырезками"/>
+</Word>
+
+<Word Stem="corn" Weight="0.5">
+<Allolog Form="corn"/>
+</Word>
+
+<Word Stem="лисп" Weight="0.5">
+<Allolog Form="лиспа"/>
+<Allolog Form="лисп"/>
+<Allolog Form="лиспе"/>
 </Word>
 
 <Word Stem="нормализац" Weight="0.5">
@@ -3690,57 +4147,14 @@
 <Allolog Form="диалекта"/>
 <Allolog Form="диалектам"/>
 <Allolog Form="диалекти"/>
-</Word>
-
-<Word Stem="библиотек" Weight="0.05">
-<Allolog Form="библиотеки"/>
-<Allolog Form="библиотека"/>
-<Allolog Form="библиотекой"/>
-<Allolog Form="библиотеке"/>
-<Allolog Form="библиотеку"/>
-<Allolog Form="библиотек"/>
-<Allolog Form="библиотеками"/>
-<Allolog Form="библиотеках"/>
-</Word>
-
-<Word Stem="кибернетик" Weight="0.5">
-<Allolog Form="кибернетики"/>
-<Allolog Form="кибернетика"/>
-<Allolog Form="кибернетике"/>
-<Allolog Form="кибернетику"/>
-<Allolog Form="кибернетикой"/>
-<Allolog Form="кибернетико"/>
-</Word>
-
-<Word Stem="артефакт" Weight="0.5">
-<Allolog Form="артефактов"/>
-<Allolog Form="артефакты"/>
-<Allolog Form="артефакт"/>
-<Allolog Form="артефакта"/>
-<Allolog Form="артефактами"/>
-<Allolog Form="артефактам"/>
-<Allolog Form="артефактах"/>
-</Word>
-
-<Word Stem="герц" Weight="0.5">
-<Allolog Form="герцена"/>
-<Allolog Form="герца"/>
-<Allolog Form="герц"/>
-<Allolog Form="герцов"/>
-<Allolog Form="герцем"/>
-<Allolog Form="герцах"/>
-</Word>
-
-<Word Stem="паскал" Weight="0.5">
-<Allolog Form="паскаль"/>
-<Allolog Form="паскаля"/>
-<Allolog Form="паскалем"/>
-<Allolog Form="паскалю"/>
+<Allolog Form="диалекте"/>
+<Allolog Form="диалектом"/>
 </Word>
 
 <Word Stem="нотац" Weight="0.5">
 <Allolog Form="нотаций"/>
 <Allolog Form="нотации"/>
+<Allolog Form="нотациях"/>
 <Allolog Form="нотацией"/>
 <Allolog Form="нотация"/>
 <Allolog Form="нотацию"/>
@@ -3764,27 +4178,17 @@
 <Word Stem="дружествен" Weight="0.5">
 <Allolog Form="дружественность"/>
 <Allolog Form="дружественные"/>
+<Allolog Form="дружественными"/>
+<Allolog Form="дружественны"/>
+<Allolog Form="дружественной"/>
 <Allolog Form="дружественная"/>
 <Allolog Form="дружественно"/>
 <Allolog Form="дружественную"/>
-<Allolog Form="дружественными"/>
-<Allolog Form="дружественной"/>
 <Allolog Form="дружественного"/>
 <Allolog Form="дружественностью"/>
 <Allolog Form="дружественным"/>
+<Allolog Form="дружественнее"/>
 <Allolog Form="дружествен"/>
-</Word>
-
-<Word Stem="видеодиск" Weight="0.5">
-<Allolog Form="видеодиски"/>
-</Word>
-
-<Word Stem="арифметик" Weight="0.5">
-<Allolog Form="арифметику"/>
-<Allolog Form="арифметике"/>
-<Allolog Form="арифметика"/>
-<Allolog Form="арифметики"/>
-<Allolog Form="арифметикой"/>
 </Word>
 
 <Word Stem="калькулятор" Weight="0.5">
@@ -3792,24 +4196,10 @@
 <Allolog Form="калькулятора"/>
 <Allolog Form="калькуляторе"/>
 <Allolog Form="калькулятором"/>
-</Word>
-
-<Word Stem="идеограмм" Weight="0.5">
-<Allolog Form="идеограмм"/>
-<Allolog Form="идеограмма"/>
-</Word>
-
-<Word Stem="генр" Weight="0.5">
-<Allolog Form="генрих"/>
-<Allolog Form="генри"/>
-</Word>
-
-<Word Stem="синтаксис" Weight="0.5">
-<Allolog Form="синтаксис"/>
-<Allolog Form="синтаксиса"/>
-<Allolog Form="синтаксисом"/>
-<Allolog Form="синтаксису"/>
-<Allolog Form="синтаксисе"/>
+<Allolog Form="калькуляторах"/>
+<Allolog Form="калькуляторы"/>
+<Allolog Form="калькуляторов"/>
+<Allolog Form="калькуляторами"/>
 </Word>
 
 <Word Stem="категориальн" Weight="0.5">
@@ -3825,6 +4215,7 @@
 <Allolog Form="категориальном"/>
 <Allolog Form="категориальной"/>
 <Allolog Form="категориальность"/>
+<Allolog Form="категориальным"/>
 </Word>
 
 <Word Stem="инсталляц" Weight="0.5">
@@ -3862,29 +4253,11 @@
 <Allolog Form="актуализацией"/>
 </Word>
 
-<Word Stem="лингвистик" Weight="0.5">
-<Allolog Form="лингвистики"/>
-<Allolog Form="лингвистикой"/>
-<Allolog Form="лингвистике"/>
-<Allolog Form="лингвистика"/>
-<Allolog Form="лингвистику"/>
-</Word>
-
 <Word Stem="абстрагирован" Weight="0.5">
 <Allolog Form="абстрагирования"/>
 <Allolog Form="абстрагирование"/>
 <Allolog Form="абстрагированием"/>
 <Allolog Form="абстрагировании"/>
-</Word>
-
-<Word Stem="ловушк" Weight="0.5">
-<Allolog Form="ловушка"/>
-<Allolog Form="ловушку"/>
-<Allolog Form="ловушки"/>
-<Allolog Form="ловушкой"/>
-<Allolog Form="ловушке"/>
-<Allolog Form="ловушкам"/>
-<Allolog Form="ловушками"/>
 </Word>
 
 <Word Stem="пайк" Weight="0.5">
@@ -3895,14 +4268,6 @@
 <Allolog Form="пайку"/>
 <Allolog Form="пайкой"/>
 <Allolog Form="пайк"/>
-</Word>
-
-<Word Stem="запоминан" Weight="0.05">
-<Allolog Form="запоминании"/>
-<Allolog Form="запоминание"/>
-<Allolog Form="запоминания"/>
-<Allolog Form="запоминанием"/>
-<Allolog Form="запоминанию"/>
 </Word>
 
 <Word Stem="компонова" Weight="0.5">
@@ -3917,23 +4282,19 @@
 
 <Word Stem="аудиовизуальн" Weight="0.5">
 <Allolog Form="аудиовизуальной"/>
+<Allolog Form="аудиовизуальную"/>
 <Allolog Form="аудиовизуальные"/>
 <Allolog Form="аудиовизуального"/>
 <Allolog Form="аудиовизуальное"/>
-</Word>
-
-<Word Stem="программирован" Weight="0.5">
-<Allolog Form="программирования"/>
-<Allolog Form="программирование"/>
-<Allolog Form="программировании"/>
-<Allolog Form="программированием"/>
-<Allolog Form="программированию"/>
-<Allolog Form="программированности"/>
+<Allolog Form="аудиовизуальная"/>
+<Allolog Form="аудиовизуальном"/>
 </Word>
 
 <Word Stem="телекоммуникац" Weight="0.5">
 <Allolog Form="телекоммуникаций"/>
 <Allolog Form="телекоммуникации"/>
+<Allolog Form="телекоммуникациям"/>
+<Allolog Form="телекоммуникациях"/>
 </Word>
 
 <Word Stem="идиом" Weight="0.5">
@@ -3956,6 +4317,7 @@
 <Word Stem="аннотац" Weight="0.5">
 <Allolog Form="аннотация"/>
 <Allolog Form="аннотацию"/>
+<Allolog Form="аннотации"/>
 </Word>
 
 <Word Stem="перекачк" Weight="0.5">
@@ -3986,19 +4348,13 @@
 <Allolog Form="перфолентой"/>
 </Word>
 
-<Word Stem="кабел" Weight="0.5">
-<Allolog Form="кабелей"/>
-<Allolog Form="кабель"/>
-<Allolog Form="кабеля"/>
-<Allolog Form="кабелем"/>
-<Allolog Form="кабеле"/>
-<Allolog Form="кабелю"/>
-<Allolog Form="кабели"/>
-</Word>
-
 <Word Stem="арбитраж" Weight="0.5">
 <Allolog Form="арбитраж"/>
 <Allolog Form="арбитраже"/>
+<Allolog Form="арбитражу"/>
+<Allolog Form="арбитражем"/>
+<Allolog Form="арбитража"/>
+<Allolog Form="арбитражей"/>
 </Word>
 
 <Word Stem="трансакц" Weight="0.5">
@@ -4009,17 +4365,19 @@
 <Allolog Form="трансакциям"/>
 <Allolog Form="трансакциях"/>
 <Allolog Form="трансакцией"/>
+<Allolog Form="трансакциями"/>
 </Word>
 
 <Word Stem="папк" Weight="0.5">
 <Allolog Form="папки"/>
-<Allolog Form="папков"/>
-<Allolog Form="папку"/>
 <Allolog Form="папка"/>
+<Allolog Form="папку"/>
+<Allolog Form="папке"/>
+<Allolog Form="папкой"/>
+<Allolog Form="папков"/>
 <Allolog Form="папками"/>
 <Allolog Form="папкам"/>
 <Allolog Form="папках"/>
-<Allolog Form="папке"/>
 </Word>
 
 <Word Stem="clipper" Weight="0.5">
@@ -4031,6 +4389,10 @@
 <Allolog Form="аналоговое"/>
 <Allolog Form="аналоговый"/>
 <Allolog Form="аналогового"/>
+<Allolog Form="аналоговом"/>
+<Allolog Form="аналоговыми"/>
+<Allolog Form="аналоговые"/>
+<Allolog Form="аналоговой"/>
 <Allolog Form="аналоговая"/>
 </Word>
 
@@ -4053,6 +4415,8 @@
 <Allolog Form="планировщиков"/>
 <Allolog Form="планировщик"/>
 <Allolog Form="планировщики"/>
+<Allolog Form="планировщике"/>
+<Allolog Form="планировщиками"/>
 </Word>
 
 <Word Stem="table" Weight="0.5">
@@ -4092,13 +4456,6 @@
 <Allolog Form="intel"/>
 </Word>
 
-<Word Stem="манипулятор" Weight="0.5">
-<Allolog Form="манипуляторы"/>
-<Allolog Form="манипуляторов"/>
-<Allolog Form="манипуляторах"/>
-<Allolog Form="манипулятор"/>
-</Word>
-
 <Word Stem="демпинг" Weight="0.5">
 <Allolog Form="демпинга"/>
 <Allolog Form="демпингом"/>
@@ -4108,6 +4465,7 @@
 <Word Stem="аннулирован" Weight="0.5">
 <Allolog Form="аннулирование"/>
 <Allolog Form="аннулировании"/>
+<Allolog Form="аннулирования"/>
 </Word>
 
 <Word Stem="relation" Weight="0.5">
@@ -4118,17 +4476,81 @@
 <Allolog Form="variable"/>
 </Word>
 
-<Word Stem="растр" Weight="0.5">
-<Allolog Form="растром"/>
-<Allolog Form="растр"/>
+<Word Stem="скрипт" Weight="0.5">
+<Allolog Form="скрипту"/>
+<Allolog Form="скрипта"/>
+<Allolog Form="скриптом"/>
+<Allolog Form="скрипт"/>
 </Word>
 
-<Word Stem="ангстр" Weight="0.5">
-<Allolog Form="ангстрем"/>
+<Word Stem="интерфейс" Weight="0.5">
+<Allolog Form="интерфейса"/>
+<Allolog Form="интерфейсом"/>
+<Allolog Form="интерфейсами"/>
+<Allolog Form="интерфейс"/>
+<Allolog Form="интерфейсов"/>
+<Allolog Form="интерфейсы"/>
+<Allolog Form="интерфейсе"/>
+</Word>
+
+<Word Stem="криптограф" Weight="0.5">
+<Allolog Form="криптография"/>
+<Allolog Form="криптографии"/>
 </Word>
 
 <Word Stem="html" Weight="0.5">
 <Allolog Form="html"/>
+</Word>
+
+<Word Stem="голограмм" Weight="0.5">
+<Allolog Form="голограмма"/>
+<Allolog Form="голограмму"/>
+<Allolog Form="голограммы"/>
+<Allolog Form="голограммами"/>
+<Allolog Form="голограмм"/>
+<Allolog Form="голограммой"/>
+<Allolog Form="голограммам"/>
+<Allolog Form="голограмме"/>
+</Word>
+
+<Word Stem="транзакц" Weight="0.5">
+<Allolog Form="транзакциях"/>
+<Allolog Form="транзакцию"/>
+<Allolog Form="транзакц"/>
+</Word>
+
+<Word Stem="растр" Weight="0.5">
+<Allolog Form="растр"/>
+<Allolog Form="растром"/>
+</Word>
+
+<Word Stem="оберон" Weight="0.05">
+<Allolog Form="оберон"/>
+</Word>
+
+<Word Stem="компиляц" Weight="0.5">
+<Allolog Form="компиляциях"/>
+<Allolog Form="компиляции"/>
+<Allolog Form="компиляция"/>
+<Allolog Form="компиляциями"/>
+</Word>
+
+<Word Stem="криптолог" Weight="0.5">
+<Allolog Form="криптологам"/>
+<Allolog Form="криптология"/>
+<Allolog Form="криптолог"/>
+</Word>
+
+<Word Stem="operation" Weight="0.5">
+<Allolog Form="operation"/>
+</Word>
+
+<Word Stem="library" Weight="0.5">
+<Allolog Form="library"/>
+</Word>
+
+<Word Stem="page" Weight="0.5">
+<Allolog Form="page"/>
 </Word>
 
 <Word Stem="мультимед" Weight="0.5">
@@ -4146,11 +4568,6 @@
 
 <Word Stem="майлар" Weight="0.5">
 <Allolog Form="майлар"/>
-</Word>
-
-<Word Stem="грануляц" Weight="0.5">
-<Allolog Form="грануляций"/>
-<Allolog Form="грануляции"/>
 </Word>
 
 <Word Stem="maple" Weight="0.5">
@@ -4181,20 +4598,6 @@
 <Allolog Form="импликаций"/>
 </Word>
 
-<Word Stem="двоичн" Weight="0.5">
-<Allolog Form="двоичной"/>
-<Allolog Form="двоичного"/>
-<Allolog Form="двоичный"/>
-<Allolog Form="двоичную"/>
-<Allolog Form="двоичная"/>
-<Allolog Form="двоичными"/>
-<Allolog Form="двоичном"/>
-<Allolog Form="двоичные"/>
-<Allolog Form="двоичным"/>
-<Allolog Form="двоичностью"/>
-<Allolog Form="двоичность"/>
-</Word>
-
 <Word Stem="гистограмм" Weight="0.5">
 <Allolog Form="гистограмма"/>
 <Allolog Form="гистограммы"/>
@@ -4204,16 +4607,7 @@
 
 <Word Stem="винчестер" Weight="0.5">
 <Allolog Form="винчестер"/>
-</Word>
-
-<Word Stem="абонент" Weight="0.5">
-<Allolog Form="абонент"/>
-<Allolog Form="абонента"/>
-<Allolog Form="абонентов"/>
-<Allolog Form="абоненты"/>
-<Allolog Form="абонентами"/>
-<Allolog Form="абонентом"/>
-<Allolog Form="абонентам"/>
+<Allolog Form="винчестеров"/>
 </Word>
 
 <Word Stem="field" Weight="0.5">
@@ -4224,38 +4618,19 @@
 <Allolog Form="file"/>
 </Word>
 
-<Word Stem="квантован" Weight="0.5">
-<Allolog Form="квантования"/>
-<Allolog Form="квантование"/>
-<Allolog Form="квантовании"/>
-<Allolog Form="квантованность"/>
-<Allolog Form="квантованию"/>
-</Word>
-
 <Word Stem="quantization" Weight="0.5">
 <Allolog Form="quantization"/>
-</Word>
-
-<Word Stem="фракта" Weight="0.5">
-<Allolog Form="фрактал"/>
-<Allolog Form="фрактала"/>
 </Word>
 
 <Word Stem="бейсик" Weight="0.5">
 <Allolog Form="бейсике"/>
 <Allolog Form="бейсик"/>
+<Allolog Form="бейсика"/>
 </Word>
 
 <Word Stem="сумматор" Weight="0.5">
 <Allolog Form="сумматором"/>
 <Allolog Form="сумматор"/>
-</Word>
-
-<Word Stem="бифуркац" Weight="0.5">
-<Allolog Form="бифуркаций"/>
-<Allolog Form="бифуркация"/>
-<Allolog Form="бифуркациях"/>
-<Allolog Form="бифуркации"/>
 </Word>
 
 <Word Stem="подпрограмм" Weight="0.5">
@@ -4272,13 +4647,6 @@
 <Allolog Form="компилятор"/>
 </Word>
 
-<Word Stem="суперкомпьютер" Weight="0.5">
-<Allolog Form="суперкомпьютере"/>
-<Allolog Form="суперкомпьютеров"/>
-<Allolog Form="суперкомпьютеры"/>
-<Allolog Form="суперкомпьютерах"/>
-</Word>
-
 <Word Stem="fractal" Weight="0.5">
 <Allolog Form="fractal"/>
 </Word>
@@ -4286,6 +4654,8 @@
 <Word Stem="мультипликац" Weight="0.5">
 <Allolog Form="мультипликациях"/>
 <Allolog Form="мультипликация"/>
+<Allolog Form="мультипликацию"/>
+<Allolog Form="мультипликаций"/>
 </Word>
 
 <Word Stem="фрейм" Weight="0.5">
@@ -4329,10 +4699,6 @@
 <Allolog Form="sampling"/>
 </Word>
 
-<Word Stem="operation" Weight="0.5">
-<Allolog Form="operation"/>
-</Word>
-
 <Word Stem="convergence" Weight="0.5">
 <Allolog Form="convergence"/>
 </Word>
@@ -4353,10 +4719,6 @@
 <Allolog Form="self"/>
 </Word>
 
-<Word Stem="криптограф" Weight="0.5">
-<Allolog Form="криптографии"/>
-</Word>
-
 <Word Stem="tation" Weight="0.5">
 <Allolog Form="tation"/>
 </Word>
@@ -4364,13 +4726,6 @@
 <Word Stem="информатизац" Weight="0.5">
 <Allolog Form="информатизации"/>
 <Allolog Form="информатизация"/>
-</Word>
-
-<Word Stem="инкремент" Weight="0.5">
-<Allolog Form="инкрементом"/>
-<Allolog Form="инкрементов"/>
-<Allolog Form="инкременты"/>
-<Allolog Form="инкремент"/>
 </Word>
 
 <Word Stem="декремент" Weight="0.5">
@@ -4414,16 +4769,15 @@
 <Allolog Form="vessel"/>
 </Word>
 
-<Word Stem="фортра" Weight="0.5">
-<Allolog Form="фортрал"/>
-</Word>
-
 <Word Stem="сканирован" Weight="0.5">
 <Allolog Form="сканирование"/>
+<Allolog Form="сканированием"/>
+<Allolog Form="сканирования"/>
 </Word>
 
 <Word Stem="субд" Weight="0.5">
 <Allolog Form="субду"/>
+<Allolog Form="субд"/>
 </Word>
 
 <Word Stem="анимац" Weight="0.5">
@@ -4431,11 +4785,6 @@
 <Allolog Form="анимацией"/>
 <Allolog Form="анимацию"/>
 <Allolog Form="анимация"/>
-</Word>
-
-<Word Stem="трансмутац" Weight="0.5">
-<Allolog Form="трансмутацию"/>
-<Allolog Form="трансмутация"/>
 </Word>
 
 <Word Stem="filter" Weight="0.5">
@@ -4449,15 +4798,6 @@
 <Word Stem="семафор" Weight="0.5">
 <Allolog Form="семафор"/>
 <Allolog Form="семафоров"/>
-</Word>
-
-<Word Stem="голограмм" Weight="0.5">
-<Allolog Form="голограммы"/>
-<Allolog Form="голограмма"/>
-<Allolog Form="голограммой"/>
-<Allolog Form="голограмму"/>
-<Allolog Form="голограмм"/>
-<Allolog Form="голограмме"/>
 </Word>
 
 <Word Stem="memory" Weight="0.5">
@@ -4480,18 +4820,12 @@
 <Allolog Form="дескрипторы"/>
 </Word>
 
-<Word Stem="алгол" Weight="0.5">
-<Allolog Form="алголь"/>
-</Word>
-
 <Word Stem="дискет" Weight="0.5">
 <Allolog Form="дискету"/>
+<Allolog Form="дискете"/>
 <Allolog Form="дискеты"/>
 <Allolog Form="дискет"/>
-</Word>
-
-<Word Stem="page" Weight="0.5">
-<Allolog Form="page"/>
+<Allolog Form="дискетам"/>
 </Word>
 
 <Word Stem="doom" Weight="0.5">
@@ -4502,22 +4836,12 @@
 <Allolog Form="mouse"/>
 </Word>
 
-<Word Stem="communication" Weight="0.5">
-<Allolog Form="communication"/>
-</Word>
-
 <Word Stem="slip" Weight="0.5">
 <Allolog Form="slip"/>
 </Word>
 
 <Word Stem="threat" Weight="0.5">
 <Allolog Form="threat"/>
-</Word>
-
-<Word Stem="компиляц" Weight="0.5">
-<Allolog Form="компиляции"/>
-<Allolog Form="компиляция"/>
-<Allolog Form="компиляциями"/>
 </Word>
 
 <Word Stem="dylan" Weight="0.5">
@@ -4532,10 +4856,6 @@
 <Allolog Form="security"/>
 </Word>
 
-<Word Stem="false" Weight="0.5">
-<Allolog Form="false"/>
-</Word>
-
 <Word Stem="clean" Weight="0.5">
 <Allolog Form="clean"/>
 </Word>
@@ -4544,25 +4864,12 @@
 <Allolog Form="round"/>
 </Word>
 
-<Word Stem="интерпретатор" Weight="0.5">
-<Allolog Form="интерпретатора"/>
-<Allolog Form="интерпретатор"/>
-<Allolog Form="интерпретаторов"/>
-<Allolog Form="интерпретаторами"/>
-<Allolog Form="интерпретатором"/>
-</Word>
-
 <Word Stem="scala" Weight="0.5">
 <Allolog Form="scala"/>
 </Word>
 
 <Word Stem="октет" Weight="0.5">
 <Allolog Form="октет"/>
-</Word>
-
-<Word Stem="перезагрузк" Weight="0.5">
-<Allolog Form="перезагрузки"/>
-<Allolog Form="перезагрузку"/>
 </Word>
 
 <Word Stem="wizard" Weight="0.5">
@@ -4591,28 +4898,12 @@
 <Allolog Form="translation"/>
 </Word>
 
-<Word Stem="library" Weight="0.5">
-<Allolog Form="library"/>
-</Word>
-
 <Word Stem="knowledge" Weight="0.5">
 <Allolog Form="knowledge"/>
 </Word>
 
-<Word Stem="предуслов" Weight="0.5">
-<Allolog Form="предусловием"/>
-</Word>
-
 <Word Stem="бионик" Weight="0.5">
 <Allolog Form="бионики"/>
-</Word>
-
-<Word Stem="декодирован" Weight="0.5">
-<Allolog Form="декодирования"/>
-<Allolog Form="декодирование"/>
-<Allolog Form="декодировании"/>
-<Allolog Form="декодированию"/>
-<Allolog Form="декодированием"/>
 </Word>
 
 <Word Stem="semantics" Weight="0.5">
@@ -4635,8 +4926,145 @@
 <Allolog Form="настройщик"/>
 </Word>
 
+<Word Stem="браузер" Weight="0.5">
+<Allolog Form="браузера"/>
+<Allolog Form="браузерам"/>
+<Allolog Form="браузеры"/>
+<Allolog Form="браузере"/>
+<Allolog Form="браузером"/>
+</Word>
+
+<Word Stem="визуализац" Weight="0.05">
+<Allolog Form="визуализации"/>
+<Allolog Form="визуализация"/>
+<Allolog Form="визуализацией"/>
+<Allolog Form="визуализацию"/>
+<Allolog Form="визуализаций"/>
+<Allolog Form="визуализац"/>
+</Word>
+
+<Word Stem="межсетев" Weight="0.5">
+<Allolog Form="межсетевые"/>
+<Allolog Form="межсетев"/>
+</Word>
+
+<Word Stem="hardware" Weight="0.5">
+<Allolog Form="hardware"/>
+</Word>
+
+<Word Stem="видеоконференц" Weight="0.5">
+<Allolog Form="видеоконференцию"/>
+<Allolog Form="видеоконференции"/>
+<Allolog Form="видеоконференций"/>
+<Allolog Form="видеоконференциям"/>
+<Allolog Form="видеоконференцией"/>
+<Allolog Form="видеоконференц"/>
+</Word>
+
+<Word Stem="интранет" Weight="0.5">
+<Allolog Form="интранет"/>
+</Word>
+
+<Word Stem="адресац" Weight="0.5">
+<Allolog Form="адресации"/>
+<Allolog Form="адресацию"/>
+<Allolog Form="адресац"/>
+</Word>
+
+<Word Stem="protocol" Weight="0.5">
+<Allolog Form="protocol"/>
+</Word>
+
+<Word Stem="гигабайт" Weight="0.5">
+<Allolog Form="гигабайт"/>
+</Word>
+
+<Word Stem="кобол" Weight="0.5">
+<Allolog Form="коболе"/>
+<Allolog Form="кобол"/>
+</Word>
+
+<Word Stem="dbase" Weight="0.5">
+<Allolog Form="dbase"/>
+</Word>
+
+<Word Stem="видеоадаптер" Weight="0.5">
+<Allolog Form="видеоадаптеров"/>
+<Allolog Form="видеоадаптеры"/>
+<Allolog Form="видеоадаптер"/>
+</Word>
+
+<Word Stem="interface" Weight="0.5">
+<Allolog Form="interface"/>
+</Word>
+
 <Word Stem="content" Weight="0.5">
 <Allolog Form="content"/>
+</Word>
+
+<Word Stem="оцифровк" Weight="0.5">
+<Allolog Form="оцифровки"/>
+<Allolog Form="оцифровка"/>
+</Word>
+
+<Word Stem="дешифрован" Weight="0.5">
+<Allolog Form="дешифрования"/>
+<Allolog Form="дешифрован"/>
+</Word>
+
+<Word Stem="криптосистем" Weight="0.5">
+<Allolog Form="криптосистема"/>
+<Allolog Form="криптосистем"/>
+</Word>
+
+<Word Stem="аутентификац" Weight="0.5">
+<Allolog Form="аутентификацию"/>
+<Allolog Form="аутентификация"/>
+<Allolog Form="аутентификац"/>
+</Word>
+
+<Word Stem="compose" Weight="0.5">
+<Allolog Form="compose"/>
+</Word>
+
+<Word Stem="брандмауэр" Weight="0.5">
+<Allolog Form="брандмауэрах"/>
+<Allolog Form="брандмауэр"/>
+</Word>
+
+<Word Stem="лексем" Weight="0.5">
+<Allolog Form="лексемы"/>
+<Allolog Form="лексема"/>
+<Allolog Form="лексем"/>
+</Word>
+
+<Word Stem="визуализатор" Weight="0.5">
+<Allolog Form="визуализатор"/>
+</Word>
+
+<Word Stem="колонтитул" Weight="0.5">
+<Allolog Form="колонтитул"/>
+</Word>
+
+<Word Stem="акрон" Weight="0.5">
+<Allolog Form="акроним"/>
+<Allolog Form="акрон"/>
+</Word>
+
+<Word Stem="directory" Weight="0.5">
+<Allolog Form="directory"/>
+</Word>
+
+<Word Stem="баннер" Weight="0.5">
+<Allolog Form="баннеров"/>
+<Allolog Form="баннеры"/>
+<Allolog Form="баннер"/>
+<Allolog Form="баннере"/>
+</Word>
+
+<Word Stem="идентификатор" Weight="0.5">
+<Allolog Form="идентификаторов"/>
+<Allolog Form="идентификатор"/>
 </Word>
 
 <Word Stem="hash" Weight="0.5">
@@ -4655,15 +5083,6 @@
 <Allolog Form="нейрокомпьютер"/>
 <Allolog Form="нейрокомпьютеров"/>
 <Allolog Form="нейрокомпьютеры"/>
-</Word>
-
-<Word Stem="акрон" Weight="0.5">
-<Allolog Form="акроним"/>
-</Word>
-
-<Word Stem="пиктограмм" Weight="0.5">
-<Allolog Form="пиктограммы"/>
-<Allolog Form="пиктограмм"/>
 </Word>
 
 <Word Stem="контрмер" Weight="0.5">
@@ -4687,20 +5106,37 @@
 <Allolog Form="scanning"/>
 </Word>
 
-<Word Stem="адресац" Weight="0.5">
-<Allolog Form="адресации"/>
-<Allolog Form="адресац"/>
+<Word Stem="компилирова" Weight="0.5">
+<Allolog Form="компилировавших"/>
+<Allolog Form="компилирова"/>
 </Word>
 
-<Word Stem="браузер" Weight="0.5">
-<Allolog Form="браузере"/>
-<Allolog Form="браузером"/>
+<Word Stem="подкаталог" Weight="0.5">
+<Allolog Form="подкаталога"/>
+<Allolog Form="подкаталоги"/>
+<Allolog Form="подкаталогах"/>
+<Allolog Form="подкаталог"/>
+</Word>
+
+<Word Stem="кадрирован" Weight="0.5">
+<Allolog Form="кадрирования"/>
+<Allolog Form="кадрирован"/>
 </Word>
 
 <Word Stem="драйвер" Weight="0.5">
-<Allolog Form="драйвера"/>
 <Allolog Form="драйвер"/>
+<Allolog Form="драйвера"/>
 <Allolog Form="драйверы"/>
+</Word>
+
+<Word Stem="магнитооптическ" Weight="0.5">
+<Allolog Form="магнитооптические"/>
+<Allolog Form="магнитооптическ"/>
+</Word>
+
+<Word Stem="дисковод" Weight="0.5">
+<Allolog Form="дисковод"/>
+<Allolog Form="дисководу"/>
 </Word>
 
 <Word Stem="подсет" Weight="0.5">
@@ -4711,38 +5147,31 @@
 <Allolog Form="javascript"/>
 </Word>
 
-<Word Stem="баннер" Weight="0.5">
-<Allolog Form="баннер"/>
-<Allolog Form="баннере"/>
-</Word>
-
-<Word Stem="дисковод" Weight="0.5">
-<Allolog Form="дисководу"/>
-</Word>
-
 <Word Stem="антивирус" Weight="0.5">
 <Allolog Form="антивирус"/>
-</Word>
-
-<Word Stem="гигабайт" Weight="0.5">
-<Allolog Form="гигабайт"/>
-</Word>
-
-<Word Stem="оцифровк" Weight="0.5">
-<Allolog Form="оцифровка"/>
 </Word>
 
 <Word Stem="euphoria" Weight="0.5">
 <Allolog Form="euphoria"/>
 </Word>
 
+<Word Stem="машиночита" Weight="0.5">
+<Allolog Form="машиночитаемой"/>
+<Allolog Form="машиночита"/>
+</Word>
+
+<Word Stem="видеоконференцсвяз" Weight="0.5">
+<Allolog Form="видеоконференцсвязи"/>
+<Allolog Form="видеоконференцсвяз"/>
+</Word>
+
 <Word Stem="ат" Weight="0.5">
 <Allolog Form="ат"/>
 <Allolog Form="атом"/>
+<Allolog Form="аты"/>
 <Allolog Form="ато"/>
 <Allolog Form="атем"/>
 <Allolog Form="атеи"/>
-<Allolog Form="аты"/>
 <Allolog Form="ате"/>
 <Allolog Form="ату"/>
 <Allolog Form="атья"/>
@@ -4760,10 +5189,10 @@
 <Allolog Form="база"/>
 <Allolog Form="базе"/>
 <Allolog Form="баз"/>
+<Allolog Form="базах"/>
 <Allolog Form="базо"/>
 <Allolog Form="базили"/>
 <Allolog Form="бази"/>
-<Allolog Form="базах"/>
 <Allolog Form="базами"/>
 <Allolog Form="базам"/>
 </Word>
@@ -4773,14 +5202,15 @@
 <Allolog Form="битые"/>
 <Allolog Form="бится"/>
 <Allolog Form="биту"/>
+<Allolog Form="бит"/>
+<Allolog Form="битах"/>
+<Allolog Form="битам"/>
+<Allolog Form="биты"/>
 <Allolog Form="битье"/>
 <Allolog Form="битов"/>
-<Allolog Form="бит"/>
 <Allolog Form="битью"/>
 <Allolog Form="битья"/>
 <Allolog Form="битую"/>
-<Allolog Form="битах"/>
-<Allolog Form="биты"/>
 <Allolog Form="бита"/>
 <Allolog Form="битое"/>
 <Allolog Form="битой"/>
@@ -4788,6 +5218,9 @@
 <Allolog Form="битом"/>
 <Allolog Form="бити"/>
 <Allolog Form="битым"/>
+<Allolog Form="битами"/>
+<Allolog Form="битыми"/>
+<Allolog Form="битьем"/>
 <Allolog Form="битого"/>
 </Word>
 
@@ -4807,22 +5240,18 @@
 <Allolog Form="весить"/>
 <Allolog Form="весе"/>
 <Allolog Form="весы"/>
-<Allolog Form="весах"/>
 <Allolog Form="весам"/>
-<Allolog Form="весившие"/>
-<Allolog Form="весами"/>
 <Allolog Form="весил"/>
+<Allolog Form="весила"/>
+<Allolog Form="весах"/>
+<Allolog Form="весами"/>
+<Allolog Form="весившие"/>
 <Allolog Form="весия"/>
 <Allolog Form="весие"/>
 <Allolog Form="весив"/>
 <Allolog Form="веси"/>
 <Allolog Form="весо"/>
-<Allolog Form="весила"/>
 <Allolog Form="весишь"/>
-</Word>
-
-<Word Stem="кобол" Weight="0.5">
-<Allolog Form="кобол"/>
 </Word>
 
 <Word Stem="код" Weight="0.5">
@@ -4834,12 +5263,13 @@
 <Allolog Form="коды"/>
 <Allolog Form="кодом"/>
 <Allolog Form="коде"/>
+<Allolog Form="кодах"/>
 <Allolog Form="кодой"/>
 <Allolog Form="кодая"/>
 <Allolog Form="коди"/>
 <Allolog Form="кодил"/>
-<Allolog Form="кодах"/>
 <Allolog Form="кодами"/>
+<Allolog Form="кодам"/>
 </Word>
 
 <Word Stem="лин" Weight="0.5">
@@ -4854,9 +5284,9 @@
 <Allolog Form="линяя"/>
 <Allolog Form="лин"/>
 <Allolog Form="линиям"/>
+<Allolog Form="лина"/>
 <Allolog Form="линь"/>
 <Allolog Form="линя"/>
-<Allolog Form="лина"/>
 <Allolog Form="линю"/>
 <Allolog Form="линами"/>
 <Allolog Form="линным"/>
@@ -4872,6 +5302,7 @@
 <Allolog Form="линно"/>
 <Allolog Form="линов"/>
 <Allolog Form="линное"/>
+<Allolog Form="линне"/>
 </Word>
 
 <Word Stem="луч" Weight="0.5">
@@ -4882,20 +5313,20 @@
 <Allolog Form="луча"/>
 <Allolog Form="лучить"/>
 <Allolog Form="лучом"/>
+<Allolog Form="лучах"/>
+<Allolog Form="лучу"/>
+<Allolog Form="луче"/>
+<Allolog Form="лучам"/>
+<Allolog Form="лучился"/>
 <Allolog Form="лучившуюся"/>
 <Allolog Form="лучила"/>
 <Allolog Form="лучил"/>
 <Allolog Form="лучившего"/>
-<Allolog Form="лучах"/>
 <Allolog Form="лучим"/>
-<Allolog Form="луче"/>
-<Allolog Form="лучу"/>
 <Allolog Form="лучены"/>
 <Allolog Form="лучена"/>
-<Allolog Form="лучам"/>
 <Allolog Form="лучем"/>
 <Allolog Form="лучите"/>
-<Allolog Form="лучился"/>
 <Allolog Form="лучили"/>
 <Allolog Form="лучив"/>
 <Allolog Form="лучившая"/>
@@ -4911,6 +5342,7 @@
 <Allolog Form="моды"/>
 <Allolog Form="модой"/>
 <Allolog Form="модена"/>
+<Allolog Form="модем"/>
 </Word>
 
 <Word Stem="н" Weight="0.5">
@@ -4965,6 +5397,9 @@
 <Allolog Form="ниями"/>
 <Allolog Form="ньа"/>
 <Allolog Form="неся"/>
+<Allolog Form="нила"/>
+<Allolog Form="нею"/>
+<Allolog Form="нее"/>
 <Allolog Form="нную"/>
 <Allolog Form="нное"/>
 <Allolog Form="нный"/>
@@ -4974,16 +5409,13 @@
 <Allolog Form="нном"/>
 <Allolog Form="нного"/>
 <Allolog Form="ною"/>
-<Allolog Form="нее"/>
 <Allolog Form="нным"/>
 <Allolog Form="нной"/>
 <Allolog Form="нными"/>
 <Allolog Form="нились"/>
-<Allolog Form="нею"/>
 <Allolog Form="нная"/>
 <Allolog Form="ню"/>
 <Allolog Form="ньев"/>
-<Allolog Form="нила"/>
 <Allolog Form="нейших"/>
 <Allolog Form="нией"/>
 <Allolog Form="нейшем"/>
@@ -5000,6 +5432,8 @@
 <Allolog Form="нилась"/>
 <Allolog Form="ннее"/>
 <Allolog Form="нена"/>
+<Allolog Form="ныть"/>
+<Allolog Form="нюся"/>
 <Allolog Form="нна"/>
 <Allolog Form="ньо"/>
 <Allolog Form="нейший"/>
@@ -5009,7 +5443,6 @@
 <Allolog Form="нося"/>
 <Allolog Form="нями"/>
 <Allolog Form="ныли"/>
-<Allolog Form="ныть"/>
 <Allolog Form="ння"/>
 <Allolog Form="нього"/>
 <Allolog Form="нивших"/>
@@ -5017,12 +5450,12 @@
 <Allolog Form="нившись"/>
 <Allolog Form="нующихся"/>
 <Allolog Form="нись"/>
+<Allolog Form="ныла"/>
 <Allolog Form="нейшую"/>
 <Allolog Form="нуйтесь"/>
 <Allolog Form="нивший"/>
-<Allolog Form="нитесь"/>
-<Allolog Form="ныла"/>
 <Allolog Form="ныл"/>
+<Allolog Form="нитесь"/>
 <Allolog Form="ниим"/>
 </Word>
 
@@ -5063,24 +5496,25 @@
 <Allolog Form="полыми"/>
 <Allolog Form="полой"/>
 <Allolog Form="полях"/>
+<Allolog Form="полями"/>
+<Allolog Form="полям"/>
+<Allolog Form="полый"/>
+<Allolog Form="полым"/>
+<Allolog Form="полю"/>
 <Allolog Form="полить"/>
 <Allolog Form="полейте"/>
 <Allolog Form="полили"/>
 <Allolog Form="польем"/>
 <Allolog Form="полам"/>
 <Allolog Form="полами"/>
-<Allolog Form="полям"/>
-<Allolog Form="полями"/>
 <Allolog Form="полия"/>
-<Allolog Form="полый"/>
-<Allolog Form="полю"/>
-<Allolog Form="полым"/>
 <Allolog Form="полое"/>
 <Allolog Form="полах"/>
 <Allolog Form="полее"/>
 <Allolog Form="полев"/>
 <Allolog Form="полились"/>
 <Allolog Form="полила"/>
+<Allolog Form="полилась"/>
 </Word>
 
 <Word Stem="рефа" Weight="0.5">
@@ -5136,6 +5570,7 @@
 <Allolog Form="вена"/>
 <Allolog Form="вены"/>
 <Allolog Form="вей"/>
+<Allolog Form="вилась"/>
 <Allolog Form="вя"/>
 <Allolog Form="вился"/>
 <Allolog Form="вив"/>
@@ -5148,10 +5583,12 @@
 <Allolog Form="вья"/>
 <Allolog Form="вующих"/>
 <Allolog Form="вившее"/>
-<Allolog Form="вилась"/>
 <Allolog Form="вию"/>
 <Allolog Form="вем"/>
 <Allolog Form="виям"/>
+<Allolog Form="вях"/>
+<Allolog Form="выть"/>
+<Allolog Form="вившиеся"/>
 <Allolog Form="вующую"/>
 <Allolog Form="ваясь"/>
 <Allolog Form="вующие"/>
@@ -5160,7 +5597,6 @@
 <Allolog Form="вего"/>
 <Allolog Form="вившуюся"/>
 <Allolog Form="вишься"/>
-<Allolog Form="выть"/>
 <Allolog Form="виа"/>
 <Allolog Form="высь"/>
 <Allolog Form="выли"/>
@@ -5172,9 +5608,10 @@
 <Allolog Form="вее"/>
 <Allolog Form="вейший"/>
 <Allolog Form="вась"/>
+<Allolog Form="вейся"/>
 <Allolog Form="вившейся"/>
-<Allolog Form="вившиеся"/>
 <Allolog Form="вившийся"/>
+<Allolog Form="веся"/>
 <Allolog Form="выл"/>
 <Allolog Form="выла"/>
 </Word>
@@ -5183,6 +5620,7 @@
 <Allolog Form="гига"/>
 <Allolog Form="гигиены"/>
 <Allolog Form="гигиена"/>
+<Allolog Form="гигия"/>
 <Allolog Form="гиг"/>
 <Allolog Form="гигие"/>
 <Allolog Form="гигией"/>
@@ -5195,8 +5633,8 @@
 <Allolog Form="иглой"/>
 <Allolog Form="игл"/>
 <Allolog Form="иглу"/>
-<Allolog Form="игло"/>
 <Allolog Form="игле"/>
+<Allolog Form="игло"/>
 <Allolog Form="иглами"/>
 </Word>
 
@@ -5206,10 +5644,10 @@
 <Allolog Form="окнах"/>
 <Allolog Form="окнами"/>
 <Allolog Form="окну"/>
+<Allolog Form="окне"/>
 <Allolog Form="окном"/>
 <Allolog Form="окнам"/>
 <Allolog Form="окн"/>
-<Allolog Form="окне"/>
 </Word>
 
 <Word Stem="сл" Weight="0.5">
@@ -5230,32 +5668,37 @@
 <Allolog Form="слившихся"/>
 <Allolog Form="слиться"/>
 <Allolog Form="слившаяся"/>
+<Allolog Form="слили"/>
+<Allolog Form="слом"/>
+<Allolog Form="слывшие"/>
 <Allolog Form="слем"/>
 <Allolog Form="сла"/>
 <Allolog Form="слила"/>
 <Allolog Form="слей"/>
 <Allolog Form="слившийся"/>
-<Allolog Form="слом"/>
 <Allolog Form="слыть"/>
 <Allolog Form="слыл"/>
 <Allolog Form="слившиеся"/>
-<Allolog Form="слили"/>
-<Allolog Form="слил"/>
+<Allolog Form="слами"/>
+<Allolog Form="слыв"/>
 <Allolog Form="слившись"/>
+<Allolog Form="слил"/>
 <Allolog Form="слю"/>
 <Allolog Form="слейся"/>
 <Allolog Form="слейтесь"/>
 <Allolog Form="слилась"/>
 <Allolog Form="сля"/>
 <Allolog Form="слившегося"/>
+<Allolog Form="сейшелах"/>
+<Allolog Form="слыла"/>
 </Word>
 
 <Word Stem="дос" Weight="0.5">
+<Allolog Form="досье"/>
 <Allolog Form="дос"/>
 <Allolog Form="доса"/>
 <Allolog Form="досы"/>
 <Allolog Form="досу"/>
-<Allolog Form="досье"/>
 <Allolog Form="досить"/>
 </Word>
 
@@ -5269,9 +5712,9 @@
 <Allolog Form="зап"/>
 <Allolog Form="запе"/>
 <Allolog Form="запо"/>
+<Allolog Form="запил"/>
 <Allolog Form="запев"/>
 <Allolog Form="запой"/>
-<Allolog Form="запил"/>
 <Allolog Form="запив"/>
 <Allolog Form="запом"/>
 <Allolog Form="запое"/>
@@ -5285,14 +5728,12 @@
 <Allolog Form="игра"/>
 <Allolog Form="играми"/>
 <Allolog Form="игрой"/>
-<Allolog Form="игр"/>
 <Allolog Form="играх"/>
+<Allolog Form="игр"/>
 <Allolog Form="играм"/>
+<Allolog Form="игрив"/>
+<Allolog Form="игрою"/>
 <Allolog Form="игро"/>
-</Word>
-
-<Word Stem="скрипт" Weight="0.5">
-<Allolog Form="скрипт"/>
 </Word>
 
 <Word Stem="мультимедиа-технолог" Weight="0.5">
@@ -5478,6 +5919,7 @@
 <Allolog Form="звало"/>
 <Allolog Form="званное"/>
 <Allolog Form="звал"/>
+<Allolog Form="звалось"/>
 <Allolog Form="звано"/>
 <Allolog Form="званы"/>
 <Allolog Form="званной"/>
@@ -5487,6 +5929,7 @@
 <Allolog Form="звавшие"/>
 <Allolog Form="званный"/>
 <Allolog Form="званным"/>
+<Allolog Form="звалась"/>
 <Allolog Form="звавшим"/>
 </Word>
 
@@ -5565,11 +6008,15 @@
 <Allolog Form="лах"/>
 <Allolog Form="лены"/>
 <Allolog Form="лена"/>
+<Allolog Form="лев"/>
+<Allolog Form="лила"/>
+<Allolog Form="лио"/>
+<Allolog Form="лая"/>
+<Allolog Form="лося"/>
 <Allolog Form="лим"/>
 <Allolog Form="лого"/>
 <Allolog Form="лые"/>
 <Allolog Form="лое"/>
-<Allolog Form="лося"/>
 <Allolog Form="люся"/>
 <Allolog Form="лой"/>
 <Allolog Form="лым"/>
@@ -5580,33 +6027,30 @@
 <Allolog Form="лий"/>
 <Allolog Form="лии"/>
 <Allolog Form="лыми"/>
-<Allolog Form="лев"/>
-<Allolog Form="лая"/>
 <Allolog Form="ляя"/>
-<Allolog Form="лила"/>
 <Allolog Form="лившись"/>
 <Allolog Form="лилась"/>
-<Allolog Form="лиа"/>
-<Allolog Form="лио"/>
+<Allolog Form="леся"/>
 <Allolog Form="лся"/>
+<Allolog Form="лье"/>
+<Allolog Form="лейте"/>
+<Allolog Form="лили"/>
+<Allolog Form="лиа"/>
 <Allolog Form="льу"/>
 <Allolog Form="лил"/>
 <Allolog Form="лию"/>
-<Allolog Form="лейте"/>
 <Allolog Form="лиями"/>
 <Allolog Form="лею"/>
 <Allolog Form="лейтесь"/>
 <Allolog Form="ливших"/>
 <Allolog Form="люсь"/>
-<Allolog Form="лили"/>
+<Allolog Form="лего"/>
 <Allolog Form="лиям"/>
 <Allolog Form="лией"/>
 <Allolog Form="лиев"/>
 <Allolog Form="литесь"/>
 <Allolog Form="луйте"/>
-<Allolog Form="лего"/>
 <Allolog Form="лесь"/>
-<Allolog Form="леся"/>
 </Word>
 
 <Word Stem="143" Weight="0.5">
@@ -5680,12 +6124,16 @@
 <Allolog Form="ким"/>
 <Allolog Form="кий"/>
 <Allolog Form="кие"/>
+<Allolog Form="кей"/>
 <Allolog Form="куйте"/>
 <Allolog Form="киев"/>
 <Allolog Form="кующую"/>
 <Allolog Form="каясь"/>
 <Allolog Form="кою"/>
-<Allolog Form="кей"/>
+<Allolog Form="кила"/>
+<Allolog Form="кил"/>
+<Allolog Form="кью"/>
+<Allolog Form="кена"/>
 <Allolog Form="кием"/>
 <Allolog Form="кии"/>
 <Allolog Form="кы"/>
@@ -5693,15 +6141,12 @@
 <Allolog Form="кю"/>
 <Allolog Form="кося"/>
 <Allolog Form="кись"/>
-<Allolog Form="кила"/>
 <Allolog Form="куй"/>
 <Allolog Form="киа"/>
-<Allolog Form="кена"/>
 <Allolog Form="кующее"/>
 <Allolog Form="кия"/>
 <Allolog Form="кейте"/>
-<Allolog Form="кил"/>
-<Allolog Form="кью"/>
+<Allolog Form="куся"/>
 <Allolog Form="кио"/>
 <Allolog Form="кыли"/>
 <Allolog Form="кися"/>
@@ -5747,9 +6192,9 @@
 <Allolog Form="лено"/>
 <Allolog Form="ленюсь"/>
 <Allolog Form="лениться"/>
+<Allolog Form="ленью"/>
 <Allolog Form="ленными"/>
 <Allolog Form="леной"/>
-<Allolog Form="ленью"/>
 <Allolog Form="леными"/>
 <Allolog Form="лену"/>
 <Allolog Form="леный"/>
@@ -5758,11 +6203,14 @@
 <Allolog Form="лениями"/>
 <Allolog Form="леность"/>
 <Allolog Form="леностью"/>
+<Allolog Form="ленив"/>
+<Allolog Form="леня"/>
+<Allolog Form="ленами"/>
+<Allolog Form="лености"/>
+<Allolog Form="ленились"/>
 <Allolog Form="леное"/>
 <Allolog Form="лениях"/>
-<Allolog Form="лености"/>
 <Allolog Form="леностию"/>
-<Allolog Form="леня"/>
 <Allolog Form="лене"/>
 <Allolog Form="леней"/>
 <Allolog Form="ленн"/>
@@ -5770,9 +6218,8 @@
 <Allolog Form="леними"/>
 <Allolog Form="ленни"/>
 <Allolog Form="леню"/>
-<Allolog Form="ленив"/>
 <Allolog Form="ленись"/>
-<Allolog Form="ленились"/>
+<Allolog Form="ленилась"/>
 <Allolog Form="ленусь"/>
 </Word>
 
@@ -5790,6 +6237,7 @@
 <Allolog Form="денность"/>
 <Allolog Form="дении"/>
 <Allolog Form="денной"/>
+<Allolog Form="дену"/>
 <Allolog Form="денным"/>
 <Allolog Form="денном"/>
 <Allolog Form="денная"/>
@@ -5798,6 +6246,7 @@
 <Allolog Form="ден"/>
 <Allolog Form="дени"/>
 <Allolog Form="дено"/>
+<Allolog Form="денемся"/>
 <Allolog Form="денности"/>
 <Allolog Form="денными"/>
 <Allolog Form="денное"/>
@@ -5810,6 +6259,8 @@
 <Allolog Form="дениям"/>
 <Allolog Form="денно"/>
 <Allolog Form="денах"/>
+<Allolog Form="деной"/>
+<Allolog Form="дене"/>
 <Allolog Form="деним"/>
 <Allolog Form="денусь"/>
 <Allolog Form="денев"/>
@@ -5909,19 +6360,17 @@
 
 <Word Stem="ад" Weight="0.5">
 <Allolog Form="ад"/>
-<Allolog Form="адам"/>
+<Allolog Form="адом"/>
 <Allolog Form="ада"/>
-<Allolog Form="аде"/>
 <Allolog Form="аду"/>
+<Allolog Form="адам"/>
+<Allolog Form="аде"/>
 <Allolog Form="ади"/>
+<Allolog Form="адами"/>
 <Allolog Form="адиа"/>
 <Allolog Form="адо"/>
-<Allolog Form="адом"/>
+<Allolog Form="адью"/>
 <Allolog Form="адье"/>
-</Word>
-
-<Word Stem="адаптер" Weight="0.5">
-<Allolog Form="адаптер"/>
 </Word>
 
 <Word Stem="альфа-кана" Weight="0.5">
@@ -5945,8 +6394,8 @@
 </Word>
 
 <Word Stem="арх" Weight="0.5">
-<Allolog Form="архи"/>
 <Allolog Form="архив"/>
+<Allolog Form="архи"/>
 <Allolog Form="арха"/>
 <Allolog Form="арх"/>
 <Allolog Form="архим"/>
@@ -5977,10 +6426,6 @@
 <Allolog Form="аудиода"/>
 </Word>
 
-<Word Stem="аутентификац" Weight="0.5">
-<Allolog Form="аутентификац"/>
-</Word>
-
 <Word Stem="б-дерев" Weight="0.5">
 <Allolog Form="б-дерев"/>
 </Word>
@@ -5995,17 +6440,14 @@
 
 <Word Stem="бод" Weight="0.5">
 <Allolog Form="боду"/>
+<Allolog Form="боде"/>
 <Allolog Form="бод"/>
 <Allolog Form="бодиться"/>
 <Allolog Form="боди"/>
 <Allolog Form="бодить"/>
 <Allolog Form="бода"/>
 <Allolog Form="боды"/>
-<Allolog Form="боде"/>
-</Word>
-
-<Word Stem="брандмауэр" Weight="0.5">
-<Allolog Form="брандмауэр"/>
+<Allolog Form="бодена"/>
 </Word>
 
 <Word Stem="буквенно-цифров" Weight="0.5">
@@ -6022,6 +6464,7 @@
 <Allolog Form="було"/>
 <Allolog Form="буль"/>
 <Allolog Form="були"/>
+<Allolog Form="булы"/>
 </Word>
 
 <Word Stem="буллет" Weight="0.5">
@@ -6044,20 +6487,12 @@
 <Allolog Form="веб-сайт"/>
 </Word>
 
-<Word Stem="видеоадаптер" Weight="0.5">
-<Allolog Form="видеоадаптер"/>
-</Word>
-
 <Word Stem="видеобуфер" Weight="0.5">
 <Allolog Form="видеобуфер"/>
 </Word>
 
 <Word Stem="видеопамя" Weight="0.5">
 <Allolog Form="видеопамя"/>
-</Word>
-
-<Word Stem="визуализац" Weight="0.5">
-<Allolog Form="визуализац"/>
 </Word>
 
 <Word Stem="встоен" Weight="0.5">
@@ -6070,10 +6505,6 @@
 <Allolog Form="выз"/>
 <Allolog Form="вызь"/>
 <Allolog Form="вызо"/>
-</Word>
-
-<Word Stem="геостационарн" Weight="0.5">
-<Allolog Form="геостационарн"/>
 </Word>
 
 <Word Stem="гигафлопс" Weight="0.5">
@@ -6131,26 +6562,29 @@
 <Allolog Form="давшая"/>
 <Allolog Form="дающее"/>
 <Allolog Form="дающим"/>
-<Allolog Form="даю"/>
-<Allolog Form="даешь"/>
 <Allolog Form="дана"/>
-<Allolog Form="дающими"/>
-<Allolog Form="дао"/>
+<Allolog Form="давший"/>
+<Allolog Form="дающую"/>
 <Allolog Form="давшего"/>
+<Allolog Form="даю"/>
+<Allolog Form="дао"/>
+<Allolog Form="даешь"/>
+<Allolog Form="дающими"/>
 <Allolog Form="давшей"/>
 <Allolog Form="дающимся"/>
 <Allolog Form="дающейся"/>
 <Allolog Form="давшим"/>
-<Allolog Form="давший"/>
 <Allolog Form="дающихся"/>
 <Allolog Form="даешься"/>
 <Allolog Form="даться"/>
 <Allolog Form="далось"/>
 <Allolog Form="далась"/>
 <Allolog Form="дающееся"/>
-<Allolog Form="дау"/>
-<Allolog Form="дающую"/>
+<Allolog Form="даемые"/>
+<Allolog Form="дающегося"/>
+<Allolog Form="дались"/>
 <Allolog Form="дающем"/>
+<Allolog Form="дау"/>
 <Allolog Form="дающийся"/>
 <Allolog Form="дался"/>
 <Allolog Form="дайтесь"/>
@@ -6159,8 +6593,8 @@
 <Allolog Form="давшую"/>
 <Allolog Form="даемся"/>
 <Allolog Form="дающиеся"/>
-<Allolog Form="дались"/>
 <Allolog Form="даюсь"/>
+<Allolog Form="давшем"/>
 <Allolog Form="даа"/>
 <Allolog Form="даим"/>
 </Word>
@@ -6175,10 +6609,6 @@
 
 <Word Stem="дефрагментац" Weight="0.5">
 <Allolog Form="дефрагментац"/>
-</Word>
-
-<Word Stem="дешифровк" Weight="0.5">
-<Allolog Form="дешифровк"/>
 </Word>
 
 <Word Stem="джойстик" Weight="0.5">
@@ -6201,10 +6631,6 @@
 <Allolog Form="запрос-ответ"/>
 </Word>
 
-<Word Stem="идентификатор" Weight="0.5">
-<Allolog Form="идентификатор"/>
-</Word>
-
 <Word Stem="инвертирован" Weight="0.5">
 <Allolog Form="инвертирован"/>
 </Word>
@@ -6213,24 +6639,12 @@
 <Allolog Form="инициализац"/>
 </Word>
 
-<Word Stem="интерфейс" Weight="0.5">
-<Allolog Form="интерфейс"/>
-</Word>
-
-<Word Stem="интранет" Weight="0.5">
-<Allolog Form="интранет"/>
-</Word>
-
-<Word Stem="кадрирован" Weight="0.5">
-<Allolog Form="кадрирован"/>
-</Word>
-
 <Word Stem="кар" Weight="0.5">
 <Allolog Form="кар"/>
 <Allolog Form="кара"/>
 <Allolog Form="кары"/>
-<Allolog Form="кари"/>
 <Allolog Form="карася"/>
+<Allolog Form="кари"/>
 <Allolog Form="карась"/>
 <Allolog Form="карам"/>
 <Allolog Form="каре"/>
@@ -6246,10 +6660,10 @@
 <Allolog Form="карий"/>
 <Allolog Form="карье"/>
 <Allolog Form="карем"/>
+<Allolog Form="карих"/>
+<Allolog Form="карими"/>
 <Allolog Form="карим"/>
 <Allolog Form="карами"/>
-<Allolog Form="карими"/>
-<Allolog Form="карих"/>
 </Word>
 
 <Word Stem="кернинг" Weight="0.5">
@@ -6278,10 +6692,6 @@
 <Allolog Form="кодировщик"/>
 </Word>
 
-<Word Stem="колонтитул" Weight="0.5">
-<Allolog Form="колонтитул"/>
-</Word>
-
 <Word Stem="компакт-диск" Weight="0.5">
 <Allolog Form="компакт-диск"/>
 </Word>
@@ -6290,16 +6700,8 @@
 <Allolog Form="компаратор"/>
 </Word>
 
-<Word Stem="компилирова" Weight="0.5">
-<Allolog Form="компилирова"/>
-</Word>
-
 <Word Stem="литера" Weight="0.5">
 <Allolog Form="литера"/>
-</Word>
-
-<Word Stem="магнитооптическ" Weight="0.5">
-<Allolog Form="магнитооптическ"/>
 </Word>
 
 <Word Stem="макроассемблер" Weight="0.5">
@@ -6354,10 +6756,6 @@
 <Allolog Form="мастер-диск"/>
 </Word>
 
-<Word Stem="машиночита" Weight="0.5">
-<Allolog Form="машиночита"/>
-</Word>
-
 <Word Stem="мег" Weight="0.5">
 <Allolog Form="мега"/>
 <Allolog Form="мег"/>
@@ -6365,10 +6763,6 @@
 
 <Word Stem="мегацикл" Weight="0.5">
 <Allolog Form="мегацикл"/>
-</Word>
-
-<Word Stem="межсетев" Weight="0.5">
-<Allolog Form="межсетев"/>
 </Word>
 
 <Word Stem="мен" Weight="0.5">
@@ -6386,6 +6780,7 @@
 <Allolog Form="менные"/>
 <Allolog Form="меняя"/>
 <Allolog Form="мен"/>
+<Allolog Form="меняясь"/>
 <Allolog Form="менить"/>
 <Allolog Form="меню"/>
 <Allolog Form="менное"/>
@@ -6400,7 +6795,6 @@
 <Allolog Form="менем"/>
 <Allolog Form="менная"/>
 <Allolog Form="мение"/>
-<Allolog Form="меняясь"/>
 <Allolog Form="менной"/>
 <Allolog Form="менными"/>
 <Allolog Form="менив"/>
@@ -6409,9 +6803,9 @@
 <Allolog Form="меним"/>
 <Allolog Form="менне"/>
 <Allolog Form="менил"/>
+<Allolog Form="меном"/>
 <Allolog Form="менную"/>
 <Allolog Form="менам"/>
-<Allolog Form="меном"/>
 </Word>
 
 <Word Stem="метада" Weight="0.5">
@@ -6488,16 +6882,18 @@
 <Allolog Form="нал"/>
 <Allolog Form="най"/>
 <Allolog Form="наете"/>
+<Allolog Form="нанося"/>
+<Allolog Form="нана"/>
 <Allolog Form="нается"/>
 <Allolog Form="нало"/>
 <Allolog Form="нан"/>
-<Allolog Form="нанося"/>
 <Allolog Form="нанно"/>
 <Allolog Form="нау"/>
 <Allolog Form="налась"/>
 <Allolog Form="нанным"/>
 <Allolog Form="наем"/>
 <Allolog Form="навшемся"/>
+<Allolog Form="нав"/>
 <Allolog Form="нала"/>
 <Allolog Form="нающим"/>
 <Allolog Form="наются"/>
@@ -6505,7 +6901,6 @@
 <Allolog Form="нао"/>
 <Allolog Form="найте"/>
 <Allolog Form="нано"/>
-<Allolog Form="нав"/>
 <Allolog Form="наив"/>
 <Allolog Form="наны"/>
 <Allolog Form="налось"/>
@@ -6588,16 +6983,13 @@
 <Allolog Form="пика"/>
 <Allolog Form="пиков"/>
 <Allolog Form="пики"/>
-<Allolog Form="пикой"/>
+<Allolog Form="пику"/>
 <Allolog Form="пиком"/>
 <Allolog Form="пико"/>
-<Allolog Form="пику"/>
+<Allolog Form="пиках"/>
+<Allolog Form="пикой"/>
 <Allolog Form="пиками"/>
 <Allolog Form="пикам"/>
-</Word>
-
-<Word Stem="пиксел" Weight="0.5">
-<Allolog Form="пиксел"/>
 </Word>
 
 <Word Stem="пл/1" Weight="0.5">
@@ -6606,10 +6998,6 @@
 
 <Word Stem="плоттер" Weight="0.5">
 <Allolog Form="плоттер"/>
-</Word>
-
-<Word Stem="подкаталог" Weight="0.5">
-<Allolog Form="подкаталог"/>
 </Word>
 
 <Word Stem="аис" Weight="0.5">
@@ -6644,20 +7032,8 @@
 <Allolog Form="видеозахват"/>
 </Word>
 
-<Word Stem="видеоконференц" Weight="0.5">
-<Allolog Form="видеоконференц"/>
-</Word>
-
-<Word Stem="видеоконференцсвяз" Weight="0.5">
-<Allolog Form="видеоконференцсвяз"/>
-</Word>
-
 <Word Stem="видеотехнолог" Weight="0.5">
 <Allolog Form="видеотехнолог"/>
-</Word>
-
-<Word Stem="визуализатор" Weight="0.5">
-<Allolog Form="визуализатор"/>
 </Word>
 
 <Word Stem="вирус-компаньон" Weight="0.5">
@@ -6698,10 +7074,6 @@
 
 <Word Stem="демоверс" Weight="0.5">
 <Allolog Form="демоверс"/>
-</Word>
-
-<Word Stem="дешифрован" Weight="0.5">
-<Allolog Form="дешифрован"/>
 </Word>
 
 <Word Stem="дизассемблирован" Weight="0.5">
@@ -6760,16 +7132,8 @@
 <Allolog Form="криптоаналитик"/>
 </Word>
 
-<Word Stem="криптолог" Weight="0.5">
-<Allolog Form="криптолог"/>
-</Word>
-
 <Word Stem="криптопериод" Weight="0.5">
 <Allolog Form="криптопериод"/>
-</Word>
-
-<Word Stem="криптосистем" Weight="0.5">
-<Allolog Form="криптосистем"/>
 </Word>
 
 <Word Stem="криптостойк" Weight="0.5">
@@ -6786,10 +7150,6 @@
 
 <Word Stem="лагенар" Weight="0.5">
 <Allolog Form="лагенар"/>
-</Word>
-
-<Word Stem="лексем" Weight="0.5">
-<Allolog Form="лексем"/>
 </Word>
 
 <Word Stem="лог-файл" Weight="0.5">
@@ -6838,10 +7198,10 @@
 <Allolog Form="мышь"/>
 <Allolog Form="мышах"/>
 <Allolog Form="мышью"/>
-<Allolog Form="мыш"/>
 <Allolog Form="мышами"/>
-<Allolog Form="мышья"/>
 <Allolog Form="мышам"/>
+<Allolog Form="мыш"/>
+<Allolog Form="мышья"/>
 <Allolog Form="мыша"/>
 </Word>
 
@@ -6864,13 +7224,14 @@
 <Allolog Form="осями"/>
 <Allolog Form="осы"/>
 <Allolog Form="оса"/>
+<Allolog Form="осях"/>
 <Allolog Form="осем"/>
 <Allolog Form="осах"/>
 <Allolog Form="осе"/>
-<Allolog Form="осях"/>
 <Allolog Form="осить"/>
 <Allolog Form="осим"/>
 <Allolog Form="осам"/>
+<Allolog Form="осия"/>
 </Word>
 
 <Word Stem="онлайн-брокер" Weight="0.5">
@@ -6880,8 +7241,8 @@
 <Word Stem="опц" Weight="0.5">
 <Allolog Form="опциях"/>
 <Allolog Form="опциями"/>
-<Allolog Form="опцию"/>
 <Allolog Form="опции"/>
+<Allolog Form="опцию"/>
 </Word>
 
 <Word Stem="отладчик" Weight="0.5">
@@ -6979,10 +7340,6 @@
 <Allolog Form="топологизац"/>
 </Word>
 
-<Word Stem="транзакц" Weight="0.5">
-<Allolog Form="транзакц"/>
-</Word>
-
 <Word Stem="транспьютер" Weight="0.5">
 <Allolog Form="транспьютер"/>
 </Word>
@@ -7044,10 +7401,13 @@
 <Allolog Form="чатое"/>
 <Allolog Form="чатый"/>
 <Allolog Form="чатого"/>
+<Allolog Form="чатам"/>
 <Allolog Form="чат"/>
 <Allolog Form="чатии"/>
 <Allolog Form="чатые"/>
 <Allolog Form="чате"/>
+<Allolog Form="чаты"/>
+<Allolog Form="чата"/>
 <Allolog Form="чатах"/>
 </Word>
 
@@ -7058,6 +7418,7 @@
 <Word Stem="эс" Weight="0.5">
 <Allolog Form="эс"/>
 <Allolog Form="эсье"/>
+<Allolog Form="эсов"/>
 <Allolog Form="эсо"/>
 </Word>
 
@@ -7099,10 +7460,6 @@
 
 <Word Stem="animation" Weight="0.5">
 <Allolog Form="animation"/>
-</Word>
-
-<Word Stem="array" Weight="0.5">
-<Allolog Form="array"/>
 </Word>
 
 <Word Stem="assembler" Weight="0.5">
@@ -7269,10 +7626,6 @@
 <Allolog Form="digitize"/>
 </Word>
 
-<Word Stem="directory" Weight="0.5">
-<Allolog Form="directory"/>
-</Word>
-
 <Word Stem="download" Weight="0.5">
 <Allolog Form="download"/>
 </Word>
@@ -7357,10 +7710,6 @@
 <Allolog Form="hpfs"/>
 </Word>
 
-<Word Stem="hardware" Weight="0.5">
-<Allolog Form="hardware"/>
-</Word>
-
 <Word Stem="hash-function" Weight="0.5">
 <Allolog Form="hash-function"/>
 </Word>
@@ -7403,10 +7752,6 @@
 
 <Word Stem="instance" Weight="0.5">
 <Allolog Form="instance"/>
-</Word>
-
-<Word Stem="interface" Weight="0.5">
-<Allolog Form="interface"/>
 </Word>
 
 <Word Stem="interoperability" Weight="0.5">
@@ -7584,10 +7929,6 @@
 
 <Word Stem="programmer" Weight="0.5">
 <Allolog Form="programmer"/>
-</Word>
-
-<Word Stem="protocol" Weight="0.5">
-<Allolog Form="protocol"/>
 </Word>
 
 <Word Stem="pseudocode" Weight="0.5">
@@ -7828,10 +8169,6 @@
 <Allolog Form="sql-92"/>
 </Word>
 
-<Word Stem="dbase" Weight="0.5">
-<Allolog Form="dbase"/>
-</Word>
-
 <Word Stem="aspectc++" Weight="0.5">
 <Allolog Form="aspectc++"/>
 </Word>
@@ -7911,34 +8248,36 @@
 <Allolog Form="сая"/>
 <Allolog Form="сите"/>
 <Allolog Form="сим"/>
-<Allolog Form="сах"/>
-<Allolog Form="сие"/>
-<Allolog Form="сою"/>
 <Allolog Form="сии"/>
-<Allolog Form="сой"/>
+<Allolog Form="сена"/>
+<Allolog Form="сям"/>
 <Allolog Form="сое"/>
+<Allolog Form="сиена"/>
+<Allolog Form="сие"/>
+<Allolog Form="сах"/>
+<Allolog Form="сою"/>
+<Allolog Form="сой"/>
 <Allolog Form="сую"/>
 <Allolog Form="сью"/>
 <Allolog Form="сю"/>
-<Allolog Form="сена"/>
 <Allolog Form="сившим"/>
 <Allolog Form="сях"/>
 <Allolog Form="сивший"/>
 <Allolog Form="сился"/>
 <Allolog Form="сены"/>
+<Allolog Form="сиии"/>
+<Allolog Form="сся"/>
+<Allolog Form="сого"/>
 <Allolog Form="сьи"/>
 <Allolog Form="сиу"/>
 <Allolog Form="сий"/>
 <Allolog Form="сили"/>
 <Allolog Form="сиа"/>
-<Allolog Form="сям"/>
 <Allolog Form="суйте"/>
-<Allolog Form="сого"/>
 <Allolog Form="ситься"/>
 <Allolog Form="сиях"/>
 <Allolog Form="сый"/>
 <Allolog Form="сейшена"/>
-<Allolog Form="сся"/>
 <Allolog Form="сующими"/>
 <Allolog Form="сими"/>
 <Allolog Form="сиями"/>
@@ -7948,6 +8287,8 @@
 <Allolog Form="сующиеся"/>
 <Allolog Form="саясь"/>
 <Allolog Form="сями"/>
+<Allolog Form="сующих"/>
+<Allolog Form="сияя"/>
 <Allolog Form="суй"/>
 <Allolog Form="сяя"/>
 </Word>
@@ -8013,10 +8354,6 @@
 
 <Word Stem="mc#" Weight="0.5">
 <Allolog Form="mc#"/>
-</Word>
-
-<Word Stem="оберон" Weight="0.05">
-<Allolog Form="оберон"/>
 </Word>
 
 <Word Stem="objective-c" Weight="0.5">
@@ -8556,13 +8893,74 @@
 <Allolog Form="мрнп"/>
 <Allolog Form="дсб"/>
 <Allolog Form="хн"/>
-<Allolog Form="свч"/>
-<Allolog Form="ия"/>
+<Allolog Form="рмр"/>
+<Allolog Form="рм"/>
+<Allolog Form="ср"/>
+<Allolog Form="пмп"/>
+<Allolog Form="вр"/>
+<Allolog Form="ббб"/>
 <Allolog Form="ое"/>
-<Allolog Form="ье"/>
-<Allolog Form="ее"/>
-<Allolog Form="сл"/>
+<Allolog Form="вм"/>
+<Allolog Form="гч"/>
+<Allolog Form="сг"/>
+<Allolog Form="мб"/>
+<Allolog Form="ио"/>
+<Allolog Form="мкк"/>
+<Allolog Form="кпс"/>
+<Allolog Form="зв"/>
+<Allolog Form="мпс"/>
+<Allolog Form="мсш"/>
+<Allolog Form="сср"/>
+<Allolog Form="тч"/>
+<Allolog Form="сгс"/>
+<Allolog Form="гс"/>
+<Allolog Form="вст"/>
+<Allolog Form="дй"/>
+<Allolog Form="млс"/>
+<Allolog Form="кпк"/>
 <Allolog Form="св"/>
+<Allolog Form="лрд"/>
+<Allolog Form="цз"/>
+<Allolog Form="их"/>
+<Allolog Form="мссс"/>
+<Allolog Form="фбр"/>
+<Allolog Form="дшр"/>
+<Allolog Form="ввс"/>
+<Allolog Form="ью"/>
+<Allolog Form="вмс"/>
+<Allolog Form="пвзц"/>
+<Allolog Form="вц"/>
+<Allolog Form="нтр"/>
+<Allolog Form="вл"/>
+<Allolog Form="спб"/>
+<Allolog Form="стс"/>
+<Allolog Form="трв"/>
+<Allolog Form="тдрсс"/>
+<Allolog Form="пн"/>
+<Allolog Form="жрд"/>
+<Allolog Form="ов"/>
+<Allolog Form="зг"/>
+<Allolog Form="ее"/>
+<Allolog Form="зб"/>
+<Allolog Form="мз"/>
+<Allolog Form="рк"/>
+<Allolog Form="рст"/>
+<Allolog Form="впк"/>
+<Allolog Form="рсдб"/>
+<Allolog Form="рхд"/>
+<Allolog Form="мзз"/>
+<Allolog Form="мпк"/>
+<Allolog Form="зс"/>
+<Allolog Form="мпг"/>
+<Allolog Form="свч"/>
+<Allolog Form="фм"/>
+<Allolog Form="ишь"/>
+<Allolog Form="срт"/>
+<Allolog Form="ах"/>
+<Allolog Form="бсср"/>
+<Allolog Form="ия"/>
+<Allolog Form="ье"/>
+<Allolog Form="сл"/>
 <Allolog Form="пл"/>
 <Allolog Form="нть"/>
 <Allolog Form="стл"/>
@@ -8576,18 +8974,14 @@
 <Allolog Form="ий"/>
 <Allolog Form="мн"/>
 <Allolog Form="иили"/>
-<Allolog Form="ов"/>
 <Allolog Form="шл"/>
 <Allolog Form="жд"/>
 <Allolog Form="бърщь"/>
 <Allolog Form="гм"/>
 <Allolog Form="гн"/>
-<Allolog Form="зв"/>
 <Allolog Form="жж"/>
 <Allolog Form="пч"/>
 <Allolog Form="щ"/>
-<Allolog Form="ср"/>
-<Allolog Form="нтр"/>
 <Allolog Form="нтп"/>
 <Allolog Form="ть"/>
 <Allolog Form="мч"/>
@@ -8601,29 +8995,22 @@
 <Allolog Form="ым"/>
 <Allolog Form="всй"/>
 <Allolog Form="стк"/>
-<Allolog Form="мб"/>
 <Allolog Form="зл"/>
 <Allolog Form="кхм"/>
 <Allolog Form="швррм"/>
 <Allolog Form="въ"/>
 <Allolog Form="съ"/>
-<Allolog Form="спб"/>
 <Allolog Form="ств"/>
-<Allolog Form="ах"/>
 <Allolog Form="рсдрп"/>
 <Allolog Form="кпсс"/>
-<Allolog Form="вл"/>
 <Allolog Form="мф"/>
-<Allolog Form="их"/>
 <Allolog Form="зр"/>
 <Allolog Form="ей"/>
-<Allolog Form="ишь"/>
 <Allolog Form="сб"/>
 <Allolog Form="пг"/>
 <Allolog Form="хтх"/>
 <Allolog Form="лн"/>
 <Allolog Form="мхк"/>
-<Allolog Form="ио"/>
 <Allolog Form="шлм"/>
 <Allolog Form="тшмгм"/>
 <Allolog Form="кцльтцр"/>
@@ -8703,7 +9090,6 @@
 <Allolog Form="стб"/>
 <Allolog Form="стлб"/>
 <Allolog Form="рв"/>
-<Allolog Form="рм"/>
 <Allolog Form="хв"/>
 <Allolog Form="хр"/>
 <Allolog Form="хгф"/>
@@ -8716,9 +9102,7 @@
 <Allolog Form="мвф"/>
 <Allolog Form="нфл"/>
 <Allolog Form="ыла"/>
-<Allolog Form="срт"/>
 <Allolog Form="дм"/>
-<Allolog Form="сгс"/>
 <Allolog Form="дз"/>
 <Allolog Form="дк"/>
 <Allolog Form="скчс"/>
@@ -8735,7 +9119,6 @@
 <Allolog Form="зддддддддддддддддбдддддддддбддддддддбддддддддбддддддддбдддддддддддд"/>
 <Allolog Form="ьс"/>
 <Allolog Form="гкчп"/>
-<Allolog Form="впк"/>
 <Allolog Form="сф"/>
 <Allolog Form="бмп"/>
 <Allolog Form="кпрф"/>
@@ -8747,34 +9130,59 @@
 <Allolog Form="ъ"/>
 <Allolog Form="ндс"/>
 <Allolog Form="цб"/>
-<Allolog Form="мз"/>
 <Allolog Form="нд"/>
 <Allolog Form="чнп"/>
+<Allolog Form="квн"/>
+<Allolog Form="нн"/>
+<Allolog Form="ася"/>
+<Allolog Form="твд"/>
+<Allolog Form="бр"/>
+<Allolog Form="йд"/>
+<Allolog Form="зд"/>
+<Allolog Form="фрс"/>
+<Allolog Form="ыми"/>
+<Allolog Form="бл"/>
+<Allolog Form="ммм"/>
+<Allolog Form="чп"/>
+<Allolog Form="гквт"/>
+<Allolog Form="вшк"/>
+<Allolog Form="шь"/>
+<Allolog Form="пь"/>
+<Allolog Form="чь"/>
+<Allolog Form="сж"/>
+<Allolog Form="рш"/>
+<Allolog Form="лк"/>
+<Allolog Form="лж"/>
+<Allolog Form="взд"/>
+<Allolog Form="спл"/>
+<Allolog Form="сд"/>
+<Allolog Form="ртв"/>
+<Allolog Form="вн"/>
+<Allolog Form="мь"/>
+<Allolog Form="нквд"/>
+<Allolog Form="вбс"/>
+<Allolog Form="лвс"/>
+<Allolog Form="иов"/>
 <Allolog Form="ился"/>
 <Allolog Form="пнр"/>
 <Allolog Form="чсср"/>
-<Allolog Form="сг"/>
 <Allolog Form="кс"/>
-<Allolog Form="бл"/>
 <Allolog Form="ося"/>
 <Allolog Form="вп"/>
 <Allolog Form="илась"/>
 <Allolog Form="иена"/>
 <Allolog Form="мгс"/>
-<Allolog Form="вн"/>
 <Allolog Form="нсн"/>
 <Allolog Form="дфф"/>
 <Allolog Form="дбсп"/>
 <Allolog Form="лвд"/>
 <Allolog Form="квг"/>
 <Allolog Form="тк"/>
-<Allolog Form="вст"/>
 <Allolog Form="рпк"/>
 <Allolog Form="змл"/>
 <Allolog Form="жнк"/>
 <Allolog Form="жв"/>
 <Allolog Form="рь"/>
-<Allolog Form="вр"/>
 <Allolog Form="ск"/>
 <Allolog Form="дзн"/>
 <Allolog Form="дмн"/>
@@ -8784,8 +9192,6 @@
 <Allolog Form="мд"/>
 <Allolog Form="пмфс"/>
 <Allolog Form="жкт"/>
-<Allolog Form="сд"/>
-<Allolog Form="вмс"/>
 <Allolog Form="ддтк"/>
 <Allolog Form="ддткк"/>
 <Allolog Form="схч"/>
@@ -8795,10 +9201,8 @@
 <Allolog Form="пдк"/>
 <Allolog Form="бск"/>
 <Allolog Form="ппс"/>
-<Allolog Form="гс"/>
 <Allolog Form="дпн"/>
 <Allolog Form="тсх"/>
-<Allolog Form="рк"/>
 <Allolog Form="дфк"/>
 <Allolog Form="хтс"/>
 <Allolog Form="мкл"/>
@@ -8812,14 +9216,11 @@
 <Allolog Form="дцд"/>
 <Allolog Form="дп"/>
 <Allolog Form="кт"/>
-<Allolog Form="пн"/>
 <Allolog Form="глб"/>
 <Allolog Form="рг"/>
 <Allolog Form="рл"/>
-<Allolog Form="зг"/>
 <Allolog Form="нш"/>
 <Allolog Form="пт"/>
-<Allolog Form="зд"/>
 <Allolog Form="ою"/>
 <Allolog Form="мх"/>
 <Allolog Form="мвс"/>
@@ -8827,13 +9228,11 @@
 <Allolog Form="кгсг"/>
 <Allolog Form="кх"/>
 <Allolog Form="рх"/>
-<Allolog Form="вм"/>
 <Allolog Form="зт"/>
 <Allolog Form="квм"/>
 <Allolog Form="кср"/>
 <Allolog Form="тдм"/>
 <Allolog Form="чсл"/>
-<Allolog Form="чп"/>
 <Allolog Form="рп"/>
 <Allolog Form="ртф"/>
 <Allolog Form="тф"/>
@@ -8846,14 +9245,12 @@
 <Allolog Form="тднф"/>
 <Allolog Form="пнф"/>
 <Allolog Form="рч"/>
-<Allolog Form="шь"/>
 <Allolog Form="дь"/>
 <Allolog Form="взл"/>
 <Allolog Form="бь"/>
 <Allolog Form="бпф"/>
 <Allolog Form="кжжз"/>
 <Allolog Form="ккжж"/>
-<Allolog Form="бр"/>
 <Allolog Form="йн"/>
 <Allolog Form="сь"/>
 <Allolog Form="дсх"/>
@@ -8909,7 +9306,6 @@
 <Allolog Form="хьцьц"/>
 <Allolog Form="мхл"/>
 <Allolog Form="схл"/>
-<Allolog Form="вц"/>
 <Allolog Form="щм"/>
 <Allolog Form="ллг"/>
 <Allolog Form="лдг"/>
@@ -8930,11 +9326,9 @@
 <Allolog Form="хфв"/>
 <Allolog Form="цл"/>
 <Allolog Form="хмл"/>
-<Allolog Form="лк"/>
 <Allolog Form="хд"/>
 <Allolog Form="кч"/>
 <Allolog Form="зхз"/>
-<Allolog Form="лж"/>
 <Allolog Form="лч"/>
 <Allolog Form="тг"/>
 <Allolog Form="вд"/>
@@ -8986,7 +9380,6 @@
 <Allolog Form="шц"/>
 <Allolog Form="нтдс"/>
 <Allolog Form="мпх"/>
-<Allolog Form="пь"/>
 <Allolog Form="нтг"/>
 <Allolog Form="птмпс"/>
 <Allolog Form="тц"/>
@@ -9003,7 +9396,6 @@
 <Allolog Form="рбш"/>
 <Allolog Form="лдх"/>
 <Allolog Form="ьу"/>
-<Allolog Form="лвс"/>
 <Allolog Form="брсйн"/>
 <Allolog Form="чс"/>
 <Allolog Form="крзбй"/>
@@ -9025,13 +9417,11 @@
 <Allolog Form="чк"/>
 <Allolog Form="щр"/>
 <Allolog Form="бз"/>
-<Allolog Form="тч"/>
 <Allolog Form="лф"/>
 <Allolog Form="мъм"/>
 <Allolog Form="мймг"/>
 <Allolog Form="пхп"/>
 <Allolog Form="кгмъ"/>
-<Allolog Form="дй"/>
 <Allolog Form="къкг"/>
 <Allolog Form="сспк"/>
 <Allolog Form="бй"/>
@@ -9074,7 +9464,6 @@
 <Allolog Form="сгпз"/>
 <Allolog Form="сгтзсгп"/>
 <Allolog Form="сгп"/>
-<Allolog Form="сж"/>
 <Allolog Form="уй"/>
 <Allolog Form="жр"/>
 <Allolog Form="ъчъ"/>
@@ -9096,14 +9485,12 @@
 <Allolog Form="йг"/>
 <Allolog Form="сгх"/>
 <Allolog Form="зч"/>
-<Allolog Form="рш"/>
 <Allolog Form="спж"/>
 <Allolog Form="ггф"/>
 <Allolog Form="хш"/>
 <Allolog Form="гнх"/>
 <Allolog Form="тгз"/>
 <Allolog Form="съз"/>
-<Allolog Form="зс"/>
 <Allolog Form="цж"/>
 <Allolog Form="жг"/>
 <Allolog Form="ъх"/>
@@ -9154,7 +9541,6 @@
 <Allolog Form="йхл"/>
 <Allolog Form="дхг"/>
 <Allolog Form="жз"/>
-<Allolog Form="фм"/>
 <Allolog Form="ьъь"/>
 <Allolog Form="счч"/>
 <Allolog Form="сзвшж"/>
@@ -9187,7 +9573,6 @@
 <Allolog Form="тгг"/>
 <Allolog Form="тцх"/>
 <Allolog Form="шч"/>
-<Allolog Form="мь"/>
 <Allolog Form="рьчь"/>
 <Allolog Form="лкр"/>
 <Allolog Form="чьл"/>
@@ -9311,7 +9696,6 @@
 <Allolog Form="йт"/>
 <Allolog Form="шп"/>
 <Allolog Form="яя"/>
-<Allolog Form="чь"/>
 <Allolog Form="ггт"/>
 <Allolog Form="тгч"/>
 <Allolog Form="зтг"/>
@@ -9329,7 +9713,6 @@
 <Allolog Form="щг"/>
 <Allolog Form="ткп"/>
 <Allolog Form="фчтв"/>
-<Allolog Form="гч"/>
 <Allolog Form="нлн"/>
 <Allolog Form="тпл"/>
 <Allolog Form="тпр"/>
@@ -9444,7 +9827,6 @@
 <Allolog Form="ддддддддддддддддд"/>
 <Allolog Form="ддддддддддддддддддд"/>
 <Allolog Form="лтд"/>
-<Allolog Form="спл"/>
 <Allolog Form="кхс"/>
 <Allolog Form="нтв"/>
 <Allolog Form="чмт"/>
@@ -9475,13 +9857,10 @@
 <Allolog Form="чнм"/>
 <Allolog Form="нчь"/>
 <Allolog Form="нкз"/>
-<Allolog Form="нквд"/>
-<Allolog Form="ввс"/>
 <Allolog Form="нпк"/>
 <Allolog Form="ддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд"/>
 <Allolog Form="рвз"/>
 <Allolog Form="вмф"/>
-<Allolog Form="пмп"/>
 <Allolog Form="кгц"/>
 <Allolog Form="лднтп"/>
 <Allolog Form="сзф"/>
@@ -9509,13 +9888,11 @@
 <Allolog Form="вмц"/>
 <Allolog Form="свв"/>
 <Allolog Form="прпп"/>
-<Allolog Form="иов"/>
 <Allolog Form="блг"/>
 <Allolog Form="блгвв"/>
 <Allolog Form="кнн"/>
 <Allolog Form="мцц"/>
 <Allolog Form="сщмчч"/>
-<Allolog Form="сср"/>
 <Allolog Form="ксп"/>
 <Allolog Form="дфр"/>
 <Allolog Form="рнб"/>
@@ -9536,7 +9913,6 @@
 <Allolog Form="хтк"/>
 <Allolog Form="дмш"/>
 <Allolog Form="бвл"/>
-<Allolog Form="бсср"/>
 <Allolog Form="вьш"/>
 <Allolog Form="рннх"/>
 <Allolog Form="дтв"/>
@@ -9640,7 +10016,6 @@
 <Allolog Form="мккл"/>
 <Allolog Form="днц"/>
 <Allolog Form="вчк"/>
-<Allolog Form="фбр"/>
 <Allolog Form="мск"/>
 <Allolog Form="чф"/>
 <Allolog Form="сбс"/>
@@ -9675,6 +10050,44 @@
 <Allolog Form="гб"/>
 <Allolog Form="впп"/>
 <Allolog Form="иил"/>
+<Allolog Form="кпч"/>
+<Allolog Form="смм"/>
+<Allolog Form="кхп"/>
+<Allolog Form="мчс"/>
+<Allolog Form="фсфр"/>
+<Allolog Form="вшмрб"/>
+<Allolog Form="вкл"/>
+<Allolog Form="брф"/>
+<Allolog Form="цкл"/>
+<Allolog Form="жцт"/>
+<Allolog Form="лст"/>
+<Allolog Form="крр"/>
+<Allolog Form="кз"/>
+<Allolog Form="фльм"/>
+<Allolog Form="рнр"/>
+<Allolog Form="тнп"/>
+<Allolog Form="нлп"/>
+<Allolog Form="стль"/>
+<Allolog Form="кбс"/>
+<Allolog Form="клп"/>
+<Allolog Form="шрфт"/>
+<Allolog Form="фш"/>
+<Allolog Form="фрз"/>
+<Allolog Form="цск"/>
+<Allolog Form="мнм"/>
+<Allolog Form="дсп"/>
+<Allolog Form="лкс"/>
+<Allolog Form="нсв"/>
+<Allolog Form="пд"/>
+<Allolog Form="пвс"/>
+<Allolog Form="ртм"/>
+<Allolog Form="сссв"/>
+<Allolog Form="ммммммм"/>
+<Allolog Form="нхл"/>
+<Allolog Form="вбл"/>
+<Allolog Form="лдпр"/>
+<Allolog Form="мвтп"/>
+<Allolog Form="иены"/>
 <Allolog Form="йййд"/>
 <Allolog Form="бдг"/>
 <Allolog Form="кйь"/>
@@ -9691,7 +10104,6 @@
 <Allolog Form="глтй"/>
 <Allolog Form="лнн"/>
 <Allolog Form="чтй"/>
-<Allolog Form="кз"/>
 <Allolog Form="фнль"/>
 <Allolog Form="гмчт"/>
 <Allolog Form="пй"/>
@@ -9718,16 +10130,36 @@
 <Allolog Form="схпс"/>
 <Allolog Form="пфффт"/>
 <Allolog Form="иее"/>
-<Allolog Form="мпс"/>
+<Allolog Form="пмс"/>
+<Allolog Form="пдр"/>
+<Allolog Form="прд"/>
+<Allolog Form="чпб"/>
+<Allolog Form="пнс"/>
+<Allolog Form="фмрт"/>
+<Allolog Form="мрт"/>
+<Allolog Form="шшш"/>
+<Allolog Form="пкгсщг"/>
+<Allolog Form="птр"/>
+<Allolog Form="прссс"/>
+<Allolog Form="кпсп"/>
+<Allolog Form="внд"/>
+<Allolog Form="квч"/>
+<Allolog Form="пвб"/>
+<Allolog Form="мтр"/>
+<Allolog Form="тпш"/>
+<Allolog Form="дпр"/>
+<Allolog Form="мгм"/>
+<Allolog Form="рсфр"/>
+<Allolog Form="тсс"/>
+<Allolog Form="нннн"/>
+<Allolog Form="мммм"/>
 <Allolog Form="снв"/>
 <Allolog Form="кнг"/>
-<Allolog Form="нхл"/>
 <Allolog Form="блзк"/>
 <Allolog Form="ньм"/>
 <Allolog Form="тчк"/>
 <Allolog Form="цпм"/>
 <Allolog Form="лвп"/>
-<Allolog Form="мпк"/>
 <Allolog Form="дств"/>
 <Allolog Form="сфп"/>
 <Allolog Form="мвл"/>
@@ -9765,12 +10197,8 @@
 <Allolog Form="дсш"/>
 <Allolog Form="ммммм"/>
 <Allolog Form="мммммм"/>
-<Allolog Form="пмс"/>
-<Allolog Form="ммм"/>
-<Allolog Form="мчс"/>
 <Allolog Form="сссс"/>
 <Allolog Form="ппц"/>
-<Allolog Form="мммм"/>
 <Allolog Form="ась"/>
 <Allolog Form="хддд"/>
 <Allolog Form="льв"/>
@@ -9780,7 +10208,6 @@
 <Allolog Form="ммд"/>
 <Allolog Form="вжжж"/>
 <Allolog Form="брр"/>
-<Allolog Form="нн"/>
 <Allolog Form="йч"/>
 <Allolog Form="пшш"/>
 <Allolog Form="пппп"/>
@@ -9799,9 +10226,7 @@
 <Allolog Form="лплл"/>
 <Allolog Form="пллп"/>
 <Allolog Form="пллл"/>
-<Allolog Form="пдр"/>
 <Allolog Form="хмммм"/>
-<Allolog Form="шшш"/>
 <Allolog Form="шшшш"/>
 <Allolog Form="вжжжж"/>
 <Allolog Form="ввжжж"/>
@@ -9817,11 +10242,9 @@
 <Allolog Form="взть"/>
 <Allolog Form="ья"/>
 <Allolog Form="гггг"/>
-<Allolog Form="квн"/>
 <Allolog Form="ркб"/>
 <Allolog Form="ххххх"/>
 <Allolog Form="пптц"/>
-<Allolog Form="ася"/>
 <Allolog Form="жзнь"/>
 <Allolog Form="плз"/>
 <Allolog Form="хдд"/>
@@ -9829,7 +10252,6 @@
 <Allolog Form="фгм"/>
 <Allolog Form="ттр"/>
 <Allolog Form="рмммм"/>
-<Allolog Form="мрт"/>
 <Allolog Form="мммт"/>
 <Allolog Form="рммм"/>
 <Allolog Form="тмм"/>
@@ -9849,7 +10271,6 @@
 <Allolog Form="ххв"/>
 <Allolog Form="прст"/>
 <Allolog Form="пть"/>
-<Allolog Form="нлп"/>
 <Allolog Form="дсж"/>
 <Allolog Form="пск"/>
 <Allolog Form="ррр"/>
@@ -9864,13 +10285,22 @@
 <Allolog Form="хмммммммм"/>
 <Allolog Form="бхз"/>
 <Allolog Form="гхм"/>
-<Allolog Form="стс"/>
 <Allolog Form="бббббббббббб"/>
 <Allolog Form="пшл"/>
 <Allolog Form="юю"/>
 <Allolog Form="мммммммммм"/>
 <Allolog Form="ррррррррррррррррр"/>
 <Allolog Form="рррррррр"/>
+<Allolog Form="зндл"/>
+<Allolog Form="кпз"/>
+<Allolog Form="фкз"/>
+<Allolog Form="фссп"/>
+<Allolog Form="снд"/>
+<Allolog Form="ргб"/>
+<Allolog Form="мнс"/>
+<Allolog Form="фнс"/>
+<Allolog Form="спрф"/>
+<Allolog Form="мдп"/>
 </Word>
 
 <Word Stem="x" Weight="0.5">
@@ -9889,10 +10319,6 @@
 
 <Word Stem="aspectc" Weight="0.5">
 <Allolog Form="aspectc"/>
-</Word>
-
-<Word Stem="compose" Weight="0.5">
-<Allolog Form="compose"/>
 </Word>
 
 <Word Stem="c" Weight="0.5">

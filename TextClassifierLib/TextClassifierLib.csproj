@@ -78,67 +78,42 @@
     </EntityDeploy>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\auto.export" />
-    <None Include="Resources\biologiy.export" />
-    <None Include="Resources\culinariy.export" />
-    <None Include="Resources\cultura.export" />
-    <None Include="Resources\economica.export" />
-    <None Include="Resources\himiy.export" />
-    <None Include="Resources\it.export" />
-    <None Include="Resources\mathematics.export" />
-    <None Include="Resources\medicine.export" />
-    <None Include="Resources\muzica.export" />
-    <None Include="Resources\philosof.export" />
-    <None Include="Resources\phizica.export" />
-    <None Include="Resources\policy.export" />
-    <None Include="Resources\psy.export" />
-    <None Include="Resources\sport.export" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\tp.export.txt" />
-    <None Include="Resources\sport.export.txt" />
-    <None Include="Resources\psy.export.txt" />
-    <None Include="Resources\stopwords.txt" />
-    <None Include="Resources\separators.txt" />
-    <None Include="Resources\tp.export" />
-    <None Include="Resources\tp.txt" />
-    <None Include="Resources\auto.txt" />
-    <None Include="Resources\biologiy.txt" />
-    <None Include="Resources\culinariy.txt" />
-    <None Include="Resources\cultura.txt" />
-    <None Include="Resources\economica.txt" />
-    <None Include="Resources\himiy.txt" />
-    <None Include="Resources\mathematics.txt" />
-    <None Include="Resources\medicine.txt" />
-    <None Include="Resources\muzica.txt" />
-    <None Include="Resources\philosof.txt" />
-    <None Include="Resources\phizica.txt" />
-    <None Include="Resources\policy.txt" />
-    <None Include="Resources\auto.export.txt" />
-    <None Include="Resources\biologiy.export.txt" />
-    <None Include="Resources\culinariy.export.txt" />
-    <None Include="Resources\cultura.export.txt" />
-    <None Include="Resources\economica.export.txt" />
-    <None Include="Resources\himiy.export.txt" />
-    <None Include="Resources\it.export.txt" />
-    <None Include="Resources\mathematics.export.txt" />
-    <None Include="Resources\medicine.export.txt" />
-    <None Include="Resources\muzica.export.txt" />
-    <None Include="Resources\philosof.export.txt" />
-    <None Include="Resources\phizica.export.txt" />
-    <None Include="Resources\policy.export.txt" />
-    <Content Include="Resources\psy %28articles%29.txt" />
-    <None Include="Resources\psy.txt" />
-    <None Include="Resources\sport.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <Folder Include="bin\Debug\Resources\" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Properties\Resource.resx">
       <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
       <LastGenOutput>Resource.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StopWords.txt" />
+    <None Include="Resources\Separators.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\auto.export.txt" />
+    <Content Include="Resources\biologiy.export.txt" />
+    <Content Include="Resources\Cosmos.export.txt" />
+    <Content Include="Resources\culinariy.export.txt" />
+    <Content Include="Resources\cultura.export.txt" />
+    <Content Include="Resources\economica.export.txt" />
+    <Content Include="Resources\Ezoter.export.txt" />
+    <Content Include="Resources\himiy.export.txt" />
+    <Content Include="Resources\it.export.txt" />
+    <Content Include="Resources\mathematics.export.txt" />
+    <Content Include="Resources\medicine.export.txt" />
+    <Content Include="Resources\muzica.export.txt" />
+    <Content Include="Resources\philosof.export.txt" />
+    <Content Include="Resources\phizica.export.txt" />
+    <Content Include="Resources\policy.export.txt" />
+    <Content Include="Resources\PR.export.txt" />
+    <Content Include="Resources\psy.export.txt" />
+    <Content Include="Resources\Samosov.export.txt" />
+    <Content Include="Resources\sEX.export.txt" />
+    <Content Include="Resources\sport.export.txt" />
+    <Content Include="Resources\tp.export.txt" />
+    <Content Include="Resources\Ur.export.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

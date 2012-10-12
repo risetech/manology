@@ -38,6 +38,11 @@ namespace VKInfo.Controllers
 			return View();
 		}
 
+		public ActionResult InfoBlock()
+		{
+			return PartialView("_InfoBlock");
+		}
+
 		public ActionResult Friends()
 		{
 			return View();

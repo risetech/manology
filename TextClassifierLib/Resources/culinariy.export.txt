@@ -1,6 +1,6 @@
 ﻿<Words>
 
-<Word Stem="масл" Weight="2.32878396460254">
+<Word Stem="масл" Weight="2.29756888708991">
 <Allolog Form="масл"/>
 <Allolog Form="масло"/>
 <Allolog Form="масла"/>
@@ -16,18 +16,19 @@
 <Allolog Form="маслиев"/>
 </Word>
 
-<Word Stem="килограмм" Weight="0.0521797370670334">
+<Word Stem="килограмм" Weight="0.05">
 <Allolog Form="килограммов"/>
 <Allolog Form="килограмм"/>
-<Allolog Form="килограмму"/>
 <Allolog Form="килограмма"/>
+<Allolog Form="килограмму"/>
 <Allolog Form="килограммом"/>
-<Allolog Form="килограммами"/>
 <Allolog Form="килограммах"/>
+<Allolog Form="килограммами"/>
 <Allolog Form="килограммы"/>
+<Allolog Form="килограммам"/>
 </Word>
 
-<Word Stem="литр" Weight="0.103379605047159">
+<Word Stem="литр" Weight="0.105345664729908">
 <Allolog Form="литра"/>
 <Allolog Form="литры"/>
 <Allolog Form="литр"/>
@@ -42,16 +43,16 @@
 <Allolog Form="литрам"/>
 </Word>
 
-<Word Stem="рецепт" Weight="0.0956739039960411">
+<Word Stem="рецепт" Weight="0.0848085031343142">
 <Allolog Form="рецепт"/>
 <Allolog Form="рецепты"/>
-<Allolog Form="рецепту"/>
-<Allolog Form="рецептам"/>
 <Allolog Form="рецептов"/>
+<Allolog Form="рецепту"/>
+<Allolog Form="рецептом"/>
+<Allolog Form="рецептам"/>
 <Allolog Form="рецепте"/>
 <Allolog Form="рецептами"/>
 <Allolog Form="рецепта"/>
-<Allolog Form="рецептом"/>
 <Allolog Form="рецептах"/>
 <Allolog Form="рецепти"/>
 <Allolog Form="рецептив"/>
@@ -61,11 +62,11 @@
 <Word Stem="начинк" Weight="0.224287881922891">
 <Allolog Form="начинки"/>
 <Allolog Form="начинка"/>
+<Allolog Form="начинке"/>
 <Allolog Form="начинку"/>
 <Allolog Form="начинкой"/>
 <Allolog Form="начинками"/>
 <Allolog Form="начинкам"/>
-<Allolog Form="начинке"/>
 </Word>
 
 <Word Stem="потуш" Weight="0.0858205242482976">
@@ -76,13 +77,14 @@
 <Allolog Form="потушите"/>
 <Allolog Form="потушив"/>
 <Allolog Form="потуши"/>
+<Allolog Form="потушены"/>
 <Allolog Form="потушим"/>
 <Allolog Form="потушили"/>
 <Allolog Form="потушила"/>
 <Allolog Form="потушишь"/>
 </Word>
 
-<Word Stem="блин" Weight="0.533831369844178">
+<Word Stem="блин" Weight="0.0351343229350046">
 <Allolog Form="блин"/>
 <Allolog Form="блины"/>
 <Allolog Form="блинами"/>
@@ -99,16 +101,6 @@
 <Allolog Form="блинн"/>
 </Word>
 
-<Word Stem="емкост" Weight="0.00167937215749162">
-<Allolog Form="емкости"/>
-<Allolog Form="емкостях"/>
-<Allolog Form="емкость"/>
-<Allolog Form="емкостью"/>
-<Allolog Form="емкостям"/>
-<Allolog Form="емкостей"/>
-<Allolog Form="емкостями"/>
-</Word>
-
 <Word Stem="закипан" Weight="0.0652476162473222">
 <Allolog Form="закипанию"/>
 <Allolog Form="закипания"/>
@@ -118,7 +110,7 @@
 <Allolog Form="закипани"/>
 </Word>
 
-<Word Stem="печен" Weight="0.11618713466063">
+<Word Stem="печен" Weight="0.107607389148598">
 <Allolog Form="печения"/>
 <Allolog Form="печень"/>
 <Allolog Form="печенья"/>
@@ -143,7 +135,7 @@
 <Allolog Form="печеньям"/>
 </Word>
 
-<Word Stem="порц" Weight="0.212102802540711">
+<Word Stem="порц" Weight="0.198027738412445">
 <Allolog Form="порция"/>
 <Allolog Form="порцию"/>
 <Allolog Form="порцией"/>
@@ -156,25 +148,27 @@
 <Allolog Form="порциям"/>
 </Word>
 
-<Word Stem="свар" Weight="0.234426219174716">
+<Word Stem="свар" Weight="0.234548102268515">
 <Allolog Form="свар"/>
+<Allolog Form="сваришь"/>
 <Allolog Form="сварить"/>
 <Allolog Form="сварите"/>
 <Allolog Form="свариться"/>
 <Allolog Form="сварили"/>
-<Allolog Form="сваришь"/>
 <Allolog Form="свари"/>
 <Allolog Form="сварились"/>
 <Allolog Form="сварившиеся"/>
 <Allolog Form="сварим"/>
 <Allolog Form="свары"/>
+<Allolog Form="сварилась"/>
 <Allolog Form="сварю"/>
 <Allolog Form="сваре"/>
+<Allolog Form="сварах"/>
 <Allolog Form="сварил"/>
 <Allolog Form="сварила"/>
 </Word>
 
-<Word Stem="груш" Weight="0.115059778007982">
+<Word Stem="груш" Weight="0.115428408356554">
 <Allolog Form="грушей"/>
 <Allolog Form="грушу"/>
 <Allolog Form="груш"/>
@@ -185,7 +179,7 @@
 <Allolog Form="грушах"/>
 </Word>
 
-<Word Stem="напитк" Weight="0.510136144157934">
+<Word Stem="напитк" Weight="0.5">
 <Allolog Form="напитка"/>
 <Allolog Form="напитков"/>
 <Allolog Form="напитком"/>
@@ -197,7 +191,7 @@
 <Allolog Form="напитках"/>
 </Word>
 
-<Word Stem="газирова" Weight="0.0675866088878727">
+<Word Stem="газирова" Weight="0.0676066918976465">
 <Allolog Form="газированной"/>
 <Allolog Form="газированная"/>
 <Allolog Form="газированную"/>
@@ -208,17 +202,17 @@
 <Allolog Form="газирован"/>
 </Word>
 
-<Word Stem="кисл" Weight="0.124671459976884">
+<Word Stem="кисл" Weight="0.124879417828309">
 <Allolog Form="кислую"/>
 <Allolog Form="кислое"/>
 <Allolog Form="кислые"/>
 <Allolog Form="кислая"/>
 <Allolog Form="кислой"/>
 <Allolog Form="кислом"/>
+<Allolog Form="кисло"/>
 <Allolog Form="кислого"/>
 <Allolog Form="кислыми"/>
 <Allolog Form="кислее"/>
-<Allolog Form="кисло"/>
 <Allolog Form="кислый"/>
 <Allolog Form="кислым"/>
 <Allolog Form="кислил"/>
@@ -254,26 +248,26 @@
 <Word Stem="треск" Weight="0.086880263738336">
 <Allolog Form="треска"/>
 <Allolog Form="трески"/>
+<Allolog Form="треском"/>
 <Allolog Form="треску"/>
 <Allolog Form="треск"/>
 <Allolog Form="треской"/>
-<Allolog Form="треском"/>
 <Allolog Form="треске"/>
 </Word>
 
-<Word Stem="готовит" Weight="0.0165840478367179">
+<Word Stem="готовит" Weight="0.0103559887206762">
 <Allolog Form="готовится"/>
 <Allolog Form="готовит"/>
 </Word>
 
-<Word Stem="чайн" Weight="0.289768831042687">
+<Word Stem="чайн" Weight="0.282999539019728">
 <Allolog Form="чайно"/>
-<Allolog Form="чайную"/>
-<Allolog Form="чайные"/>
 <Allolog Form="чайный"/>
-<Allolog Form="чайн"/>
 <Allolog Form="чайной"/>
 <Allolog Form="чайная"/>
+<Allolog Form="чайные"/>
+<Allolog Form="чайную"/>
+<Allolog Form="чайн"/>
 <Allolog Form="чайными"/>
 <Allolog Form="чайное"/>
 <Allolog Form="чайного"/>
@@ -284,13 +278,13 @@
 <Allolog Form="чайна"/>
 </Word>
 
-<Word Stem="гриб" Weight="0.510650037219212">
+<Word Stem="гриб" Weight="0.511660358213286">
 <Allolog Form="грибами"/>
 <Allolog Form="грибы"/>
 <Allolog Form="грибов"/>
 <Allolog Form="грибом"/>
-<Allolog Form="грибам"/>
 <Allolog Form="гриб"/>
+<Allolog Form="грибам"/>
 <Allolog Form="гриба"/>
 <Allolog Form="грибах"/>
 <Allolog Form="грибу"/>
@@ -298,9 +292,9 @@
 
 <Word Stem="хвор" Weight="0.0513301409949455">
 <Allolog Form="хворост"/>
-<Allolog Form="хвороста"/>
 <Allolog Form="хворей"/>
 <Allolog Form="хвори"/>
+<Allolog Form="хвороста"/>
 <Allolog Form="хворий"/>
 <Allolog Form="хворь"/>
 <Allolog Form="хворого"/>
@@ -308,7 +302,7 @@
 <Allolog Form="хворостом"/>
 </Word>
 
-<Word Stem="жирн" Weight="0.0716732376787246">
+<Word Stem="жирн" Weight="0.0698494467931816">
 <Allolog Form="жирной"/>
 <Allolog Form="жирнее"/>
 <Allolog Form="жирного"/>
@@ -327,19 +321,20 @@
 <Allolog Form="жирностей"/>
 </Word>
 
-<Word Stem="сахар" Weight="1.4663112649736">
+<Word Stem="сахар" Weight="1.45056027294205">
 <Allolog Form="сахара"/>
 <Allolog Form="сахаров"/>
 <Allolog Form="сахар"/>
 <Allolog Form="сахаром"/>
-<Allolog Form="сахару"/>
-<Allolog Form="сахаре"/>
-<Allolog Form="сахарами"/>
 <Allolog Form="сахары"/>
+<Allolog Form="сахаре"/>
+<Allolog Form="сахару"/>
+<Allolog Form="сахарами"/>
 <Allolog Form="сахарам"/>
+<Allolog Form="сахарой"/>
 </Word>
 
-<Word Stem="витамин" Weight="0.0129744367552919">
+<Word Stem="витамин" Weight="0.0088650299415024">
 <Allolog Form="витамина"/>
 <Allolog Form="витаминами"/>
 <Allolog Form="витаминов"/>
@@ -357,9 +352,11 @@
 <Allolog Form="витаминно"/>
 <Allolog Form="витаминное"/>
 <Allolog Form="витамино"/>
+<Allolog Form="витаминах"/>
+<Allolog Form="витаминным"/>
 </Word>
 
-<Word Stem="лимон" Weight="0.791002850183323">
+<Word Stem="лимон" Weight="0.785044060908946">
 <Allolog Form="лимона"/>
 <Allolog Form="лимонной"/>
 <Allolog Form="лимонный"/>
@@ -385,30 +382,20 @@
 <Allolog Form="лимоне"/>
 </Word>
 
-<Word Stem="букет" Weight="0.00112055212971717">
-<Allolog Form="букет"/>
-<Allolog Form="букета"/>
-<Allolog Form="букетами"/>
-<Allolog Form="букетом"/>
-<Allolog Form="букетов"/>
-<Allolog Form="букете"/>
-<Allolog Form="букеты"/>
-<Allolog Form="букету"/>
-</Word>
-
-<Word Stem="картошк" Weight="0.0812933325708196">
+<Word Stem="картошк" Weight="0.0797374345368478">
 <Allolog Form="картошки"/>
 <Allolog Form="картошку"/>
 <Allolog Form="картошка"/>
 <Allolog Form="картошкой"/>
 <Allolog Form="картошке"/>
+<Allolog Form="картошками"/>
 </Word>
 
 <Word Stem="закипет" Weight="0.0623805431068001">
 <Allolog Form="закипеть"/>
 </Word>
 
-<Word Stem="холодильник" Weight="0.135780409713399">
+<Word Stem="холодильник" Weight="0.126743768157014">
 <Allolog Form="холодильника"/>
 <Allolog Form="холодильников"/>
 <Allolog Form="холодильники"/>
@@ -438,17 +425,17 @@
 <Allolog Form="подгорел"/>
 </Word>
 
-<Word Stem="бутерброд" Weight="0.120620026749572">
+<Word Stem="бутерброд" Weight="0.119628519828139">
 <Allolog Form="бутерброда"/>
 <Allolog Form="бутерброд"/>
+<Allolog Form="бутербродами"/>
 <Allolog Form="бутерброды"/>
 <Allolog Form="бутербродов"/>
-<Allolog Form="бутербродами"/>
 <Allolog Form="бутербродам"/>
 <Allolog Form="бутербродом"/>
 </Word>
 
-<Word Stem="отбива" Weight="0.0618239963487061">
+<Word Stem="отбива" Weight="0.0610665927189115">
 <Allolog Form="отбивает"/>
 <Allolog Form="отбивались"/>
 <Allolog Form="отбиваем"/>
@@ -465,6 +452,7 @@
 <Allolog Form="отбиваться"/>
 <Allolog Form="отбивался"/>
 <Allolog Form="отбивал"/>
+<Allolog Form="отбиваете"/>
 <Allolog Form="отбиваю"/>
 <Allolog Form="отбивающее"/>
 </Word>
@@ -475,12 +463,13 @@
 <Allolog Form="протирочную"/>
 </Word>
 
-<Word Stem="солен" Weight="0.278797792545513">
+<Word Stem="солен" Weight="0.278890095360109">
 <Allolog Form="соленым"/>
 <Allolog Form="соленую"/>
 <Allolog Form="соленого"/>
 <Allolog Form="соленые"/>
 <Allolog Form="соленый"/>
+<Allolog Form="соленое"/>
 <Allolog Form="соленой"/>
 <Allolog Form="соленая"/>
 <Allolog Form="соленный"/>
@@ -490,7 +479,6 @@
 <Allolog Form="соленом"/>
 <Allolog Form="солении"/>
 <Allolog Form="соленость"/>
-<Allolog Form="соленое"/>
 <Allolog Form="солеными"/>
 <Allolog Form="соление"/>
 <Allolog Form="солености"/>
@@ -505,7 +493,7 @@
 <Allolog Form="соленье"/>
 </Word>
 
-<Word Stem="коктейл" Weight="0.147336969443913">
+<Word Stem="коктейл" Weight="0.142162336477418">
 <Allolog Form="коктейль"/>
 <Allolog Form="коктейли"/>
 <Allolog Form="коктейлям"/>
@@ -515,20 +503,21 @@
 <Allolog Form="коктейля"/>
 <Allolog Form="коктейлю"/>
 <Allolog Form="коктейле"/>
+<Allolog Form="коктейлях"/>
 </Word>
 
 <Word Stem="заправок" Weight="0.0515328291465562">
 <Allolog Form="заправок"/>
 </Word>
 
-<Word Stem="слив" Weight="0.0938671369265513">
+<Word Stem="слив" Weight="0.0939633342714108">
 <Allolog Form="слива"/>
 <Allolog Form="сливаясь"/>
 <Allolog Form="сливы"/>
+<Allolog Form="сливая"/>
 <Allolog Form="сливу"/>
 <Allolog Form="сливами"/>
 <Allolog Form="сливи"/>
-<Allolog Form="сливая"/>
 <Allolog Form="сливой"/>
 <Allolog Form="сливах"/>
 <Allolog Form="сливам"/>
@@ -536,7 +525,7 @@
 <Allolog Form="сливов"/>
 </Word>
 
-<Word Stem="сковородк" Weight="0.104813437507985">
+<Word Stem="сковородк" Weight="0.103347766194138">
 <Allolog Form="сковородка"/>
 <Allolog Form="сковородку"/>
 <Allolog Form="сковородке"/>
@@ -550,27 +539,27 @@
 <Allolog Form="жарьте"/>
 </Word>
 
-<Word Stem="кастрюл" Weight="0.393144326340416">
+<Word Stem="кастрюл" Weight="0.390122764441683">
 <Allolog Form="кастрюлей"/>
 <Allolog Form="кастрюля"/>
 <Allolog Form="кастрюлю"/>
-<Allolog Form="кастрюле"/>
 <Allolog Form="кастрюли"/>
+<Allolog Form="кастрюле"/>
 <Allolog Form="кастрюль"/>
 <Allolog Form="кастрюлях"/>
 <Allolog Form="кастрюлями"/>
 <Allolog Form="кастрюлям"/>
 </Word>
 
-<Word Stem="сладк" Weight="0.200063793816712">
+<Word Stem="сладк" Weight="0.181495276019672">
 <Allolog Form="сладко"/>
 <Allolog Form="сладкая"/>
 <Allolog Form="сладкого"/>
+<Allolog Form="сладких"/>
 <Allolog Form="сладкое"/>
 <Allolog Form="сладким"/>
 <Allolog Form="сладкий"/>
 <Allolog Form="сладкие"/>
-<Allolog Form="сладких"/>
 <Allolog Form="сладкую"/>
 <Allolog Form="сладкой"/>
 <Allolog Form="сладком"/>
@@ -578,9 +567,10 @@
 <Allolog Form="сладкими"/>
 <Allolog Form="сладка"/>
 <Allolog Form="сладки"/>
+<Allolog Form="сладков"/>
 </Word>
 
-<Word Stem="уксусн" Weight="0.0537595830156265">
+<Word Stem="уксусн" Weight="0.054765894478457">
 <Allolog Form="уксусной"/>
 <Allolog Form="уксусная"/>
 <Allolog Form="уксусную"/>
@@ -590,9 +580,10 @@
 <Allolog Form="уксусного"/>
 <Allolog Form="уксусным"/>
 <Allolog Form="уксусно"/>
+<Allolog Form="уксусном"/>
 </Word>
 
-<Word Stem="вилк" Weight="0.0848685844880711">
+<Word Stem="вилк" Weight="0.0852135685500942">
 <Allolog Form="вилкой"/>
 <Allolog Form="вилки"/>
 <Allolog Form="вилками"/>
@@ -602,31 +593,35 @@
 <Allolog Form="вилку"/>
 </Word>
 
-<Word Stem="кипя" Weight="0.308030611977654">
+<Word Stem="кипя" Weight="0.306634942360308">
 <Allolog Form="кипящего"/>
 <Allolog Form="кипящим"/>
 <Allolog Form="кипящей"/>
-<Allolog Form="кипящую"/>
+<Allolog Form="кипящие"/>
 <Allolog Form="кипящий"/>
+<Allolog Form="кипящую"/>
 <Allolog Form="кипящее"/>
 <Allolog Form="кипящем"/>
 <Allolog Form="кипящих"/>
-<Allolog Form="кипящие"/>
 <Allolog Form="кипящими"/>
 <Allolog Form="кипящая"/>
 </Word>
 
-<Word Stem="кофейн" Weight="0.0711225551907822">
+<Word Stem="кофейн" Weight="0.0711402340836452">
 <Allolog Form="кофейного"/>
+<Allolog Form="кофейное"/>
+<Allolog Form="кофейной"/>
 <Allolog Form="кофейные"/>
 <Allolog Form="кофейная"/>
 <Allolog Form="кофейный"/>
 <Allolog Form="кофейными"/>
-<Allolog Form="кофейной"/>
 <Allolog Form="кофейную"/>
 <Allolog Form="кофейным"/>
-<Allolog Form="кофейное"/>
 <Allolog Form="кофейном"/>
+<Allolog Form="кофейню"/>
+<Allolog Form="кофейня"/>
+<Allolog Form="кофейни"/>
+<Allolog Form="кофейне"/>
 <Allolog Form="кофейнях"/>
 </Word>
 
@@ -636,6 +631,7 @@
 <Allolog Form="миксера"/>
 <Allolog Form="миксер"/>
 <Allolog Form="миксеры"/>
+<Allolog Form="миксеров"/>
 </Word>
 
 <Word Stem="консервируют" Weight="0.0513301409949455">
@@ -643,7 +639,11 @@
 <Allolog Form="консервируются"/>
 </Word>
 
-<Word Stem="круп" Weight="0.171114553370014">
+<Word Stem="поровн" Weight="0.00100360759607121">
+<Allolog Form="поровну"/>
+</Word>
+
+<Word Stem="круп" Weight="0.171357907454626">
 <Allolog Form="круп"/>
 <Allolog Form="крупе"/>
 <Allolog Form="крупы"/>
@@ -652,9 +652,10 @@
 <Allolog Form="крупой"/>
 <Allolog Form="крупами"/>
 <Allolog Form="крупом"/>
+<Allolog Form="крупах"/>
 </Word>
 
-<Word Stem="вкус" Weight="0.467506091234959">
+<Word Stem="вкус" Weight="0.388280128453794">
 <Allolog Form="вкус"/>
 <Allolog Form="вкусу"/>
 <Allolog Form="вкуса"/>
@@ -669,11 +670,13 @@
 <Allolog Form="вкусить"/>
 <Allolog Form="вкусив"/>
 <Allolog Form="вкусившие"/>
+<Allolog Form="вкусивших"/>
+<Allolog Form="вкусите"/>
 <Allolog Form="вкусили"/>
 <Allolog Form="вкусившей"/>
 </Word>
 
-<Word Stem="молок" Weight="0.757163377008983">
+<Word Stem="молок" Weight="0.753544913144371">
 <Allolog Form="молока"/>
 <Allolog Form="молоком"/>
 <Allolog Form="молоке"/>
@@ -686,12 +689,12 @@
 <Allolog Form="молокой"/>
 </Word>
 
-<Word Stem="орехов" Weight="0.0748102923145809">
+<Word Stem="орехов" Weight="0.0718885699885665">
 <Allolog Form="орехово"/>
+<Allolog Form="ореховой"/>
 <Allolog Form="ореховым"/>
 <Allolog Form="ореховая"/>
 <Allolog Form="ореховый"/>
-<Allolog Form="ореховой"/>
 <Allolog Form="ореховые"/>
 <Allolog Form="ореховое"/>
 <Allolog Form="орехового"/>
@@ -708,7 +711,7 @@
 <Allolog Form="сушкой"/>
 </Word>
 
-<Word Stem="шампанск" Weight="0.0940565370658167">
+<Word Stem="шампанск" Weight="0.0931818211390767">
 <Allolog Form="шампанского"/>
 <Allolog Form="шампанское"/>
 <Allolog Form="шампанским"/>
@@ -719,29 +722,30 @@
 <Allolog Form="шампанской"/>
 </Word>
 
-<Word Stem="стакан" Weight="0.141272214286651">
+<Word Stem="стакан" Weight="0.143036572609648">
 <Allolog Form="стаканом"/>
 <Allolog Form="стакане"/>
+<Allolog Form="стаканов"/>
 <Allolog Form="стаканах"/>
 <Allolog Form="стаканами"/>
-<Allolog Form="стаканов"/>
 <Allolog Form="стаканам"/>
 <Allolog Form="стакану"/>
 </Word>
 
-<Word Stem="тарелк" Weight="0.218919567125654">
+<Word Stem="тарелк" Weight="0.176342635607058">
 <Allolog Form="тарелки"/>
 <Allolog Form="тарелку"/>
 <Allolog Form="тарелкой"/>
+<Allolog Form="тарелка"/>
 <Allolog Form="тарелкам"/>
 <Allolog Form="тарелках"/>
 <Allolog Form="тарелке"/>
-<Allolog Form="тарелка"/>
 <Allolog Form="тарелками"/>
 </Word>
 
 <Word Stem="барашк" Weight="0.0530783263025881">
 <Allolog Form="барашками"/>
+<Allolog Form="барашков"/>
 <Allolog Form="барашка"/>
 <Allolog Form="барашке"/>
 <Allolog Form="барашку"/>
@@ -759,7 +763,7 @@
 <Allolog Form="сухарев"/>
 </Word>
 
-<Word Stem="гранат" Weight="0.0547153241678777">
+<Word Stem="гранат" Weight="0.0549081793107759">
 <Allolog Form="гранату"/>
 <Allolog Form="гранаты"/>
 <Allolog Form="гранат"/>
@@ -780,7 +784,7 @@
 <Allolog Form="майонезно"/>
 </Word>
 
-<Word Stem="уксус" Weight="1.0054694590552">
+<Word Stem="уксус" Weight="1.00444601695939">
 <Allolog Form="уксус"/>
 <Allolog Form="уксусом"/>
 <Allolog Form="уксуса"/>
@@ -788,7 +792,7 @@
 <Allolog Form="уксусу"/>
 </Word>
 
-<Word Stem="ингредиент" Weight="0.0590756073385989">
+<Word Stem="ингредиент" Weight="0.0593432327235644">
 <Allolog Form="ингредиенты"/>
 <Allolog Form="ингредиентами"/>
 <Allolog Form="ингредиентов"/>
@@ -798,12 +802,12 @@
 <Allolog Form="ингредиент"/>
 </Word>
 
-<Word Stem="готовят" Weight="0.124361678874482">
+<Word Stem="готовят" Weight="0.122839006486992">
 <Allolog Form="готовятся"/>
 <Allolog Form="готовят"/>
 </Word>
 
-<Word Stem="стака" Weight="1.0172514836416">
+<Word Stem="стака" Weight="1.01036281813066">
 <Allolog Form="стакан"/>
 <Allolog Form="стакана"/>
 <Allolog Form="стаканы"/>
@@ -815,11 +819,11 @@
 <Allolog Form="обварила"/>
 </Word>
 
-<Word Stem="кухн" Weight="0.101732476228825">
+<Word Stem="кухн" Weight="0.0780556368100859">
 <Allolog Form="кухню"/>
 <Allolog Form="кухнях"/>
-<Allolog Form="кухне"/>
 <Allolog Form="кухни"/>
+<Allolog Form="кухне"/>
 <Allolog Form="кухня"/>
 <Allolog Form="кухней"/>
 </Word>
@@ -831,42 +835,43 @@
 <Allolog Form="консистенцией"/>
 </Word>
 
-<Word Stem="лавр" Weight="0.0914572679913316">
+<Word Stem="лавр" Weight="0.0915732424217862">
 <Allolog Form="лавр"/>
+<Allolog Form="лавры"/>
 <Allolog Form="лавро"/>
 <Allolog Form="лавра"/>
 <Allolog Form="лавром"/>
 <Allolog Form="лаврах"/>
 <Allolog Form="лавре"/>
 <Allolog Form="лавров"/>
-<Allolog Form="лавры"/>
 <Allolog Form="лаврами"/>
 <Allolog Form="лавру"/>
 </Word>
 
-<Word Stem="хлеб" Weight="0.721219394174873">
+<Word Stem="хлеб" Weight="0.707494725969689">
 <Allolog Form="хлеб"/>
 <Allolog Form="хлебом"/>
 <Allolog Form="хлеба"/>
 <Allolog Form="хлебе"/>
 <Allolog Form="хлебах"/>
 <Allolog Form="хлебу"/>
+<Allolog Form="хлебая"/>
 <Allolog Form="хлебов"/>
 <Allolog Form="хлебами"/>
 </Word>
 
 <Word Stem="птич" Weight="0.0542645126444009">
 <Allolog Form="птичий"/>
-<Allolog Form="птичье"/>
 <Allolog Form="птичьих"/>
+<Allolog Form="птичье"/>
 <Allolog Form="птичьи"/>
 <Allolog Form="птичьим"/>
 <Allolog Form="птичьего"/>
 <Allolog Form="птичьими"/>
 <Allolog Form="птичьем"/>
+<Allolog Form="птичью"/>
 <Allolog Form="птичьей"/>
 <Allolog Form="птичья"/>
-<Allolog Form="птичью"/>
 </Word>
 
 <Word Stem="каштан" Weight="0.0597946745991439">
@@ -875,7 +880,7 @@
 <Allolog Form="каштанами"/>
 </Word>
 
-<Word Stem="йогурт" Weight="0.0654363957876193">
+<Word Stem="йогурт" Weight="0.0655606326100105">
 <Allolog Form="йогурт"/>
 <Allolog Form="йогурта"/>
 <Allolog Form="йогуртом"/>
@@ -883,7 +888,7 @@
 <Allolog Form="йогурты"/>
 </Word>
 
-<Word Stem="морожен" Weight="0.0804550873617507">
+<Word Stem="морожен" Weight="0.0725866888574069">
 <Allolog Form="мороженое"/>
 <Allolog Form="мороженого"/>
 <Allolog Form="мороженым"/>
@@ -906,10 +911,11 @@
 <Allolog Form="мороженным"/>
 </Word>
 
-<Word Stem="питьев" Weight="0.0530787424406066">
+<Word Stem="питьев" Weight="0.0533411004344559">
 <Allolog Form="питьевой"/>
 <Allolog Form="питьевая"/>
 <Allolog Form="питьевую"/>
+<Allolog Form="питьевого"/>
 </Word>
 
 <Word Stem="вскипят" Weight="0.131752011278945">
@@ -921,30 +927,31 @@
 <Allolog Form="вскипятиить"/>
 </Word>
 
-<Word Stem="овощ" Weight="0.416777516977589">
+<Word Stem="овощ" Weight="0.409991157364605">
 <Allolog Form="овощи"/>
 <Allolog Form="овощей"/>
 <Allolog Form="овощами"/>
-<Allolog Form="овощ"/>
 <Allolog Form="овощам"/>
+<Allolog Form="овощ"/>
 <Allolog Form="овощем"/>
 <Allolog Form="овощу"/>
 <Allolog Form="овоща"/>
 <Allolog Form="овощах"/>
 </Word>
 
-<Word Stem="фрукт" Weight="0.153752545189707">
+<Word Stem="фрукт" Weight="0.148941129688706">
 <Allolog Form="фрукты"/>
 <Allolog Form="фруктами"/>
+<Allolog Form="фруктах"/>
+<Allolog Form="фруктам"/>
 <Allolog Form="фруктов"/>
 <Allolog Form="фрукта"/>
 <Allolog Form="фрукто"/>
 <Allolog Form="фрукт"/>
-<Allolog Form="фруктам"/>
-<Allolog Form="фруктах"/>
+<Allolog Form="фруктом"/>
 </Word>
 
-<Word Stem="желтк" Weight="0.831466895113114">
+<Word Stem="желтк" Weight="0.831881983002251">
 <Allolog Form="желтки"/>
 <Allolog Form="желтка"/>
 <Allolog Form="желтком"/>
@@ -956,7 +963,7 @@
 <Allolog Form="желтках"/>
 </Word>
 
-<Word Stem="плод" Weight="0.110836909649113">
+<Word Stem="плод" Weight="0.0880613465204748">
 <Allolog Form="плоды"/>
 <Allolog Form="плода"/>
 <Allolog Form="плодов"/>
@@ -968,22 +975,26 @@
 <Allolog Form="плоде"/>
 <Allolog Form="плодо"/>
 <Allolog Form="плодились"/>
+<Allolog Form="плодитесь"/>
 <Allolog Form="плоду"/>
 <Allolog Form="плодить"/>
 <Allolog Form="плодил"/>
 <Allolog Form="плодившихся"/>
+<Allolog Form="плодили"/>
+<Allolog Form="плодя"/>
+<Allolog Form="плодясь"/>
 </Word>
 
-<Word Stem="лапш" Weight="0.130674623071269">
+<Word Stem="лапш" Weight="0.129208248020367">
 <Allolog Form="лапшу"/>
-<Allolog Form="лапше"/>
 <Allolog Form="лапша"/>
+<Allolog Form="лапше"/>
 <Allolog Form="лапшой"/>
 <Allolog Form="лапши"/>
 <Allolog Form="лапшей"/>
 </Word>
 
-<Word Stem="мундир" Weight="0.00924018931316553">
+<Word Stem="мундир" Weight="0.00928494394065145">
 <Allolog Form="мундира"/>
 <Allolog Form="мундире"/>
 <Allolog Form="мундирах"/>
@@ -994,22 +1005,27 @@
 <Allolog Form="мундирам"/>
 </Word>
 
-<Word Stem="вкусн" Weight="0.0892441421276072">
+<Word Stem="вкусн" Weight="0.0798325223901399">
 <Allolog Form="вкусно"/>
+<Allolog Form="вкусными"/>
+<Allolog Form="вкусные"/>
+<Allolog Form="вкусную"/>
+<Allolog Form="вкусной"/>
 <Allolog Form="вкусный"/>
 <Allolog Form="вкуснее"/>
 <Allolog Form="вкусней"/>
 <Allolog Form="вкусны"/>
-<Allolog Form="вкусной"/>
-<Allolog Form="вкусные"/>
-<Allolog Form="вкусными"/>
 <Allolog Form="вкусная"/>
 <Allolog Form="вкуснейший"/>
 <Allolog Form="вкусна"/>
 <Allolog Form="вкусным"/>
 <Allolog Form="вкусное"/>
 <Allolog Form="вкусного"/>
-<Allolog Form="вкусную"/>
+<Allolog Form="вкуснейших"/>
+<Allolog Form="вкусности"/>
+<Allolog Form="вкуснейшую"/>
+<Allolog Form="вкусностями"/>
+<Allolog Form="вкуснейшие"/>
 <Allolog Form="вкусностей"/>
 </Word>
 
@@ -1022,7 +1038,7 @@
 <Allolog Form="пряником"/>
 </Word>
 
-<Word Stem="компот" Weight="0.11137892859072">
+<Word Stem="компот" Weight="0.111396607483583">
 <Allolog Form="компот"/>
 <Allolog Form="компоты"/>
 <Allolog Form="компота"/>
@@ -1035,8 +1051,10 @@
 <Allolog Form="компоте"/>
 </Word>
 
-<Word Stem="смета" Weight="1.02036157852131">
+<Word Stem="смета" Weight="1.02039977278942">
 <Allolog Form="сметаны"/>
+<Allolog Form="сметает"/>
+<Allolog Form="сметающая"/>
 <Allolog Form="сметана"/>
 <Allolog Form="сметанной"/>
 <Allolog Form="сметанным"/>
@@ -1049,18 +1067,19 @@
 <Allolog Form="сметанные"/>
 <Allolog Form="сметанная"/>
 <Allolog Form="сметанную"/>
-<Allolog Form="сметает"/>
 <Allolog Form="сметали"/>
+<Allolog Form="сметать"/>
 <Allolog Form="сметают"/>
 <Allolog Form="сметающие"/>
 <Allolog Form="сметающей"/>
 <Allolog Form="сметающим"/>
 <Allolog Form="сметай"/>
 <Allolog Form="сметается"/>
+<Allolog Form="сметающий"/>
 <Allolog Form="сметаете"/>
 </Word>
 
-<Word Stem="крем" Weight="0.133728309394701">
+<Word Stem="крем" Weight="0.127795920465338">
 <Allolog Form="кремом"/>
 <Allolog Form="кремов"/>
 <Allolog Form="кремы"/>
@@ -1072,7 +1091,7 @@
 <Allolog Form="кремах"/>
 </Word>
 
-<Word Stem="хрен" Weight="0.132632425527309">
+<Word Stem="хрен" Weight="0.13295987629148">
 <Allolog Form="хрень"/>
 <Allolog Form="хрен"/>
 <Allolog Form="хреном"/>
@@ -1081,7 +1100,7 @@
 <Allolog Form="хренов"/>
 </Word>
 
-<Word Stem="белк" Weight="0.0725931348757795">
+<Word Stem="белк" Weight="0.0605013628938252">
 <Allolog Form="белки"/>
 <Allolog Form="белков"/>
 <Allolog Form="белка"/>
@@ -1092,25 +1111,27 @@
 <Allolog Form="белкам"/>
 <Allolog Form="белку"/>
 <Allolog Form="белко"/>
+<Allolog Form="белкой"/>
 </Word>
 
 <Word Stem="рожк" Weight="0.0519547289403981">
 <Allolog Form="рожки"/>
 <Allolog Form="рожков"/>
 <Allolog Form="рожками"/>
+<Allolog Form="рожке"/>
 <Allolog Form="рожка"/>
 </Word>
 
 <Word Stem="паток" Weight="0.05402367650971">
 <Allolog Form="паток"/>
+<Allolog Form="патоки"/>
+<Allolog Form="патоке"/>
 <Allolog Form="патока"/>
 <Allolog Form="патоку"/>
-<Allolog Form="патоки"/>
 <Allolog Form="патокой"/>
-<Allolog Form="патоке"/>
 </Word>
 
-<Word Stem="белок" Weight="0.0571802121929341">
+<Word Stem="белок" Weight="0.0568991615121477">
 <Allolog Form="белок"/>
 <Allolog Form="белоко"/>
 </Word>
@@ -1119,7 +1140,7 @@
 <Allolog Form="раковых"/>
 </Word>
 
-<Word Stem="молочн" Weight="0.118831741655337">
+<Word Stem="молочн" Weight="0.114935210299578">
 <Allolog Form="молочной"/>
 <Allolog Form="молочную"/>
 <Allolog Form="молочного"/>
@@ -1127,15 +1148,15 @@
 <Allolog Form="молочными"/>
 <Allolog Form="молочная"/>
 <Allolog Form="молочность"/>
+<Allolog Form="молочно"/>
 <Allolog Form="молочный"/>
 <Allolog Form="молочным"/>
-<Allolog Form="молочно"/>
 <Allolog Form="молочн"/>
 <Allolog Form="молочном"/>
 <Allolog Form="молочное"/>
 </Word>
 
-<Word Stem="бульон" Weight="1.41038253589749">
+<Word Stem="бульон" Weight="1.40757370015962">
 <Allolog Form="бульона"/>
 <Allolog Form="бульоне"/>
 <Allolog Form="бульон"/>
@@ -1153,7 +1174,7 @@
 <Allolog Form="бульоной"/>
 </Word>
 
-<Word Stem="питательн" Weight="0.0558777922818492">
+<Word Stem="питательн" Weight="0.0527264065961197">
 <Allolog Form="питательными"/>
 <Allolog Form="питательный"/>
 <Allolog Form="питательного"/>
@@ -1161,6 +1182,7 @@
 <Allolog Form="питательные"/>
 <Allolog Form="питательную"/>
 <Allolog Form="питательная"/>
+<Allolog Form="питательном"/>
 <Allolog Form="питательным"/>
 <Allolog Form="питательнее"/>
 <Allolog Form="питательна"/>
@@ -1169,11 +1191,10 @@
 <Allolog Form="питательности"/>
 <Allolog Form="питательны"/>
 <Allolog Form="питательное"/>
-<Allolog Form="питательном"/>
 <Allolog Form="питательно"/>
 </Word>
 
-<Word Stem="брожен" Weight="0.0827273217829846">
+<Word Stem="брожен" Weight="0.0828919430894215">
 <Allolog Form="брожением"/>
 <Allolog Form="брожения"/>
 <Allolog Form="брожение"/>
@@ -1183,7 +1204,7 @@
 <Allolog Form="брожению"/>
 </Word>
 
-<Word Stem="горох" Weight="0.0963856298898087">
+<Word Stem="горох" Weight="0.0964057128995824">
 <Allolog Form="горохе"/>
 <Allolog Form="гороха"/>
 <Allolog Form="горох"/>
@@ -1191,11 +1212,11 @@
 <Allolog Form="гороху"/>
 </Word>
 
-<Word Stem="дрожж" Weight="0.615276749457405">
+<Word Stem="дрожж" Weight="0.615526825228081">
 <Allolog Form="дрожжей"/>
 <Allolog Form="дрожжи"/>
-<Allolog Form="дрожжами"/>
 <Allolog Form="дрожжах"/>
+<Allolog Form="дрожжами"/>
 <Allolog Form="дрожжам"/>
 <Allolog Form="дрожжа"/>
 <Allolog Form="дрожже"/>
@@ -1204,20 +1225,22 @@
 <Word Stem="плодов" Weight="0.0526193545746618">
 <Allolog Form="плодовой"/>
 <Allolog Form="плодовая"/>
+<Allolog Form="плодовыми"/>
 <Allolog Form="плодово"/>
 <Allolog Form="плодового"/>
 <Allolog Form="плодови"/>
+<Allolog Form="плодовые"/>
 </Word>
 
 <Word Stem="вишнев" Weight="0.0844961800850219">
 <Allolog Form="вишневая"/>
+<Allolog Form="вишнево"/>
 <Allolog Form="вишневый"/>
 <Allolog Form="вишневого"/>
 <Allolog Form="вишневое"/>
 <Allolog Form="вишневой"/>
 <Allolog Form="вишневую"/>
 <Allolog Form="вишневым"/>
-<Allolog Form="вишнево"/>
 <Allolog Form="вишневые"/>
 <Allolog Form="вишневом"/>
 </Word>
@@ -1247,9 +1270,11 @@
 <Allolog Form="окуная"/>
 <Allolog Form="окунями"/>
 <Allolog Form="окунем"/>
+<Allolog Form="окунаясь"/>
+<Allolog Form="окунитесь"/>
 </Word>
 
-<Word Stem="куриц" Weight="0.211681628106145">
+<Word Stem="куриц" Weight="0.209804492049259">
 <Allolog Form="курицы"/>
 <Allolog Form="курица"/>
 <Allolog Form="курицей"/>
@@ -1258,7 +1283,7 @@
 <Allolog Form="куриц"/>
 </Word>
 
-<Word Stem="тыкв" Weight="0.108256827055992">
+<Word Stem="тыкв" Weight="0.108303234149757">
 <Allolog Form="тыквы"/>
 <Allolog Form="тыква"/>
 <Allolog Form="тыкву"/>
@@ -1267,11 +1292,11 @@
 <Allolog Form="тыкв"/>
 </Word>
 
-<Word Stem="желток" Weight="0.13675316714313">
+<Word Stem="желток" Weight="0.136773250152903">
 <Allolog Form="желток"/>
 </Word>
 
-<Word Stem="кукуруз" Weight="0.0929775169427628">
+<Word Stem="кукуруз" Weight="0.0920306353918323">
 <Allolog Form="кукурузы"/>
 <Allolog Form="кукуруза"/>
 <Allolog Form="кукурузу"/>
@@ -1279,11 +1304,11 @@
 <Allolog Form="кукурузе"/>
 </Word>
 
-<Word Stem="семя" Weight="0.108730603197835">
+<Word Stem="семя" Weight="0.108966747519608">
 <Allolog Form="семян"/>
 </Word>
 
-<Word Stem="курин" Weight="0.105624786174142">
+<Word Stem="курин" Weight="0.105801914959273">
 <Allolog Form="куриное"/>
 <Allolog Form="куриный"/>
 <Allolog Form="курином"/>
@@ -1299,7 +1324,7 @@
 <Allolog Form="куринные"/>
 </Word>
 
-<Word Stem="душист" Weight="0.115337265340371">
+<Word Stem="душист" Weight="0.115437611992442">
 <Allolog Form="душистого"/>
 <Allolog Form="душистый"/>
 <Allolog Form="душист"/>
@@ -1323,7 +1348,7 @@
 <Allolog Form="горошкам"/>
 </Word>
 
-<Word Stem="шоколад" Weight="0.0925803939691695">
+<Word Stem="шоколад" Weight="0.0879096022195376">
 <Allolog Form="шоколада"/>
 <Allolog Form="шоколад"/>
 <Allolog Form="шоколадом"/>
@@ -1331,13 +1356,13 @@
 <Allolog Form="шоколаде"/>
 </Word>
 
-<Word Stem="сахарн" Weight="0.273084596816903">
+<Word Stem="сахарн" Weight="0.273506105058034">
 <Allolog Form="сахарный"/>
+<Allolog Form="сахарная"/>
 <Allolog Form="сахарного"/>
 <Allolog Form="сахарным"/>
 <Allolog Form="сахарном"/>
 <Allolog Form="сахарной"/>
-<Allolog Form="сахарная"/>
 <Allolog Form="сахарную"/>
 <Allolog Form="сахарное"/>
 <Allolog Form="сахарн"/>
@@ -1368,7 +1393,7 @@
 <Allolog Form="осетровых"/>
 </Word>
 
-<Word Stem="цыпленк" Weight="0.0836604304860124">
+<Word Stem="цыпленк" Weight="0.0837226776070831">
 <Allolog Form="цыпленка"/>
 <Allolog Form="цыпленком"/>
 <Allolog Form="цыпленку"/>
@@ -1378,31 +1403,32 @@
 <Allolog Form="цыпленок"/>
 </Word>
 
-<Word Stem="луковиц" Weight="0.280382437288741">
+<Word Stem="луковиц" Weight="0.280426085443048">
 <Allolog Form="луковица"/>
 <Allolog Form="луковицей"/>
 <Allolog Form="луковиц"/>
 <Allolog Form="луковицу"/>
+<Allolog Form="луковице"/>
 <Allolog Form="луковицы"/>
 <Allolog Form="луковицами"/>
 <Allolog Form="луковицах"/>
 </Word>
 
-<Word Stem="яблок" Weight="0.423009927810093">
+<Word Stem="яблок" Weight="0.410355801711111">
 <Allolog Form="яблок"/>
 <Allolog Form="яблоков"/>
-<Allolog Form="яблоки"/>
-<Allolog Form="яблоками"/>
-<Allolog Form="яблока"/>
 <Allolog Form="яблоко"/>
+<Allolog Form="яблока"/>
+<Allolog Form="яблоки"/>
+<Allolog Form="яблоке"/>
+<Allolog Form="яблоками"/>
 <Allolog Form="яблокам"/>
 <Allolog Form="яблоком"/>
 <Allolog Form="яблоках"/>
 <Allolog Form="яблоку"/>
-<Allolog Form="яблоке"/>
 </Word>
 
-<Word Stem="мякот" Weight="0.160808053633846">
+<Word Stem="мякот" Weight="0.160830598510156">
 <Allolog Form="мякоти"/>
 <Allolog Form="мякоть"/>
 <Allolog Form="мякотью"/>
@@ -1411,28 +1437,29 @@
 <Word Stem="утин" Weight="0.0530783263025881">
 <Allolog Form="утиной"/>
 <Allolog Form="утиного"/>
+<Allolog Form="утиное"/>
+<Allolog Form="утиным"/>
 <Allolog Form="утином"/>
 <Allolog Form="утиные"/>
-<Allolog Form="утиным"/>
 <Allolog Form="утиная"/>
 <Allolog Form="утиную"/>
 <Allolog Form="утиный"/>
 <Allolog Form="утин"/>
 </Word>
 
-<Word Stem="морков" Weight="0.621963374659662">
+<Word Stem="морков" Weight="0.622438275480339">
 <Allolog Form="моркови"/>
 <Allolog Form="морковь"/>
 <Allolog Form="морковью"/>
 <Allolog Form="моркова"/>
 </Word>
 
-<Word Stem="бока" Weight="0.080481632651338">
+<Word Stem="бока" Weight="0.0788037956245873">
 <Allolog Form="бокала"/>
 <Allolog Form="бокал"/>
 </Word>
 
-<Word Stem="бобов" Weight="0.0514603686365105">
+<Word Stem="бобов" Weight="0.0514780475293735">
 <Allolog Form="бобовые"/>
 <Allolog Form="бобовыми"/>
 <Allolog Form="бобовая"/>
@@ -1448,25 +1475,28 @@
 <Allolog Form="горбушей"/>
 </Word>
 
-<Word Stem="виноградн" Weight="0.0696229936247609">
+<Word Stem="виноградн" Weight="0.0698562347333203">
 <Allolog Form="виноградная"/>
+<Allolog Form="виноградный"/>
+<Allolog Form="виноградной"/>
+<Allolog Form="виноградном"/>
+<Allolog Form="виноградную"/>
 <Allolog Form="виноградное"/>
 <Allolog Form="виноградные"/>
 <Allolog Form="виноградным"/>
 <Allolog Form="виноградного"/>
 <Allolog Form="виноградными"/>
-<Allolog Form="виноградный"/>
-<Allolog Form="виноградной"/>
-<Allolog Form="виноградном"/>
 </Word>
 
-<Word Stem="краб" Weight="0.0747121194846654">
+<Word Stem="краб" Weight="0.071629198806628">
 <Allolog Form="крабов"/>
 <Allolog Form="крабы"/>
-<Allolog Form="крабами"/>
-<Allolog Form="крабам"/>
 <Allolog Form="краба"/>
 <Allolog Form="краб"/>
+<Allolog Form="крабами"/>
+<Allolog Form="крабу"/>
+<Allolog Form="крабом"/>
+<Allolog Form="крабам"/>
 </Word>
 
 <Word Stem="алыч" Weight="0.0603097595011738">
@@ -1522,7 +1552,7 @@
 <Allolog Form="початк"/>
 </Word>
 
-<Word Stem="земляник" Weight="0.0650438213457578">
+<Word Stem="земляник" Weight="0.0650902284395231">
 <Allolog Form="земляники"/>
 <Allolog Form="земляника"/>
 <Allolog Form="земляникой"/>
@@ -1530,9 +1560,10 @@
 <Allolog Form="землянике"/>
 </Word>
 
-<Word Stem="кипячен" Weight="0.0889907427568216">
+<Word Stem="кипячен" Weight="0.0894861511352932">
 <Allolog Form="кипячение"/>
 <Allolog Form="кипячении"/>
+<Allolog Form="кипячением"/>
 <Allolog Form="кипяченым"/>
 <Allolog Form="кипяченой"/>
 <Allolog Form="кипяченую"/>
@@ -1545,20 +1576,19 @@
 <Allolog Form="кипяченным"/>
 <Allolog Form="кипячения"/>
 <Allolog Form="кипяченого"/>
-<Allolog Form="кипячением"/>
 <Allolog Form="кипячеными"/>
 </Word>
 
-<Word Stem="рыбн" Weight="0.66965930032086">
+<Word Stem="рыбн" Weight="0.669789226579654">
 <Allolog Form="рыбной"/>
 <Allolog Form="рыбными"/>
 <Allolog Form="рыбного"/>
-<Allolog Form="рыбный"/>
 <Allolog Form="рыбное"/>
+<Allolog Form="рыбную"/>
+<Allolog Form="рыбный"/>
 <Allolog Form="рыбная"/>
 <Allolog Form="рыбные"/>
 <Allolog Form="рыбным"/>
-<Allolog Form="рыбную"/>
 <Allolog Form="рыбном"/>
 <Allolog Form="рыбною"/>
 </Word>
@@ -1568,7 +1598,7 @@
 <Allolog Form="разделки"/>
 </Word>
 
-<Word Stem="щавел" Weight="0.109520111443192">
+<Word Stem="щавел" Weight="0.109537790336055">
 <Allolog Form="щавеля"/>
 <Allolog Form="щавель"/>
 <Allolog Form="щавелем"/>
@@ -1580,27 +1610,27 @@
 <Allolog Form="кресс"/>
 </Word>
 
-<Word Stem="орех" Weight="0.403004205402775">
+<Word Stem="орех" Weight="0.402374001353773">
 <Allolog Form="ореха"/>
+<Allolog Form="орех"/>
 <Allolog Form="орехи"/>
+<Allolog Form="орехов"/>
 <Allolog Form="орехом"/>
 <Allolog Form="орехами"/>
-<Allolog Form="орех"/>
-<Allolog Form="орехов"/>
 <Allolog Form="орехам"/>
 <Allolog Form="ореху"/>
 <Allolog Form="орехах"/>
 <Allolog Form="орехо"/>
 </Word>
 
-<Word Stem="кашта" Weight="0.054729354782417">
+<Word Stem="кашта" Weight="0.0547702646171413">
 <Allolog Form="каштана"/>
 <Allolog Form="каштан"/>
 <Allolog Form="каштаны"/>
 <Allolog Form="каштано"/>
 </Word>
 
-<Word Stem="апельсин" Weight="0.167375274599063">
+<Word Stem="апельсин" Weight="0.167768172730625">
 <Allolog Form="апельсина"/>
 <Allolog Form="апельсинная"/>
 <Allolog Form="апельсин"/>
@@ -1622,13 +1652,14 @@
 <Allolog Form="креветки"/>
 <Allolog Form="креветками"/>
 <Allolog Form="креветку"/>
+<Allolog Form="креветкой"/>
 </Word>
 
 <Word Stem="рыбных" Weight="0.5123805431068">
 <Allolog Form="рыбных"/>
 </Word>
 
-<Word Stem="налим" Weight="0.0603097595011738">
+<Word Stem="налим" Weight="0.0593997381598419">
 <Allolog Form="налимы"/>
 <Allolog Form="налима"/>
 <Allolog Form="налимов"/>
@@ -1739,12 +1770,12 @@
 <Allolog Form="сырности"/>
 </Word>
 
-<Word Stem="мясн" Weight="0.268229326816044">
+<Word Stem="мясн" Weight="0.268384598618422">
 <Allolog Form="мясные"/>
 <Allolog Form="мясная"/>
 <Allolog Form="мясной"/>
-<Allolog Form="мясную"/>
 <Allolog Form="мясным"/>
+<Allolog Form="мясную"/>
 <Allolog Form="мясного"/>
 <Allolog Form="мясное"/>
 <Allolog Form="мясными"/>
@@ -1767,11 +1798,12 @@
 <Allolog Form="кондитерскую"/>
 </Word>
 
-<Word Stem="банан" Weight="0.0647250203116125">
+<Word Stem="банан" Weight="0.0632866165785075">
 <Allolog Form="бананов"/>
 <Allolog Form="бананами"/>
 <Allolog Form="бананом"/>
 <Allolog Form="бананам"/>
+<Allolog Form="бананах"/>
 <Allolog Form="банане"/>
 <Allolog Form="банану"/>
 </Word>
@@ -1793,12 +1825,12 @@
 <Allolog Form="пектином"/>
 </Word>
 
-<Word Stem="крахма" Weight="0.541647659667948">
+<Word Stem="крахма" Weight="0.542739742261291">
 <Allolog Form="крахмал"/>
 <Allolog Form="крахмала"/>
 </Word>
 
-<Word Stem="варк" Weight="0.226317304050764">
+<Word Stem="варк" Weight="0.226377014455302">
 <Allolog Form="варке"/>
 <Allolog Form="варки"/>
 <Allolog Form="варка"/>
@@ -1807,22 +1839,22 @@
 <Allolog Form="варками"/>
 </Word>
 
-<Word Stem="желатин" Weight="0.56860043501765">
+<Word Stem="желатин" Weight="0.56868302297182">
 <Allolog Form="желатину"/>
+<Allolog Form="желатине"/>
+<Allolog Form="желатина"/>
 <Allolog Form="желатин"/>
 <Allolog Form="желатином"/>
-<Allolog Form="желатина"/>
-<Allolog Form="желатине"/>
 <Allolog Form="желатины"/>
 </Word>
 
-<Word Stem="яичн" Weight="0.202133194327538">
+<Word Stem="яичн" Weight="0.202163404667027">
 <Allolog Form="яичный"/>
 <Allolog Form="яичного"/>
+<Allolog Form="яичной"/>
 <Allolog Form="яичные"/>
 <Allolog Form="яичным"/>
 <Allolog Form="яично"/>
-<Allolog Form="яичной"/>
 <Allolog Form="яичную"/>
 <Allolog Form="яичная"/>
 <Allolog Form="яичном"/>
@@ -1845,14 +1877,14 @@
 <Allolog Form="томатам"/>
 </Word>
 
-<Word Stem="рябин" Weight="0.06803348986744">
+<Word Stem="рябин" Weight="0.0681257926820367">
 <Allolog Form="рябины"/>
 <Allolog Form="рябина"/>
 <Allolog Form="рябиной"/>
 <Allolog Form="рябину"/>
 </Word>
 
-<Word Stem="арбуз" Weight="0.0625143166860747">
+<Word Stem="арбуз" Weight="0.0626439949161419">
 <Allolog Form="арбуза"/>
 <Allolog Form="арбузе"/>
 <Allolog Form="арбузы"/>
@@ -1861,9 +1893,10 @@
 <Allolog Form="арбузов"/>
 <Allolog Form="арбузами"/>
 <Allolog Form="арбузу"/>
+<Allolog Form="арбузах"/>
 </Word>
 
-<Word Stem="свекл" Weight="0.277852250862702">
+<Word Stem="свекл" Weight="0.277977112531989">
 <Allolog Form="свекле"/>
 <Allolog Form="свекла"/>
 <Allolog Form="свеклы"/>
@@ -1871,7 +1904,7 @@
 <Allolog Form="свеклой"/>
 </Word>
 
-<Word Stem="картофел" Weight="0.813118460074677">
+<Word Stem="картофел" Weight="0.813303369938401">
 <Allolog Form="картофеля"/>
 <Allolog Form="картофелем"/>
 <Allolog Form="картофель"/>
@@ -1881,16 +1914,16 @@
 <Allolog Form="картофелю"/>
 </Word>
 
-<Word Stem="капуст" Weight="0.702807268795457">
+<Word Stem="капуст" Weight="0.701509880933419">
 <Allolog Form="капусты"/>
+<Allolog Form="капусте"/>
 <Allolog Form="капуста"/>
 <Allolog Form="капусту"/>
 <Allolog Form="капустой"/>
-<Allolog Form="капусте"/>
 <Allolog Form="капусти"/>
 </Word>
 
-<Word Stem="ревен" Weight="0.0623479127520996">
+<Word Stem="ревен" Weight="0.0623632539401212">
 <Allolog Form="ревеня"/>
 <Allolog Form="ревенем"/>
 <Allolog Form="ревень"/>
@@ -1902,12 +1935,12 @@
 <Allolog Form="крахмального"/>
 <Allolog Form="крахмальный"/>
 <Allolog Form="крахмальности"/>
-<Allolog Form="крахмальной"/>
 <Allolog Form="крахмальную"/>
+<Allolog Form="крахмальной"/>
 <Allolog Form="крахмальная"/>
 </Word>
 
-<Word Stem="зерен" Weight="0.0576002491039102">
+<Word Stem="зерен" Weight="0.058008575556098">
 <Allolog Form="зерен"/>
 </Word>
 
@@ -1915,7 +1948,7 @@
 <Allolog Form="очищенных"/>
 </Word>
 
-<Word Stem="горьк" Weight="0.059794918912635">
+<Word Stem="горьк" Weight="0.0554612496666137">
 <Allolog Form="горькие"/>
 <Allolog Form="горького"/>
 <Allolog Form="горький"/>
@@ -1933,7 +1966,7 @@
 <Allolog Form="горьков"/>
 </Word>
 
-<Word Stem="карп" Weight="0.0773529321976982">
+<Word Stem="карп" Weight="0.0655198653813732">
 <Allolog Form="карп"/>
 <Allolog Form="карпа"/>
 <Allolog Form="карпов"/>
@@ -1953,6 +1986,7 @@
 
 <Word Stem="раков" Weight="0.0749760456909317">
 <Allolog Form="раковые"/>
+<Allolog Form="раковой"/>
 <Allolog Form="раковыми"/>
 <Allolog Form="раковый"/>
 <Allolog Form="раковая"/>
@@ -1961,11 +1995,10 @@
 <Allolog Form="ракового"/>
 <Allolog Form="раковом"/>
 <Allolog Form="ракова"/>
-<Allolog Form="раковой"/>
 <Allolog Form="раковую"/>
 </Word>
 
-<Word Stem="пестик" Weight="0.0512344578432342">
+<Word Stem="пестик" Weight="0.051429318396151">
 <Allolog Form="пестики"/>
 <Allolog Form="пестиков"/>
 <Allolog Form="пестике"/>
@@ -1975,7 +2008,7 @@
 <Allolog Form="пестиками"/>
 </Word>
 
-<Word Stem="клубник" Weight="0.102708204366729">
+<Word Stem="клубник" Weight="0.10293648826994">
 <Allolog Form="клубники"/>
 <Allolog Form="клубника"/>
 <Allolog Form="клубникой"/>
@@ -1984,30 +2017,30 @@
 <Allolog Form="клубник"/>
 </Word>
 
-<Word Stem="редьк" Weight="0.0817515627326749">
+<Word Stem="редьк" Weight="0.0818380069921358">
 <Allolog Form="редьки"/>
 <Allolog Form="редьку"/>
 <Allolog Form="редькой"/>
 <Allolog Form="редька"/>
 </Word>
 
-<Word Stem="плит" Weight="0.0130353201902562">
+<Word Stem="плит" Weight="0.0108276882441553">
 <Allolog Form="плит"/>
 <Allolog Form="плиты"/>
-<Allolog Form="плиту"/>
-<Allolog Form="плита"/>
+<Allolog Form="плитами"/>
 <Allolog Form="плитой"/>
+<Allolog Form="плита"/>
+<Allolog Form="плиту"/>
 <Allolog Form="плитам"/>
 <Allolog Form="плитах"/>
-<Allolog Form="плитами"/>
 </Word>
 
-<Word Stem="салат" Weight="1.17065920177761">
+<Word Stem="салат" Weight="1.17115970214265">
 <Allolog Form="салат"/>
+<Allolog Form="салата"/>
 <Allolog Form="салатов"/>
 <Allolog Form="салаты"/>
 <Allolog Form="салатом"/>
-<Allolog Form="салата"/>
 <Allolog Form="салатам"/>
 <Allolog Form="салатах"/>
 <Allolog Form="салатами"/>
@@ -2028,30 +2061,43 @@
 <Word Stem="зефир" Weight="0.0530783263025881">
 <Allolog Form="зефира"/>
 <Allolog Form="зефир"/>
+<Allolog Form="зефире"/>
 </Word>
 
-<Word Stem="яблочн" Weight="0.107678923645426">
+<Word Stem="яблочн" Weight="0.107768294225858">
 <Allolog Form="яблочной"/>
 <Allolog Form="яблочное"/>
+<Allolog Form="яблочный"/>
+<Allolog Form="яблочном"/>
 <Allolog Form="яблочного"/>
 <Allolog Form="яблочным"/>
 <Allolog Form="яблочную"/>
 <Allolog Form="яблочно"/>
-<Allolog Form="яблочный"/>
 <Allolog Form="яблочные"/>
 <Allolog Form="яблочная"/>
-<Allolog Form="яблочном"/>
 <Allolog Form="яблочными"/>
 </Word>
 
-<Word Stem="можжевельник" Weight="0.0512535293997334">
+<Word Stem="можжевельник" Weight="0.0513399736591942">
 <Allolog Form="можжевельники"/>
 <Allolog Form="можжевельника"/>
 <Allolog Form="можжевельник"/>
 <Allolog Form="можжевельником"/>
 </Word>
 
-<Word Stem="терк" Weight="0.176602419574903">
+<Word Stem="известков" Weight="0.00103536127395561">
+<Allolog Form="известковая"/>
+<Allolog Form="известковым"/>
+<Allolog Form="известковую"/>
+<Allolog Form="известковом"/>
+<Allolog Form="известковые"/>
+<Allolog Form="известкового"/>
+<Allolog Form="известковой"/>
+<Allolog Form="известковый"/>
+<Allolog Form="известковыми"/>
+</Word>
+
+<Word Stem="терк" Weight="0.176657209532123">
 <Allolog Form="терку"/>
 <Allolog Form="терке"/>
 <Allolog Form="теркой"/>
@@ -2060,9 +2106,420 @@
 <Allolog Form="тёрке"/>
 </Word>
 
+<Word Stem="сохранит" Weight="0.05">
+<Allolog Form="сохранится"/>
+<Allolog Form="сохранит"/>
+<Allolog Form="сохранити"/>
+</Word>
+
+<Word Stem="геркулес" Weight="0.0520363330826894">
+<Allolog Form="геркулеса"/>
+<Allolog Form="геркулесе"/>
+<Allolog Form="геркулес"/>
+</Word>
+
+<Word Stem="чечевиц" Weight="0.0601587685704901">
+<Allolog Form="чечевицу"/>
+<Allolog Form="чечевицы"/>
+<Allolog Form="чечевици"/>
+<Allolog Form="чечевица"/>
+<Allolog Form="чечевицей"/>
+<Allolog Form="чечевице"/>
+</Word>
+
+<Word Stem="рисов" Weight="0.0719470472463068">
+<Allolog Form="рисовые"/>
+<Allolog Form="рисовая"/>
+<Allolog Form="рисовой"/>
+<Allolog Form="рисовую"/>
+<Allolog Form="рисовый"/>
+<Allolog Form="рисовым"/>
+<Allolog Form="рисово"/>
+<Allolog Form="рисового"/>
+<Allolog Form="рисовом"/>
+<Allolog Form="рисовое"/>
+</Word>
+
+<Word Stem="истолч" Weight="0.0517412754842922">
+<Allolog Form="истолчем"/>
+<Allolog Form="истолч"/>
+</Word>
+
+<Word Stem="горчиц" Weight="0.20070796709583">
+<Allolog Form="горчицы"/>
+<Allolog Form="горчица"/>
+<Allolog Form="горчицу"/>
+<Allolog Form="горчицей"/>
+<Allolog Form="горчице"/>
+</Word>
+
+<Word Stem="напиток" Weight="0.0862759547853014">
+<Allolog Form="напиток"/>
+</Word>
+
+<Word Stem="спарж" Weight="0.0900607170242399">
+<Allolog Form="спаржи"/>
+<Allolog Form="спаржу"/>
+<Allolog Form="спаржа"/>
+<Allolog Form="спарже"/>
+<Allolog Form="спаржей"/>
+</Word>
+
+<Word Stem="поварен" Weight="0.00120618883421224">
+<Allolog Form="поваренной"/>
+<Allolog Form="поваренную"/>
+<Allolog Form="поваренная"/>
+<Allolog Form="поваренные"/>
+<Allolog Form="поварен"/>
+<Allolog Form="повареная"/>
+</Word>
+
+<Word Stem="прожар" Weight="0.054506830665227">
+<Allolog Form="прожарены"/>
+<Allolog Form="прожарилась"/>
+<Allolog Form="прожарить"/>
+<Allolog Form="прожари"/>
+<Allolog Form="прожарились"/>
+</Word>
+
+<Word Stem="торт" Weight="0.240614274187212">
+<Allolog Form="торт"/>
+<Allolog Form="торты"/>
+<Allolog Form="торту"/>
+<Allolog Form="тортов"/>
+<Allolog Form="торта"/>
+<Allolog Form="тортом"/>
+<Allolog Form="торте"/>
+<Allolog Form="тортам"/>
+</Word>
+
+<Word Stem="рассол" Weight="0.151380755599328">
+<Allolog Form="рассолов"/>
+<Allolog Form="рассолом"/>
+<Allolog Form="рассол"/>
+<Allolog Form="рассоле"/>
+<Allolog Form="рассола"/>
+<Allolog Form="рассолу"/>
+<Allolog Form="рассолы"/>
+</Word>
+
+<Word Stem="шерр" Weight="0.0533115924081056">
+<Allolog Form="шерри"/>
+</Word>
+
+<Word Stem="карр" Weight="0.0574950553454318">
+<Allolog Form="карр"/>
+<Allolog Form="карра"/>
+<Allolog Form="карри"/>
+<Allolog Form="карре"/>
+</Word>
+
+<Word Stem="малин" Weight="0.0825219096490998">
+<Allolog Form="малин"/>
+<Allolog Form="малина"/>
+<Allolog Form="малину"/>
+<Allolog Form="малином"/>
+<Allolog Form="малины"/>
+<Allolog Form="малине"/>
+<Allolog Form="малиной"/>
+<Allolog Form="малинный"/>
+<Allolog Form="малино"/>
+<Allolog Form="малинного"/>
+<Allolog Form="малинов"/>
+</Word>
+
+<Word Stem="крендел" Weight="0.0515111108143112">
+<Allolog Form="кренделя"/>
+<Allolog Form="крендели"/>
+<Allolog Form="крендель"/>
+<Allolog Form="кренделе"/>
+</Word>
+
+<Word Stem="семг" Weight="0.0574950553454318">
+<Allolog Form="семга"/>
+<Allolog Form="семгой"/>
+<Allolog Form="семги"/>
+<Allolog Form="семгу"/>
+<Allolog Form="семге"/>
+</Word>
+
+<Word Stem="морковк" Weight="0.0668680087038404">
+<Allolog Form="морковки"/>
+<Allolog Form="морковку"/>
+<Allolog Form="морковка"/>
+<Allolog Form="морковкой"/>
+<Allolog Form="морковками"/>
+</Word>
+
+<Word Stem="бана" Weight="0.0769323354707688">
+<Allolog Form="банана"/>
+<Allolog Form="банан"/>
+<Allolog Form="бананы"/>
+</Word>
+
+<Word Stem="медов" Weight="0.0582317333578131">
+<Allolog Form="медовые"/>
+<Allolog Form="медовыми"/>
+<Allolog Form="медовый"/>
+<Allolog Form="медовая"/>
+<Allolog Form="медовом"/>
+<Allolog Form="медовое"/>
+<Allolog Form="медово"/>
+<Allolog Form="медовой"/>
+<Allolog Form="медовым"/>
+<Allolog Form="медового"/>
+</Word>
+
+<Word Stem="баклажа" Weight="0.17854450842167">
+<Allolog Form="баклажан"/>
+<Allolog Form="баклажаны"/>
+<Allolog Form="баклажанный"/>
+<Allolog Form="баклажанное"/>
+<Allolog Form="баклажана"/>
+<Allolog Form="баклажанная"/>
+<Allolog Form="баклажанной"/>
+<Allolog Form="баклажанные"/>
+</Word>
+
+<Word Stem="вишн" Weight="0.173284348740509">
+<Allolog Form="вишну"/>
+<Allolog Form="вишн"/>
+<Allolog Form="вишни"/>
+<Allolog Form="вишня"/>
+<Allolog Form="вишнях"/>
+<Allolog Form="вишней"/>
+<Allolog Form="вишню"/>
+<Allolog Form="вишнями"/>
+<Allolog Form="вишне"/>
+<Allolog Form="вишняя"/>
+</Word>
+
+<Word Stem="финик" Weight="0.0533115924081056">
+<Allolog Form="финикии"/>
+<Allolog Form="финики"/>
+<Allolog Form="фиников"/>
+<Allolog Form="финикий"/>
+<Allolog Form="финикия"/>
+<Allolog Form="финике"/>
+</Word>
+
+<Word Stem="взбит" Weight="0.207532162461509">
+<Allolog Form="взбитой"/>
+<Allolog Form="взбитые"/>
+<Allolog Form="взбитыми"/>
+<Allolog Form="взбитого"/>
+<Allolog Form="взбитое"/>
+<Allolog Form="взбитый"/>
+<Allolog Form="взбитая"/>
+<Allolog Form="взбитым"/>
+<Allolog Form="взбитом"/>
+<Allolog Form="взбит"/>
+<Allolog Form="взбитую"/>
+<Allolog Form="взбитии"/>
+<Allolog Form="взбития"/>
+<Allolog Form="взбито"/>
+</Word>
+
+<Word Stem="растоп" Weight="0.0855556251054115">
+<Allolog Form="растопить"/>
+<Allolog Form="растопите"/>
+<Allolog Form="растоп"/>
+<Allolog Form="растопился"/>
+<Allolog Form="растопим"/>
+<Allolog Form="растопил"/>
+</Word>
+
+<Word Stem="грил" Weight="0.0592808705647327">
+<Allolog Form="гриля"/>
+<Allolog Form="гриле"/>
+<Allolog Form="гриль"/>
+<Allolog Form="грилю"/>
+<Allolog Form="грилем"/>
+</Word>
+
+<Word Stem="тушен" Weight="0.162324087348734">
+<Allolog Form="тушению"/>
+<Allolog Form="тушеный"/>
+<Allolog Form="тушеная"/>
+<Allolog Form="тушеной"/>
+<Allolog Form="тушения"/>
+<Allolog Form="тушенные"/>
+<Allolog Form="тушеные"/>
+<Allolog Form="тушеное"/>
+<Allolog Form="тушении"/>
+<Allolog Form="тушеным"/>
+<Allolog Form="тушеном"/>
+<Allolog Form="тушеными"/>
+<Allolog Form="тушенная"/>
+<Allolog Form="тушенный"/>
+<Allolog Form="тушение"/>
+<Allolog Form="тушеную"/>
+<Allolog Form="тушением"/>
+<Allolog Form="тушенную"/>
+<Allolog Form="тушеного"/>
+<Allolog Form="тушенным"/>
+<Allolog Form="тушенное"/>
+</Word>
+
+<Word Stem="пончик" Weight="0.0528474870188092">
+<Allolog Form="пончик"/>
+<Allolog Form="пончики"/>
+<Allolog Form="пончиков"/>
+<Allolog Form="пончикам"/>
+<Allolog Form="пончиками"/>
+</Word>
+
+<Word Stem="размеша" Weight="0.205941368644664">
+<Allolog Form="размешалось"/>
+<Allolog Form="размешались"/>
+<Allolog Form="размешанной"/>
+<Allolog Form="размешать"/>
+<Allolog Form="размешав"/>
+<Allolog Form="размешайте"/>
+<Allolog Form="размешанную"/>
+<Allolog Form="размешанное"/>
+<Allolog Form="размешанные"/>
+<Allolog Form="размешалась"/>
+<Allolog Form="размешанным"/>
+<Allolog Form="размешаем"/>
+<Allolog Form="размешанный"/>
+<Allolog Form="размешано"/>
+<Allolog Form="размешается"/>
+<Allolog Form="размешаются"/>
+</Word>
+
+<Word Stem="гречнев" Weight="0.110761698804589">
+<Allolog Form="гречневую"/>
+<Allolog Form="гречневая"/>
+<Allolog Form="гречневой"/>
+<Allolog Form="гречневые"/>
+<Allolog Form="гречневыми"/>
+<Allolog Form="гречневое"/>
+<Allolog Form="гречневого"/>
+</Word>
+
+<Word Stem="картофельн" Weight="0.218509353233409">
+<Allolog Form="картофельное"/>
+<Allolog Form="картофельная"/>
+<Allolog Form="картофельный"/>
+<Allolog Form="картофельной"/>
+<Allolog Form="картофельные"/>
+<Allolog Form="картофельного"/>
+<Allolog Form="картофельным"/>
+<Allolog Form="картофельном"/>
+<Allolog Form="картофельную"/>
+<Allolog Form="картофельными"/>
+<Allolog Form="картофельно"/>
+</Word>
+
+<Word Stem="блюдц" Weight="0.0557611494635971">
+<Allolog Form="блюдца"/>
+<Allolog Form="блюдцем"/>
+<Allolog Form="блюдце"/>
+<Allolog Form="блюдцам"/>
+<Allolog Form="блюдцу"/>
+<Allolog Form="блюдцами"/>
+<Allolog Form="блюдцах"/>
+</Word>
+
+<Word Stem="нарезк" Weight="0.0517412754842922">
+<Allolog Form="нарезку"/>
+<Allolog Form="нарезка"/>
+<Allolog Form="нарезке"/>
+<Allolog Form="нарезкой"/>
+<Allolog Form="нарезки"/>
+</Word>
+
+<Word Stem="кака" Weight="0.152827890696802">
+<Allolog Form="какао"/>
+<Allolog Form="какай"/>
+<Allolog Form="какать"/>
+<Allolog Form="какал"/>
+<Allolog Form="какают"/>
+<Allolog Form="какаешь"/>
+<Allolog Form="какает"/>
+</Word>
+
+<Word Stem="фруктов" Weight="0.0855521266049186">
+<Allolog Form="фруктовой"/>
+<Allolog Form="фруктовый"/>
+<Allolog Form="фруктового"/>
+<Allolog Form="фруктовом"/>
+<Allolog Form="фруктовую"/>
+<Allolog Form="фруктовые"/>
+<Allolog Form="фруктовая"/>
+<Allolog Form="фруктовым"/>
+<Allolog Form="фруктовое"/>
+<Allolog Form="фруктово"/>
+<Allolog Form="фруктовыми"/>
+</Word>
+
+<Word Stem="блюд" Weight="0.90447541597528">
+<Allolog Form="блюдами"/>
+<Allolog Form="блюда"/>
+<Allolog Form="блюд"/>
+<Allolog Form="блюдом"/>
+<Allolog Form="блюдо"/>
+<Allolog Form="блюду"/>
+<Allolog Form="блюде"/>
+<Allolog Form="блюдам"/>
+<Allolog Form="блюдах"/>
+<Allolog Form="блюдая"/>
+</Word>
+
+<Word Stem="ветчин" Weight="0.183597119149036">
+<Allolog Form="ветчиной"/>
+<Allolog Form="ветчина"/>
+<Allolog Form="ветчину"/>
+<Allolog Form="ветчины"/>
+<Allolog Form="ветчине"/>
+<Allolog Form="ветчинно"/>
+<Allolog Form="ветчинные"/>
+<Allolog Form="ветчинного"/>
+<Allolog Form="ветчинным"/>
+<Allolog Form="ветчинная"/>
+<Allolog Form="ветчинную"/>
+</Word>
+
+<Word Stem="консервирован" Weight="0.526824510064734">
+<Allolog Form="консервирования"/>
+<Allolog Form="консервирование"/>
+<Allolog Form="консервировании"/>
+<Allolog Form="консервированию"/>
+<Allolog Form="консервированый"/>
+<Allolog Form="консервированием"/>
+<Allolog Form="консервированые"/>
+</Word>
+
+<Word Stem="консервн" Weight="0.0515328291465562">
+<Allolog Form="консервные"/>
+<Allolog Form="консервной"/>
+<Allolog Form="консервная"/>
+<Allolog Form="консервную"/>
+<Allolog Form="консервном"/>
+<Allolog Form="консервными"/>
+</Word>
+
+<Word Stem="консервирова" Weight="0.139962635984442">
+<Allolog Form="консервированные"/>
+<Allolog Form="консервированными"/>
+<Allolog Form="консервированный"/>
+<Allolog Form="консервированная"/>
+<Allolog Form="консервированной"/>
+<Allolog Form="консервировать"/>
+<Allolog Form="консервированную"/>
+<Allolog Form="консервированного"/>
+<Allolog Form="консервированно"/>
+<Allolog Form="консервированным"/>
+<Allolog Form="консервированном"/>
+<Allolog Form="консервированное"/>
+<Allolog Form="консервировались"/>
+<Allolog Form="консервировала"/>
+</Word>
+
 <Word Stem="кулинарн" Weight="0.058512902367651">
-<Allolog Form="кулинарная"/>
 <Allolog Form="кулинарного"/>
+<Allolog Form="кулинарная"/>
 <Allolog Form="кулинарные"/>
 <Allolog Form="кулинарными"/>
 <Allolog Form="кулинарную"/>
@@ -2074,7 +2531,149 @@
 <Allolog Form="кулинарный"/>
 </Word>
 
-<Word Stem="варен" Weight="0.853298407058354">
+<Word Stem="приготавлива" Weight="0.0574950553454318">
+<Allolog Form="приготавливаемая"/>
+<Allolog Form="приготавливается"/>
+<Allolog Form="приготавливали"/>
+<Allolog Form="приготавливают"/>
+<Allolog Form="приготавливаются"/>
+<Allolog Form="приготавливать"/>
+</Word>
+
+<Word Stem="аппетитн" Weight="0.0516917548307949">
+<Allolog Form="аппетитный"/>
+<Allolog Form="аппетитна"/>
+<Allolog Form="аппетитно"/>
+<Allolog Form="аппетитное"/>
+<Allolog Form="аппетитной"/>
+<Allolog Form="аппетитные"/>
+<Allolog Form="аппетитная"/>
+<Allolog Form="аппетитными"/>
+<Allolog Form="аппетитным"/>
+<Allolog Form="аппетитней"/>
+</Word>
+
+<Word Stem="выпеч" Weight="0.0657706973349431">
+<Allolog Form="выпечь"/>
+<Allolog Form="выпеч"/>
+</Word>
+
+<Word Stem="булочк" Weight="0.0702738796239149">
+<Allolog Form="булочки"/>
+<Allolog Form="булочка"/>
+<Allolog Form="булочку"/>
+<Allolog Form="булочкой"/>
+<Allolog Form="булочками"/>
+<Allolog Form="булочке"/>
+<Allolog Form="булочкам"/>
+</Word>
+
+<Word Stem="вкусов" Weight="0.0574925414647769">
+<Allolog Form="вкусовыми"/>
+<Allolog Form="вкусовые"/>
+<Allolog Form="вкусовая"/>
+<Allolog Form="вкусовую"/>
+<Allolog Form="вкусовым"/>
+<Allolog Form="вкусовой"/>
+<Allolog Form="вкусовом"/>
+<Allolog Form="вкусовое"/>
+<Allolog Form="вкусового"/>
+</Word>
+
+<Word Stem="приготовля" Weight="0.0260321098309925">
+<Allolog Form="приготовляли"/>
+<Allolog Form="приготовляют"/>
+<Allolog Form="приготовлять"/>
+<Allolog Form="приготовляется"/>
+<Allolog Form="приготовлялись"/>
+<Allolog Form="приготовлялся"/>
+<Allolog Form="приготовляемый"/>
+<Allolog Form="приготовляет"/>
+<Allolog Form="приготовляемые"/>
+<Allolog Form="приготовляются"/>
+<Allolog Form="приготовляемого"/>
+<Allolog Form="приготовляйте"/>
+<Allolog Form="приготовляете"/>
+</Word>
+
+<Word Stem="соус" Weight="1.62671150240158">
+<Allolog Form="соусы"/>
+<Allolog Form="соусе"/>
+<Allolog Form="соуса"/>
+<Allolog Form="соус"/>
+<Allolog Form="соусом"/>
+<Allolog Form="соусу"/>
+<Allolog Form="соусов"/>
+<Allolog Form="соусам"/>
+<Allolog Form="соусами"/>
+<Allolog Form="соусах"/>
+</Word>
+
+<Word Stem="окорок" Weight="0.07550400777265">
+<Allolog Form="окорока"/>
+<Allolog Form="окороков"/>
+<Allolog Form="окорок"/>
+<Allolog Form="окороками"/>
+<Allolog Form="окороком"/>
+<Allolog Form="окороку"/>
+</Word>
+
+<Word Stem="помидор" Weight="0.583237125726185">
+<Allolog Form="помидора"/>
+<Allolog Form="помидоров"/>
+<Allolog Form="помидоры"/>
+<Allolog Form="помидор"/>
+<Allolog Form="помидорами"/>
+<Allolog Form="помидором"/>
+<Allolog Form="помидору"/>
+<Allolog Form="помидорам"/>
+<Allolog Form="помидорах"/>
+</Word>
+
+<Word Stem="консерв" Weight="0.0821134040208262">
+<Allolog Form="консервы"/>
+<Allolog Form="консервами"/>
+<Allolog Form="консервов"/>
+<Allolog Form="консерв"/>
+<Allolog Form="консервах"/>
+<Allolog Form="консерву"/>
+<Allolog Form="консервам"/>
+<Allolog Form="консерва"/>
+</Word>
+
+<Word Stem="жарен" Weight="0.244882517272194">
+<Allolog Form="жареном"/>
+<Allolog Form="жареный"/>
+<Allolog Form="жареные"/>
+<Allolog Form="жареное"/>
+<Allolog Form="жареная"/>
+<Allolog Form="жарении"/>
+<Allolog Form="жареного"/>
+<Allolog Form="жареными"/>
+<Allolog Form="жаренный"/>
+<Allolog Form="жареной"/>
+<Allolog Form="жаренья"/>
+<Allolog Form="жаренного"/>
+<Allolog Form="жаренные"/>
+<Allolog Form="жаренную"/>
+<Allolog Form="жареным"/>
+<Allolog Form="жаренной"/>
+<Allolog Form="жарения"/>
+<Allolog Form="жаренная"/>
+<Allolog Form="жаренье"/>
+<Allolog Form="жаренным"/>
+<Allolog Form="жарен"/>
+<Allolog Form="жареную"/>
+<Allolog Form="жаренными"/>
+<Allolog Form="жарением"/>
+<Allolog Form="жаренния"/>
+<Allolog Form="жареньем"/>
+<Allolog Form="жарение"/>
+<Allolog Form="жарений"/>
+</Word>
+
+<Word Stem="варен" Weight="0.853414342607832">
+<Allolog Form="вареном"/>
 <Allolog Form="варенья"/>
 <Allolog Form="варенье"/>
 <Allolog Form="варен"/>
@@ -2089,7 +2688,6 @@
 <Allolog Form="вареное"/>
 <Allolog Form="варение"/>
 <Allolog Form="варения"/>
-<Allolog Form="вареном"/>
 <Allolog Form="варено"/>
 <Allolog Form="варенными"/>
 <Allolog Form="вареным"/>
@@ -2103,7 +2701,467 @@
 <Allolog Form="варени"/>
 </Word>
 
-<Word Stem="заготовк" Weight="0.0583545998799324">
+<Word Stem="бананов" Weight="0.0564860208515436">
+<Allolog Form="банановой"/>
+<Allolog Form="банановый"/>
+<Allolog Form="банановую"/>
+<Allolog Form="бананового"/>
+<Allolog Form="банановая"/>
+<Allolog Form="банановым"/>
+<Allolog Form="бананово"/>
+<Allolog Form="банановое"/>
+<Allolog Form="банановые"/>
+</Word>
+
+<Word Stem="овсяных" Weight="0.0516811996775337">
+<Allolog Form="овсяных"/>
+</Word>
+
+<Word Stem="кукурузн" Weight="0.0730362483490668">
+<Allolog Form="кукурузной"/>
+<Allolog Form="кукурузная"/>
+<Allolog Form="кукурузные"/>
+<Allolog Form="кукурузного"/>
+<Allolog Form="кукурузными"/>
+<Allolog Form="кукурузную"/>
+<Allolog Form="кукурузное"/>
+<Allolog Form="кукурузно"/>
+<Allolog Form="кукурузным"/>
+<Allolog Form="кукурузный"/>
+<Allolog Form="кукурузном"/>
+</Word>
+
+<Word Stem="выпека" Weight="0.211255585104801">
+<Allolog Form="выпекал"/>
+<Allolog Form="выпекать"/>
+<Allolog Form="выпекаю"/>
+<Allolog Form="выпекайте"/>
+<Allolog Form="выпекается"/>
+<Allolog Form="выпекают"/>
+<Allolog Form="выпекаем"/>
+<Allolog Form="выпекай"/>
+<Allolog Form="выпекаются"/>
+<Allolog Form="выпекаете"/>
+<Allolog Form="выпекаешь"/>
+<Allolog Form="выпекаться"/>
+<Allolog Form="выпекающие"/>
+<Allolog Form="выпекался"/>
+<Allolog Form="выпекает"/>
+<Allolog Form="выпекала"/>
+</Word>
+
+<Word Stem="привкус" Weight="0.058512902367651">
+<Allolog Form="привкус"/>
+<Allolog Form="привкуса"/>
+<Allolog Form="привкусом"/>
+<Allolog Form="привкусов"/>
+<Allolog Form="привкусах"/>
+</Word>
+
+<Word Stem="орешк" Weight="0.058512902367651">
+<Allolog Form="орешка"/>
+<Allolog Form="орешками"/>
+<Allolog Form="орешки"/>
+<Allolog Form="орешком"/>
+<Allolog Form="орешков"/>
+</Word>
+
+<Word Stem="абрикос" Weight="0.0933504129880524">
+<Allolog Form="абрикосы"/>
+<Allolog Form="абрикосов"/>
+<Allolog Form="абрикосами"/>
+<Allolog Form="абрикос"/>
+<Allolog Form="абрикосах"/>
+<Allolog Form="абрикоса"/>
+</Word>
+
+<Word Stem="постн" Weight="0.0826121712841542">
+<Allolog Form="постные"/>
+<Allolog Form="постного"/>
+<Allolog Form="постную"/>
+<Allolog Form="постная"/>
+<Allolog Form="постном"/>
+<Allolog Form="постный"/>
+<Allolog Form="постное"/>
+<Allolog Form="постна"/>
+<Allolog Form="постным"/>
+<Allolog Form="постной"/>
+<Allolog Form="постными"/>
+<Allolog Form="постно"/>
+</Word>
+
+<Word Stem="шпинат" Weight="0.121590096286097">
+<Allolog Form="шпината"/>
+<Allolog Form="шпинат"/>
+<Allolog Form="шпинатом"/>
+<Allolog Form="шпинату"/>
+<Allolog Form="шпинате"/>
+</Word>
+
+<Word Stem="спагетт" Weight="0.0642029499571399">
+<Allolog Form="спагетти"/>
+</Word>
+
+<Word Stem="изжар" Weight="0.054506830665227">
+<Allolog Form="изжариться"/>
+<Allolog Form="изжарился"/>
+<Allolog Form="изжарить"/>
+</Word>
+
+<Word Stem="горчичн" Weight="0.0657706973349431">
+<Allolog Form="горчичного"/>
+<Allolog Form="горчичном"/>
+<Allolog Form="горчичной"/>
+<Allolog Form="горчичная"/>
+<Allolog Form="горчичный"/>
+<Allolog Form="горчичную"/>
+<Allolog Form="горчичным"/>
+<Allolog Form="горчичные"/>
+<Allolog Form="горчичное"/>
+</Word>
+
+<Word Stem="кухон" Weight="0.0558649023569513">
+<Allolog Form="кухонной"/>
+<Allolog Form="кухонное"/>
+<Allolog Form="кухонным"/>
+<Allolog Form="кухонный"/>
+<Allolog Form="кухонного"/>
+<Allolog Form="кухонную"/>
+<Allolog Form="кухонном"/>
+<Allolog Form="кухонными"/>
+<Allolog Form="кухонь"/>
+<Allolog Form="кухонные"/>
+<Allolog Form="кухон"/>
+<Allolog Form="кухонная"/>
+<Allolog Form="кухонно"/>
+</Word>
+
+<Word Stem="помешива" Weight="0.0639421257526537">
+<Allolog Form="помешивать"/>
+<Allolog Form="помешивают"/>
+<Allolog Form="помешиваю"/>
+<Allolog Form="помешиваешь"/>
+<Allolog Form="помешиваейте"/>
+<Allolog Form="помешивается"/>
+<Allolog Form="помешивайте"/>
+<Allolog Form="помешивал"/>
+<Allolog Form="помешивай"/>
+</Word>
+
+<Word Stem="семечк" Weight="0.0542073038586885">
+<Allolog Form="семечко"/>
+<Allolog Form="семечками"/>
+<Allolog Form="семечки"/>
+<Allolog Form="семечка"/>
+</Word>
+
+<Word Stem="картофелин" Weight="0.0916515514280877">
+<Allolog Form="картофелины"/>
+<Allolog Form="картофелину"/>
+<Allolog Form="картофелина"/>
+<Allolog Form="картофелин"/>
+<Allolog Form="картофелинами"/>
+<Allolog Form="картофелинах"/>
+</Word>
+
+<Word Stem="пицц" Weight="0.0594511955295775">
+<Allolog Form="пиццу"/>
+<Allolog Form="пицца"/>
+<Allolog Form="пиццы"/>
+<Allolog Form="пицце"/>
+<Allolog Form="пиццам"/>
+<Allolog Form="пиццей"/>
+</Word>
+
+<Word Stem="ягод" Weight="0.26815466405945">
+<Allolog Form="ягоды"/>
+<Allolog Form="ягод"/>
+<Allolog Form="ягодами"/>
+<Allolog Form="ягода"/>
+<Allolog Form="ягоду"/>
+<Allolog Form="ягодам"/>
+<Allolog Form="ягодах"/>
+<Allolog Form="ягоде"/>
+<Allolog Form="ягодой"/>
+<Allolog Form="ягоди"/>
+</Word>
+
+<Word Stem="оливок" Weight="0.0519547289403981">
+<Allolog Form="оливок"/>
+</Word>
+
+<Word Stem="сливок" Weight="0.151157222665603">
+<Allolog Form="сливок"/>
+</Word>
+
+<Word Stem="пирог" Weight="0.167160014101069">
+<Allolog Form="пирог"/>
+<Allolog Form="пироге"/>
+<Allolog Form="пирога"/>
+<Allolog Form="пирогов"/>
+<Allolog Form="пироги"/>
+<Allolog Form="пирогах"/>
+<Allolog Form="пирогами"/>
+<Allolog Form="пирогу"/>
+<Allolog Form="пирогом"/>
+<Allolog Form="пирогам"/>
+</Word>
+
+<Word Stem="закипит" Weight="0.0726021650602656">
+<Allolog Form="закипит"/>
+</Word>
+
+<Word Stem="крил" Weight="0.0605677408701874">
+<Allolog Form="криль"/>
+<Allolog Form="криля"/>
+<Allolog Form="крилем"/>
+</Word>
+
+<Word Stem="кориц" Weight="0.22721356014758">
+<Allolog Form="корицы"/>
+<Allolog Form="корица"/>
+<Allolog Form="корицу"/>
+<Allolog Form="корицей"/>
+<Allolog Form="корице"/>
+<Allolog Form="корицею"/>
+</Word>
+
+<Word Stem="изюм" Weight="0.172005240118795">
+<Allolog Form="изюму"/>
+<Allolog Form="изюм"/>
+<Allolog Form="изюма"/>
+<Allolog Form="изюмом"/>
+<Allolog Form="изюме"/>
+</Word>
+
+<Word Stem="гвоздик" Weight="0.179572767654805">
+<Allolog Form="гвоздики"/>
+<Allolog Form="гвоздик"/>
+<Allolog Form="гвоздикой"/>
+<Allolog Form="гвоздику"/>
+<Allolog Form="гвоздика"/>
+<Allolog Form="гвоздиками"/>
+<Allolog Form="гвоздиках"/>
+<Allolog Form="гвоздике"/>
+<Allolog Form="гвоздиков"/>
+<Allolog Form="гвоздиком"/>
+</Word>
+
+<Word Stem="нашпигова" Weight="0.0582577324624982">
+<Allolog Form="нашпигована"/>
+<Allolog Form="нашпиговать"/>
+<Allolog Form="нашпигованные"/>
+<Allolog Form="нашпигованный"/>
+</Word>
+
+<Word Stem="лисичк" Weight="0.05402367650971">
+<Allolog Form="лисички"/>
+<Allolog Form="лисичками"/>
+<Allolog Form="лисичка"/>
+<Allolog Form="лисичке"/>
+</Word>
+
+<Word Stem="потрох" Weight="0.0760321098309925">
+<Allolog Form="потрохов"/>
+<Allolog Form="потроха"/>
+<Allolog Form="потрохах"/>
+<Allolog Form="потрохами"/>
+<Allolog Form="потрохам"/>
+</Word>
+
+<Word Stem="вермишел" Weight="0.0655090985098966">
+<Allolog Form="вермишель"/>
+<Allolog Form="вермишелью"/>
+<Allolog Form="вермишели"/>
+</Word>
+
+<Word Stem="перец" Weight="1.07248978099348">
+<Allolog Form="перец"/>
+<Allolog Form="переца"/>
+<Allolog Form="перецем"/>
+<Allolog Form="переце"/>
+</Word>
+
+<Word Stem="перчик" Weight="0.0519547289403981">
+<Allolog Form="перчик"/>
+<Allolog Form="перчика"/>
+<Allolog Form="перчику"/>
+<Allolog Form="перчики"/>
+<Allolog Form="перчиком"/>
+</Word>
+
+<Word Stem="кочан" Weight="0.0521725636250776">
+<Allolog Form="кочану"/>
+<Allolog Form="кочанами"/>
+<Allolog Form="кочанов"/>
+<Allolog Form="кочаном"/>
+</Word>
+
+<Word Stem="порцион" Weight="0.0879402191940988">
+<Allolog Form="порционно"/>
+<Allolog Form="порционные"/>
+<Allolog Form="порционными"/>
+<Allolog Form="порционную"/>
+<Allolog Form="порционном"/>
+<Allolog Form="порционной"/>
+<Allolog Form="порционный"/>
+<Allolog Form="порционые"/>
+<Allolog Form="порционное"/>
+<Allolog Form="порционного"/>
+</Word>
+
+<Word Stem="вертел" Weight="0.0631605714911663">
+<Allolog Form="вертел"/>
+<Allolog Form="вертеле"/>
+<Allolog Form="вертела"/>
+<Allolog Form="вертелу"/>
+<Allolog Form="вертелась"/>
+<Allolog Form="вертелось"/>
+<Allolog Form="вертелись"/>
+<Allolog Form="вертели"/>
+<Allolog Form="вертелом"/>
+<Allolog Form="вертелся"/>
+</Word>
+
+<Word Stem="печенк" Weight="0.0689175608170022">
+<Allolog Form="печенках"/>
+<Allolog Form="печенки"/>
+<Allolog Form="печенкой"/>
+<Allolog Form="печенка"/>
+<Allolog Form="печенку"/>
+<Allolog Form="печенке"/>
+</Word>
+
+<Word Stem="бокал" Weight="0.0742848095857931">
+<Allolog Form="бокалах"/>
+<Allolog Form="бокалы"/>
+<Allolog Form="бокале"/>
+<Allolog Form="бокалами"/>
+<Allolog Form="бокалам"/>
+<Allolog Form="бокалов"/>
+<Allolog Form="бокалом"/>
+<Allolog Form="бокалу"/>
+</Word>
+
+<Word Stem="коврижк" Weight="0.0519547289403981">
+<Allolog Form="коврижки"/>
+<Allolog Form="коврижка"/>
+</Word>
+
+<Word Stem="нафарширова" Weight="0.0631605714911663">
+<Allolog Form="нафарширован"/>
+<Allolog Form="нафаршировать"/>
+<Allolog Form="нафаршированные"/>
+<Allolog Form="нафаршированную"/>
+</Word>
+
+<Word Stem="пиал" Weight="0.0526193545746618">
+<Allolog Form="пиалу"/>
+<Allolog Form="пиалы"/>
+<Allolog Form="пиалах"/>
+<Allolog Form="пиале"/>
+<Allolog Form="пиалой"/>
+</Word>
+
+<Word Stem="фужер" Weight="0.0702321446073284">
+<Allolog Form="фужер"/>
+<Allolog Form="фужеры"/>
+<Allolog Form="фужеров"/>
+<Allolog Form="фужерах"/>
+<Allolog Form="фужере"/>
+<Allolog Form="фужера"/>
+<Allolog Form="фужерам"/>
+<Allolog Form="фужеру"/>
+</Word>
+
+<Word Stem="хлебн" Weight="0.101733782846402">
+<Allolog Form="хлебный"/>
+<Allolog Form="хлебную"/>
+<Allolog Form="хлебного"/>
+<Allolog Form="хлебными"/>
+<Allolog Form="хлебные"/>
+<Allolog Form="хлебно"/>
+<Allolog Form="хлебной"/>
+<Allolog Form="хлебным"/>
+<Allolog Form="хлебном"/>
+<Allolog Form="хлебная"/>
+<Allolog Form="хлебня"/>
+<Allolog Form="хлебное"/>
+<Allolog Form="хлебну"/>
+</Word>
+
+<Word Stem="батон" Weight="0.0699690954475217">
+<Allolog Form="батон"/>
+<Allolog Form="батона"/>
+<Allolog Form="батонами"/>
+<Allolog Form="батоном"/>
+<Allolog Form="батоны"/>
+<Allolog Form="батонов"/>
+</Word>
+
+<Word Stem="грозд" Weight="0.00195472894039812">
+<Allolog Form="гроздь"/>
+<Allolog Form="гроздья"/>
+<Allolog Form="гроздей"/>
+<Allolog Form="грозди"/>
+<Allolog Form="гроздий"/>
+<Allolog Form="гроздьями"/>
+</Word>
+
+<Word Stem="теляч" Weight="0.0897956147848713">
+<Allolog Form="телячье"/>
+<Allolog Form="телячьей"/>
+<Allolog Form="телячей"/>
+<Allolog Form="телячьего"/>
+<Allolog Form="телячья"/>
+<Allolog Form="телячью"/>
+<Allolog Form="телячьих"/>
+<Allolog Form="телячий"/>
+<Allolog Form="телячьи"/>
+<Allolog Form="телячьим"/>
+<Allolog Form="телячьими"/>
+<Allolog Form="телячьем"/>
+</Word>
+
+<Word Stem="ячмен" Weight="0.0524933946539132">
+<Allolog Form="ячменем"/>
+<Allolog Form="ячменного"/>
+<Allolog Form="ячменная"/>
+<Allolog Form="ячменной"/>
+<Allolog Form="ячменную"/>
+<Allolog Form="ячменя"/>
+<Allolog Form="ячменный"/>
+<Allolog Form="ячмень"/>
+<Allolog Form="ячменях"/>
+</Word>
+
+<Word Stem="жарком" Weight="0.05378446566949">
+<Allolog Form="жаркому"/>
+</Word>
+
+<Word Stem="корейск" Weight="0.0577487788173632">
+<Allolog Form="корейские"/>
+<Allolog Form="корейски"/>
+<Allolog Form="корейская"/>
+<Allolog Form="корейский"/>
+<Allolog Form="корейской"/>
+<Allolog Form="корейское"/>
+<Allolog Form="корейскими"/>
+<Allolog Form="корейском"/>
+<Allolog Form="корейским"/>
+<Allolog Form="корейского"/>
+<Allolog Form="корейских"/>
+</Word>
+
+<Word Stem="булк" Weight="0.086880263738336">
+<Allolog Form="булку"/>
+<Allolog Form="булки"/>
+<Allolog Form="булкой"/>
+<Allolog Form="булка"/>
+<Allolog Form="булкам"/>
+</Word>
+
+<Word Stem="заготовк" Weight="0.0583727197610659">
 <Allolog Form="заготовки"/>
 <Allolog Form="заготовка"/>
 <Allolog Form="заготовке"/>
@@ -2112,20 +3170,7 @@
 <Allolog Form="заготовкой"/>
 </Word>
 
-<Word Stem="соус" Weight="1.62961359327636">
-<Allolog Form="соусы"/>
-<Allolog Form="соусе"/>
-<Allolog Form="соуса"/>
-<Allolog Form="соус"/>
-<Allolog Form="соусом"/>
-<Allolog Form="соусу"/>
-<Allolog Form="соусов"/>
-<Allolog Form="соусам"/>
-<Allolog Form="соусами"/>
-<Allolog Form="соусах"/>
-</Word>
-
-<Word Stem="приправ" Weight="0.118808007256048">
+<Word Stem="приправ" Weight="0.118835621394487">
 <Allolog Form="приправы"/>
 <Allolog Form="приправами"/>
 <Allolog Form="приправа"/>
@@ -2138,11 +3183,12 @@
 <Allolog Form="приправах"/>
 </Word>
 
-<Word Stem="слад" Weight="0.0518044701556519">
+<Word Stem="слад" Weight="0.0512815514197141">
 <Allolog Form="сладости"/>
 <Allolog Form="сладость"/>
 <Allolog Form="слад"/>
 <Allolog Form="сладостей"/>
+<Allolog Form="сладостям"/>
 <Allolog Form="сладостями"/>
 <Allolog Form="сладостях"/>
 <Allolog Form="сладостью"/>
@@ -2158,20 +3204,7 @@
 <Allolog Form="гарнирами"/>
 </Word>
 
-<Word Stem="блюд" Weight="0.931187532041275">
-<Allolog Form="блюда"/>
-<Allolog Form="блюдо"/>
-<Allolog Form="блюде"/>
-<Allolog Form="блюдами"/>
-<Allolog Form="блюдам"/>
-<Allolog Form="блюд"/>
-<Allolog Form="блюдом"/>
-<Allolog Form="блюдах"/>
-<Allolog Form="блюду"/>
-<Allolog Form="блюдая"/>
-</Word>
-
-<Word Stem="квас" Weight="0.120809932896034">
+<Word Stem="квас" Weight="0.120830015905807">
 <Allolog Form="квас"/>
 <Allolog Form="кваса"/>
 <Allolog Form="квасе"/>
@@ -2230,24 +3263,7 @@
 <Allolog Form="кофейниками"/>
 </Word>
 
-<Word Stem="взбит" Weight="0.207532162461509">
-<Allolog Form="взбитые"/>
-<Allolog Form="взбитыми"/>
-<Allolog Form="взбитого"/>
-<Allolog Form="взбитое"/>
-<Allolog Form="взбитый"/>
-<Allolog Form="взбитая"/>
-<Allolog Form="взбитым"/>
-<Allolog Form="взбитом"/>
-<Allolog Form="взбит"/>
-<Allolog Form="взбитой"/>
-<Allolog Form="взбитую"/>
-<Allolog Form="взбитии"/>
-<Allolog Form="взбития"/>
-<Allolog Form="взбито"/>
-</Word>
-
-<Word Stem="сливк" Weight="0.255057585430631">
+<Word Stem="сливк" Weight="0.25508779577012">
 <Allolog Form="сливки"/>
 <Allolog Form="сливками"/>
 <Allolog Form="сливках"/>
@@ -2267,17 +3283,6 @@
 <Allolog Form="обжаривались"/>
 </Word>
 
-<Word Stem="ячмен" Weight="0.052432942080574">
-<Allolog Form="ячменного"/>
-<Allolog Form="ячменная"/>
-<Allolog Form="ячменной"/>
-<Allolog Form="ячменную"/>
-<Allolog Form="ячменя"/>
-<Allolog Form="ячменный"/>
-<Allolog Form="ячмень"/>
-<Allolog Form="ячменях"/>
-</Word>
-
 <Word Stem="сахаpн" Weight="0.0670802924387093">
 <Allolog Form="сахаpного"/>
 <Allolog Form="сахаpной"/>
@@ -2288,10 +3293,6 @@
 <Allolog Form="сахаpную"/>
 </Word>
 
-<Word Stem="закипит" Weight="0.0726021650602656">
-<Allolog Form="закипит"/>
-</Word>
-
 <Word Stem="коpиц" Weight="0.0572418787502586">
 <Allolog Form="коpицу"/>
 <Allolog Form="коpицы"/>
@@ -2299,7 +3300,7 @@
 <Allolog Form="коpицей"/>
 </Word>
 
-<Word Stem="ванилин" Weight="0.122227473842067">
+<Word Stem="ванилин" Weight="0.122260646289032">
 <Allolog Form="ванилином"/>
 <Allolog Form="ванилин"/>
 <Allolog Form="ванилина"/>
@@ -2316,17 +3317,7 @@
 <Allolog Form="теpтыми"/>
 </Word>
 
-<Word Stem="блюдц" Weight="0.0572418787502586">
-<Allolog Form="блюдцем"/>
-<Allolog Form="блюдца"/>
-<Allolog Form="блюдце"/>
-<Allolog Form="блюдцам"/>
-<Allolog Form="блюдцу"/>
-<Allolog Form="блюдцами"/>
-<Allolog Form="блюдцах"/>
-</Word>
-
-<Word Stem="топлен" Weight="0.1633362187844">
+<Word Stem="топлен" Weight="0.163356301794174">
 <Allolog Form="топленое"/>
 <Allolog Form="топленого"/>
 <Allolog Form="топленом"/>
@@ -2336,24 +3327,6 @@
 <Allolog Form="топленой"/>
 <Allolog Form="топленное"/>
 <Allolog Form="топленного"/>
-</Word>
-
-<Word Stem="напиток" Weight="0.0877439912981277">
-<Allolog Form="напиток"/>
-</Word>
-
-<Word Stem="кака" Weight="0.152691183502295">
-<Allolog Form="какао"/>
-<Allolog Form="какай"/>
-<Allolog Form="какать"/>
-<Allolog Form="какал"/>
-<Allolog Form="какают"/>
-<Allolog Form="какаешь"/>
-<Allolog Form="какает"/>
-</Word>
-
-<Word Stem="сливок" Weight="0.151157222665603">
-<Allolog Form="сливок"/>
 </Word>
 
 <Word Stem="гоpьк" Weight="0.0519547289403981">
@@ -2388,7 +3361,7 @@
 <Allolog Form="чайных"/>
 </Word>
 
-<Word Stem="коньяк" Weight="0.143481328371131">
+<Word Stem="коньяк" Weight="0.14234101928771">
 <Allolog Form="коньяка"/>
 <Allolog Form="коньяк"/>
 <Allolog Form="коньяку"/>
@@ -2415,23 +3388,6 @@
 <Allolog Form="миксеp"/>
 </Word>
 
-<Word Stem="бана" Weight="0.0799462607738221">
-<Allolog Form="банан"/>
-<Allolog Form="бананы"/>
-<Allolog Form="банана"/>
-</Word>
-
-<Word Stem="бокал" Weight="0.0752400087742634">
-<Allolog Form="бокалы"/>
-<Allolog Form="бокале"/>
-<Allolog Form="бокалах"/>
-<Allolog Form="бокалами"/>
-<Allolog Form="бокалам"/>
-<Allolog Form="бокалов"/>
-<Allolog Form="бокалом"/>
-<Allolog Form="бокалу"/>
-</Word>
-
 <Word Stem="обваля" Weight="0.106512645512838">
 <Allolog Form="обвалять"/>
 <Allolog Form="обваляв"/>
@@ -2455,7 +3411,7 @@
 <Allolog Form="моpоженной"/>
 </Word>
 
-<Word Stem="шоколадн" Weight="0.0834022208348224">
+<Word Stem="шоколадн" Weight="0.083458884880777">
 <Allolog Form="шоколадный"/>
 <Allolog Form="шоколадные"/>
 <Allolog Form="шоколадное"/>
@@ -2468,7 +3424,7 @@
 <Allolog Form="шоколадными"/>
 </Word>
 
-<Word Stem="апельсинов" Weight="0.129559054945877">
+<Word Stem="апельсинов" Weight="0.129589265285366">
 <Allolog Form="апельсиновый"/>
 <Allolog Form="апельсиновое"/>
 <Allolog Form="апельсиновую"/>
@@ -2533,7 +3489,7 @@
 <Allolog Form="таpелке"/>
 </Word>
 
-<Word Stem="ванильн" Weight="0.546141127252572">
+<Word Stem="ванильн" Weight="0.54617583398072">
 <Allolog Form="ванильного"/>
 <Allolog Form="ванильный"/>
 <Allolog Form="ванильной"/>
@@ -2545,10 +3501,11 @@
 <Allolog Form="ванильно"/>
 </Word>
 
-<Word Stem="взболта" Weight="0.0535725285547187">
+<Word Stem="взболта" Weight="0.0536212776289551">
 <Allolog Form="взболтайте"/>
 <Allolog Form="взболтать"/>
 <Allolog Form="взболтанным"/>
+<Allolog Form="взболтал"/>
 <Allolog Form="взболтаем"/>
 </Word>
 
@@ -2562,30 +3519,18 @@
 <Allolog Form="пеpемешанную"/>
 </Word>
 
-<Word Stem="бананов" Weight="0.0564860208515436">
-<Allolog Form="банановый"/>
-<Allolog Form="банановой"/>
-<Allolog Form="банановую"/>
-<Allolog Form="бананового"/>
-<Allolog Form="банановая"/>
-<Allolog Form="банановым"/>
-<Allolog Form="бананово"/>
-<Allolog Form="банановое"/>
-<Allolog Form="банановые"/>
-</Word>
-
 <Word Stem="режеш" Weight="0.0519547289403981">
 <Allolog Form="режешь"/>
 </Word>
 
-<Word Stem="сметан" Weight="0.888301900005599">
+<Word Stem="сметан" Weight="0.888337403897878">
 <Allolog Form="сметану"/>
 <Allolog Form="сметане"/>
 <Allolog Form="сметаной"/>
 <Allolog Form="сметаным"/>
 </Word>
 
-<Word Stem="взбива" Weight="0.121101919115156">
+<Word Stem="взбива" Weight="0.121126406077872">
 <Allolog Form="взбиваешь"/>
 <Allolog Form="взбиваются"/>
 <Allolog Form="взбивается"/>
@@ -2599,7 +3544,7 @@
 <Allolog Form="взбивали"/>
 </Word>
 
-<Word Stem="сливочн" Weight="1.37943382979556">
+<Word Stem="сливочн" Weight="1.37978792319705">
 <Allolog Form="сливочного"/>
 <Allolog Form="сливочным"/>
 <Allolog Form="сливочном"/>
@@ -2624,7 +3569,7 @@
 <Allolog Form="сиpопы"/>
 </Word>
 
-<Word Stem="томатн" Weight="0.204818856224647">
+<Word Stem="томатн" Weight="0.204838939234421">
 <Allolog Form="томатный"/>
 <Allolog Form="томатного"/>
 <Allolog Form="томатном"/>
@@ -2653,7 +3598,7 @@
 <Allolog Form="клубничной"/>
 </Word>
 
-<Word Stem="овощн" Weight="0.591028334010348">
+<Word Stem="овощн" Weight="0.591077518788914">
 <Allolog Form="овощные"/>
 <Allolog Form="овощной"/>
 <Allolog Form="овощного"/>
@@ -2663,19 +3608,6 @@
 <Allolog Form="овощном"/>
 <Allolog Form="овощными"/>
 <Allolog Form="овощную"/>
-</Word>
-
-<Word Stem="ягод" Weight="0.269442461469034">
-<Allolog Form="ягод"/>
-<Allolog Form="ягоды"/>
-<Allolog Form="ягодами"/>
-<Allolog Form="ягода"/>
-<Allolog Form="ягоду"/>
-<Allolog Form="ягодам"/>
-<Allolog Form="ягодах"/>
-<Allolog Form="ягоде"/>
-<Allolog Form="ягодой"/>
-<Allolog Form="ягоди"/>
 </Word>
 
 <Word Stem="сливов" Weight="0.0618614795390534">
@@ -2707,7 +3639,7 @@
 <Allolog Form="пpипpавить"/>
 </Word>
 
-<Word Stem="сироп" Weight="0.290489645622087">
+<Word Stem="сироп" Weight="0.290567350523275">
 <Allolog Form="сиропы"/>
 <Allolog Form="сироп"/>
 <Allolog Form="сиропом"/>
@@ -2726,14 +3658,6 @@
 <Allolog Form="кураге"/>
 </Word>
 
-<Word Stem="изюм" Weight="0.171927535217607">
-<Allolog Form="изюм"/>
-<Allolog Form="изюма"/>
-<Allolog Form="изюмом"/>
-<Allolog Form="изюму"/>
-<Allolog Form="изюме"/>
-</Word>
-
 <Word Stem="манг" Weight="0.0564860208515436">
 <Allolog Form="манго"/>
 <Allolog Form="манга"/>
@@ -2748,7 +3672,7 @@
 <Allolog Form="натеpеть"/>
 </Word>
 
-<Word Stem="щепотк" Weight="0.101022692932813">
+<Word Stem="щепотк" Weight="0.101050307071252">
 <Allolog Form="щепотка"/>
 <Allolog Form="щепотку"/>
 <Allolog Form="щепоткой"/>
@@ -2766,26 +3690,13 @@
 <Allolog Form="оpехами"/>
 </Word>
 
-<Word Stem="грецк" Weight="0.127180963961167">
+<Word Stem="грецк" Weight="0.127261574930953">
 <Allolog Form="грецкими"/>
 <Allolog Form="грецкие"/>
 <Allolog Form="грецкого"/>
 <Allolog Form="грецкий"/>
 <Allolog Form="грецких"/>
 <Allolog Form="грецким"/>
-</Word>
-
-<Word Stem="вишн" Weight="0.1732461544724">
-<Allolog Form="вишн"/>
-<Allolog Form="вишни"/>
-<Allolog Form="вишня"/>
-<Allolog Form="вишнях"/>
-<Allolog Form="вишней"/>
-<Allolog Form="вишню"/>
-<Allolog Form="вишнями"/>
-<Allolog Form="вишне"/>
-<Allolog Form="вишну"/>
-<Allolog Form="вишняя"/>
 </Word>
 
 <Word Stem="ягодн" Weight="0.0642029499571399">
@@ -2810,7 +3721,7 @@
 <Allolog Form="фpукт"/>
 </Word>
 
-<Word Stem="малинов" Weight="0.0655049333074368">
+<Word Stem="малинов" Weight="0.0655646437119748">
 <Allolog Form="малинового"/>
 <Allolog Form="малиновое"/>
 <Allolog Form="малиновым"/>
@@ -2823,7 +3734,7 @@
 <Allolog Form="малиновом"/>
 </Word>
 
-<Word Stem="кефир" Weight="0.0807436014171239">
+<Word Stem="кефир" Weight="0.0809322218820518">
 <Allolog Form="кефир"/>
 <Allolog Form="кефира"/>
 <Allolog Form="кефире"/>
@@ -2838,12 +3749,13 @@
 <Allolog Form="кефиpе"/>
 </Word>
 
-<Word Stem="настойк" Weight="0.0567829948867975">
+<Word Stem="настойк" Weight="0.0571472702846901">
 <Allolog Form="настойки"/>
 <Allolog Form="настойка"/>
 <Allolog Form="настойкой"/>
 <Allolog Form="настойку"/>
 <Allolog Form="настойке"/>
+<Allolog Form="настойками"/>
 <Allolog Form="настойках"/>
 </Word>
 
@@ -2899,7 +3811,7 @@
 <Allolog Form="грушевые"/>
 </Word>
 
-<Word Stem="смородин" Weight="0.126744722559984">
+<Word Stem="смородин" Weight="0.126808025146346">
 <Allolog Form="смородина"/>
 <Allolog Form="смородине"/>
 <Allolog Form="смородины"/>
@@ -2912,7 +3824,7 @@
 <Allolog Form="смородинов"/>
 </Word>
 
-<Word Stem="клюкв" Weight="0.0766551893849131">
+<Word Stem="клюкв" Weight="0.0767328942861015">
 <Allolog Form="клюква"/>
 <Allolog Form="клюквой"/>
 <Allolog Form="клюкву"/>
@@ -2928,30 +3840,19 @@
 <Allolog Form="ликеpа"/>
 </Word>
 
-<Word Stem="медов" Weight="0.0592829338440458">
-<Allolog Form="медовый"/>
-<Allolog Form="медовые"/>
-<Allolog Form="медовая"/>
-<Allolog Form="медовом"/>
-<Allolog Form="медовое"/>
-<Allolog Form="медово"/>
-<Allolog Form="медовой"/>
-<Allolog Form="медовым"/>
-<Allolog Form="медового"/>
-</Word>
-
 <Word Stem="смоpодин" Weight="0.0530783263025881">
 <Allolog Form="смоpодина"/>
 <Allolog Form="смоpодины"/>
 <Allolog Form="смоpодину"/>
 </Word>
 
-<Word Stem="мелисс" Weight="0.0513499266767642">
+<Word Stem="мелисс" Weight="0.05">
 <Allolog Form="мелисса"/>
 <Allolog Form="мелиссы"/>
 <Allolog Form="мелиссой"/>
 <Allolog Form="мелиссу"/>
 <Allolog Form="мелисс"/>
+<Allolog Form="мелиссе"/>
 </Word>
 
 <Word Stem="наливк" Weight="0.0644639167368179">
@@ -2964,7 +3865,7 @@
 <Allolog Form="наливкам"/>
 </Word>
 
-<Word Stem="облепих" Weight="0.0534008507486386">
+<Word Stem="облепих" Weight="0.0534259080224072">
 <Allolog Form="облепиха"/>
 <Allolog Form="облепихи"/>
 <Allolog Form="облепихой"/>
@@ -2996,7 +3897,7 @@
 <Allolog Form="отцедите"/>
 </Word>
 
-<Word Stem="ржан" Weight="0.0884345021051725">
+<Word Stem="ржан" Weight="0.0884595593789411">
 <Allolog Form="ржаной"/>
 <Allolog Form="ржаного"/>
 <Allolog Form="ржаные"/>
@@ -3005,21 +3906,8 @@
 <Allolog Form="ржаном"/>
 <Allolog Form="ржаная"/>
 <Allolog Form="ржаными"/>
-</Word>
-
-<Word Stem="хлебн" Weight="0.101733782846402">
-<Allolog Form="хлебный"/>
-<Allolog Form="хлебного"/>
-<Allolog Form="хлебными"/>
-<Allolog Form="хлебные"/>
-<Allolog Form="хлебно"/>
-<Allolog Form="хлебной"/>
-<Allolog Form="хлебным"/>
-<Allolog Form="хлебном"/>
-<Allolog Form="хлебную"/>
-<Allolog Form="хлебная"/>
-<Allolog Form="хлебня"/>
-<Allolog Form="хлебное"/>
+<Allolog Form="ржание"/>
+<Allolog Form="ржанием"/>
 </Word>
 
 <Word Stem="свекольн" Weight="0.0807903008089228">
@@ -3057,66 +3945,7 @@
 <Allolog Form="проварена"/>
 </Word>
 
-<Word Stem="консервирова" Weight="0.139942552974669">
-<Allolog Form="консервированный"/>
-<Allolog Form="консервированные"/>
-<Allolog Form="консервированная"/>
-<Allolog Form="консервированными"/>
-<Allolog Form="консервированной"/>
-<Allolog Form="консервировать"/>
-<Allolog Form="консервированную"/>
-<Allolog Form="консервированного"/>
-<Allolog Form="консервированно"/>
-<Allolog Form="консервированным"/>
-<Allolog Form="консервированном"/>
-<Allolog Form="консервированное"/>
-<Allolog Form="консервировались"/>
-<Allolog Form="консервировала"/>
-</Word>
-
-<Word Stem="размеша" Weight="0.205851998064232">
-<Allolog Form="размешать"/>
-<Allolog Form="размешав"/>
-<Allolog Form="размешайте"/>
-<Allolog Form="размешанную"/>
-<Allolog Form="размешанной"/>
-<Allolog Form="размешанное"/>
-<Allolog Form="размешанные"/>
-<Allolog Form="размешалась"/>
-<Allolog Form="размешанным"/>
-<Allolog Form="размешаем"/>
-<Allolog Form="размешанный"/>
-<Allolog Form="размешано"/>
-<Allolog Form="размешается"/>
-<Allolog Form="размешаются"/>
-</Word>
-
-<Word Stem="помешива" Weight="0.0639421257526537">
-<Allolog Form="помешивать"/>
-<Allolog Form="помешивают"/>
-<Allolog Form="помешиваю"/>
-<Allolog Form="помешиваешь"/>
-<Allolog Form="помешиваейте"/>
-<Allolog Form="помешивается"/>
-<Allolog Form="помешивайте"/>
-<Allolog Form="помешивай"/>
-</Word>
-
-<Word Stem="фруктов" Weight="0.0852135339577101">
-<Allolog Form="фруктовый"/>
-<Allolog Form="фруктового"/>
-<Allolog Form="фруктовом"/>
-<Allolog Form="фруктовой"/>
-<Allolog Form="фруктовую"/>
-<Allolog Form="фруктовые"/>
-<Allolog Form="фруктовая"/>
-<Allolog Form="фруктовым"/>
-<Allolog Form="фруктовое"/>
-<Allolog Form="фруктово"/>
-<Allolog Form="фруктовыми"/>
-</Word>
-
-<Word Stem="овсян" Weight="0.0727307324140898">
+<Word Stem="овсян" Weight="0.072791184987429">
 <Allolog Form="овсяный"/>
 <Allolog Form="овсяные"/>
 <Allolog Form="овсяная"/>
@@ -3128,7 +3957,7 @@
 <Allolog Form="овсяным"/>
 </Word>
 
-<Word Stem="посол" Weight="0.344118428354727">
+<Word Stem="посол" Weight="0.344202697438803">
 <Allolog Form="посолить"/>
 <Allolog Form="посолил"/>
 <Allolog Form="посолите"/>
@@ -3144,14 +3973,14 @@
 <Allolog Form="посолила"/>
 </Word>
 
-<Word Stem="подсолнечн" Weight="0.564306068581886">
+<Word Stem="подсолнечн" Weight="0.564363683265789">
 <Allolog Form="подсолнечным"/>
 <Allolog Form="подсолнечного"/>
 <Allolog Form="подсолнечное"/>
 <Allolog Form="подсолнечном"/>
 </Word>
 
-<Word Stem="сухофрукт" Weight="0.0521334351178563">
+<Word Stem="сухофрукт" Weight="0.0521636454573449">
 <Allolog Form="сухофруктов"/>
 <Allolog Form="сухофрукты"/>
 <Allolog Form="сухофруктами"/>
@@ -3161,7 +3990,7 @@
 <Allolog Form="вишен"/>
 </Word>
 
-<Word Stem="цедр" Weight="0.166925180684202">
+<Word Stem="цедр" Weight="0.166942859577065">
 <Allolog Form="цедра"/>
 <Allolog Form="цедру"/>
 <Allolog Form="цедры"/>
@@ -3170,16 +3999,7 @@
 <Allolog Form="цедрою"/>
 </Word>
 
-<Word Stem="кориц" Weight="0.22721356014758">
-<Allolog Form="корица"/>
-<Allolog Form="корицу"/>
-<Allolog Form="корицей"/>
-<Allolog Form="корицы"/>
-<Allolog Form="корице"/>
-<Allolog Form="корицею"/>
-</Word>
-
-<Word Stem="отвар" Weight="0.262691189953762">
+<Word Stem="отвар" Weight="0.261826388643465">
 <Allolog Form="отвар"/>
 <Allolog Form="отварить"/>
 <Allolog Form="отваром"/>
@@ -3207,7 +4027,7 @@
 <Allolog Form="черешень"/>
 </Word>
 
-<Word Stem="подслащен" Weight="0.0513306426562989">
+<Word Stem="подслащен" Weight="0.0513459838443205">
 <Allolog Form="подслащенными"/>
 <Allolog Form="подслащенной"/>
 <Allolog Form="подслащеной"/>
@@ -3238,30 +4058,6 @@
 <Allolog Form="обжаpенную"/>
 </Word>
 
-<Word Stem="гвоздик" Weight="0.179547710381036">
-<Allolog Form="гвоздики"/>
-<Allolog Form="гвоздик"/>
-<Allolog Form="гвоздикой"/>
-<Allolog Form="гвоздику"/>
-<Allolog Form="гвоздика"/>
-<Allolog Form="гвоздиками"/>
-<Allolog Form="гвоздиках"/>
-<Allolog Form="гвоздике"/>
-<Allolog Form="гвоздиков"/>
-</Word>
-
-<Word Stem="малин" Weight="0.0902843981774405">
-<Allolog Form="малина"/>
-<Allolog Form="малины"/>
-<Allolog Form="малине"/>
-<Allolog Form="малиной"/>
-<Allolog Form="малину"/>
-<Allolog Form="малинный"/>
-<Allolog Form="малино"/>
-<Allolog Form="малинного"/>
-<Allolog Form="малинов"/>
-</Word>
-
 <Word Stem="крыжовник" Weight="0.0799966948011641">
 <Allolog Form="крыжовник"/>
 <Allolog Form="крыжовника"/>
@@ -3277,15 +4073,16 @@
 <Allolog Form="полусладкими"/>
 </Word>
 
-<Word Stem="виноград" Weight="0.074191512495918">
+<Word Stem="виноград" Weight="0.0731736602045381">
 <Allolog Form="винограде"/>
 <Allolog Form="виноград"/>
 <Allolog Form="винограда"/>
 <Allolog Form="виноградом"/>
 <Allolog Form="виноградов"/>
+<Allolog Form="виноградо"/>
 </Word>
 
-<Word Stem="спел" Weight="0.0706192881698451">
+<Word Stem="спел" Weight="0.0706365289546456">
 <Allolog Form="спелые"/>
 <Allolog Form="спелый"/>
 <Allolog Form="спелого"/>
@@ -3299,6 +4096,8 @@
 <Allolog Form="спел"/>
 <Allolog Form="спели"/>
 <Allolog Form="спела"/>
+<Allolog Form="спелое"/>
+<Allolog Form="спелись"/>
 </Word>
 
 <Word Stem="клюквен" Weight="0.0590244950580146">
@@ -3328,18 +4127,6 @@
 <Allolog Form="суслом"/>
 <Allolog Form="сусле"/>
 <Allolog Form="суслов"/>
-</Word>
-
-<Word Stem="вкусов" Weight="0.0571679625220582">
-<Allolog Form="вкусовые"/>
-<Allolog Form="вкусовыми"/>
-<Allolog Form="вкусовая"/>
-<Allolog Form="вкусовую"/>
-<Allolog Form="вкусовым"/>
-<Allolog Form="вкусовой"/>
-<Allolog Form="вкусовом"/>
-<Allolog Form="вкусовое"/>
-<Allolog Form="вкусового"/>
 </Word>
 
 <Word Stem="обезжирен" Weight="0.0513301409949455">
@@ -3372,31 +4159,10 @@
 <Allolog Form="смородиновыми"/>
 <Allolog Form="смородиновом"/>
 <Allolog Form="смородинове"/>
+<Allolog Form="смородиновые"/>
 </Word>
 
-<Word Stem="приготовля" Weight="0.0260321098309925">
-<Allolog Form="приготовляют"/>
-<Allolog Form="приготовлять"/>
-<Allolog Form="приготовляется"/>
-<Allolog Form="приготовлялись"/>
-<Allolog Form="приготовлялся"/>
-<Allolog Form="приготовляемый"/>
-<Allolog Form="приготовляет"/>
-<Allolog Form="приготовляемые"/>
-<Allolog Form="приготовляются"/>
-<Allolog Form="приготовляемого"/>
-<Allolog Form="приготовляйте"/>
-</Word>
-
-<Word Stem="привкус" Weight="0.058512902367651">
-<Allolog Form="привкус"/>
-<Allolog Form="привкуса"/>
-<Allolog Form="привкусом"/>
-<Allolog Form="привкусов"/>
-<Allolog Form="привкусах"/>
-</Word>
-
-<Word Stem="миндал" Weight="0.11666851569497">
+<Word Stem="миндал" Weight="0.11670135720118">
 <Allolog Form="миндаля"/>
 <Allolog Form="миндалем"/>
 <Allolog Form="миндаль"/>
@@ -3404,7 +4170,7 @@
 <Allolog Form="миндалю"/>
 </Word>
 
-<Word Stem="ежевик" Weight="0.0558596811809347">
+<Word Stem="ежевик" Weight="0.0558773600737977">
 <Allolog Form="ежевики"/>
 <Allolog Form="ежевика"/>
 <Allolog Form="ежевику"/>
@@ -3418,12 +4184,12 @@
 <Allolog Form="эссенций"/>
 </Word>
 
-<Word Stem="варят" Weight="0.225977422034372">
+<Word Stem="варят" Weight="0.226023829128137">
 <Allolog Form="варят"/>
 <Allolog Form="варятся"/>
 </Word>
 
-<Word Stem="брусник" Weight="0.0758729381266534">
+<Word Stem="брусник" Weight="0.0759506430278419">
 <Allolog Form="брусники"/>
 <Allolog Form="бруснику"/>
 <Allolog Form="брусникой"/>
@@ -3442,7 +4208,7 @@
 <Allolog Form="накрошенный"/>
 </Word>
 
-<Word Stem="кабачк" Weight="0.122935264624984">
+<Word Stem="кабачк" Weight="0.122955347634758">
 <Allolog Form="кабачков"/>
 <Allolog Form="кабачки"/>
 <Allolog Form="кабачка"/>
@@ -3458,7 +4224,7 @@
 <Allolog Form="вкyсно"/>
 </Word>
 
-<Word Stem="пореза" Weight="0.18341126038501">
+<Word Stem="пореза" Weight="0.183428939277873">
 <Allolog Form="порезанные"/>
 <Allolog Form="порезать"/>
 <Allolog Form="порезал"/>
@@ -3478,6 +4244,7 @@
 <Allolog Form="порезаться"/>
 <Allolog Form="порезалась"/>
 <Allolog Form="порезавшийся"/>
+<Allolog Form="порезала"/>
 <Allolog Form="порезана"/>
 </Word>
 
@@ -3489,7 +4256,7 @@
 <Allolog Form="покипеть"/>
 </Word>
 
-<Word Stem="инжир" Weight="0.0552974393646465">
+<Word Stem="инжир" Weight="0.0553356336327555">
 <Allolog Form="инжира"/>
 <Allolog Form="инжир"/>
 <Allolog Form="инжиром"/>
@@ -3498,15 +4265,6 @@
 <Word Stem="сaхaр" Weight="0.0513301409949455">
 <Allolog Form="сaхaр"/>
 <Allolog Form="сaхaром"/>
-</Word>
-
-<Word Stem="абрикос" Weight="0.0933327340951894">
-<Allolog Form="абрикосов"/>
-<Allolog Form="абрикосами"/>
-<Allolog Form="абрикосы"/>
-<Allolog Form="абрикос"/>
-<Allolog Form="абрикосах"/>
-<Allolog Form="абрикоса"/>
 </Word>
 
 <Word Stem="гpецк" Weight="0.0554885817896697">
@@ -3573,7 +4331,7 @@
 <Allolog Form="ваpеньем"/>
 </Word>
 
-<Word Stem="черник" Weight="0.0638931117430615">
+<Word Stem="черник" Weight="0.0639422965216278">
 <Allolog Form="черникой"/>
 <Allolog Form="черника"/>
 <Allolog Form="черники"/>
@@ -3597,18 +4355,6 @@
 <Allolog Form="лимонады"/>
 <Allolog Form="лимонадов"/>
 <Allolog Form="лимонаду"/>
-</Word>
-
-<Word Stem="помидор" Weight="0.58305855004349">
-<Allolog Form="помидоров"/>
-<Allolog Form="помидоры"/>
-<Allolog Form="помидор"/>
-<Allolog Form="помидора"/>
-<Allolog Form="помидорами"/>
-<Allolog Form="помидором"/>
-<Allolog Form="помидору"/>
-<Allolog Form="помидорам"/>
-<Allolog Form="помидорах"/>
 </Word>
 
 <Word Stem="помидоp" Weight="0.0739205722779092">
@@ -3636,14 +4382,14 @@
 <Allolog Form="гpиба"/>
 </Word>
 
-<Word Stem="фасол" Weight="0.237731852301162">
+<Word Stem="фасол" Weight="0.237806658856086">
 <Allolog Form="фасоли"/>
 <Allolog Form="фасоль"/>
 <Allolog Form="фасолью"/>
 <Allolog Form="фасоле"/>
 </Word>
 
-<Word Stem="перц" Weight="0.565646533702053">
+<Word Stem="перц" Weight="0.565669078578363">
 <Allolog Form="перца"/>
 <Allolog Form="перцем"/>
 <Allolog Form="перце"/>
@@ -3651,13 +4397,6 @@
 <Allolog Form="перцу"/>
 <Allolog Form="перцы"/>
 <Allolog Form="перц"/>
-</Word>
-
-<Word Stem="перец" Weight="1.07232103778015">
-<Allolog Form="перец"/>
-<Allolog Form="переца"/>
-<Allolog Form="перецем"/>
-<Allolog Form="переце"/>
 </Word>
 
 <Word Stem="обжарен" Weight="0.136004667515165">
@@ -3676,7 +4415,7 @@
 <Allolog Form="обжареную"/>
 </Word>
 
-<Word Stem="прокипят" Weight="0.109582915006978">
+<Word Stem="прокипят" Weight="0.109629322100744">
 <Allolog Form="прокипятить"/>
 <Allolog Form="прокипятив"/>
 <Allolog Form="прокипятите"/>
@@ -3697,7 +4436,7 @@
 <Allolog Form="нашинкованное"/>
 </Word>
 
-<Word Stem="чеснок" Weight="0.537012434919761">
+<Word Stem="чеснок" Weight="0.535772992944064">
 <Allolog Form="чеснока"/>
 <Allolog Form="чеснок"/>
 <Allolog Form="чесноком"/>
@@ -3748,6 +4487,7 @@
 <Allolog Form="кастрюльки"/>
 <Allolog Form="кастрюлька"/>
 <Allolog Form="кастрюлькой"/>
+<Allolog Form="кастрюльках"/>
 </Word>
 
 <Word Stem="шинкует" Weight="0.0523942537909018">
@@ -3762,7 +4502,7 @@
 <Allolog Form="дуршлага"/>
 </Word>
 
-<Word Stem="укроп" Weight="0.362266130790382">
+<Word Stem="укроп" Weight="0.362315315568948">
 <Allolog Form="укроп"/>
 <Allolog Form="укропом"/>
 <Allolog Form="укропа"/>
@@ -3778,7 +4518,7 @@
 <Allolog Form="малосольный"/>
 </Word>
 
-<Word Stem="огурц" Weight="0.402232394025215">
+<Word Stem="огурц" Weight="0.402290008709119">
 <Allolog Form="огурцы"/>
 <Allolog Form="огурцов"/>
 <Allolog Form="огурцами"/>
@@ -3787,6 +4527,7 @@
 <Allolog Form="огурцам"/>
 <Allolog Form="огурцом"/>
 <Allolog Form="огурцу"/>
+<Allolog Form="огурце"/>
 </Word>
 
 <Word Stem="огуpц" Weight="0.0626403701822696">
@@ -3800,16 +4541,6 @@
 <Word Stem="сельдеp" Weight="0.0521725636250776">
 <Allolog Form="сельдеpей"/>
 <Allolog Form="сельдеpее"/>
-</Word>
-
-<Word Stem="рассол" Weight="0.151350545259839">
-<Allolog Form="рассолом"/>
-<Allolog Form="рассол"/>
-<Allolog Form="рассоле"/>
-<Allolog Form="рассола"/>
-<Allolog Form="рассолу"/>
-<Allolog Form="рассолы"/>
-<Allolog Form="рассолов"/>
 </Word>
 
 <Word Stem="pассол" Weight="0.0552414745152175">
@@ -3858,7 +4589,7 @@
 <Allolog Form="маринадами"/>
 </Word>
 
-<Word Stem="петрушк" Weight="0.713552981099407">
+<Word Stem="петрушк" Weight="0.713657065159677">
 <Allolog Form="петрушки"/>
 <Allolog Form="петрушка"/>
 <Allolog Form="петрушкой"/>
@@ -3899,16 +4630,6 @@
 <Allolog Form="лавpа"/>
 </Word>
 
-<Word Stem="консервирован" Weight="0.526824510064734">
-<Allolog Form="консервирование"/>
-<Allolog Form="консервировании"/>
-<Allolog Form="консервирования"/>
-<Allolog Form="консервированию"/>
-<Allolog Form="консервированый"/>
-<Allolog Form="консервированием"/>
-<Allolog Form="консервированые"/>
-</Word>
-
 <Word Stem="маринова" Weight="0.190777374132077">
 <Allolog Form="маринованный"/>
 <Allolog Form="маринованная"/>
@@ -3934,7 +4655,7 @@
 <Allolog Form="мясорубкой"/>
 </Word>
 
-<Word Stem="корнеплод" Weight="0.0545338371163391">
+<Word Stem="корнеплод" Weight="0.0545539201261128">
 <Allolog Form="корнеплоды"/>
 <Allolog Form="корнеплод"/>
 <Allolog Form="корнеплодов"/>
@@ -3989,7 +4710,7 @@
 <Allolog Form="pастительным"/>
 </Word>
 
-<Word Stem="репчат" Weight="0.632157295669263">
+<Word Stem="репчат" Weight="0.632174974562126">
 <Allolog Form="репчатого"/>
 <Allolog Form="репчатый"/>
 <Allolog Form="репчатым"/>
@@ -4033,7 +4754,7 @@
 <Allolog Form="подогpетым"/>
 </Word>
 
-<Word Stem="борщ" Weight="0.641250167664462">
+<Word Stem="борщ" Weight="0.641284874392609">
 <Allolog Form="борщи"/>
 <Allolog Form="борщ"/>
 <Allolog Form="борщу"/>
@@ -4055,7 +4776,7 @@
 <Allolog Form="запеч"/>
 </Word>
 
-<Word Stem="духовк" Weight="0.436362187395515">
+<Word Stem="духовк" Weight="0.436384732271825">
 <Allolog Form="духовке"/>
 <Allolog Form="духовки"/>
 <Allolog Form="духовку"/>
@@ -4085,38 +4806,7 @@
 <Allolog Form="фаpшем"/>
 </Word>
 
-<Word Stem="жарен" Weight="0.244734651486458">
-<Allolog Form="жареный"/>
-<Allolog Form="жареные"/>
-<Allolog Form="жареное"/>
-<Allolog Form="жареная"/>
-<Allolog Form="жарении"/>
-<Allolog Form="жареного"/>
-<Allolog Form="жареными"/>
-<Allolog Form="жаренный"/>
-<Allolog Form="жареной"/>
-<Allolog Form="жаренья"/>
-<Allolog Form="жаренного"/>
-<Allolog Form="жаренные"/>
-<Allolog Form="жаренную"/>
-<Allolog Form="жареным"/>
-<Allolog Form="жаренной"/>
-<Allolog Form="жарения"/>
-<Allolog Form="жаренная"/>
-<Allolog Form="жаренье"/>
-<Allolog Form="жаренным"/>
-<Allolog Form="жарен"/>
-<Allolog Form="жареную"/>
-<Allolog Form="жаренными"/>
-<Allolog Form="жарением"/>
-<Allolog Form="жаренния"/>
-<Allolog Form="жареньем"/>
-<Allolog Form="жарение"/>
-<Allolog Form="жареном"/>
-<Allolog Form="жарений"/>
-</Word>
-
-<Word Stem="сковород" Weight="0.302151676003323">
+<Word Stem="сковород" Weight="0.302431112343579">
 <Allolog Form="сковороду"/>
 <Allolog Form="сковороде"/>
 <Allolog Form="сковороды"/>
@@ -4155,29 +4845,7 @@
 <Allolog Form="пpокипятить"/>
 </Word>
 
-<Word Stem="консерв" Weight="0.0821134040208262">
-<Allolog Form="консервы"/>
-<Allolog Form="консервов"/>
-<Allolog Form="консерв"/>
-<Allolog Form="консервами"/>
-<Allolog Form="консервах"/>
-<Allolog Form="консерву"/>
-<Allolog Form="консервам"/>
-<Allolog Form="консерва"/>
-</Word>
-
-<Word Stem="баклажа" Weight="0.17854450842167">
-<Allolog Form="баклажаны"/>
-<Allolog Form="баклажанный"/>
-<Allolog Form="баклажанное"/>
-<Allolog Form="баклажана"/>
-<Allolog Form="баклажан"/>
-<Allolog Form="баклажанная"/>
-<Allolog Form="баклажанной"/>
-<Allolog Form="баклажанные"/>
-</Word>
-
-<Word Stem="квашен" Weight="0.160278184768283">
+<Word Stem="квашен" Weight="0.160295863661146">
 <Allolog Form="квашеные"/>
 <Allolog Form="квашеного"/>
 <Allolog Form="квашенная"/>
@@ -4235,20 +4903,13 @@
 <Allolog Form="мясистая"/>
 <Allolog Form="мясистую"/>
 <Allolog Form="мясистой"/>
+<Allolog Form="мясистым"/>
 <Allolog Form="мясистом"/>
 </Word>
 
 <Word Stem="тушат" Weight="0.116605578709862">
 <Allolog Form="тушатся"/>
 <Allolog Form="тушат"/>
-</Word>
-
-<Word Stem="морковк" Weight="0.0668435217411244">
-<Allolog Form="морковки"/>
-<Allolog Form="морковку"/>
-<Allolog Form="морковка"/>
-<Allolog Form="морковкой"/>
-<Allolog Form="морковками"/>
 </Word>
 
 <Word Stem="обжар" Weight="0.263918956962836">
@@ -4276,14 +4937,6 @@
 <Allolog Form="стручку"/>
 <Allolog Form="стручках"/>
 <Allolog Form="стручком"/>
-</Word>
-
-<Word Stem="пицц" Weight="0.0615916366710074">
-<Allolog Form="пицца"/>
-<Allolog Form="пиццы"/>
-<Allolog Form="пиццу"/>
-<Allolog Form="пицце"/>
-<Allolog Form="пиццам"/>
 </Word>
 
 <Word Stem="сельд" Weight="0.164185346408412">
@@ -4332,7 +4985,7 @@
 <Allolog Form="запекался"/>
 </Word>
 
-<Word Stem="майонез" Weight="0.850826966066939">
+<Word Stem="майонез" Weight="0.850917308788732">
 <Allolog Form="майонеза"/>
 <Allolog Form="майонезом"/>
 <Allolog Form="майонез"/>
@@ -4384,7 +5037,7 @@
 <Allolog Form="перчить"/>
 </Word>
 
-<Word Stem="отварн" Weight="0.200161878662098">
+<Word Stem="отварн" Weight="0.200184423538408">
 <Allolog Form="отварная"/>
 <Allolog Form="отварной"/>
 <Allolog Form="отварную"/>
@@ -4402,7 +5055,7 @@
 <Allolog Form="выпотрошена"/>
 </Word>
 
-<Word Stem="луков" Weight="0.075475952744172">
+<Word Stem="луков" Weight="0.0754960357539457">
 <Allolog Form="лукового"/>
 <Allolog Form="луковый"/>
 <Allolog Form="луковое"/>
@@ -4422,7 +5075,7 @@
 <Allolog Form="покрошите"/>
 </Word>
 
-<Word Stem="повар" Weight="0.0583190318961497">
+<Word Stem="повар" Weight="0.0583435188588658">
 <Allolog Form="поварил"/>
 <Allolog Form="поварить"/>
 <Allolog Form="повара"/>
@@ -4435,38 +5088,17 @@
 <Allolog Form="поварив"/>
 <Allolog Form="поварим"/>
 <Allolog Form="поварами"/>
+<Allolog Form="поварам"/>
+<Allolog Form="поварих"/>
 </Word>
 
-<Word Stem="картофельн" Weight="0.2184765117272">
-<Allolog Form="картофельное"/>
-<Allolog Form="картофельная"/>
-<Allolog Form="картофельный"/>
-<Allolog Form="картофельной"/>
-<Allolog Form="картофельные"/>
-<Allolog Form="картофельного"/>
-<Allolog Form="картофельным"/>
-<Allolog Form="картофельном"/>
-<Allolog Form="картофельную"/>
-<Allolog Form="картофельными"/>
-<Allolog Form="картофельно"/>
-</Word>
-
-<Word Stem="сельдер" Weight="0.152566711649465">
+<Word Stem="сельдер" Weight="0.152589256525775">
 <Allolog Form="сельдерей"/>
 <Allolog Form="сельдере"/>
 <Allolog Form="сельдерее"/>
 </Word>
 
-<Word Stem="картофелин" Weight="0.0916515514280877">
-<Allolog Form="картофелина"/>
-<Allolog Form="картофелины"/>
-<Allolog Form="картофелин"/>
-<Allolog Form="картофелину"/>
-<Allolog Form="картофелинами"/>
-<Allolog Form="картофелинах"/>
-</Word>
-
-<Word Stem="огуречн" Weight="0.0700847804062176">
+<Word Stem="огуречн" Weight="0.0701073252825276">
 <Allolog Form="огуречный"/>
 <Allolog Form="огуречной"/>
 <Allolog Form="огуречным"/>
@@ -4479,6 +5111,7 @@
 <Word Stem="припуст" Weight="0.0773529321976982">
 <Allolog Form="припустите"/>
 <Allolog Form="припустить"/>
+<Allolog Form="припустила"/>
 <Allolog Form="припустил"/>
 </Word>
 
@@ -4497,43 +5130,11 @@
 <Allolog Form="шафранная"/>
 </Word>
 
-<Word Stem="тушен" Weight="0.162324087348734">
-<Allolog Form="тушеный"/>
-<Allolog Form="тушеная"/>
-<Allolog Form="тушеной"/>
-<Allolog Form="тушения"/>
-<Allolog Form="тушенные"/>
-<Allolog Form="тушеные"/>
-<Allolog Form="тушеное"/>
-<Allolog Form="тушении"/>
-<Allolog Form="тушеным"/>
-<Allolog Form="тушеном"/>
-<Allolog Form="тушеными"/>
-<Allolog Form="тушенная"/>
-<Allolog Form="тушенный"/>
-<Allolog Form="тушение"/>
-<Allolog Form="тушеную"/>
-<Allolog Form="тушением"/>
-<Allolog Form="тушенную"/>
-<Allolog Form="тушеного"/>
-<Allolog Form="тушенным"/>
-<Allolog Form="тушенное"/>
-<Allolog Form="тушению"/>
-</Word>
-
 <Word Stem="мякиш" Weight="0.0564860208515436">
 <Allolog Form="мякиша"/>
 <Allolog Form="мякиш"/>
 <Allolog Form="мякишем"/>
 <Allolog Form="мякише"/>
-</Word>
-
-<Word Stem="булк" Weight="0.086880263738336">
-<Allolog Form="булки"/>
-<Allolog Form="булкой"/>
-<Allolog Form="булка"/>
-<Allolog Form="булку"/>
-<Allolog Form="булкам"/>
 </Word>
 
 <Word Stem="кильк" Weight="0.0665561500136298">
@@ -4542,6 +5143,7 @@
 <Allolog Form="килька"/>
 <Allolog Form="килькой"/>
 <Allolog Form="кильками"/>
+<Allolog Form="кильке"/>
 </Word>
 
 <Word Stem="поперч" Weight="0.140257662019695">
@@ -4572,7 +5174,7 @@
 <Allolog Form="тушках"/>
 </Word>
 
-<Word Stem="колбас" Weight="0.136349613612624">
+<Word Stem="колбас" Weight="0.136456451480043">
 <Allolog Form="колбасы"/>
 <Allolog Form="колбасу"/>
 <Allolog Form="колбаса"/>
@@ -4618,7 +5220,7 @@
 <Allolog Form="каpтофелю"/>
 </Word>
 
-<Word Stem="духов" Weight="0.0676938307173894">
+<Word Stem="духов" Weight="0.0679820984264887">
 <Allolog Form="духовом"/>
 <Allolog Form="духовой"/>
 <Allolog Form="духовым"/>
@@ -4631,7 +5233,7 @@
 <Allolog Form="духовыми"/>
 </Word>
 
-<Word Stem="оливков" Weight="0.121859608701205">
+<Word Stem="оливков" Weight="0.12045890984492">
 <Allolog Form="оливкового"/>
 <Allolog Form="оливковое"/>
 <Allolog Form="оливковым"/>
@@ -4695,23 +5297,6 @@
 <Allolog Form="твоpогом"/>
 </Word>
 
-<Word Stem="выпека" Weight="0.211255585104801">
-<Allolog Form="выпекать"/>
-<Allolog Form="выпекаю"/>
-<Allolog Form="выпекайте"/>
-<Allolog Form="выпекается"/>
-<Allolog Form="выпекают"/>
-<Allolog Form="выпекаем"/>
-<Allolog Form="выпекай"/>
-<Allolog Form="выпекаются"/>
-<Allolog Form="выпекаете"/>
-<Allolog Form="выпекаешь"/>
-<Allolog Form="выпекаться"/>
-<Allolog Form="выпекающие"/>
-<Allolog Form="выпекался"/>
-<Allolog Form="выпекала"/>
-</Word>
-
 <Word Stem="обжаpива" Weight="0.0559856344772546">
 <Allolog Form="обжаpиваем"/>
 <Allolog Form="обжаpивают"/>
@@ -4768,6 +5353,7 @@
 
 <Word Stem="минт" Weight="0.0519547289403981">
 <Allolog Form="минтая"/>
+<Allolog Form="минт"/>
 </Word>
 
 <Word Stem="морковок" Weight="0.0513301409949455">
@@ -4815,7 +5401,7 @@
 <Allolog Form="шампиньона"/>
 </Word>
 
-<Word Stem="выпечк" Weight="0.0726021650602656">
+<Word Stem="выпечк" Weight="0.071536403672117">
 <Allolog Form="выпечки"/>
 <Allolog Form="выпечка"/>
 <Allolog Form="выпечкой"/>
@@ -4843,7 +5429,7 @@
 <Allolog Form="селедками"/>
 </Word>
 
-<Word Stem="тмин" Weight="0.11181723277853">
+<Word Stem="тмин" Weight="0.11193671882182">
 <Allolog Form="тмин"/>
 <Allolog Form="тмина"/>
 <Allolog Form="тмином"/>
@@ -4861,10 +5447,11 @@
 <Allolog Form="карасей"/>
 <Allolog Form="караси"/>
 <Allolog Form="карасями"/>
+<Allolog Form="карасях"/>
 <Allolog Form="карасев"/>
 </Word>
 
-<Word Stem="отварива" Weight="0.129539698144448">
+<Word Stem="отварива" Weight="0.129575202036727">
 <Allolog Form="отвариваете"/>
 <Allolog Form="отвариваю"/>
 <Allolog Form="отвариваем"/>
@@ -4896,10 +5483,11 @@
 <Word Stem="печет" Weight="0.0521725636250776">
 <Allolog Form="печется"/>
 <Allolog Form="печет"/>
+<Allolog Form="печете"/>
 <Allolog Form="печетесь"/>
 </Word>
 
-<Word Stem="макарон" Weight="0.11522485041986">
+<Word Stem="макарон" Weight="0.115240191607882">
 <Allolog Form="макаронами"/>
 <Allolog Form="макароны"/>
 <Allolog Form="макаронные"/>
@@ -4930,7 +5518,7 @@
 <Allolog Form="pыбным"/>
 </Word>
 
-<Word Stem="имбир" Weight="0.0856021501606018">
+<Word Stem="имбир" Weight="0.0856569401178218">
 <Allolog Form="имбирь"/>
 <Allolog Form="имбире"/>
 <Allolog Form="имбирем"/>
@@ -4941,7 +5529,7 @@
 <Allolog Form="имбира"/>
 </Word>
 
-<Word Stem="соев" Weight="0.0796864142660794">
+<Word Stem="соев" Weight="0.0797328213598447">
 <Allolog Form="соевом"/>
 <Allolog Form="соевое"/>
 <Allolog Form="соевый"/>
@@ -5026,7 +5614,7 @@
 <Allolog Form="манка"/>
 </Word>
 
-<Word Stem="отваp" Weight="0.0566427216624347">
+<Word Stem="отваp" Weight="0.0567204265636232">
 <Allolog Form="отваpить"/>
 <Allolog Form="отваp"/>
 <Allolog Form="отваpа"/>
@@ -5046,7 +5634,7 @@
 <Allolog Form="отваpного"/>
 </Word>
 
-<Word Stem="морковн" Weight="0.0583615972167165">
+<Word Stem="морковн" Weight="0.0584163871739365">
 <Allolog Form="морковной"/>
 <Allolog Form="морковное"/>
 <Allolog Form="морковная"/>
@@ -5056,20 +5644,6 @@
 <Allolog Form="морковно"/>
 <Allolog Form="морковные"/>
 <Allolog Form="морковную"/>
-</Word>
-
-<Word Stem="постн" Weight="0.0825968300961326">
-<Allolog Form="постного"/>
-<Allolog Form="постную"/>
-<Allolog Form="постная"/>
-<Allolog Form="постном"/>
-<Allolog Form="постный"/>
-<Allolog Form="постное"/>
-<Allolog Form="постна"/>
-<Allolog Form="постные"/>
-<Allolog Form="постным"/>
-<Allolog Form="постной"/>
-<Allolog Form="постными"/>
 </Word>
 
 <Word Stem="кpахма" Weight="0.0559856344772546">
@@ -5103,27 +5677,6 @@
 <Allolog Form="осетрину"/>
 </Word>
 
-<Word Stem="порцион" Weight="0.0879402191940988">
-<Allolog Form="порционные"/>
-<Allolog Form="порционными"/>
-<Allolog Form="порционно"/>
-<Allolog Form="порционную"/>
-<Allolog Form="порционном"/>
-<Allolog Form="порционной"/>
-<Allolog Form="порционный"/>
-<Allolog Form="порционые"/>
-<Allolog Form="порционное"/>
-<Allolog Form="порционного"/>
-</Word>
-
-<Word Stem="горчиц" Weight="0.200680352957392">
-<Allolog Form="горчица"/>
-<Allolog Form="горчицу"/>
-<Allolog Form="горчицы"/>
-<Allolog Form="горчицей"/>
-<Allolog Form="горчице"/>
-</Word>
-
 <Word Stem="поджар" Weight="0.129094295667265">
 <Allolog Form="поджарить"/>
 <Allolog Form="поджариться"/>
@@ -5131,6 +5684,7 @@
 <Allolog Form="поджарив"/>
 <Allolog Form="поджарились"/>
 <Allolog Form="поджарился"/>
+<Allolog Form="поджарый"/>
 <Allolog Form="поджарые"/>
 <Allolog Form="поджарого"/>
 </Word>
@@ -5167,20 +5721,13 @@
 <Allolog Form="запекание"/>
 </Word>
 
-<Word Stem="мускатн" Weight="0.145768864992367">
+<Word Stem="мускатн" Weight="0.145799075331855">
 <Allolog Form="мускатного"/>
 <Allolog Form="мускатный"/>
 <Allolog Form="мускатным"/>
 <Allolog Form="мускатно"/>
 <Allolog Form="мускатное"/>
 <Allolog Form="мускатная"/>
-</Word>
-
-<Word Stem="нафарширова" Weight="0.0631605714911663">
-<Allolog Form="нафаршировать"/>
-<Allolog Form="нафаршированные"/>
-<Allolog Form="нафаршированную"/>
-<Allolog Form="нафарширован"/>
 </Word>
 
 <Word Stem="паштет" Weight="0.0752400087742634">
@@ -5194,7 +5741,7 @@
 <Allolog Form="паштетов"/>
 </Word>
 
-<Word Stem="закуск" Weight="0.0950245158433637">
+<Word Stem="закуск" Weight="0.0940591013086887">
 <Allolog Form="закуску"/>
 <Allolog Form="закуска"/>
 <Allolog Form="закуски"/>
@@ -5203,14 +5750,6 @@
 <Allolog Form="закусками"/>
 <Allolog Form="закуской"/>
 <Allolog Form="закусках"/>
-</Word>
-
-<Word Stem="шпинат" Weight="0.121549186451373">
-<Allolog Form="шпинат"/>
-<Allolog Form="шпината"/>
-<Allolog Form="шпинатом"/>
-<Allolog Form="шпинату"/>
-<Allolog Form="шпинате"/>
 </Word>
 
 <Word Stem="каpтофельн" Weight="0.0515328291465562">
@@ -5228,19 +5767,20 @@
 <Allolog Form="окорочкам"/>
 </Word>
 
-<Word Stem="хмел" Weight="0.0541390837512483">
+<Word Stem="хмел" Weight="0.0542081190973455">
 <Allolog Form="хмели"/>
 <Allolog Form="хмель"/>
 <Allolog Form="хмеля"/>
 <Allolog Form="хмелем"/>
 <Allolog Form="хмеле"/>
+<Allolog Form="хмелю"/>
 </Word>
 
 <Word Stem="сунел" Weight="0.0528474870188092">
 <Allolog Form="сунели"/>
 </Word>
 
-<Word Stem="пельмен" Weight="0.0999718688653892">
+<Word Stem="пельмен" Weight="0.100024771591052">
 <Allolog Form="пельмени"/>
 <Allolog Form="пельменей"/>
 <Allolog Form="пельменного"/>
@@ -5250,14 +5790,6 @@
 <Allolog Form="пельменное"/>
 <Allolog Form="пельмень"/>
 <Allolog Form="пельменя"/>
-</Word>
-
-<Word Stem="печенк" Weight="0.0689175608170022">
-<Allolog Form="печенки"/>
-<Allolog Form="печенкой"/>
-<Allolog Form="печенка"/>
-<Allolog Form="печенку"/>
-<Allolog Form="печенке"/>
 </Word>
 
 <Word Stem="провансал" Weight="0.0605677408701874">
@@ -5322,19 +5854,6 @@
 <Allolog Form="гpибная"/>
 </Word>
 
-<Word Stem="лисичк" Weight="0.05402367650971">
-<Allolog Form="лисички"/>
-<Allolog Form="лисичками"/>
-<Allolog Form="лисичка"/>
-<Allolog Form="лисичке"/>
-</Word>
-
-<Word Stem="вермишел" Weight="0.0655090985098966">
-<Allolog Form="вермишелью"/>
-<Allolog Form="вермишели"/>
-<Allolog Form="вермишель"/>
-</Word>
-
 <Word Stem="сдобр" Weight="0.0521725636250776">
 <Allolog Form="сдобрить"/>
 <Allolog Form="сдобрив"/>
@@ -5342,7 +5861,7 @@
 <Allolog Form="сдобрите"/>
 </Word>
 
-<Word Stem="пшеничн" Weight="0.6700747654426">
+<Word Stem="пшеничн" Weight="0.670146681938643">
 <Allolog Form="пшеничной"/>
 <Allolog Form="пшеничная"/>
 <Allolog Form="пшеничную"/>
@@ -5384,21 +5903,12 @@
 <Allolog Form="подберезовики"/>
 </Word>
 
-<Word Stem="маргарин" Weight="0.704570530677665">
+<Word Stem="маргарин" Weight="0.704619279751901">
 <Allolog Form="маргарина"/>
 <Allolog Form="маргарин"/>
 <Allolog Form="маргарином"/>
 <Allolog Form="маргарине"/>
 <Allolog Form="маргарины"/>
-</Word>
-
-<Word Stem="растоп" Weight="0.0855556251054115">
-<Allolog Form="растопить"/>
-<Allolog Form="растопите"/>
-<Allolog Form="растоп"/>
-<Allolog Form="растопился"/>
-<Allolog Form="растопим"/>
-<Allolog Form="растопил"/>
 </Word>
 
 <Word Stem="вареник" Weight="0.0718116783745414">
@@ -5409,27 +5919,13 @@
 <Allolog Form="вареник"/>
 </Word>
 
-<Word Stem="ветчин" Weight="0.183597119149036">
-<Allolog Form="ветчина"/>
-<Allolog Form="ветчину"/>
-<Allolog Form="ветчины"/>
-<Allolog Form="ветчиной"/>
-<Allolog Form="ветчине"/>
-<Allolog Form="ветчинно"/>
-<Allolog Form="ветчинные"/>
-<Allolog Form="ветчинного"/>
-<Allolog Form="ветчинным"/>
-<Allolog Form="ветчинная"/>
-<Allolog Form="ветчинную"/>
-</Word>
-
 <Word Stem="расстойк" Weight="0.0582577324624982">
 <Allolog Form="расстойки"/>
 <Allolog Form="расстойку"/>
 <Allolog Form="расстойке"/>
 </Word>
 
-<Word Stem="базилик" Weight="0.081148636250669">
+<Word Stem="базилик" Weight="0.0812495705637162">
 <Allolog Form="базилика"/>
 <Allolog Form="базилик"/>
 <Allolog Form="базиликом"/>
@@ -5460,7 +5956,7 @@
 <Allolog Form="анчоуса"/>
 </Word>
 
-<Word Stem="простокваш" Weight="0.064728956948103">
+<Word Stem="простокваш" Weight="0.0647540142218716">
 <Allolog Form="простокваши"/>
 <Allolog Form="простокваша"/>
 <Allolog Form="простоквашу"/>
@@ -5473,7 +5969,7 @@
 <Allolog Form="мясных"/>
 </Word>
 
-<Word Stem="сосиск" Weight="0.0949970959676689">
+<Word Stem="сосиск" Weight="0.0950183449849018">
 <Allolog Form="сосиски"/>
 <Allolog Form="сосиску"/>
 <Allolog Form="сосисками"/>
@@ -5482,7 +5978,7 @@
 <Allolog Form="сосискам"/>
 </Word>
 
-<Word Stem="колбаск" Weight="0.072159224276456">
+<Word Stem="колбаск" Weight="0.0721823247956926">
 <Allolog Form="колбаска"/>
 <Allolog Form="колбаски"/>
 <Allolog Form="колбаску"/>
@@ -5537,29 +6033,7 @@
 
 <Word Stem="сварит" Weight="0.0552414745152175">
 <Allolog Form="сварится"/>
-</Word>
-
-<Word Stem="рисов" Weight="0.0719245023699968">
-<Allolog Form="рисовая"/>
-<Allolog Form="рисовой"/>
-<Allolog Form="рисовую"/>
-<Allolog Form="рисовый"/>
-<Allolog Form="рисовым"/>
-<Allolog Form="рисово"/>
-<Allolog Form="рисовые"/>
-<Allolog Form="рисового"/>
-<Allolog Form="рисовом"/>
-<Allolog Form="рисовое"/>
-</Word>
-
-<Word Stem="гречнев" Weight="0.110761698804589">
-<Allolog Form="гречневая"/>
-<Allolog Form="гречневую"/>
-<Allolog Form="гречневой"/>
-<Allolog Form="гречневые"/>
-<Allolog Form="гречневыми"/>
-<Allolog Form="гречневое"/>
-<Allolog Form="гречневого"/>
+<Allolog Form="сварит"/>
 </Word>
 
 <Word Stem="обжарьт" Weight="0.0610845082912122">
@@ -5666,9 +6140,10 @@
 <Allolog Form="вырезки"/>
 <Allolog Form="вырезка"/>
 <Allolog Form="вырезку"/>
+<Allolog Form="вырезками"/>
 </Word>
 
-<Word Stem="тимья" Weight="0.0594244416361273">
+<Word Stem="тимья" Weight="0.0594469865124373">
 <Allolog Form="тимьяна"/>
 <Allolog Form="тимьян"/>
 </Word>
@@ -5682,16 +6157,7 @@
 <Allolog Form="уварив"/>
 <Allolog Form="уварим"/>
 <Allolog Form="уваров"/>
-</Word>
-
-<Word Stem="булочк" Weight="0.0702493926611988">
-<Allolog Form="булочки"/>
-<Allolog Form="булочка"/>
-<Allolog Form="булочку"/>
-<Allolog Form="булочкой"/>
-<Allolog Form="булочками"/>
-<Allolog Form="булочке"/>
-<Allolog Form="булочкам"/>
+<Allolog Form="уварил"/>
 </Word>
 
 <Word Stem="огурчик" Weight="0.0528474870188092">
@@ -5702,19 +6168,6 @@
 <Allolog Form="огурчиков"/>
 </Word>
 
-<Word Stem="корейск" Weight="0.0577487788173632">
-<Allolog Form="корейски"/>
-<Allolog Form="корейская"/>
-<Allolog Form="корейский"/>
-<Allolog Form="корейской"/>
-<Allolog Form="корейские"/>
-<Allolog Form="корейское"/>
-<Allolog Form="корейскими"/>
-<Allolog Form="корейского"/>
-<Allolog Form="корейским"/>
-<Allolog Form="корейских"/>
-</Word>
-
 <Word Stem="телятин" Weight="0.125373778399388">
 <Allolog Form="телятину"/>
 <Allolog Form="телятина"/>
@@ -5723,7 +6176,7 @@
 <Allolog Form="телятиной"/>
 </Word>
 
-<Word Stem="кинз" Weight="0.088735318064927">
+<Word Stem="кинз" Weight="0.0866611326165468">
 <Allolog Form="кинзы"/>
 <Allolog Form="кинза"/>
 <Allolog Form="кинзой"/>
@@ -5752,13 +6205,6 @@
 <Allolog Form="шпиговать"/>
 <Allolog Form="шпигованная"/>
 <Allolog Form="шпигованный"/>
-</Word>
-
-<Word Stem="нашпигова" Weight="0.0582577324624982">
-<Allolog Form="нашпиговать"/>
-<Allolog Form="нашпигованные"/>
-<Allolog Form="нашпигована"/>
-<Allolog Form="нашпигованный"/>
 </Word>
 
 <Word Stem="чернослив" Weight="0.0823780845592328">
@@ -5822,34 +6268,12 @@
 <Allolog Form="индейкой"/>
 </Word>
 
-<Word Stem="батон" Weight="0.0699690954475217">
-<Allolog Form="батон"/>
-<Allolog Form="батона"/>
-<Allolog Form="батонами"/>
-<Allolog Form="батоном"/>
-<Allolog Form="батоны"/>
-<Allolog Form="батонов"/>
-</Word>
-
 <Word Stem="замаринова" Weight="0.0521725636250776">
 <Allolog Form="замариновать"/>
 <Allolog Form="замариновались"/>
 <Allolog Form="замаринованного"/>
 <Allolog Form="замаринованной"/>
-</Word>
-
-<Word Stem="кухон" Weight="0.058245343137104">
-<Allolog Form="кухонным"/>
-<Allolog Form="кухонный"/>
-<Allolog Form="кухонное"/>
-<Allolog Form="кухонной"/>
-<Allolog Form="кухонного"/>
-<Allolog Form="кухонную"/>
-<Allolog Form="кухонном"/>
-<Allolog Form="кухонными"/>
-<Allolog Form="кухонь"/>
-<Allolog Form="кухонные"/>
-<Allolog Form="кухон"/>
+<Allolog Form="замаринованное"/>
 </Word>
 
 <Word Stem="филейн" Weight="0.0521725636250776">
@@ -5915,19 +6339,6 @@
 <Allolog Form="кориандром"/>
 <Allolog Form="кориандре"/>
 <Allolog Form="кориандры"/>
-</Word>
-
-<Word Stem="аппетитн" Weight="0.0516499106122439">
-<Allolog Form="аппетитна"/>
-<Allolog Form="аппетитно"/>
-<Allolog Form="аппетитное"/>
-<Allolog Form="аппетитной"/>
-<Allolog Form="аппетитные"/>
-<Allolog Form="аппетитная"/>
-<Allolog Form="аппетитный"/>
-<Allolog Form="аппетитными"/>
-<Allolog Form="аппетитней"/>
-<Allolog Form="аппетитным"/>
 </Word>
 
 <Word Stem="гуляш" Weight="0.0559856344772546">
@@ -6079,12 +6490,6 @@
 <Allolog Form="жарит"/>
 </Word>
 
-<Word Stem="сохранит" Weight="0.0517412754842922">
-<Allolog Form="сохранит"/>
-<Allolog Form="сохранится"/>
-<Allolog Form="сохранити"/>
-</Word>
-
 <Word Stem="припра" Weight="0.054506830665227">
 <Allolog Form="приправ"/>
 </Word>
@@ -6102,6 +6507,7 @@
 <Allolog Form="кебаб"/>
 <Allolog Form="кебабу"/>
 <Allolog Form="кебаба"/>
+<Allolog Form="кебабы"/>
 </Word>
 
 <Word Stem="маринуют" Weight="0.0569892863188953">
@@ -6117,7 +6523,7 @@
 <Allolog Form="жареных"/>
 </Word>
 
-<Word Stem="баран" Weight="0.0962531461776736">
+<Word Stem="баран" Weight="0.0963010828054517">
 <Allolog Form="бараньи"/>
 <Allolog Form="баранья"/>
 <Allolog Form="бараний"/>
@@ -6132,17 +6538,10 @@
 <Allolog Form="баранов"/>
 <Allolog Form="барану"/>
 <Allolog Form="баранам"/>
+<Allolog Form="бараном"/>
 <Allolog Form="баранами"/>
 <Allolog Form="баранах"/>
-<Allolog Form="бараном"/>
-</Word>
-
-<Word Stem="нарезк" Weight="0.0517412754842922">
-<Allolog Form="нарезку"/>
-<Allolog Form="нарезка"/>
-<Allolog Form="нарезке"/>
-<Allolog Form="нарезкой"/>
-<Allolog Form="нарезки"/>
+<Allolog Form="бараньими"/>
 </Word>
 
 <Word Stem="сырец" Weight="0.0517412754842922">
@@ -6152,18 +6551,6 @@
 <Word Stem="мангал" Weight="0.0515328291465562">
 <Allolog Form="мангале"/>
 <Allolog Form="мангалах"/>
-</Word>
-
-<Word Stem="вертел" Weight="0.0631605714911663">
-<Allolog Form="вертеле"/>
-<Allolog Form="вертел"/>
-<Allolog Form="вертела"/>
-<Allolog Form="вертелу"/>
-<Allolog Form="вертелась"/>
-<Allolog Form="вертелом"/>
-<Allolog Form="вертелся"/>
-<Allolog Form="вертелись"/>
-<Allolog Form="вертели"/>
 </Word>
 
 <Word Stem="уварен" Weight="0.0521725636250776">
@@ -6297,15 +6684,6 @@
 <Allolog Form="портвейне"/>
 </Word>
 
-<Word Stem="окорок" Weight="0.07550400777265">
-<Allolog Form="окороков"/>
-<Allolog Form="окорок"/>
-<Allolog Form="окорока"/>
-<Allolog Form="окороками"/>
-<Allolog Form="окороком"/>
-<Allolog Form="окороку"/>
-</Word>
-
 <Word Stem="потрошк" Weight="0.0526193545746618">
 <Allolog Form="потрошка"/>
 <Allolog Form="потрошки"/>
@@ -6350,14 +6728,6 @@
 <Allolog Form="брусничная"/>
 </Word>
 
-<Word Stem="приготавлива" Weight="0.0574950553454318">
-<Allolog Form="приготавливается"/>
-<Allolog Form="приготавливали"/>
-<Allolog Form="приготавливают"/>
-<Allolog Form="приготавливаются"/>
-<Allolog Form="приготавливать"/>
-</Word>
-
 <Word Stem="гусин" Weight="0.0673425049721937">
 <Allolog Form="гусиную"/>
 <Allolog Form="гусинное"/>
@@ -6395,7 +6765,7 @@
 <Allolog Form="селедочно"/>
 </Word>
 
-<Word Stem="творог" Weight="0.199252327818563">
+<Word Stem="творог" Weight="0.199371235482913">
 <Allolog Form="творогом"/>
 <Allolog Form="творога"/>
 <Allolog Form="творог"/>
@@ -6410,28 +6780,8 @@
 <Allolog Form="клецкам"/>
 </Word>
 
-<Word Stem="горчичн" Weight="0.0657706973349431">
-<Allolog Form="горчичном"/>
-<Allolog Form="горчичной"/>
-<Allolog Form="горчичная"/>
-<Allolog Form="горчичный"/>
-<Allolog Form="горчичную"/>
-<Allolog Form="горчичным"/>
-<Allolog Form="горчичного"/>
-<Allolog Form="горчичные"/>
-<Allolog Form="горчичное"/>
-</Word>
-
 <Word Stem="шинкуют" Weight="0.0707584271974066">
 <Allolog Form="шинкуют"/>
-</Word>
-
-<Word Stem="перчик" Weight="0.0519547289403981">
-<Allolog Form="перчика"/>
-<Allolog Form="перчику"/>
-<Allolog Form="перчики"/>
-<Allolog Form="перчик"/>
-<Allolog Form="перчиком"/>
 </Word>
 
 <Word Stem="поджарива" Weight="0.0892654435741446">
@@ -6466,7 +6816,7 @@
 <Allolog Form="закусок"/>
 </Word>
 
-<Word Stem="десертн" Weight="0.0665397364744813">
+<Word Stem="десертн" Weight="0.066559819484255">
 <Allolog Form="десертным"/>
 <Allolog Form="десертной"/>
 <Allolog Form="десертн"/>
@@ -6480,39 +6830,16 @@
 <Allolog Form="десертном"/>
 </Word>
 
-<Word Stem="закусочн" Weight="0.05378446566949">
+<Word Stem="закусочн" Weight="0.0529989460166211">
 <Allolog Form="закусочные"/>
 <Allolog Form="закусочный"/>
 <Allolog Form="закусочное"/>
 <Allolog Form="закусочную"/>
+<Allolog Form="закусочной"/>
+<Allolog Form="закусочная"/>
 </Word>
 
-<Word Stem="торт" Weight="0.240542277517058">
-<Allolog Form="торты"/>
-<Allolog Form="торт"/>
-<Allolog Form="торту"/>
-<Allolog Form="тортов"/>
-<Allolog Form="торта"/>
-<Allolog Form="тортом"/>
-<Allolog Form="торте"/>
-<Allolog Form="тортам"/>
-</Word>
-
-<Word Stem="кукурузн" Weight="0.0729870635705006">
-<Allolog Form="кукурузной"/>
-<Allolog Form="кукурузная"/>
-<Allolog Form="кукурузные"/>
-<Allolog Form="кукурузного"/>
-<Allolog Form="кукурузными"/>
-<Allolog Form="кукурузную"/>
-<Allolog Form="кукурузное"/>
-<Allolog Form="кукурузно"/>
-<Allolog Form="кукурузным"/>
-<Allolog Form="кукурузный"/>
-<Allolog Form="кукурузном"/>
-</Word>
-
-<Word Stem="арахис" Weight="0.052749518914318">
+<Word Stem="арахис" Weight="0.052767197807181">
 <Allolog Form="арахис"/>
 <Allolog Form="арахиса"/>
 <Allolog Form="арахисом"/>
@@ -6544,29 +6871,8 @@
 <Allolog Form="петруши"/>
 </Word>
 
-<Word Stem="семечк" Weight="0.05415532430398">
-<Allolog Form="семечками"/>
-<Allolog Form="семечки"/>
-<Allolog Form="семечка"/>
-</Word>
-
 <Word Stem="креветок" Weight="0.0649862552097189">
 <Allolog Form="креветок"/>
-</Word>
-
-<Word Stem="теляч" Weight="0.0897956147848713">
-<Allolog Form="телячьей"/>
-<Allolog Form="телячей"/>
-<Allolog Form="телячьего"/>
-<Allolog Form="телячье"/>
-<Allolog Form="телячья"/>
-<Allolog Form="телячью"/>
-<Allolog Form="телячьих"/>
-<Allolog Form="телячий"/>
-<Allolog Form="телячьи"/>
-<Allolog Form="телячьим"/>
-<Allolog Form="телячьими"/>
-<Allolog Form="телячьем"/>
 </Word>
 
 <Word Stem="корж" Weight="0.159133428608549">
@@ -6588,6 +6894,8 @@
 <Allolog Form="сардинами"/>
 <Allolog Form="сардин"/>
 <Allolog Form="сардинии"/>
+<Allolog Form="сардиния"/>
+<Allolog Form="сардинах"/>
 </Word>
 
 <Word Stem="испечен" Weight="0.0574950553454318">
@@ -6608,7 +6916,7 @@
 <Allolog Form="шпротами"/>
 </Word>
 
-<Word Stem="анис" Weight="0.0594774759136445">
+<Word Stem="анис" Weight="0.0595103174198537">
 <Allolog Form="анис"/>
 <Allolog Form="аниса"/>
 <Allolog Form="анисом"/>
@@ -6697,16 +7005,7 @@
 <Allolog Form="куличей"/>
 </Word>
 
-<Word Stem="чечевиц" Weight="0.0613119868644436">
-<Allolog Form="чечевици"/>
-<Allolog Form="чечевицы"/>
-<Allolog Form="чечевица"/>
-<Allolog Form="чечевицу"/>
-<Allolog Form="чечевицей"/>
-<Allolog Form="чечевице"/>
-</Word>
-
-<Word Stem="шалфе" Weight="0.051793088608034">
+<Word Stem="шалфе" Weight="0.0518285925003126">
 <Allolog Form="шалфеем"/>
 <Allolog Form="шалфеям"/>
 <Allolog Form="шалфея"/>
@@ -6744,17 +7043,6 @@
 <Allolog Form="булочек"/>
 </Word>
 
-<Word Stem="спагетт" Weight="0.0642029499571399">
-<Allolog Form="спагетти"/>
-</Word>
-
-<Word Stem="пиал" Weight="0.0526193545746618">
-<Allolog Form="пиалу"/>
-<Allolog Form="пиалах"/>
-<Allolog Form="пиале"/>
-<Allolog Form="пиалы"/>
-</Word>
-
 <Word Stem="мамалыг" Weight="0.0521725636250776">
 <Allolog Form="мамалыги"/>
 <Allolog Form="мамалыга"/>
@@ -6772,12 +7060,7 @@
 <Allolog Form="уваривается"/>
 </Word>
 
-<Word Stem="карр" Weight="0.0574950553454318">
-<Allolog Form="карри"/>
-<Allolog Form="карре"/>
-</Word>
-
-<Word Stem="кокосов" Weight="0.0607201980362057">
+<Word Stem="кокосов" Weight="0.0607480149314925">
 <Allolog Form="кокосовый"/>
 <Allolog Form="кокосового"/>
 <Allolog Form="кокосовое"/>
@@ -6821,6 +7104,7 @@
 <Allolog Form="муссы"/>
 <Allolog Form="муссом"/>
 <Allolog Form="муссо"/>
+<Allolog Form="мусса"/>
 </Word>
 
 <Word Stem="повидл" Weight="0.0913863869570175">
@@ -6839,7 +7123,7 @@
 <Allolog Form="пригорелого"/>
 </Word>
 
-<Word Stem="мандарин" Weight="0.0656927795758778">
+<Word Stem="мандарин" Weight="0.0657832512711216">
 <Allolog Form="мандарины"/>
 <Allolog Form="мандарин"/>
 <Allolog Form="мандаринами"/>
@@ -6857,7 +7141,7 @@
 <Allolog Form="пекарской"/>
 </Word>
 
-<Word Stem="десерт" Weight="0.055302994322725">
+<Word Stem="десерт" Weight="0.0554225173759902">
 <Allolog Form="десерте"/>
 <Allolog Form="десерт"/>
 <Allolog Form="десерты"/>
@@ -6880,16 +7164,8 @@
 <Allolog Form="салатники"/>
 </Word>
 
-<Word Stem="черносл" Weight="0.0881575648255139">
+<Word Stem="черносл" Weight="0.0881729060135355">
 <Allolog Form="чернослив"/>
-</Word>
-
-<Word Stem="грил" Weight="0.0592808705647327">
-<Allolog Form="гриле"/>
-<Allolog Form="гриль"/>
-<Allolog Form="гриля"/>
-<Allolog Form="грилю"/>
-<Allolog Form="грилем"/>
 </Word>
 
 <Word Stem="пастил" Weight="0.05402367650971">
@@ -6948,13 +7224,14 @@
 <Allolog Form="фундук"/>
 </Word>
 
-<Word Stem="персик" Weight="0.0747213384328292">
+<Word Stem="персик" Weight="0.0733571204103704">
 <Allolog Form="персиками"/>
 <Allolog Form="персики"/>
 <Allolog Form="персиков"/>
 <Allolog Form="персик"/>
 <Allolog Form="персика"/>
 <Allolog Form="персиках"/>
+<Allolog Form="персиком"/>
 </Word>
 
 <Word Stem="коча" Weight="0.0890003750036058">
@@ -6999,6 +7276,7 @@
 <Allolog Form="приправляется"/>
 <Allolog Form="приправляю"/>
 <Allolog Form="приправлять"/>
+<Allolog Form="приправляете"/>
 </Word>
 
 <Word Stem="чеддер" Weight="0.0549954184032396">
@@ -7068,11 +7346,6 @@
 <Allolog Form="шинкованными"/>
 </Word>
 
-<Word Stem="кочан" Weight="0.0521725636250776">
-<Allolog Form="кочанами"/>
-<Allolog Form="кочанов"/>
-</Word>
-
 <Word Stem="кольраб" Weight="0.0629003823659039">
 <Allolog Form="кольраби"/>
 </Word>
@@ -7103,7 +7376,7 @@
 <Allolog Form="паприку"/>
 </Word>
 
-<Word Stem="крахмал" Weight="0.0535603946299956">
+<Word Stem="крахмал" Weight="0.0536095794085618">
 <Allolog Form="крахмалом"/>
 <Allolog Form="крахмалу"/>
 <Allolog Form="крахмале"/>
@@ -7162,7 +7435,7 @@
 <Allolog Form="пармезана"/>
 </Word>
 
-<Word Stem="розмарин" Weight="0.0534094704918845">
+<Word Stem="розмарин" Weight="0.0534642604491045">
 <Allolog Form="розмарин"/>
 <Allolog Form="розмарина"/>
 <Allolog Form="розмарином"/>
@@ -7175,29 +7448,13 @@
 <Allolog Form="чипса"/>
 <Allolog Form="чипсами"/>
 <Allolog Form="чипс"/>
-</Word>
-
-<Word Stem="овсяных" Weight="0.0516635207846707">
-<Allolog Form="овсяных"/>
+<Allolog Form="чипсам"/>
 </Word>
 
 <Word Stem="кишмиш" Weight="0.0523942537909018">
 <Allolog Form="кишмиш"/>
 <Allolog Form="кишмиша"/>
 <Allolog Form="кишмишем"/>
-</Word>
-
-<Word Stem="пирог" Weight="0.173002838337255">
-<Allolog Form="пирог"/>
-<Allolog Form="пироги"/>
-<Allolog Form="пирогах"/>
-<Allolog Form="пирогами"/>
-<Allolog Form="пирогов"/>
-<Allolog Form="пирога"/>
-<Allolog Form="пирогу"/>
-<Allolog Form="пирогом"/>
-<Allolog Form="пирогам"/>
-<Allolog Form="пироге"/>
 </Word>
 
 <Word Stem="сгущенк" Weight="0.0710216568670565">
@@ -7217,6 +7474,7 @@
 <Allolog Form="пирожное"/>
 <Allolog Form="пирожным"/>
 <Allolog Form="пирожными"/>
+<Allolog Form="пирожном"/>
 </Word>
 
 <Word Stem="пирожк" Weight="0.553061085662295">
@@ -7236,6 +7494,7 @@
 <Allolog Form="сдобного"/>
 <Allolog Form="сдобные"/>
 <Allolog Form="сдобно"/>
+<Allolog Form="сдобны"/>
 </Word>
 
 <Word Stem="опар" Weight="0.0707584271974066">
@@ -7258,27 +7517,11 @@
 <Allolog Form="пекут"/>
 </Word>
 
-<Word Stem="орешк" Weight="0.058512902367651">
-<Allolog Form="орешками"/>
-<Allolog Form="орешка"/>
-<Allolog Form="орешки"/>
-<Allolog Form="орешком"/>
-<Allolog Form="орешков"/>
-</Word>
-
 <Word Stem="пышк" Weight="0.0542645126444009">
 <Allolog Form="пышки"/>
 <Allolog Form="пышку"/>
 <Allolog Form="пышкам"/>
 <Allolog Form="пышка"/>
-</Word>
-
-<Word Stem="пончик" Weight="0.0528474870188092">
-<Allolog Form="пончики"/>
-<Allolog Form="пончиков"/>
-<Allolog Form="пончикам"/>
-<Allolog Form="пончик"/>
-<Allolog Form="пончиками"/>
 </Word>
 
 <Word Stem="сырник" Weight="0.05402367650971">
@@ -7287,7 +7530,7 @@
 <Allolog Form="сырникам"/>
 </Word>
 
-<Word Stem="миндальн" Weight="0.0712801871561465">
+<Word Stem="миндальн" Weight="0.0713156910484251">
 <Allolog Form="миндальный"/>
 <Allolog Form="миндальными"/>
 <Allolog Form="миндальные"/>
@@ -7319,6 +7562,7 @@
 <Allolog Form="глазированные"/>
 <Allolog Form="глазированную"/>
 <Allolog Form="глазированный"/>
+<Allolog Form="глазирован"/>
 </Word>
 
 <Word Stem="джем" Weight="0.0744482311521418">
@@ -7353,11 +7597,6 @@
 <Allolog Form="медовик"/>
 </Word>
 
-<Word Stem="коврижк" Weight="0.0519547289403981">
-<Allolog Form="коврижка"/>
-<Allolog Form="коврижки"/>
-</Word>
-
 <Word Stem="выпекан" Weight="0.0549954184032396">
 <Allolog Form="выпекания"/>
 <Allolog Form="выпекание"/>
@@ -7369,6 +7608,7 @@
 <Allolog Form="коржики"/>
 <Allolog Form="коржик"/>
 <Allolog Form="коржика"/>
+<Allolog Form="коржиков"/>
 </Word>
 
 <Word Stem="ромов" Weight="0.0552414745152175">
@@ -7378,11 +7618,6 @@
 <Allolog Form="ромовые"/>
 <Allolog Form="ромового"/>
 <Allolog Form="ромовую"/>
-</Word>
-
-<Word Stem="геркулес" Weight="0.0542645126444009">
-<Allolog Form="геркулеса"/>
-<Allolog Form="геркулес"/>
 </Word>
 
 <Word Stem="пирожков" Weight="0.0517412754842922">
@@ -7486,11 +7721,6 @@
 <Allolog Form="фисташки"/>
 </Word>
 
-<Word Stem="выпеч" Weight="0.0657706973349431">
-<Allolog Form="выпечь"/>
-<Allolog Form="выпеч"/>
-</Word>
-
 <Word Stem="черничн" Weight="0.0526193545746618">
 <Allolog Form="черничный"/>
 <Allolog Form="черничные"/>
@@ -7506,7 +7736,7 @@
 <Allolog Form="шарлотку"/>
 </Word>
 
-<Word Stem="рафинирова" Weight="0.0512654925772751">
+<Word Stem="рафинирова" Weight="0.0512905498510437">
 <Allolog Form="рафинированного"/>
 <Allolog Form="рафинированное"/>
 <Allolog Form="рафинированным"/>
@@ -7552,6 +7782,7 @@
 <Allolog Form="кулинарией"/>
 <Allolog Form="кулинары"/>
 <Allolog Form="кулинаров"/>
+<Allolog Form="кулинарию"/>
 </Word>
 
 <Word Stem="шпинатн" Weight="0.0513301409949455">
@@ -7560,7 +7791,7 @@
 <Allolog Form="шпинатным"/>
 </Word>
 
-<Word Stem="персиков" Weight="0.0528369759380489">
+<Word Stem="персиков" Weight="0.0528523171260705">
 <Allolog Form="персиково"/>
 <Allolog Form="персиковые"/>
 <Allolog Form="персиковым"/>
@@ -7641,18 +7872,11 @@
 <Allolog Form="студеной"/>
 </Word>
 
-<Word Stem="глазун" Weight="0.0513816797075288">
+<Word Stem="глазун" Weight="0.0514098396560363">
 <Allolog Form="глазунья"/>
 <Allolog Form="глазуньей"/>
 <Allolog Form="глазунью"/>
 <Allolog Form="глазунов"/>
-</Word>
-
-<Word Stem="потрох" Weight="0.0760321098309925">
-<Allolog Form="потрохов"/>
-<Allolog Form="потроха"/>
-<Allolog Form="потрохами"/>
-<Allolog Form="потрохам"/>
 </Word>
 
 <Word Stem="горохов" Weight="0.0587684980882483">
@@ -7663,6 +7887,7 @@
 <Allolog Form="гороховую"/>
 <Allolog Form="гороховые"/>
 <Allolog Form="гороховой"/>
+<Allolog Form="горохового"/>
 </Word>
 
 <Word Stem="пампушк" Weight="0.0549954184032396">
@@ -7671,7 +7896,7 @@
 <Allolog Form="пампушка"/>
 </Word>
 
-<Word Stem="вегетарианск" Weight="0.0535430907226487">
+<Word Stem="вегетарианск" Weight="0.0535707048610876">
 <Allolog Form="вегетарианский"/>
 <Allolog Form="вегетарианских"/>
 <Allolog Form="вегетарианские"/>
@@ -7756,6 +7981,7 @@
 <Allolog Form="перепелов"/>
 <Allolog Form="перепелами"/>
 <Allolog Form="перепелу"/>
+<Allolog Form="перепелих"/>
 <Allolog Form="перепел"/>
 </Word>
 
@@ -7770,7 +7996,7 @@
 <Allolog Form="ватрушку"/>
 </Word>
 
-<Word Stem="черешн" Weight="0.0641140159282745">
+<Word Stem="черешн" Weight="0.0641522641592938">
 <Allolog Form="черешней"/>
 <Allolog Form="черешню"/>
 <Allolog Form="черешни"/>
@@ -7842,22 +8068,11 @@
 <Allolog Form="вишневка"/>
 </Word>
 
-<Word Stem="шиповник" Weight="0.505074593817493">
+<Word Stem="шиповник" Weight="0.505292779602689">
 <Allolog Form="шиповника"/>
 <Allolog Form="шиповник"/>
 <Allolog Form="шиповнике"/>
 <Allolog Form="шиповником"/>
-</Word>
-
-<Word Stem="фужер" Weight="0.0702321446073284">
-<Allolog Form="фужеры"/>
-<Allolog Form="фужеров"/>
-<Allolog Form="фужерах"/>
-<Allolog Form="фужер"/>
-<Allolog Form="фужере"/>
-<Allolog Form="фужера"/>
-<Allolog Form="фужерам"/>
-<Allolog Form="фужеру"/>
 </Word>
 
 <Word Stem="обеденных" Weight="0.0523942537909018">
@@ -7915,6 +8130,7 @@
 <Allolog Form="лакомство"/>
 <Allolog Form="лакомства"/>
 <Allolog Form="лакомств"/>
+<Allolog Form="лакомству"/>
 </Word>
 
 <Word Stem="огурец" Weight="0.0736568039175116">
@@ -7968,15 +8184,6 @@
 <Allolog Form="меланж"/>
 <Allolog Form="меланжем"/>
 <Allolog Form="меланжа"/>
-</Word>
-
-<Word Stem="консервн" Weight="0.0515328291465562">
-<Allolog Form="консервные"/>
-<Allolog Form="консервной"/>
-<Allolog Form="консервная"/>
-<Allolog Form="консервную"/>
-<Allolog Form="консервном"/>
-<Allolog Form="консервными"/>
 </Word>
 
 <Word Stem="пюреобразн" Weight="0.0523942537909018">
@@ -8059,6 +8266,7 @@
 <Allolog Form="соусник"/>
 <Allolog Form="соуснике"/>
 <Allolog Form="соусника"/>
+<Allolog Form="соусники"/>
 </Word>
 
 <Word Stem="тительн" Weight="0.0517412754842922">
@@ -8114,13 +8322,6 @@
 <Allolog Form="сливоч"/>
 </Word>
 
-<Word Stem="прожар" Weight="0.054506830665227">
-<Allolog Form="прожарить"/>
-<Allolog Form="прожари"/>
-<Allolog Form="прожарились"/>
-<Allolog Form="прожарилась"/>
-</Word>
-
 <Word Stem="подрумянен" Weight="0.0521725636250776">
 <Allolog Form="подрумяненные"/>
 <Allolog Form="подрумяненным"/>
@@ -8152,7 +8353,7 @@
 <Allolog Form="поросенком"/>
 </Word>
 
-<Word Stem="чабрец" Weight="0.0552632896602157">
+<Word Stem="чабрец" Weight="0.0552833726699894">
 <Allolog Form="чабрец"/>
 <Allolog Form="чабреца"/>
 <Allolog Form="чабрецом"/>
@@ -8203,6 +8404,7 @@
 <Allolog Form="приготовляя"/>
 <Allolog Form="приготовлены"/>
 <Allolog Form="приготовлю"/>
+<Allolog Form="приготовляясь"/>
 </Word>
 
 <Word Stem="поджаренных" Weight="0.0513301409949455">
@@ -8215,16 +8417,13 @@
 <Allolog Form="хамсу"/>
 </Word>
 
-<Word Stem="изжар" Weight="0.054506830665227">
-<Allolog Form="изжарить"/>
-</Word>
-
 <Word Stem="прованск" Weight="0.0523942537909018">
 <Allolog Form="прованского"/>
 <Allolog Form="прованским"/>
 <Allolog Form="прованской"/>
 <Allolog Form="прованское"/>
 <Allolog Form="прованском"/>
+<Allolog Form="прованский"/>
 </Word>
 
 <Word Stem="обжаренных" Weight="0.0542645126444009">
@@ -8283,10 +8482,6 @@
 <Allolog Form="сухарном"/>
 </Word>
 
-<Word Stem="жарком" Weight="0.05378446566949">
-<Allolog Form="жаркому"/>
-</Word>
-
 <Word Stem="шкварк" Weight="0.0569892863188953">
 <Allolog Form="шкварками"/>
 <Allolog Form="шкварки"/>
@@ -8324,6 +8519,7 @@
 <Allolog Form="сервировать"/>
 <Allolog Form="сервированную"/>
 <Allolog Form="сервированными"/>
+<Allolog Form="сервированный"/>
 <Allolog Form="сервированной"/>
 <Allolog Form="сервировал"/>
 <Allolog Form="сервирован"/>
@@ -8376,14 +8572,6 @@
 <Allolog Form="кочешки"/>
 <Allolog Form="кочешка"/>
 <Allolog Form="кочешков"/>
-</Word>
-
-<Word Stem="спарж" Weight="0.0900607170242399">
-<Allolog Form="спаржу"/>
-<Allolog Form="спаржа"/>
-<Allolog Form="спаржи"/>
-<Allolog Form="спарже"/>
-<Allolog Form="спаржей"/>
 </Word>
 
 <Word Stem="артишок" Weight="0.0626403701822696">
@@ -8525,19 +8713,10 @@
 <Allolog Form="шурпи"/>
 </Word>
 
-<Word Stem="оливок" Weight="0.0519547289403981">
-<Allolog Form="оливок"/>
-</Word>
-
 <Word Stem="стерляд" Weight="0.0657706973349431">
 <Allolog Form="стерлядь"/>
 <Allolog Form="стерляди"/>
 <Allolog Form="стерлядей"/>
-</Word>
-
-<Word Stem="крил" Weight="0.0605677408701874">
-<Allolog Form="криля"/>
-<Allolog Form="крилем"/>
 </Word>
 
 <Word Stem="фрикаделек" Weight="0.0533115924081056">
@@ -8638,14 +8817,17 @@
 <Allolog Form="сморчками"/>
 <Allolog Form="сморчки"/>
 <Allolog Form="сморчков"/>
+<Allolog Form="сморчка"/>
 </Word>
 
-<Word Stem="застол" Weight="0.0517412754842922">
+<Word Stem="застол" Weight="0.05">
 <Allolog Form="застолья"/>
 <Allolog Form="застолье"/>
 <Allolog Form="застолью"/>
 <Allolog Form="застольях"/>
 <Allolog Form="застольем"/>
+<Allolog Form="застолий"/>
+<Allolog Form="застольями"/>
 </Word>
 
 <Word Stem="прожарива" Weight="0.0519547289403981">
@@ -8683,11 +8865,7 @@
 <Allolog Form="пахтой"/>
 </Word>
 
-<Word Stem="истолч" Weight="0.0517412754842922">
-<Allolog Form="истолч"/>
-</Word>
-
-<Word Stem="тыквен" Weight="0.0547757080632305">
+<Word Stem="тыквен" Weight="0.0547957910730043">
 <Allolog Form="тыквенная"/>
 <Allolog Form="тыквенную"/>
 <Allolog Form="тыквенной"/>
@@ -8765,17 +8943,13 @@
 <Allolog Form="гренадином"/>
 </Word>
 
-<Word Stem="шерр" Weight="0.0533115924081056">
-<Allolog Form="шерри"/>
-</Word>
-
-<Word Stem="текил" Weight="0.0557058509975618">
+<Word Stem="текил" Weight="0.0557271000147948">
 <Allolog Form="текилу"/>
 <Allolog Form="текилы"/>
 <Allolog Form="текилой"/>
 </Word>
 
-<Word Stem="грейпфрут" Weight="0.0525517250638249">
+<Word Stem="грейпфрут" Weight="0.0525899193319338">
 <Allolog Form="грейпфрута"/>
 <Allolog Form="грейпфруты"/>
 <Allolog Form="грейпфрут"/>
@@ -8813,14 +8987,6 @@
 <Allolog Form="арбузной"/>
 </Word>
 
-<Word Stem="финик" Weight="0.0533115924081056">
-<Allolog Form="финики"/>
-<Allolog Form="фиников"/>
-<Allolog Form="финикии"/>
-<Allolog Form="финикий"/>
-<Allolog Form="финикия"/>
-</Word>
-
 <Word Stem="тартинк" Weight="0.0805257431914649">
 <Allolog Form="тартинка"/>
 <Allolog Form="тартинки"/>
@@ -8846,14 +9012,6 @@
 
 <Word Stem="гренок" Weight="0.0526193545746618">
 <Allolog Form="гренок"/>
-</Word>
-
-<Word Stem="семг" Weight="0.0574950553454318">
-<Allolog Form="семгой"/>
-<Allolog Form="семга"/>
-<Allolog Form="семги"/>
-<Allolog Form="семгу"/>
-<Allolog Form="семге"/>
 </Word>
 
 <Word Stem="барабульк" Weight="0.0521725636250776">
@@ -8903,6 +9061,7 @@
 <Word Stem="копт" Weight="0.0542645126444009">
 <Allolog Form="коптить"/>
 <Allolog Form="коптим"/>
+<Allolog Form="коптил"/>
 <Allolog Form="коптили"/>
 <Allolog Form="коптишь"/>
 </Word>
@@ -8938,15 +9097,6 @@
 
 <Word Stem="сырок" Weight="0.0519547289403981">
 <Allolog Form="сырок"/>
-</Word>
-
-<Word Stem="грозд" Weight="0.00195472894039812">
-<Allolog Form="гроздь"/>
-<Allolog Form="гроздья"/>
-<Allolog Form="гроздей"/>
-<Allolog Form="грозди"/>
-<Allolog Form="гроздий"/>
-<Allolog Form="гроздьями"/>
 </Word>
 
 <Word Stem="тунц" Weight="0.0530783263025881">
@@ -9001,7 +9151,7 @@
 <Allolog Form="гребешок"/>
 </Word>
 
-<Word Stem="авокад" Weight="0.0543884054339654">
+<Word Stem="авокад" Weight="0.0544186157734541">
 <Allolog Form="авокадо"/>
 </Word>
 
@@ -9028,7 +9178,7 @@
 <Allolog Form="вишенку"/>
 </Word>
 
-<Word Stem="лайм" Weight="0.0510739673583128">
+<Word Stem="лайм" Weight="0.0510916462511758">
 <Allolog Form="лайма"/>
 <Allolog Form="лайм"/>
 <Allolog Form="лаймена"/>
@@ -9132,7 +9282,7 @@
 <Allolog Form="толмена"/>
 </Word>
 
-<Word Stem="бузин" Weight="0.0588180441517048">
+<Word Stem="бузин" Weight="0.058867228930271">
 <Allolog Form="бузина"/>
 <Allolog Form="бузине"/>
 <Allolog Form="бузины"/>
@@ -9148,7 +9298,7 @@
 <Allolog Form="морошкой"/>
 </Word>
 
-<Word Stem="боярышник" Weight="0.0512960529158551">
+<Word Stem="боярышник" Weight="0.0513369627505794">
 <Allolog Form="боярышника"/>
 <Allolog Form="боярышник"/>
 </Word>
@@ -9186,13 +9336,6 @@
 
 <Word Stem="петиш" Weight="0.0513301409949455">
 <Allolog Form="петишу"/>
-</Word>
-
-<Word Stem="крендел" Weight="0.0514488608756343">
-<Allolog Form="крендели"/>
-<Allolog Form="крендель"/>
-<Allolog Form="кренделя"/>
-<Allolog Form="кренделе"/>
 </Word>
 
 <Word Stem="пляцек" Weight="0.0530783263025881">

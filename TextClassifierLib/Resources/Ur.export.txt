@@ -1,0 +1,2338 @@
+﻿<Words>
+
+<Word Stem="семейных" Weight="0.00167815522854219">
+<Allolog Form="семейных"/>
+</Word>
+
+<Word Stem="страхован" Weight="0.05">
+<Allolog Form="страхованию"/>
+<Allolog Form="страхование"/>
+<Allolog Form="страхования"/>
+<Allolog Form="страховании"/>
+<Allolog Form="страхованием"/>
+</Word>
+
+<Word Stem="правительств" Weight="0.05">
+<Allolog Form="правительство"/>
+<Allolog Form="правительством"/>
+<Allolog Form="правительства"/>
+<Allolog Form="правительств"/>
+<Allolog Form="правительствами"/>
+<Allolog Form="правительстве"/>
+<Allolog Form="правительствам"/>
+<Allolog Form="правительству"/>
+<Allolog Form="правительствах"/>
+<Allolog Form="правительствующего"/>
+</Word>
+
+<Word Stem="пошлин" Weight="0.443428223189648">
+<Allolog Form="пошлины"/>
+<Allolog Form="пошлина"/>
+<Allolog Form="пошлину"/>
+<Allolog Form="пошлиной"/>
+<Allolog Form="пошлин"/>
+<Allolog Form="пошлинами"/>
+<Allolog Form="пошлине"/>
+</Word>
+
+<Word Stem="заверен" Weight="0.0648554992232977">
+<Allolog Form="заверению"/>
+<Allolog Form="заверенной"/>
+<Allolog Form="заверений"/>
+<Allolog Form="заверения"/>
+<Allolog Form="заверениями"/>
+<Allolog Form="заверенными"/>
+<Allolog Form="заверенную"/>
+<Allolog Form="заверениям"/>
+<Allolog Form="заверенного"/>
+<Allolog Form="заверенное"/>
+<Allolog Form="заверенные"/>
+<Allolog Form="заверение"/>
+<Allolog Form="заверенная"/>
+<Allolog Form="заверенный"/>
+<Allolog Form="заверенным"/>
+</Word>
+
+<Word Stem="правообладател" Weight="0.0706488797130795">
+<Allolog Form="правообладателям"/>
+<Allolog Form="правообладателей"/>
+<Allolog Form="правообладатель"/>
+<Allolog Form="правообладателю"/>
+<Allolog Form="правообладателях"/>
+<Allolog Form="правообладателя"/>
+<Allolog Form="правообладатели"/>
+<Allolog Form="правообладателем"/>
+<Allolog Form="правообладателе"/>
+</Word>
+
+<Word Stem="ответствен" Weight="0.207358859937559">
+<Allolog Form="ответственность"/>
+<Allolog Form="ответственными"/>
+<Allolog Form="ответственности"/>
+<Allolog Form="ответственный"/>
+<Allolog Form="ответственно"/>
+<Allolog Form="ответственным"/>
+<Allolog Form="ответственная"/>
+<Allolog Form="ответствен"/>
+<Allolog Form="ответственностью"/>
+<Allolog Form="ответственное"/>
+<Allolog Form="ответственного"/>
+<Allolog Form="ответственном"/>
+<Allolog Form="ответственны"/>
+<Allolog Form="ответственные"/>
+<Allolog Form="ответственна"/>
+<Allolog Form="ответственную"/>
+<Allolog Form="ответственной"/>
+<Allolog Form="ответственнейшие"/>
+<Allolog Form="ответственнее"/>
+<Allolog Form="ответственнейшее"/>
+<Allolog Form="ответствености"/>
+<Allolog Form="ответственость"/>
+</Word>
+
+<Word Stem="федерац" Weight="1.47895028845283">
+<Allolog Form="федерации"/>
+<Allolog Form="федерацию"/>
+<Allolog Form="федерация"/>
+<Allolog Form="федерацией"/>
+<Allolog Form="федераций"/>
+<Allolog Form="федерациях"/>
+<Allolog Form="федерациями"/>
+<Allolog Form="федерациям"/>
+</Word>
+
+<Word Stem="федеральн" Weight="1.07736032161456">
+<Allolog Form="федеральным"/>
+<Allolog Form="федеральной"/>
+<Allolog Form="федеральный"/>
+<Allolog Form="федерального"/>
+<Allolog Form="федеральное"/>
+<Allolog Form="федеральном"/>
+<Allolog Form="федеральными"/>
+<Allolog Form="федеральные"/>
+<Allolog Form="федеральная"/>
+<Allolog Form="федеральную"/>
+</Word>
+
+<Word Stem="юридическ" Weight="0.737174559036103">
+<Allolog Form="юридическим"/>
+<Allolog Form="юридическое"/>
+<Allolog Form="юридические"/>
+<Allolog Form="юридической"/>
+<Allolog Form="юридическими"/>
+<Allolog Form="юридическую"/>
+<Allolog Form="юридического"/>
+<Allolog Form="юридических"/>
+<Allolog Form="юридическая"/>
+<Allolog Form="юридически"/>
+<Allolog Form="юридический"/>
+<Allolog Form="юридическом"/>
+<Allolog Form="юридическо"/>
+</Word>
+
+<Word Stem="опозна" Weight="0.0540274143472449">
+<Allolog Form="опознает"/>
+<Allolog Form="опознан"/>
+<Allolog Form="опознаются"/>
+<Allolog Form="опознать"/>
+<Allolog Form="опознанной"/>
+<Allolog Form="опознал"/>
+<Allolog Form="опознанные"/>
+<Allolog Form="опознанными"/>
+<Allolog Form="опознаны"/>
+<Allolog Form="опознали"/>
+<Allolog Form="опознано"/>
+<Allolog Form="опознав"/>
+<Allolog Form="опознала"/>
+<Allolog Form="опознающих"/>
+<Allolog Form="опознаться"/>
+<Allolog Form="опознана"/>
+<Allolog Form="опознанный"/>
+<Allolog Form="опознавших"/>
+<Allolog Form="опознающие"/>
+<Allolog Form="опознающим"/>
+<Allolog Form="опознающий"/>
+<Allolog Form="опознающего"/>
+</Word>
+
+<Word Stem="указ" Weight="0.0564274069892043">
+<Allolog Form="указа"/>
+<Allolog Form="указ"/>
+<Allolog Form="указующую"/>
+<Allolog Form="указы"/>
+<Allolog Form="указами"/>
+<Allolog Form="указов"/>
+<Allolog Form="указам"/>
+<Allolog Form="указом"/>
+<Allolog Form="указу"/>
+<Allolog Form="указах"/>
+<Allolog Form="указующий"/>
+<Allolog Form="указующие"/>
+<Allolog Form="указе"/>
+</Word>
+
+<Word Stem="возбужден" Weight="0.05">
+<Allolog Form="возбуждения"/>
+<Allolog Form="возбуждении"/>
+<Allolog Form="возбуждение"/>
+<Allolog Form="возбужденное"/>
+<Allolog Form="возбужденная"/>
+<Allolog Form="возбужденном"/>
+<Allolog Form="возбужденные"/>
+<Allolog Form="возбуждению"/>
+<Allolog Form="возбужден"/>
+<Allolog Form="возбуждениям"/>
+<Allolog Form="возбуждениях"/>
+<Allolog Form="возбуждениями"/>
+<Allolog Form="возбуждением"/>
+<Allolog Form="возбуждено"/>
+<Allolog Form="возбужденного"/>
+<Allolog Form="возбужденным"/>
+<Allolog Form="возбужденными"/>
+<Allolog Form="возбуждений"/>
+<Allolog Form="возбужденной"/>
+<Allolog Form="возбужденностью"/>
+<Allolog Form="возбужденный"/>
+<Allolog Form="возбужденную"/>
+<Allolog Form="возбужденность"/>
+<Allolog Form="возбужденности"/>
+<Allolog Form="возбужденно"/>
+</Word>
+
+<Word Stem="следств" Weight="0.5">
+<Allolog Form="следствием"/>
+<Allolog Form="следствие"/>
+<Allolog Form="следствия"/>
+<Allolog Form="следствиями"/>
+<Allolog Form="следствию"/>
+<Allolog Form="следствии"/>
+<Allolog Form="следствий"/>
+<Allolog Form="следствиям"/>
+<Allolog Form="следствиях"/>
+<Allolog Form="следства"/>
+<Allolog Form="следство"/>
+</Word>
+
+<Word Stem="закон" Weight="0.5">
+<Allolog Form="закон"/>
+<Allolog Form="законах"/>
+<Allolog Form="законами"/>
+<Allolog Form="законы"/>
+<Allolog Form="закону"/>
+<Allolog Form="закона"/>
+<Allolog Form="законном"/>
+<Allolog Form="законом"/>
+<Allolog Form="законе"/>
+<Allolog Form="законам"/>
+<Allolog Form="законное"/>
+<Allolog Form="законный"/>
+<Allolog Form="законную"/>
+<Allolog Form="законно"/>
+<Allolog Form="законов"/>
+<Allolog Form="законность"/>
+<Allolog Form="законо"/>
+<Allolog Form="законности"/>
+<Allolog Form="законным"/>
+<Allolog Form="законные"/>
+<Allolog Form="законной"/>
+<Allolog Form="законными"/>
+<Allolog Form="законного"/>
+<Allolog Form="законная"/>
+<Allolog Form="законны"/>
+<Allolog Form="законностью"/>
+<Allolog Form="законнейшим"/>
+<Allolog Form="законна"/>
+</Word>
+
+<Word Stem="адресова" Weight="0.0010372698227629">
+<Allolog Form="адресована"/>
+<Allolog Form="адресованным"/>
+<Allolog Form="адресовал"/>
+<Allolog Form="адресованное"/>
+<Allolog Form="адресовано"/>
+<Allolog Form="адресованы"/>
+<Allolog Form="адресованного"/>
+<Allolog Form="адресовался"/>
+<Allolog Form="адресованном"/>
+<Allolog Form="адресовать"/>
+<Allolog Form="адресованной"/>
+<Allolog Form="адресовалось"/>
+<Allolog Form="адресованные"/>
+<Allolog Form="адресованная"/>
+<Allolog Form="адресоваться"/>
+<Allolog Form="адресован"/>
+<Allolog Form="адресовали"/>
+<Allolog Form="адресовались"/>
+<Allolog Form="адресованный"/>
+<Allolog Form="адресованно"/>
+<Allolog Form="адресованную"/>
+</Word>
+
+<Word Stem="кредит" Weight="0.05">
+<Allolog Form="кредит"/>
+<Allolog Form="кредитов"/>
+<Allolog Form="кредиту"/>
+<Allolog Form="кредита"/>
+<Allolog Form="кредитах"/>
+<Allolog Form="кредитом"/>
+<Allolog Form="кредиты"/>
+<Allolog Form="кредитам"/>
+<Allolog Form="кредитами"/>
+</Word>
+
+<Word Stem="похищен" Weight="0.0555293809710771">
+<Allolog Form="похищенный"/>
+<Allolog Form="похищения"/>
+<Allolog Form="похищено"/>
+<Allolog Form="похищением"/>
+<Allolog Form="похищение"/>
+<Allolog Form="похищенное"/>
+<Allolog Form="похищении"/>
+<Allolog Form="похищенного"/>
+<Allolog Form="похищенные"/>
+</Word>
+
+<Word Stem="реестр" Weight="0.162852808880394">
+<Allolog Form="реестре"/>
+<Allolog Form="реестр"/>
+<Allolog Form="реестрах"/>
+<Allolog Form="реестры"/>
+<Allolog Form="реестра"/>
+<Allolog Form="реестров"/>
+</Word>
+
+<Word Stem="следован" Weight="0.05">
+<Allolog Form="следований"/>
+<Allolog Form="следования"/>
+<Allolog Form="следование"/>
+<Allolog Form="следовании"/>
+<Allolog Form="следованием"/>
+<Allolog Form="следованиями"/>
+<Allolog Form="следованию"/>
+<Allolog Form="следованиям"/>
+</Word>
+
+<Word Stem="неприкосновен" Weight="0.0557886841525091">
+<Allolog Form="неприкосновенного"/>
+<Allolog Form="неприкосновенности"/>
+<Allolog Form="неприкосновенностью"/>
+<Allolog Form="неприкосновенные"/>
+<Allolog Form="неприкосновенность"/>
+<Allolog Form="неприкосновенна"/>
+<Allolog Form="неприкосновенное"/>
+<Allolog Form="неприкосновенными"/>
+<Allolog Form="неприкосновенный"/>
+<Allolog Form="неприкосновенны"/>
+<Allolog Form="неприкосновенно"/>
+<Allolog Form="неприкосновенным"/>
+</Word>
+
+<Word Stem="обвиня" Weight="0.618593299595711">
+<Allolog Form="обвинять"/>
+<Allolog Form="обвиняют"/>
+<Allolog Form="обвиняемого"/>
+<Allolog Form="обвиняемый"/>
+<Allolog Form="обвиняемым"/>
+<Allolog Form="обвиняется"/>
+<Allolog Form="обвиняем"/>
+<Allolog Form="обвиняли"/>
+<Allolog Form="обвинял"/>
+<Allolog Form="обвинялись"/>
+<Allolog Form="обвинявших"/>
+<Allolog Form="обвиняет"/>
+<Allolog Form="обвиняла"/>
+<Allolog Form="обвиняете"/>
+<Allolog Form="обвиняющего"/>
+<Allolog Form="обвиняемыми"/>
+<Allolog Form="обвиняемые"/>
+<Allolog Form="обвиняю"/>
+<Allolog Form="обвиняемой"/>
+<Allolog Form="обвинявший"/>
+<Allolog Form="обвинялось"/>
+<Allolog Form="обвинявшая"/>
+<Allolog Form="обвиняйте"/>
+<Allolog Form="обвиняющие"/>
+<Allolog Form="обвиняешь"/>
+<Allolog Form="обвиняетесь"/>
+<Allolog Form="обвиняемая"/>
+<Allolog Form="обвиняются"/>
+</Word>
+
+<Word Stem="инспектор" Weight="0.0534045656954554">
+<Allolog Form="инспектором"/>
+<Allolog Form="инспектора"/>
+<Allolog Form="инспектор"/>
+<Allolog Form="инспекторам"/>
+<Allolog Form="инспекторами"/>
+<Allolog Form="инспектору"/>
+<Allolog Form="инспекторов"/>
+<Allolog Form="инспекторы"/>
+<Allolog Form="инспекторах"/>
+</Word>
+
+<Word Stem="виновен" Weight="0.051472320376914">
+<Allolog Form="виновен"/>
+<Allolog Form="виновения"/>
+</Word>
+
+<Word Stem="нарушител" Weight="0.05">
+<Allolog Form="нарушителя"/>
+<Allolog Form="нарушителей"/>
+<Allolog Form="нарушителю"/>
+<Allolog Form="нарушителям"/>
+<Allolog Form="нарушитель"/>
+<Allolog Form="нарушителем"/>
+<Allolog Form="нарушителями"/>
+<Allolog Form="нарушители"/>
+</Word>
+
+<Word Stem="убийц" Weight="0.502661486369595">
+<Allolog Form="убийц"/>
+<Allolog Form="убийцы"/>
+<Allolog Form="убийца"/>
+<Allolog Form="убийцу"/>
+<Allolog Form="убийцами"/>
+<Allolog Form="убийцей"/>
+<Allolog Form="убийцам"/>
+<Allolog Form="убийце"/>
+<Allolog Form="убийцах"/>
+</Word>
+
+<Word Stem="штраф" Weight="0.186613092059701">
+<Allolog Form="штраф"/>
+<Allolog Form="штрафов"/>
+<Allolog Form="штрафы"/>
+<Allolog Form="штрафа"/>
+<Allolog Form="штрафом"/>
+<Allolog Form="штрафами"/>
+<Allolog Form="штрафам"/>
+<Allolog Form="штрафу"/>
+</Word>
+
+<Word Stem="убийств" Weight="0.5">
+<Allolog Form="убийстве"/>
+<Allolog Form="убийства"/>
+<Allolog Form="убийство"/>
+<Allolog Form="убийств"/>
+<Allolog Form="убийствах"/>
+<Allolog Form="убийством"/>
+<Allolog Form="убийству"/>
+<Allolog Form="убийствами"/>
+<Allolog Form="убийствам"/>
+</Word>
+
+<Word Stem="освидетельствован" Weight="0.0757996224764845">
+<Allolog Form="освидетельствование"/>
+<Allolog Form="освидетельствования"/>
+<Allolog Form="освидетельствовании"/>
+<Allolog Form="освидетельствованию"/>
+</Word>
+
+<Word Stem="судебн" Weight="0.867480778580111">
+<Allolog Form="судебном"/>
+<Allolog Form="судебный"/>
+<Allolog Form="судебного"/>
+<Allolog Form="судебное"/>
+<Allolog Form="судебную"/>
+<Allolog Form="судебно"/>
+<Allolog Form="судебной"/>
+<Allolog Form="судебным"/>
+<Allolog Form="судебные"/>
+<Allolog Form="судебная"/>
+<Allolog Form="судебными"/>
+</Word>
+
+<Word Stem="законодательств" Weight="0.874039527449776">
+<Allolog Form="законодательства"/>
+<Allolog Form="законодательству"/>
+<Allolog Form="законодательство"/>
+<Allolog Form="законодательством"/>
+<Allolog Form="законодательстве"/>
+<Allolog Form="законодательств"/>
+<Allolog Form="законодательствами"/>
+</Word>
+
+<Word Stem="уголовн" Weight="1.08121181456088">
+<Allolog Form="уголовной"/>
+<Allolog Form="уголовный"/>
+<Allolog Form="уголовную"/>
+<Allolog Form="уголовное"/>
+<Allolog Form="уголовного"/>
+<Allolog Form="уголовно"/>
+<Allolog Form="уголовным"/>
+<Allolog Form="уголовном"/>
+<Allolog Form="уголовные"/>
+<Allolog Form="уголовная"/>
+<Allolog Form="уголовными"/>
+<Allolog Form="уголовности"/>
+</Word>
+
+<Word Stem="расписк" Weight="0.0628424332231468">
+<Allolog Form="расписку"/>
+<Allolog Form="распиской"/>
+<Allolog Form="расписки"/>
+<Allolog Form="расписке"/>
+<Allolog Form="расписка"/>
+</Word>
+
+<Word Stem="свидетельств" Weight="0.05">
+<Allolog Form="свидетельств"/>
+<Allolog Form="свидетельства"/>
+<Allolog Form="свидетельству"/>
+<Allolog Form="свидетельство"/>
+<Allolog Form="свидетельствующие"/>
+<Allolog Form="свидетельствующее"/>
+<Allolog Form="свидетельствующих"/>
+<Allolog Form="свидетельством"/>
+<Allolog Form="свидетельствам"/>
+<Allolog Form="свидетельствующего"/>
+<Allolog Form="свидетельствующий"/>
+<Allolog Form="свидетельствующей"/>
+<Allolog Form="свидетельствами"/>
+<Allolog Form="свидетельствующем"/>
+<Allolog Form="свидетельствующая"/>
+<Allolog Form="свидетельствующую"/>
+<Allolog Form="свидетельствуй"/>
+<Allolog Form="свидетельстве"/>
+<Allolog Form="свидетельствах"/>
+<Allolog Form="свидетельствую"/>
+<Allolog Form="свидетельствующими"/>
+<Allolog Form="свидетельствующим"/>
+</Word>
+
+<Word Stem="потерпевш" Weight="0.592992081551327">
+<Allolog Form="потерпевших"/>
+<Allolog Form="потерпевшим"/>
+<Allolog Form="потерпевший"/>
+<Allolog Form="потерпевшего"/>
+<Allolog Form="потерпевшее"/>
+<Allolog Form="потерпевшие"/>
+<Allolog Form="потерпевшую"/>
+<Allolog Form="потерпевшем"/>
+<Allolog Form="потерпевшей"/>
+<Allolog Form="потерпевшая"/>
+<Allolog Form="потерпевшими"/>
+</Word>
+
+<Word Stem="доверен" Weight="0.0553714412290314">
+<Allolog Form="доверенности"/>
+<Allolog Form="доверенным"/>
+<Allolog Form="доверенность"/>
+<Allolog Form="доверенное"/>
+<Allolog Form="доверено"/>
+<Allolog Form="доверенными"/>
+<Allolog Form="доверенного"/>
+<Allolog Form="доверенные"/>
+<Allolog Form="доверенный"/>
+<Allolog Form="доверен"/>
+<Allolog Form="доверенной"/>
+<Allolog Form="доверенностью"/>
+</Word>
+
+<Word Stem="нотариальн" Weight="0.0544537691401649">
+<Allolog Form="нотариально"/>
+<Allolog Form="нотариальную"/>
+<Allolog Form="нотариального"/>
+<Allolog Form="нотариальными"/>
+<Allolog Form="нотариальной"/>
+<Allolog Form="нотариальным"/>
+<Allolog Form="нотариальные"/>
+<Allolog Form="нотариальном"/>
+</Word>
+
+<Word Stem="арест" Weight="0.634814301678386">
+<Allolog Form="арест"/>
+<Allolog Form="ареста"/>
+<Allolog Form="аресту"/>
+<Allolog Form="аресте"/>
+<Allolog Form="арестов"/>
+<Allolog Form="аресты"/>
+<Allolog Form="арестом"/>
+<Allolog Form="арестам"/>
+<Allolog Form="аресто"/>
+<Allolog Form="арестах"/>
+<Allolog Form="арестами"/>
+<Allolog Form="арестую"/>
+</Word>
+
+<Word Stem="налогов" Weight="0.292816273725843">
+<Allolog Form="налоговым"/>
+<Allolog Form="налоговую"/>
+<Allolog Form="налогового"/>
+<Allolog Form="налоговый"/>
+<Allolog Form="налоговой"/>
+<Allolog Form="налоговая"/>
+<Allolog Form="налоговые"/>
+<Allolog Form="налоговыми"/>
+<Allolog Form="налоговое"/>
+<Allolog Form="налоговом"/>
+<Allolog Form="налогово"/>
+</Word>
+
+<Word Stem="преступлен" Weight="0.80855318528156">
+<Allolog Form="преступления"/>
+<Allolog Form="преступлений"/>
+<Allolog Form="преступление"/>
+<Allolog Form="преступлением"/>
+<Allolog Form="преступлении"/>
+<Allolog Form="преступлениям"/>
+<Allolog Form="преступлениях"/>
+<Allolog Form="преступлениями"/>
+<Allolog Form="преступленья"/>
+<Allolog Form="преступлению"/>
+</Word>
+
+<Word Stem="таможенных" Weight="0.808845260885873">
+<Allolog Form="таможенных"/>
+</Word>
+
+<Word Stem="нотариус" Weight="0.0526501766784452">
+<Allolog Form="нотариусом"/>
+<Allolog Form="нотариуса"/>
+<Allolog Form="нотариус"/>
+<Allolog Form="нотариусу"/>
+<Allolog Form="нотариусов"/>
+<Allolog Form="нотариусы"/>
+<Allolog Form="нотариусами"/>
+<Allolog Form="нотариусах"/>
+</Word>
+
+<Word Stem="адвокат" Weight="0.5">
+<Allolog Form="адвокат"/>
+<Allolog Form="адвоката"/>
+<Allolog Form="адвокатом"/>
+<Allolog Form="адвокатов"/>
+<Allolog Form="адвокату"/>
+<Allolog Form="адвокаты"/>
+<Allolog Form="адвокатами"/>
+<Allolog Form="адвокате"/>
+<Allolog Form="адвокатам"/>
+<Allolog Form="адвокатах"/>
+</Word>
+
+<Word Stem="имуществен" Weight="0.101586901713045">
+<Allolog Form="имущественный"/>
+<Allolog Form="имущественные"/>
+<Allolog Form="имущественное"/>
+<Allolog Form="имущественными"/>
+<Allolog Form="имущественно"/>
+<Allolog Form="имущественного"/>
+<Allolog Form="имущественную"/>
+<Allolog Form="имущественном"/>
+<Allolog Form="имущественная"/>
+<Allolog Form="имущественным"/>
+<Allolog Form="имущественной"/>
+</Word>
+
+<Word Stem="налогоплательщик" Weight="0.168899289967">
+<Allolog Form="налогоплательщиком"/>
+<Allolog Form="налогоплательщиков"/>
+<Allolog Form="налогоплательщики"/>
+<Allolog Form="налогоплательщикам"/>
+<Allolog Form="налогоплательщика"/>
+<Allolog Form="налогоплательщик"/>
+<Allolog Form="налогоплательщиками"/>
+<Allolog Form="налогоплательщику"/>
+<Allolog Form="налогоплательщике"/>
+<Allolog Form="налогоплательщиках"/>
+</Word>
+
+<Word Stem="постановлен" Weight="0.326969894575631">
+<Allolog Form="постановлением"/>
+<Allolog Form="постановление"/>
+<Allolog Form="постановления"/>
+<Allolog Form="постановлении"/>
+<Allolog Form="постановлению"/>
+<Allolog Form="постановленного"/>
+<Allolog Form="постановленное"/>
+<Allolog Form="постановленным"/>
+<Allolog Form="постановлениями"/>
+<Allolog Form="постановлений"/>
+<Allolog Form="постановлено"/>
+<Allolog Form="постановлениям"/>
+<Allolog Form="постановлениях"/>
+<Allolog Form="постановлени"/>
+<Allolog Form="постановленный"/>
+<Allolog Form="постановлен"/>
+</Word>
+
+<Word Stem="допрос" Weight="0.159256771308824">
+<Allolog Form="допрос"/>
+<Allolog Form="допроса"/>
+<Allolog Form="допросах"/>
+<Allolog Form="допросе"/>
+<Allolog Form="допросам"/>
+<Allolog Form="допросы"/>
+<Allolog Form="допросов"/>
+<Allolog Form="допросить"/>
+<Allolog Form="допросу"/>
+<Allolog Form="допросили"/>
+<Allolog Form="допросами"/>
+<Allolog Form="допросил"/>
+<Allolog Form="допросила"/>
+<Allolog Form="допросом"/>
+</Word>
+
+<Word Stem="таможн" Weight="0.0519274012206874">
+<Allolog Form="таможня"/>
+<Allolog Form="таможни"/>
+<Allolog Form="таможне"/>
+<Allolog Form="таможнями"/>
+<Allolog Form="таможню"/>
+</Word>
+
+<Word Stem="приговор" Weight="0.654177084725081">
+<Allolog Form="приговор"/>
+<Allolog Form="приговорили"/>
+<Allolog Form="приговора"/>
+<Allolog Form="приговорив"/>
+<Allolog Form="приговоры"/>
+<Allolog Form="приговорены"/>
+<Allolog Form="приговоре"/>
+<Allolog Form="приговорам"/>
+<Allolog Form="приговоров"/>
+<Allolog Form="приговором"/>
+<Allolog Form="приговорила"/>
+<Allolog Form="приговорами"/>
+<Allolog Form="приговору"/>
+<Allolog Form="приговорить"/>
+<Allolog Form="приговорена"/>
+<Allolog Form="приговорил"/>
+</Word>
+
+<Word Stem="вердикт" Weight="0.0665881429132313">
+<Allolog Form="вердикта"/>
+<Allolog Form="вердикт"/>
+<Allolog Form="вердиктом"/>
+<Allolog Form="вердикте"/>
+</Word>
+
+<Word Stem="правоохранительн" Weight="0.0574383124435793">
+<Allolog Form="правоохранительным"/>
+<Allolog Form="правоохранительными"/>
+<Allolog Form="правоохранительные"/>
+<Allolog Form="правоохранительная"/>
+<Allolog Form="правоохранительной"/>
+<Allolog Form="правоохранительного"/>
+</Word>
+
+<Word Stem="декларац" Weight="0.204085616868853">
+<Allolog Form="декларациях"/>
+<Allolog Form="декларация"/>
+<Allolog Form="декларацию"/>
+<Allolog Form="декларацией"/>
+<Allolog Form="декларации"/>
+<Allolog Form="декларациями"/>
+<Allolog Form="деклараций"/>
+</Word>
+
+<Word Stem="кредитор" Weight="0.0566324101429615">
+<Allolog Form="кредитора"/>
+<Allolog Form="кредитору"/>
+<Allolog Form="кредитор"/>
+<Allolog Form="кредиторов"/>
+<Allolog Form="кредитором"/>
+<Allolog Form="кредиторам"/>
+<Allolog Form="кредиторы"/>
+<Allolog Form="кредиторами"/>
+</Word>
+
+<Word Stem="сговор" Weight="0.0669862348319149">
+<Allolog Form="сговора"/>
+<Allolog Form="сговоре"/>
+<Allolog Form="сговор"/>
+<Allolog Form="сговором"/>
+<Allolog Form="сговору"/>
+<Allolog Form="сговориться"/>
+<Allolog Form="сговоров"/>
+<Allolog Form="сговорившись"/>
+<Allolog Form="сговорились"/>
+<Allolog Form="сговорилась"/>
+<Allolog Form="сговорись"/>
+</Word>
+
+<Word Stem="обвинен" Weight="0.0882090271378131">
+<Allolog Form="обвиненными"/>
+<Allolog Form="обвинения"/>
+<Allolog Form="обвинен"/>
+<Allolog Form="обвинение"/>
+<Allolog Form="обвинением"/>
+<Allolog Form="обвинению"/>
+<Allolog Form="обвинениях"/>
+<Allolog Form="обвиненным"/>
+<Allolog Form="обвинений"/>
+<Allolog Form="обвинениями"/>
+<Allolog Form="обвинениям"/>
+<Allolog Form="обвинении"/>
+<Allolog Form="обвиненного"/>
+<Allolog Form="обвиненная"/>
+<Allolog Form="обвиненной"/>
+<Allolog Form="обвиненный"/>
+</Word>
+
+<Word Stem="криминальн" Weight="0.502380632416504">
+<Allolog Form="криминальными"/>
+<Allolog Form="криминальную"/>
+<Allolog Form="криминальная"/>
+<Allolog Form="криминального"/>
+<Allolog Form="криминальной"/>
+<Allolog Form="криминальный"/>
+<Allolog Form="криминальном"/>
+<Allolog Form="криминальным"/>
+<Allolog Form="криминальные"/>
+<Allolog Form="криминальности"/>
+<Allolog Form="криминальное"/>
+<Allolog Form="криминально"/>
+</Word>
+
+<Word Stem="повин" Weight="0.0511901067136612">
+<Allolog Form="повинна"/>
+<Allolog Form="повинностей"/>
+<Allolog Form="повинности"/>
+<Allolog Form="повинностью"/>
+<Allolog Form="повинно"/>
+<Allolog Form="повинился"/>
+<Allolog Form="повинившегося"/>
+<Allolog Form="повинуйтесь"/>
+<Allolog Form="повинны"/>
+<Allolog Form="повинность"/>
+<Allolog Form="повинного"/>
+<Allolog Form="повинуюсь"/>
+<Allolog Form="повино"/>
+<Allolog Form="повинными"/>
+<Allolog Form="повинующихся"/>
+<Allolog Form="повинный"/>
+<Allolog Form="повинись"/>
+<Allolog Form="повиниться"/>
+<Allolog Form="повинующийся"/>
+<Allolog Form="повинную"/>
+<Allolog Form="повинной"/>
+</Word>
+
+<Word Stem="краж" Weight="0.507048596959209">
+<Allolog Form="кражами"/>
+<Allolog Form="краж"/>
+<Allolog Form="кражи"/>
+<Allolog Form="кража"/>
+<Allolog Form="краже"/>
+<Allolog Form="кражах"/>
+<Allolog Form="кражей"/>
+<Allolog Form="кражу"/>
+</Word>
+
+<Word Stem="преступник" Weight="0.5">
+<Allolog Form="преступников"/>
+<Allolog Form="преступника"/>
+<Allolog Form="преступниками"/>
+<Allolog Form="преступники"/>
+<Allolog Form="преступник"/>
+<Allolog Form="преступнику"/>
+<Allolog Form="преступником"/>
+<Allolog Form="преступникам"/>
+</Word>
+
+<Word Stem="преступн" Weight="0.515957451221291">
+<Allolog Form="преступного"/>
+<Allolog Form="преступно"/>
+<Allolog Form="преступность"/>
+<Allolog Form="преступности"/>
+<Allolog Form="преступни"/>
+<Allolog Form="преступная"/>
+<Allolog Form="преступными"/>
+<Allolog Form="преступной"/>
+<Allolog Form="преступное"/>
+<Allolog Form="преступностью"/>
+<Allolog Form="преступным"/>
+<Allolog Form="преступна"/>
+<Allolog Form="преступную"/>
+<Allolog Form="преступном"/>
+<Allolog Form="преступный"/>
+<Allolog Form="преступные"/>
+<Allolog Form="преступны"/>
+</Word>
+
+<Word Stem="милиц" Weight="0.164902094546552">
+<Allolog Form="милиция"/>
+<Allolog Form="милицию"/>
+<Allolog Form="милиции"/>
+<Allolog Form="милици"/>
+<Allolog Form="милицией"/>
+<Allolog Form="милицей"/>
+<Allolog Form="милициии"/>
+</Word>
+
+<Word Stem="вскрыт" Weight="0.0522250013232619">
+<Allolog Form="вскрытии"/>
+<Allolog Form="вскрытие"/>
+<Allolog Form="вскрытию"/>
+<Allolog Form="вскрытый"/>
+<Allolog Form="вскрыта"/>
+<Allolog Form="вскрытые"/>
+<Allolog Form="вскрытия"/>
+<Allolog Form="вскрытием"/>
+<Allolog Form="вскрытий"/>
+<Allolog Form="вскрыт"/>
+<Allolog Form="вскрыто"/>
+</Word>
+
+<Word Stem="конфискац" Weight="0.0607564825003074">
+<Allolog Form="конфискацией"/>
+<Allolog Form="конфискации"/>
+<Allolog Form="конфискация"/>
+<Allolog Form="конфискаций"/>
+<Allolog Form="конфискациям"/>
+<Allolog Form="конфискацию"/>
+</Word>
+
+<Word Stem="милиционер" Weight="0.0526934071641181">
+<Allolog Form="милиционерах"/>
+<Allolog Form="милиционер"/>
+<Allolog Form="милиционеров"/>
+<Allolog Form="милиционеры"/>
+<Allolog Form="милиционером"/>
+<Allolog Form="милиционера"/>
+<Allolog Form="милиционерами"/>
+<Allolog Form="милиционерам"/>
+<Allolog Form="милиционере"/>
+<Allolog Form="милиционеру"/>
+</Word>
+
+<Word Stem="административных" Weight="0.106382194831946">
+<Allolog Form="административных"/>
+</Word>
+
+<Word Stem="умысл" Weight="0.0555293809710771">
+<Allolog Form="умысла"/>
+<Allolog Form="умыслы"/>
+<Allolog Form="умыслами"/>
+<Allolog Form="умыслу"/>
+<Allolog Form="умыслом"/>
+<Allolog Form="умыслов"/>
+<Allolog Form="умыслили"/>
+<Allolog Form="умысле"/>
+</Word>
+
+<Word Stem="неправомерн" Weight="0.0638338690410697">
+<Allolog Form="неправомерны"/>
+<Allolog Form="неправомерное"/>
+<Allolog Form="неправомерно"/>
+<Allolog Form="неправомерным"/>
+<Allolog Form="неправомерная"/>
+<Allolog Form="неправомерном"/>
+<Allolog Form="неправомерного"/>
+<Allolog Form="неправомерный"/>
+<Allolog Form="неправомерности"/>
+<Allolog Form="неправомерные"/>
+<Allolog Form="неправомерность"/>
+<Allolog Form="неправомерными"/>
+</Word>
+
+<Word Stem="противоправн" Weight="0.519196253295193">
+<Allolog Form="противоправные"/>
+<Allolog Form="противоправным"/>
+<Allolog Form="противоправными"/>
+<Allolog Form="противоправное"/>
+<Allolog Form="противоправной"/>
+<Allolog Form="противоправностью"/>
+<Allolog Form="противоправного"/>
+<Allolog Form="противоправность"/>
+<Allolog Form="противоправности"/>
+<Allolog Form="противоправном"/>
+<Allolog Form="противоправно"/>
+<Allolog Form="противоправный"/>
+</Word>
+
+<Word Stem="инстанц" Weight="0.16988148971128">
+<Allolog Form="инстанциях"/>
+<Allolog Form="инстанциями"/>
+<Allolog Form="инстанций"/>
+<Allolog Form="инстанции"/>
+<Allolog Form="инстанцию"/>
+<Allolog Form="инстанцией"/>
+<Allolog Form="инстанция"/>
+<Allolog Form="инстанциям"/>
+</Word>
+
+<Word Stem="презумпц" Weight="0.501696673958158">
+<Allolog Form="презумпция"/>
+<Allolog Form="презумпцию"/>
+<Allolog Form="презумпции"/>
+<Allolog Form="презумпцией"/>
+</Word>
+
+<Word Stem="невиновн" Weight="0.061697331546241">
+<Allolog Form="невиновности"/>
+<Allolog Form="невиновность"/>
+<Allolog Form="невиновным"/>
+<Allolog Form="невиновного"/>
+<Allolog Form="невиновные"/>
+<Allolog Form="невиновны"/>
+<Allolog Form="невиновно"/>
+<Allolog Form="невиновное"/>
+</Word>
+
+<Word Stem="прокурор" Weight="0.63617780977814">
+<Allolog Form="прокурору"/>
+<Allolog Form="прокурором"/>
+<Allolog Form="прокурора"/>
+<Allolog Form="прокурорами"/>
+<Allolog Form="прокуроров"/>
+<Allolog Form="прокурорам"/>
+<Allolog Form="прокурор"/>
+<Allolog Form="прокуроры"/>
+<Allolog Form="прокуроре"/>
+</Word>
+
+<Word Stem="повестк" Weight="0.0540696332864507">
+<Allolog Form="повестку"/>
+<Allolog Form="повестки"/>
+<Allolog Form="повесткой"/>
+<Allolog Form="повестке"/>
+<Allolog Form="повестка"/>
+</Word>
+
+<Word Stem="дипломатическ" Weight="0.0707940924176804">
+<Allolog Form="дипломатическим"/>
+<Allolog Form="дипломатическую"/>
+<Allolog Form="дипломатической"/>
+<Allolog Form="дипломатический"/>
+<Allolog Form="дипломатическом"/>
+<Allolog Form="дипломатических"/>
+<Allolog Form="дипломатического"/>
+<Allolog Form="дипломатические"/>
+<Allolog Form="дипломатическими"/>
+<Allolog Form="дипломатическая"/>
+<Allolog Form="дипломатическое"/>
+</Word>
+
+<Word Stem="консульск" Weight="0.0651438667339727">
+<Allolog Form="консульским"/>
+<Allolog Form="консульский"/>
+<Allolog Form="консульских"/>
+<Allolog Form="консульскими"/>
+<Allolog Form="консульского"/>
+<Allolog Form="консульской"/>
+<Allolog Form="консульская"/>
+<Allolog Form="консульскую"/>
+<Allolog Form="консульские"/>
+</Word>
+
+<Word Stem="прокуратур" Weight="0.527343910893004">
+<Allolog Form="прокуратура"/>
+<Allolog Form="прокуратуры"/>
+<Allolog Form="прокуратуре"/>
+<Allolog Form="прокуратуру"/>
+<Allolog Form="прокуратурой"/>
+<Allolog Form="прокуратур"/>
+<Allolog Form="прокуратурами"/>
+</Word>
+
+<Word Stem="правонарушен" Weight="0.703290143905493">
+<Allolog Form="правонарушениях"/>
+<Allolog Form="правонарушении"/>
+<Allolog Form="правонарушение"/>
+<Allolog Form="правонарушений"/>
+<Allolog Form="правонарушения"/>
+<Allolog Form="правонарушением"/>
+<Allolog Form="правонарушениям"/>
+<Allolog Form="правонарушениями"/>
+<Allolog Form="правонарушению"/>
+</Word>
+
+<Word Stem="документальн" Weight="0.00126049495536019">
+<Allolog Form="документального"/>
+<Allolog Form="документально"/>
+<Allolog Form="документальные"/>
+<Allolog Form="документальный"/>
+<Allolog Form="документальное"/>
+<Allolog Form="документальная"/>
+<Allolog Form="документальном"/>
+<Allolog Form="документальную"/>
+<Allolog Form="документальным"/>
+<Allolog Form="документальными"/>
+<Allolog Form="документальной"/>
+</Word>
+
+<Word Stem="дознан" Weight="0.545894725616444">
+<Allolog Form="дознания"/>
+<Allolog Form="дознание"/>
+<Allolog Form="дознанию"/>
+</Word>
+
+<Word Stem="рапорт" Weight="0.051472320376914">
+<Allolog Form="рапорт"/>
+<Allolog Form="рапорты"/>
+<Allolog Form="рапортам"/>
+<Allolog Form="рапорте"/>
+<Allolog Form="рапортах"/>
+<Allolog Form="рапорту"/>
+<Allolog Form="рапортом"/>
+</Word>
+
+<Word Stem="следовател" Weight="0.712106733301113">
+<Allolog Form="следователю"/>
+<Allolog Form="следователь"/>
+<Allolog Form="следователем"/>
+<Allolog Form="следователя"/>
+<Allolog Form="следователей"/>
+<Allolog Form="следователи"/>
+<Allolog Form="следователями"/>
+<Allolog Form="следователям"/>
+</Word>
+
+<Word Stem="обжалова" Weight="0.0952232139817671">
+<Allolog Form="обжаловать"/>
+<Allolog Form="обжаловано"/>
+<Allolog Form="обжалован"/>
+<Allolog Form="обжаловал"/>
+<Allolog Form="обжалованы"/>
+<Allolog Form="обжалованного"/>
+<Allolog Form="обжаловались"/>
+</Word>
+
+<Word Stem="ходатайств" Weight="0.225619594427039">
+<Allolog Form="ходатайство"/>
+<Allolog Form="ходатайств"/>
+<Allolog Form="ходатайства"/>
+<Allolog Form="ходатайству"/>
+<Allolog Form="ходатайстве"/>
+<Allolog Form="ходатайством"/>
+<Allolog Form="ходатайствам"/>
+<Allolog Form="ходатайствами"/>
+<Allolog Form="ходатайствующее"/>
+<Allolog Form="ходатайствующим"/>
+<Allolog Form="ходатайствующих"/>
+<Allolog Form="ходатайствующего"/>
+</Word>
+
+<Word Stem="процессуальных" Weight="0.537890363862095">
+<Allolog Form="процессуальных"/>
+</Word>
+
+<Word Stem="кассацион" Weight="0.604907525749944">
+<Allolog Form="кассационную"/>
+<Allolog Form="кассационном"/>
+<Allolog Form="кассационного"/>
+<Allolog Form="кассационная"/>
+<Allolog Form="кассацион"/>
+<Allolog Form="кассационной"/>
+<Allolog Form="кассационный"/>
+<Allolog Form="кассационное"/>
+<Allolog Form="кассационные"/>
+<Allolog Form="кассационным"/>
+<Allolog Form="кассационными"/>
+</Word>
+
+<Word Stem="конституцион" Weight="0.682952012162688">
+<Allolog Form="конституционным"/>
+<Allolog Form="конституционной"/>
+<Allolog Form="конституционно"/>
+<Allolog Form="конституционные"/>
+<Allolog Form="конституционными"/>
+<Allolog Form="конституционный"/>
+<Allolog Form="конституционного"/>
+<Allolog Form="конституционная"/>
+<Allolog Form="конституционное"/>
+<Allolog Form="конституционную"/>
+<Allolog Form="конституционности"/>
+<Allolog Form="конституционны"/>
+<Allolog Form="конституционном"/>
+<Allolog Form="конституционность"/>
+</Word>
+
+<Word Stem="вещественных" Weight="0.0542902094370859">
+<Allolog Form="вещественных"/>
+</Word>
+
+<Word Stem="расследован" Weight="0.0973903783996447">
+<Allolog Form="расследования"/>
+<Allolog Form="расследовании"/>
+<Allolog Form="расследование"/>
+<Allolog Form="расследований"/>
+<Allolog Form="расследованию"/>
+<Allolog Form="расследованием"/>
+<Allolog Form="расследованиях"/>
+<Allolog Form="расследованиям"/>
+<Allolog Form="расследованиями"/>
+<Allolog Form="расследовани"/>
+</Word>
+
+<Word Stem="обвиняемом" Weight="0.07210360123299">
+<Allolog Form="обвиняемому"/>
+</Word>
+
+<Word Stem="подследствен" Weight="0.0534073700151439">
+<Allolog Form="подследственности"/>
+<Allolog Form="подследственного"/>
+<Allolog Form="подследственный"/>
+<Allolog Form="подследственно"/>
+<Allolog Form="подследственностью"/>
+<Allolog Form="подследственность"/>
+</Word>
+
+<Word Stem="задержан" Weight="0.0908224120707907">
+<Allolog Form="задержание"/>
+<Allolog Form="задержания"/>
+<Allolog Form="задержании"/>
+<Allolog Form="задержанию"/>
+<Allolog Form="задержаний"/>
+</Word>
+
+<Word Stem="доставлен" Weight="0.00182783403507484">
+<Allolog Form="доставлено"/>
+<Allolog Form="доставлен"/>
+<Allolog Form="доставленный"/>
+<Allolog Form="доставленные"/>
+<Allolog Form="доставленного"/>
+<Allolog Form="доставленная"/>
+<Allolog Form="доставленными"/>
+<Allolog Form="доставленном"/>
+<Allolog Form="доставленную"/>
+<Allolog Form="доставленной"/>
+<Allolog Form="доставленное"/>
+<Allolog Form="доставленным"/>
+<Allolog Form="доставления"/>
+<Allolog Form="доставление"/>
+<Allolog Form="доставлении"/>
+<Allolog Form="доставлению"/>
+</Word>
+
+<Word Stem="ответчик" Weight="0.105995625721976">
+<Allolog Form="ответчика"/>
+<Allolog Form="ответчик"/>
+<Allolog Form="ответчику"/>
+<Allolog Form="ответчиком"/>
+<Allolog Form="ответчиков"/>
+<Allolog Form="ответчиками"/>
+<Allolog Form="ответчики"/>
+<Allolog Form="ответчике"/>
+<Allolog Form="ответчикам"/>
+</Word>
+
+<Word Stem="конституц" Weight="0.56468559020211">
+<Allolog Form="конституции"/>
+<Allolog Form="конституцию"/>
+<Allolog Form="конституция"/>
+<Allolog Form="конституци"/>
+<Allolog Form="конституциями"/>
+<Allolog Form="конституцией"/>
+<Allolog Form="конституций"/>
+<Allolog Form="конституциях"/>
+</Word>
+
+<Word Stem="дознавател" Weight="0.13051839796202">
+<Allolog Form="дознавателю"/>
+<Allolog Form="дознавателем"/>
+<Allolog Form="дознаватель"/>
+<Allolog Form="дознавателей"/>
+<Allolog Form="дознаватели"/>
+<Allolog Form="дознавателя"/>
+<Allolog Form="дознавателями"/>
+<Allolog Form="дознавателям"/>
+</Word>
+
+<Word Stem="процессуальн" Weight="0.595197745933305">
+<Allolog Form="процессуального"/>
+<Allolog Form="процессуальный"/>
+<Allolog Form="процессуальным"/>
+<Allolog Form="процессуальном"/>
+<Allolog Form="процессуальное"/>
+<Allolog Form="процессуальные"/>
+<Allolog Form="процессуально"/>
+<Allolog Form="процессуальная"/>
+<Allolog Form="процессуальными"/>
+<Allolog Form="процессуальной"/>
+<Allolog Form="процессуальную"/>
+</Word>
+
+<Word Stem="заявител" Weight="0.12431320584771">
+<Allolog Form="заявителя"/>
+<Allolog Form="заявителю"/>
+<Allolog Form="заявителем"/>
+<Allolog Form="заявитель"/>
+<Allolog Form="заявители"/>
+<Allolog Form="заявителях"/>
+<Allolog Form="заявителе"/>
+<Allolog Form="заявителями"/>
+</Word>
+
+<Word Stem="извещенных" Weight="0.0566254416961131">
+<Allolog Form="извещенных"/>
+</Word>
+
+<Word Stem="правосуд" Weight="0.511588620177823">
+<Allolog Form="правосудия"/>
+<Allolog Form="правосудию"/>
+<Allolog Form="правосудие"/>
+<Allolog Form="правосудии"/>
+<Allolog Form="правосудием"/>
+</Word>
+
+<Word Stem="истц" Weight="0.535441409829358">
+<Allolog Form="истца"/>
+<Allolog Form="истцу"/>
+<Allolog Form="истцом"/>
+<Allolog Form="истцам"/>
+<Allolog Form="истцами"/>
+<Allolog Form="истцы"/>
+<Allolog Form="истце"/>
+<Allolog Form="истцов"/>
+</Word>
+
+<Word Stem="истец" Weight="0.512023731096533">
+<Allolog Form="истец"/>
+</Word>
+
+<Word Stem="исков" Weight="0.5395061183793">
+<Allolog Form="исковое"/>
+<Allolog Form="искового"/>
+<Allolog Form="исковым"/>
+<Allolog Form="исковые"/>
+<Allolog Form="исковой"/>
+<Allolog Form="исковая"/>
+<Allolog Form="исковом"/>
+</Word>
+
+<Word Stem="исковых" Weight="0.502899338588385">
+<Allolog Form="исковых"/>
+</Word>
+
+<Word Stem="законных" Weight="0.543418318820012">
+<Allolog Form="законных"/>
+</Word>
+
+<Word Stem="досудебн" Weight="0.524143138695495">
+<Allolog Form="досудебной"/>
+<Allolog Form="досудебного"/>
+<Allolog Form="досудебное"/>
+<Allolog Form="досудебном"/>
+<Allolog Form="досудебным"/>
+<Allolog Form="досудебный"/>
+</Word>
+
+<Word Stem="заседател" Weight="0.137548721264208">
+<Allolog Form="заседателей"/>
+<Allolog Form="заседатель"/>
+<Allolog Form="заседатели"/>
+<Allolog Form="заседателями"/>
+<Allolog Form="заседателя"/>
+<Allolog Form="заседателям"/>
+<Allolog Form="заседателю"/>
+<Allolog Form="заседателем"/>
+</Word>
+
+<Word Stem="судебных" Weight="0.540875099857264">
+<Allolog Form="судебных"/>
+</Word>
+
+<Word Stem="председательств" Weight="0.096690753166316">
+<Allolog Form="председательству"/>
+<Allolog Form="председательствующего"/>
+<Allolog Form="председательством"/>
+<Allolog Form="председательства"/>
+<Allolog Form="председательствующий"/>
+<Allolog Form="председательствующим"/>
+</Word>
+
+<Word Stem="прен" Weight="0.515143866733973">
+<Allolog Form="прениям"/>
+<Allolog Form="прения"/>
+<Allolog Form="прений"/>
+<Allolog Form="прению"/>
+<Allolog Form="преньях"/>
+<Allolog Form="прение"/>
+<Allolog Form="прениях"/>
+</Word>
+
+<Word Stem="постанов" Weight="0.0547203483599243">
+<Allolog Form="постановившего"/>
+<Allolog Form="постановил"/>
+<Allolog Form="постановили"/>
+<Allolog Form="постановить"/>
+<Allolog Form="постановила"/>
+<Allolog Form="постановив"/>
+<Allolog Form="постановите"/>
+<Allolog Form="постановивший"/>
+<Allolog Form="постановившим"/>
+</Word>
+
+<Word Stem="президиум" Weight="0.064703005682871">
+<Allolog Form="президиум"/>
+<Allolog Form="президиума"/>
+<Allolog Form="президиумом"/>
+<Allolog Form="президиуму"/>
+<Allolog Form="президиуме"/>
+</Word>
+
+<Word Stem="законодател" Weight="0.506474205864714">
+<Allolog Form="законодателем"/>
+<Allolog Form="законодателя"/>
+<Allolog Form="законодатель"/>
+<Allolog Form="законодатели"/>
+<Allolog Form="законодателей"/>
+<Allolog Form="законодателями"/>
+<Allolog Form="законодателям"/>
+<Allolog Form="законодателю"/>
+</Word>
+
+<Word Stem="подсудн" Weight="0.519777029062919">
+<Allolog Form="подсудности"/>
+<Allolog Form="подсудными"/>
+<Allolog Form="подсудное"/>
+<Allolog Form="подсудным"/>
+<Allolog Form="подсудные"/>
+<Allolog Form="подсудность"/>
+<Allolog Form="подсудны"/>
+<Allolog Form="подсудностью"/>
+<Allolog Form="подсудно"/>
+</Word>
+
+<Word Stem="уголовном" Weight="0.59696305446151">
+<Allolog Form="уголовному"/>
+</Word>
+
+<Word Stem="уголовных" Weight="0.514855499223298">
+<Allolog Form="уголовных"/>
+</Word>
+
+<Word Stem="экспертн" Weight="0.0521404392857946">
+<Allolog Form="экспертные"/>
+<Allolog Form="экспертная"/>
+<Allolog Form="экспертное"/>
+<Allolog Form="экспертными"/>
+<Allolog Form="экспертной"/>
+<Allolog Form="экспертный"/>
+<Allolog Form="экспертного"/>
+<Allolog Form="экспертную"/>
+<Allolog Form="экспертном"/>
+<Allolog Form="экспертным"/>
+</Word>
+
+<Word Stem="судопроизводств" Weight="0.548354371426412">
+<Allolog Form="судопроизводства"/>
+<Allolog Form="судопроизводство"/>
+<Allolog Form="судопроизводству"/>
+<Allolog Form="судопроизводстве"/>
+</Word>
+
+<Word Stem="обвинительн" Weight="0.0949297395020133">
+<Allolog Form="обвинительного"/>
+<Allolog Form="обвинительный"/>
+<Allolog Form="обвинительные"/>
+<Allolog Form="обвинительное"/>
+<Allolog Form="обвинительном"/>
+<Allolog Form="обвинительным"/>
+</Word>
+
+<Word Stem="розыскн" Weight="0.0582962052542633">
+<Allolog Form="розыскные"/>
+<Allolog Form="розыскного"/>
+<Allolog Form="розыскная"/>
+<Allolog Form="розыскной"/>
+<Allolog Form="розыскную"/>
+<Allolog Form="розыскное"/>
+</Word>
+
+<Word Stem="заявл" Weight="0.0577363743441482">
+<Allolog Form="заявляя"/>
+<Allolog Form="заявлю"/>
+<Allolog Form="заявлена"/>
+<Allolog Form="заявля"/>
+<Allolog Form="заявле"/>
+<Allolog Form="заявлены"/>
+</Word>
+
+<Word Stem="опис" Weight="0.0524047899489596">
+<Allolog Form="описи"/>
+<Allolog Form="описях"/>
+<Allolog Form="описа"/>
+<Allolog Form="опис"/>
+<Allolog Form="описы"/>
+<Allolog Form="описью"/>
+<Allolog Form="описей"/>
+</Word>
+
+<Word Stem="информационных" Weight="0.00356786826235771">
+<Allolog Form="информационных"/>
+</Word>
+
+<Word Stem="веществен" Weight="0.05">
+<Allolog Form="вещественной"/>
+<Allolog Form="вещественном"/>
+<Allolog Form="вещественно"/>
+<Allolog Form="вещественная"/>
+<Allolog Form="вещественную"/>
+<Allolog Form="вещественные"/>
+<Allolog Form="вещественными"/>
+<Allolog Form="вещественным"/>
+<Allolog Form="вещественного"/>
+<Allolog Form="вещественное"/>
+<Allolog Form="вещественны"/>
+<Allolog Form="вещественный"/>
+<Allolog Form="веществен"/>
+<Allolog Form="вещественна"/>
+<Allolog Form="вещественности"/>
+<Allolog Form="вещественность"/>
+</Word>
+
+<Word Stem="наследуем" Weight="0.054242520448297">
+<Allolog Form="наследуемые"/>
+<Allolog Form="наследуемая"/>
+<Allolog Form="наследуемость"/>
+<Allolog Form="наследуемости"/>
+<Allolog Form="наследуемым"/>
+<Allolog Form="наследуемостью"/>
+<Allolog Form="наследуемый"/>
+<Allolog Form="наследуемую"/>
+<Allolog Form="наследуемое"/>
+<Allolog Form="наследуемой"/>
+<Allolog Form="наследуемыми"/>
+<Allolog Form="наследуемого"/>
+</Word>
+
+<Word Stem="консультирован" Weight="0.05">
+<Allolog Form="консультировании"/>
+<Allolog Form="консультирование"/>
+<Allolog Form="консультирования"/>
+<Allolog Form="консультированием"/>
+</Word>
+
+<Word Stem="инициирова" Weight="0.051472320376914">
+<Allolog Form="инициировать"/>
+<Allolog Form="инициировано"/>
+<Allolog Form="инициирован"/>
+<Allolog Form="инициировался"/>
+<Allolog Form="инициированные"/>
+<Allolog Form="инициировавшего"/>
+<Allolog Form="инициировало"/>
+<Allolog Form="инициировала"/>
+<Allolog Form="инициированы"/>
+<Allolog Form="инициирована"/>
+</Word>
+
+<Word Stem="опознан" Weight="0.054079349707105">
+<Allolog Form="опознание"/>
+<Allolog Form="опознания"/>
+<Allolog Form="опознании"/>
+<Allolog Form="опознанию"/>
+</Word>
+
+<Word Stem="дубликат" Weight="0.0516966739581581">
+<Allolog Form="дубликат"/>
+<Allolog Form="дубликата"/>
+<Allolog Form="дубликате"/>
+<Allolog Form="дубликаты"/>
+</Word>
+
+<Word Stem="фальсификац" Weight="0.0517782982229403">
+<Allolog Form="фальсификация"/>
+<Allolog Form="фальсификации"/>
+<Allolog Form="фальсификаций"/>
+<Allolog Form="фальсификацию"/>
+<Allolog Form="фальсификациях"/>
+</Word>
+
+<Word Stem="телефонных" Weight="0.00183750440396771">
+<Allolog Form="телефонных"/>
+</Word>
+
+<Word Stem="герб" Weight="0.0577615681923077">
+<Allolog Form="герба"/>
+<Allolog Form="гербе"/>
+<Allolog Form="гербы"/>
+<Allolog Form="гербами"/>
+<Allolog Form="герб"/>
+<Allolog Form="гербом"/>
+<Allolog Form="гербах"/>
+<Allolog Form="гербов"/>
+<Allolog Form="гербам"/>
+<Allolog Form="герби"/>
+<Allolog Form="гербу"/>
+</Word>
+
+<Word Stem="арестова" Weight="0.0519598823724758">
+<Allolog Form="арестован"/>
+<Allolog Form="арестовать"/>
+<Allolog Form="арестовали"/>
+<Allolog Form="арестованы"/>
+<Allolog Form="арестована"/>
+<Allolog Form="арестовал"/>
+<Allolog Form="арестованного"/>
+<Allolog Form="арестованной"/>
+<Allolog Form="арестовано"/>
+<Allolog Form="арестованные"/>
+<Allolog Form="арестованный"/>
+<Allolog Form="арестовала"/>
+<Allolog Form="арестовавший"/>
+<Allolog Form="арестованным"/>
+<Allolog Form="арестованными"/>
+<Allolog Form="арестованное"/>
+</Word>
+
+<Word Stem="амнист" Weight="0.0536655700418342">
+<Allolog Form="амнистии"/>
+<Allolog Form="амнистия"/>
+<Allolog Form="амнистией"/>
+<Allolog Form="амнистию"/>
+</Word>
+
+<Word Stem="суверенитет" Weight="0.05">
+<Allolog Form="суверенитета"/>
+<Allolog Form="суверенитет"/>
+<Allolog Form="суверенитетом"/>
+<Allolog Form="суверенитете"/>
+<Allolog Form="суверенитету"/>
+<Allolog Form="суверенитеты"/>
+<Allolog Form="суверенитетов"/>
+<Allolog Form="суверенитетами"/>
+</Word>
+
+<Word Stem="подозреваемых" Weight="0.506075258818424">
+<Allolog Form="подозреваемых"/>
+</Word>
+
+<Word Stem="правомочн" Weight="0.0528993385883845">
+<Allolog Form="правомочно"/>
+<Allolog Form="правомочное"/>
+<Allolog Form="правомочными"/>
+<Allolog Form="правомочным"/>
+<Allolog Form="правомочность"/>
+<Allolog Form="правомочны"/>
+<Allolog Form="правомочные"/>
+<Allolog Form="правомочный"/>
+</Word>
+
+<Word Stem="законном" Weight="0.0552582870604072">
+<Allolog Form="законному"/>
+</Word>
+
+<Word Stem="вменя" Weight="0.0521636708147693">
+<Allolog Form="вменялось"/>
+<Allolog Form="вменять"/>
+<Allolog Form="вменяется"/>
+<Allolog Form="вменяемым"/>
+<Allolog Form="вменяли"/>
+<Allolog Form="вменяемого"/>
+<Allolog Form="вменяем"/>
+<Allolog Form="вменяют"/>
+<Allolog Form="вменяющих"/>
+<Allolog Form="вменяемая"/>
+<Allolog Form="вменяемое"/>
+<Allolog Form="вменяются"/>
+<Allolog Form="вменяемыми"/>
+</Word>
+
+<Word Stem="оправдательн" Weight="0.0594228504122497">
+<Allolog Form="оправдательная"/>
+<Allolog Form="оправдательный"/>
+<Allolog Form="оправдательной"/>
+<Allolog Form="оправдательную"/>
+<Allolog Form="оправдательным"/>
+<Allolog Form="оправдательного"/>
+</Word>
+
+<Word Stem="демократическ" Weight="0.05">
+<Allolog Form="демократического"/>
+<Allolog Form="демократическая"/>
+<Allolog Form="демократическое"/>
+<Allolog Form="демократической"/>
+<Allolog Form="демократических"/>
+<Allolog Form="демократические"/>
+<Allolog Form="демократическими"/>
+<Allolog Form="демократическом"/>
+<Allolog Form="демократический"/>
+<Allolog Form="демократическо"/>
+<Allolog Form="демократическим"/>
+<Allolog Form="демократически"/>
+<Allolog Form="демократическую"/>
+</Word>
+
+<Word Stem="правопорядк" Weight="0.0628424332231468">
+<Allolog Form="правопорядка"/>
+<Allolog Form="правопорядку"/>
+<Allolog Form="правопорядком"/>
+<Allolog Form="правопорядке"/>
+<Allolog Form="правопорядками"/>
+</Word>
+
+<Word Stem="иждивенц" Weight="0.0528993385883845">
+<Allolog Form="иждивенцев"/>
+<Allolog Form="иждивенцах"/>
+<Allolog Form="иждивенцами"/>
+<Allolog Form="иждивенцам"/>
+<Allolog Form="иждивенцы"/>
+</Word>
+
+<Word Stem="правовых" Weight="0.548620521953204">
+<Allolog Form="правовых"/>
+</Word>
+
+<Word Stem="правовом" Weight="0.515143866733973">
+<Allolog Form="правовому"/>
+</Word>
+
+<Word Stem="законодательн" Weight="0.507906934511122">
+<Allolog Form="законодательная"/>
+<Allolog Form="законодательно"/>
+<Allolog Form="законодательной"/>
+<Allolog Form="законодательным"/>
+<Allolog Form="законодательные"/>
+<Allolog Form="законодательный"/>
+<Allolog Form="законодательное"/>
+<Allolog Form="законодательного"/>
+<Allolog Form="законодательными"/>
+<Allolog Form="законодательном"/>
+<Allolog Form="законодательную"/>
+</Word>
+
+<Word Stem="ордер" Weight="0.0525442863485796">
+<Allolog Form="ордерами"/>
+<Allolog Form="ордер"/>
+<Allolog Form="ордера"/>
+<Allolog Form="ордером"/>
+<Allolog Form="ордеров"/>
+<Allolog Form="ордерах"/>
+<Allolog Form="ордеру"/>
+</Word>
+
+<Word Stem="парламент" Weight="0.05">
+<Allolog Form="парламенте"/>
+<Allolog Form="парламентом"/>
+<Allolog Form="парламенты"/>
+<Allolog Form="парламента"/>
+<Allolog Form="парламент"/>
+<Allolog Form="парламентами"/>
+<Allolog Form="парламентов"/>
+<Allolog Form="парламенту"/>
+<Allolog Form="парламентах"/>
+</Word>
+
+<Word Stem="законодательных" Weight="0.5">
+<Allolog Form="законодательных"/>
+</Word>
+
+<Word Stem="осужденных" Weight="0.053273798006852">
+<Allolog Form="осужденных"/>
+</Word>
+
+<Word Stem="условном" Weight="0.051472320376914">
+<Allolog Form="условному"/>
+</Word>
+
+<Word Stem="налогообложен" Weight="0.0571437293413703">
+<Allolog Form="налогообложения"/>
+<Allolog Form="налогообложением"/>
+<Allolog Form="налогообложении"/>
+<Allolog Form="налогообложение"/>
+<Allolog Form="налогообложению"/>
+</Word>
+
+<Word Stem="федеральных" Weight="0.134018807082585">
+<Allolog Form="федеральных"/>
+</Word>
+
+<Word Stem="адвокатск" Weight="0.50240478994896">
+<Allolog Form="адвокатской"/>
+<Allolog Form="адвокатском"/>
+<Allolog Form="адвокатских"/>
+<Allolog Form="адвокатскими"/>
+<Allolog Form="адвокатский"/>
+<Allolog Form="адвокатские"/>
+<Allolog Form="адвокатскую"/>
+<Allolog Form="адвокатского"/>
+</Word>
+
+<Word Stem="правонарушител" Weight="0.514855499223298">
+<Allolog Form="правонарушителя"/>
+<Allolog Form="правонарушителем"/>
+<Allolog Form="правонарушители"/>
+<Allolog Form="правонарушителей"/>
+<Allolog Form="правонарушителям"/>
+<Allolog Form="правонарушитель"/>
+<Allolog Form="правонарушителю"/>
+</Word>
+
+<Word Stem="правопорядок" Weight="0.0552582870604072">
+<Allolog Form="правопорядок"/>
+</Word>
+
+<Word Stem="осужденном" Weight="0.0566254416961131">
+<Allolog Form="осужденному"/>
+</Word>
+
+<Word Stem="апелляцион" Weight="0.588431242638398">
+<Allolog Form="апелляционной"/>
+<Allolog Form="апелляционного"/>
+<Allolog Form="апелляционные"/>
+<Allolog Form="апелляционная"/>
+<Allolog Form="апелляционном"/>
+<Allolog Form="апелляционное"/>
+<Allolog Form="апелляционный"/>
+<Allolog Form="апелляционным"/>
+<Allolog Form="апелляционную"/>
+</Word>
+
+<Word Stem="обвинител" Weight="0.069486593223862">
+<Allolog Form="обвинителем"/>
+<Allolog Form="обвинителей"/>
+<Allolog Form="обвинителя"/>
+<Allolog Form="обвинитель"/>
+<Allolog Form="обвинители"/>
+<Allolog Form="обвинителе"/>
+<Allolog Form="обвинителю"/>
+</Word>
+
+<Word Stem="юрисдикц" Weight="0.507925507093351">
+<Allolog Form="юрисдикции"/>
+<Allolog Form="юрисдикция"/>
+<Allolog Form="юрисдикцией"/>
+<Allolog Form="юрисдикцию"/>
+</Word>
+
+<Word Stem="незаконных" Weight="0.503665570041834">
+<Allolog Form="незаконных"/>
+</Word>
+
+<Word Stem="учредительн" Weight="0.0521227030371423">
+<Allolog Form="учредительным"/>
+<Allolog Form="учредительное"/>
+<Allolog Form="учредительного"/>
+<Allolog Form="учредительном"/>
+<Allolog Form="учредительными"/>
+<Allolog Form="учредительные"/>
+</Word>
+
+<Word Stem="преступных" Weight="0.501673687667639">
+<Allolog Form="преступных"/>
+</Word>
+
+<Word Stem="изобличен" Weight="0.051472320376914">
+<Allolog Form="изобличен"/>
+<Allolog Form="изобличение"/>
+<Allolog Form="изобличенный"/>
+<Allolog Form="изобличению"/>
+<Allolog Form="изобличения"/>
+<Allolog Form="изобличении"/>
+</Word>
+
+<Word Stem="конституционных" Weight="0.508577049344661">
+<Allolog Form="конституционных"/>
+</Word>
+
+<Word Stem="казначейств" Weight="0.0602517531082425">
+<Allolog Form="казначейство"/>
+<Allolog Form="казначействе"/>
+<Allolog Form="казначейства"/>
+<Allolog Form="казначейством"/>
+</Word>
+
+<Word Stem="помилован" Weight="0.0549885678653087">
+<Allolog Form="помиловании"/>
+<Allolog Form="помилованиям"/>
+<Allolog Form="помилования"/>
+<Allolog Form="помилование"/>
+</Word>
+
+<Word Stem="банкротств" Weight="0.0528077867122843">
+<Allolog Form="банкротство"/>
+<Allolog Form="банкротств"/>
+<Allolog Form="банкротстве"/>
+<Allolog Form="банкротствами"/>
+<Allolog Form="банкротству"/>
+<Allolog Form="банкротства"/>
+<Allolog Form="банкротством"/>
+<Allolog Form="банкротствах"/>
+</Word>
+
+<Word Stem="взиман" Weight="0.0584763745576038">
+<Allolog Form="взиманию"/>
+<Allolog Form="взимание"/>
+<Allolog Form="взимании"/>
+<Allolog Form="взимания"/>
+<Allolog Form="взиманием"/>
+</Word>
+
+<Word Stem="рефинансирован" Weight="0.0569019506449482">
+<Allolog Form="рефинансированием"/>
+<Allolog Form="рефинансирования"/>
+</Word>
+
+<Word Stem="заявок" Weight="0.0521636708147693">
+<Allolog Form="заявок"/>
+</Word>
+
+<Word Stem="федеративн" Weight="0.0526501766784452">
+<Allolog Form="федеративная"/>
+<Allolog Form="федеративного"/>
+<Allolog Form="федеративном"/>
+<Allolog Form="федеративной"/>
+<Allolog Form="федеративный"/>
+<Allolog Form="федеративное"/>
+<Allolog Form="федеративным"/>
+</Word>
+
+<Word Stem="референдум" Weight="0.0669845297058601">
+<Allolog Form="референдуме"/>
+<Allolog Form="референдум"/>
+<Allolog Form="референдумов"/>
+<Allolog Form="референдумы"/>
+<Allolog Form="референдума"/>
+<Allolog Form="референдумом"/>
+<Allolog Form="референдуму"/>
+<Allolog Form="референдумах"/>
+</Word>
+
+<Word Stem="подсудимых" Weight="0.0526501766784452">
+<Allolog Form="подсудимых"/>
+</Word>
+
+<Word Stem="ходатайствова" Weight="0.0574574739091133">
+<Allolog Form="ходатайствовать"/>
+<Allolog Form="ходатайствовали"/>
+<Allolog Form="ходатайствовала"/>
+<Allolog Form="ходатайствовал"/>
+</Word>
+
+<Word Stem="присяжных" Weight="0.543557993414345">
+<Allolog Form="присяжных"/>
+</Word>
+
+<Word Stem="конфиденциальн" Weight="0.0556432534067304">
+<Allolog Form="конфиденциальный"/>
+<Allolog Form="конфиденциально"/>
+<Allolog Form="конфиденциальным"/>
+<Allolog Form="конфиденциальная"/>
+<Allolog Form="конфиденциальной"/>
+<Allolog Form="конфиденциального"/>
+<Allolog Form="конфиденциальны"/>
+<Allolog Form="конфиденциальную"/>
+<Allolog Form="конфиденциальности"/>
+<Allolog Form="конфиденциальна"/>
+<Allolog Form="конфиденциальность"/>
+<Allolog Form="конфиденциальные"/>
+<Allolog Form="конфиденциальностью"/>
+</Word>
+
+<Word Stem="акциз" Weight="0.0552582870604072">
+<Allolog Form="акциза"/>
+<Allolog Form="акциз"/>
+<Allolog Form="акцизов"/>
+<Allolog Form="акцизы"/>
+</Word>
+
+<Word Stem="постановля" Weight="0.0521636708147693">
+<Allolog Form="постановлял"/>
+<Allolog Form="постановляет"/>
+<Allolog Form="постановляется"/>
+</Word>
+
+<Word Stem="арбитражн" Weight="0.957615881154748">
+<Allolog Form="арбитражный"/>
+<Allolog Form="арбитражное"/>
+<Allolog Form="арбитражного"/>
+<Allolog Form="арбитражно"/>
+<Allolog Form="арбитражные"/>
+<Allolog Form="арбитражным"/>
+<Allolog Form="арбитражными"/>
+<Allolog Form="арбитражном"/>
+</Word>
+
+<Word Stem="аннулирова" Weight="0.0516966739581581">
+<Allolog Form="аннулировать"/>
+<Allolog Form="аннулировало"/>
+<Allolog Form="аннулировал"/>
+<Allolog Form="аннулировано"/>
+<Allolog Form="аннулировала"/>
+<Allolog Form="аннулированного"/>
+<Allolog Form="аннулированные"/>
+<Allolog Form="аннулирован"/>
+<Allolog Form="аннулированы"/>
+<Allolog Form="аннулировав"/>
+</Word>
+
+<Word Stem="арбитраж" Weight="0.502650176678445">
+<Allolog Form="арбитраж"/>
+<Allolog Form="арбитраже"/>
+<Allolog Form="арбитражу"/>
+<Allolog Form="арбитражем"/>
+<Allolog Form="арбитража"/>
+<Allolog Form="арбитражей"/>
+</Word>
+
+<Word Stem="импортер" Weight="0.0613634950115254">
+<Allolog Form="импортеров"/>
+<Allolog Form="импортеры"/>
+<Allolog Form="импортер"/>
+<Allolog Form="импортерами"/>
+<Allolog Form="импортерам"/>
+<Allolog Form="импортера"/>
+<Allolog Form="импортером"/>
+<Allolog Form="импортеру"/>
+</Word>
+
+<Word Stem="антидемпинговых" Weight="0.051472320376914">
+<Allolog Form="антидемпинговых"/>
+</Word>
+
+<Word Stem="валютных" Weight="0.0524047899489596">
+<Allolog Form="валютных"/>
+</Word>
+
+<Word Stem="третейск" Weight="0.556969812593662">
+<Allolog Form="третейских"/>
+<Allolog Form="третейского"/>
+<Allolog Form="третейский"/>
+<Allolog Form="третейским"/>
+<Allolog Form="третейском"/>
+<Allolog Form="третейские"/>
+<Allolog Form="третейское"/>
+</Word>
+
+<Word Stem="федеральном" Weight="0.0560752588184242">
+<Allolog Form="федеральному"/>
+</Word>
+
+<Word Stem="уставн" Weight="0.0665881429132313">
+<Allolog Form="уставным"/>
+<Allolog Form="уставные"/>
+<Allolog Form="уставном"/>
+<Allolog Form="уставный"/>
+<Allolog Form="уставного"/>
+<Allolog Form="уставную"/>
+<Allolog Form="уставной"/>
+</Word>
+
+<Word Stem="коллегиальн" Weight="0.0622693364742835">
+<Allolog Form="коллегиальное"/>
+<Allolog Form="коллегиальными"/>
+<Allolog Form="коллегиального"/>
+<Allolog Form="коллегиальным"/>
+<Allolog Form="коллегиальный"/>
+<Allolog Form="коллегиальность"/>
+<Allolog Form="коллегиальной"/>
+<Allolog Form="коллегиально"/>
+<Allolog Form="коллегиальную"/>
+<Allolog Form="коллегиальные"/>
+<Allolog Form="коллегиальном"/>
+</Word>
+
+<Word Stem="приватизац" Weight="0.0511199916368157">
+<Allolog Form="приватизации"/>
+<Allolog Form="приватизация"/>
+<Allolog Form="приватизацией"/>
+<Allolog Form="приватизацию"/>
+</Word>
+
+<Word Stem="юридическом" Weight="0.503926187671771">
+<Allolog Form="юридическому"/>
+</Word>
+
+<Word Stem="декларируемых" Weight="0.0528993385883845">
+<Allolog Form="декларируемых"/>
+</Word>
+
+<Word Stem="арбитражных" Weight="0.525018120866177">
+<Allolog Form="арбитражных"/>
+</Word>
+
+<Word Stem="депозитн" Weight="0.0531518562142826">
+<Allolog Form="депозитным"/>
+<Allolog Form="депозитного"/>
+<Allolog Form="депозитный"/>
+<Allolog Form="депозитными"/>
+<Allolog Form="депозитные"/>
+</Word>
+
+<Word Stem="попечител" Weight="0.0541889889433489">
+<Allolog Form="попечитель"/>
+<Allolog Form="попечителей"/>
+<Allolog Form="попечителями"/>
+<Allolog Form="попечителя"/>
+<Allolog Form="попечителю"/>
+<Allolog Form="попечители"/>
+<Allolog Form="попечителем"/>
+</Word>
+
+<Word Stem="антидемпингов" Weight="0.0524047899489596">
+<Allolog Form="антидемпинговое"/>
+<Allolog Form="антидемпинговой"/>
+<Allolog Form="антидемпинговые"/>
+<Allolog Form="антидемпинговая"/>
+</Word>
+
+<Word Stem="налоговом" Weight="0.0560752588184242">
+<Allolog Form="налоговому"/>
+</Word>
+
+<Word Stem="мониторинг" Weight="0.00106706002135483">
+<Allolog Form="мониторинг"/>
+<Allolog Form="мониторинга"/>
+<Allolog Form="мониторинге"/>
+<Allolog Form="мониторингу"/>
+</Word>
+
+<Word Stem="алимент" Weight="0.0635316140484483">
+<Allolog Form="алиментов"/>
+<Allolog Form="алименты"/>
+<Allolog Form="алиментами"/>
+</Word>
+
+<Word Stem="заверенных" Weight="0.0521636708147693">
+<Allolog Form="заверенных"/>
+</Word>
+
+<Word Stem="отлагательств" Weight="0.0549885678653087">
+<Allolog Form="отлагательств"/>
+<Allolog Form="отлагательства"/>
+</Word>
+
+<Word Stem="правоохранительных" Weight="0.0524047899489596">
+<Allolog Form="правоохранительных"/>
+</Word>
+
+<Word Stem="правоведен" Weight="0.501704068729719">
+<Allolog Form="правоведение"/>
+<Allolog Form="правоведения"/>
+<Allolog Form="правоведению"/>
+<Allolog Form="правоведении"/>
+</Word>
+
+<Word Stem="реабилитирова" Weight="0.0531518562142826">
+<Allolog Form="реабилитирована"/>
+<Allolog Form="реабилитирован"/>
+<Allolog Form="реабилитированы"/>
+<Allolog Form="реабилитировать"/>
+<Allolog Form="реабилитировалась"/>
+<Allolog Form="реабилитировала"/>
+<Allolog Form="реабилитировались"/>
+<Allolog Form="реабилитированный"/>
+<Allolog Form="реабилитированного"/>
+<Allolog Form="реабилитированным"/>
+</Word>
+
+<Word Stem="присяжн" Weight="0.0802785897104169">
+<Allolog Form="присяжные"/>
+<Allolog Form="присяжный"/>
+<Allolog Form="присяжным"/>
+<Allolog Form="присяжными"/>
+<Allolog Form="присяжны"/>
+<Allolog Form="присяжного"/>
+</Word>
+
+<Word Stem="неимуществен" Weight="0.0569019506449482">
+<Allolog Form="неимущественные"/>
+<Allolog Form="неимущественными"/>
+<Allolog Form="неимущественного"/>
+<Allolog Form="неимущественный"/>
+</Word>
+
+<Word Stem="попечительств" Weight="0.0555293809710771">
+<Allolog Form="попечительство"/>
+<Allolog Form="попечительства"/>
+<Allolog Form="попечительстве"/>
+<Allolog Form="попечительством"/>
+</Word>
+
+<Word Stem="декларируют" Weight="0.051472320376914">
+<Allolog Form="декларируют"/>
+<Allolog Form="декларируются"/>
+</Word>
+
+<Word Stem="нормативном" Weight="0.0531518562142826">
+<Allolog Form="нормативному"/>
+</Word>
+
+<Word Stem="судим" Weight="0.0637039050466612">
+<Allolog Form="судимым"/>
+<Allolog Form="судимого"/>
+<Allolog Form="судимость"/>
+<Allolog Form="судимы"/>
+<Allolog Form="судимости"/>
+<Allolog Form="судимый"/>
+<Allolog Form="судима"/>
+<Allolog Form="судимостей"/>
+<Allolog Form="судимостью"/>
+<Allolog Form="судимо"/>
+</Word>
+
+<Word Stem="конституционном" Weight="0.501472320376914">
+<Allolog Form="конституционному"/>
+</Word>
+
+<Word Stem="избирательных" Weight="0.0521636708147693">
+<Allolog Form="избирательных"/>
+</Word>
+
+<Word Stem="обвиняемых" Weight="0.0591404052787193">
+<Allolog Form="обвиняемых"/>
+</Word>
+
+<Word Stem="наказательн" Weight="0.0594228504122497">
+<Allolog Form="наказательного"/>
+<Allolog Form="наказательные"/>
+<Allolog Form="наказательной"/>
+<Allolog Form="наказательная"/>
+<Allolog Form="наказательную"/>
+</Word>
+
+<Word Stem="контрафактн" Weight="0.0528993385883845">
+<Allolog Form="контрафактный"/>
+<Allolog Form="контрафактные"/>
+<Allolog Form="контрафактными"/>
+</Word>
+
+<Word Stem="преференц" Weight="0.0528993385883845">
+<Allolog Form="преференция"/>
+<Allolog Form="преференций"/>
+<Allolog Form="преференции"/>
+</Word>
+
+<Word Stem="заявленных" Weight="0.0594228504122497">
+<Allolog Form="заявленных"/>
+</Word>
+
+<Word Stem="подсудимом" Weight="0.509989127480294">
+<Allolog Form="подсудимому"/>
+</Word>
+
+<Word Stem="подозреваемом" Weight="0.0597057668768332">
+<Allolog Form="подозреваемому"/>
+</Word>
+
+<Word Stem="правоотношен" Weight="0.130195072365555">
+<Allolog Form="правоотношений"/>
+<Allolog Form="правоотношения"/>
+<Allolog Form="правоотношение"/>
+<Allolog Form="правоотношении"/>
+<Allolog Form="правоотношениях"/>
+<Allolog Form="правоотношениями"/>
+<Allolog Form="правоотношению"/>
+<Allolog Form="правоотношением"/>
+<Allolog Form="правоотношениям"/>
+</Word>
+
+<Word Stem="правоспособн" Weight="0.0528993385883845">
+<Allolog Form="правоспособность"/>
+<Allolog Form="правоспособности"/>
+<Allolog Form="правоспособностью"/>
+</Word>
+
+<Word Stem="правоприменительн" Weight="0.0516966739581581">
+<Allolog Form="правоприменительную"/>
+<Allolog Form="правоприменительной"/>
+<Allolog Form="правоприменительные"/>
+<Allolog Form="правоприменительными"/>
+</Word>
+
+<Word Stem="алиментн" Weight="0.051472320376914">
+<Allolog Form="алиментные"/>
+<Allolog Form="алиментной"/>
+<Allolog Form="алиментное"/>
+</Word>
+
+<Word Stem="кадастр" Weight="0.0524047899489596">
+<Allolog Form="кадастров"/>
+<Allolog Form="кадастра"/>
+<Allolog Form="кадастре"/>
+<Allolog Form="кадастры"/>
+<Allolog Form="кадастр"/>
+</Word>
+
+<Word Stem="декларирован" Weight="0.107263630659489">
+<Allolog Form="декларирование"/>
+<Allolog Form="декларированием"/>
+<Allolog Form="декларированию"/>
+<Allolog Form="декларировании"/>
+<Allolog Form="декларирования"/>
+</Word>
+
+<Word Stem="правомерном" Weight="0.0521636708147693">
+<Allolog Form="правомерному"/>
+</Word>
+
+<Word Stem="консультантплюс" Weight="0.0534073700151439">
+<Allolog Form="консультантплюс"/>
+</Word>
+
+<Word Stem="уставных" Weight="0.0519274012206874">
+<Allolog Form="уставных"/>
+</Word>
+
+<Word Stem="обжалует" Weight="0.051472320376914">
+<Allolog Form="обжалуете"/>
+<Allolog Form="обжалуется"/>
+<Allolog Form="обжалует"/>
+</Word>
+
+<Word Stem="взысканных" Weight="0.0637039050466612">
+<Allolog Form="взысканных"/>
+</Word>
+
+<Word Stem="неправомерных" Weight="0.0528993385883845">
+<Allolog Form="неправомерных"/>
+</Word>
+
+<Word Stem="инкассов" Weight="0.0539261876717707">
+<Allolog Form="инкассового"/>
+<Allolog Form="инкассовое"/>
+<Allolog Form="инкассовым"/>
+</Word>
+
+<Word Stem="арбитражном" Weight="0.505529380971077">
+<Allolog Form="арбитражному"/>
+</Word>
+
+<Word Stem="кадастров" Weight="0.0665881429132313">
+<Allolog Form="кадастровые"/>
+<Allolog Form="кадастровый"/>
+<Allolog Form="кадастрового"/>
+<Allolog Form="кадастровом"/>
+<Allolog Form="кадастровой"/>
+<Allolog Form="кадастровую"/>
+<Allolog Form="кадастровая"/>
+</Word>
+
+<Word Stem="паевых" Weight="0.0536655700418342">
+<Allolog Form="паевых"/>
+</Word>
+
+<Word Stem="самоотвод" Weight="0.0534073700151439">
+<Allolog Form="самоотводы"/>
+<Allolog Form="самоотвод"/>
+<Allolog Form="самоотводов"/>
+<Allolog Form="самоотводах"/>
+<Allolog Form="самоотвода"/>
+<Allolog Form="самоотводе"/>
+</Word>
+
+<Word Stem="декларант" Weight="0.143138285938639">
+<Allolog Form="декларант"/>
+<Allolog Form="декларанта"/>
+<Allolog Form="декларантов"/>
+<Allolog Form="декларантом"/>
+<Allolog Form="декларанте"/>
+<Allolog Form="декларанту"/>
+<Allolog Form="декларантами"/>
+<Allolog Form="декларанты"/>
+</Word>
+
+<Word Stem="принудительном" Weight="0.0521636708147693">
+<Allolog Form="принудительному"/>
+</Word>
+
+<Word Stem="оспариваемых" Weight="0.0521636708147693">
+<Allolog Form="оспариваемых"/>
+</Word>
+
+<Word Stem="ненормативных" Weight="0.0558017381338936">
+<Allolog Form="ненормативных"/>
+</Word>
+
+<Word Stem="взыскател" Weight="0.0588584609344327">
+<Allolog Form="взыскателя"/>
+<Allolog Form="взыскателем"/>
+<Allolog Form="взыскатель"/>
+<Allolog Form="взыскателю"/>
+</Word>
+
+</Words>

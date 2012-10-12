@@ -1,20 +1,21 @@
 ﻿<Words>
 
-<Word Stem="углекисл" Weight="0.506778743623983">
+<Word Stem="углекисл" Weight="0.502819422543036">
 <Allolog Form="углекислого"/>
 <Allolog Form="углекислый"/>
 <Allolog Form="углекислым"/>
 <Allolog Form="углекислая"/>
+<Allolog Form="углекислом"/>
+<Allolog Form="углекислой"/>
 <Allolog Form="углекислые"/>
 <Allolog Form="углекисло"/>
-<Allolog Form="углекислом"/>
 </Word>
 
-<Word Stem="восстановительных" Weight="0.0573087218112957">
+<Word Stem="восстановительных" Weight="0.0573485731427748">
 <Allolog Form="восстановительных"/>
 </Word>
 
-<Word Stem="эфир" Weight="0.56001688002511">
+<Word Stem="эфир" Weight="0.544506375903713">
 <Allolog Form="эфир"/>
 <Allolog Form="эфиров"/>
 <Allolog Form="эфиром"/>
@@ -23,42 +24,58 @@
 <Allolog Form="эфира"/>
 <Allolog Form="эфирами"/>
 <Allolog Form="эфирах"/>
+<Allolog Form="эфиру"/>
 </Word>
 
-<Word Stem="кислород" Weight="0.519887915470017">
+<Word Stem="ожог" Weight="0.00152599214200489">
+<Allolog Form="ожогов"/>
+<Allolog Form="ожог"/>
+<Allolog Form="ожоги"/>
+<Allolog Form="ожога"/>
+<Allolog Form="ожоге"/>
+<Allolog Form="ожогах"/>
+<Allolog Form="ожогами"/>
+<Allolog Form="ожогам"/>
+<Allolog Form="ожогом"/>
+<Allolog Form="ожогу"/>
+</Word>
+
+<Word Stem="кислород" Weight="0.5">
 <Allolog Form="кислорода"/>
 <Allolog Form="кислород"/>
 <Allolog Form="кислороду"/>
 <Allolog Form="кислородом"/>
 <Allolog Form="кислороде"/>
+<Allolog Form="кислородов"/>
 </Word>
 
-<Word Stem="каталитическ" Weight="0.0531347962382445">
+<Word Stem="каталитическ" Weight="0.0522700912293121">
 <Allolog Form="каталитическим"/>
 <Allolog Form="каталитических"/>
 <Allolog Form="каталитической"/>
 <Allolog Form="каталитическую"/>
+<Allolog Form="каталитические"/>
+<Allolog Form="каталитическими"/>
+<Allolog Form="каталитическая"/>
 <Allolog Form="каталитически"/>
 <Allolog Form="каталитическое"/>
 <Allolog Form="каталитического"/>
-<Allolog Form="каталитическими"/>
-<Allolog Form="каталитические"/>
 <Allolog Form="каталитическом"/>
 </Word>
 
 <Word Stem="пластмасс" Weight="0.0827011340133098">
 <Allolog Form="пластмассы"/>
 <Allolog Form="пластмасс"/>
+<Allolog Form="пластмассой"/>
 <Allolog Form="пластмассу"/>
 <Allolog Form="пластмасса"/>
 <Allolog Form="пластмассами"/>
-<Allolog Form="пластмассой"/>
 <Allolog Form="пластмассам"/>
 <Allolog Form="пластмассе"/>
 <Allolog Form="пластмассах"/>
 </Word>
 
-<Word Stem="корроз" Weight="0.0605641349566947">
+<Word Stem="корроз" Weight="0.0609400335893634">
 <Allolog Form="коррозию"/>
 <Allolog Form="коррозии"/>
 <Allolog Form="коррозией"/>
@@ -66,7 +83,7 @@
 <Allolog Form="коррозий"/>
 </Word>
 
-<Word Stem="электролит" Weight="0.0985786583684833">
+<Word Stem="электролит" Weight="0.0988963322750645">
 <Allolog Form="электролита"/>
 <Allolog Form="электролит"/>
 <Allolog Form="электролитом"/>
@@ -84,15 +101,18 @@
 <Allolog Form="окисляя"/>
 <Allolog Form="окисляясь"/>
 <Allolog Form="окисли"/>
+<Allolog Form="окислом"/>
+<Allolog Form="окислы"/>
+<Allolog Form="окислены"/>
+<Allolog Form="окислил"/>
 <Allolog Form="окислила"/>
 <Allolog Form="окислить"/>
 <Allolog Form="окисл"/>
 <Allolog Form="окислились"/>
-<Allolog Form="окислы"/>
 <Allolog Form="окисла"/>
 </Word>
 
-<Word Stem="щелочн" Weight="0.0774276234808215">
+<Word Stem="щелочн" Weight="0.0776246191217061">
 <Allolog Form="щелочными"/>
 <Allolog Form="щелочной"/>
 <Allolog Form="щелочном"/>
@@ -109,11 +129,11 @@
 <Allolog Form="щелочный"/>
 </Word>
 
-<Word Stem="электронных" Weight="0.0517759458440479">
+<Word Stem="электронных" Weight="0.05">
 <Allolog Form="электронных"/>
 </Word>
 
-<Word Stem="окислен" Weight="0.597953127580447">
+<Word Stem="окислен" Weight="0.598282659546732">
 <Allolog Form="окисления"/>
 <Allolog Form="окисление"/>
 <Allolog Form="окислению"/>
@@ -131,18 +151,18 @@
 <Allolog Form="окисленный"/>
 </Word>
 
-<Word Stem="металл" Weight="0.644288638278698">
+<Word Stem="металл" Weight="0.607287235893724">
 <Allolog Form="металла"/>
 <Allolog Form="металл"/>
 <Allolog Form="металлов"/>
 <Allolog Form="металлы"/>
 <Allolog Form="металлу"/>
 <Allolog Form="металлом"/>
+<Allolog Form="металлами"/>
 <Allolog Form="металли"/>
 <Allolog Form="металле"/>
-<Allolog Form="металлами"/>
-<Allolog Form="металлам"/>
 <Allolog Form="металлах"/>
+<Allolog Form="металлам"/>
 <Allolog Form="металло"/>
 </Word>
 
@@ -157,7 +177,7 @@
 <Allolog Form="коррозионный"/>
 </Word>
 
-<Word Stem="кислот" Weight="0.905581004672743">
+<Word Stem="кислот" Weight="0.885754601711295">
 <Allolog Form="кислот"/>
 <Allolog Form="кислоты"/>
 <Allolog Form="кислота"/>
@@ -172,16 +192,17 @@
 <Word Stem="осажден" Weight="0.0696215023801231">
 <Allolog Form="осаждение"/>
 <Allolog Form="осаждением"/>
+<Allolog Form="осажденной"/>
 <Allolog Form="осаждения"/>
 <Allolog Form="осажденного"/>
 <Allolog Form="осажденные"/>
+<Allolog Form="осаждено"/>
 <Allolog Form="осаждению"/>
 <Allolog Form="осажденном"/>
 <Allolog Form="осажденная"/>
-<Allolog Form="осажденной"/>
 </Word>
 
-<Word Stem="растворител" Weight="0.59910446494623">
+<Word Stem="растворител" Weight="0.600166732309059">
 <Allolog Form="растворители"/>
 <Allolog Form="растворителе"/>
 <Allolog Form="растворителем"/>
@@ -194,13 +215,13 @@
 <Allolog Form="растворителю"/>
 </Word>
 
-<Word Stem="осадк" Weight="0.0937247285216748">
+<Word Stem="осадк" Weight="0.0920879713599371">
 <Allolog Form="осадков"/>
 <Allolog Form="осадки"/>
+<Allolog Form="осадком"/>
 <Allolog Form="осадка"/>
 <Allolog Form="осадками"/>
 <Allolog Form="осадку"/>
-<Allolog Form="осадком"/>
 <Allolog Form="осадке"/>
 <Allolog Form="осадках"/>
 </Word>
@@ -219,7 +240,7 @@
 <Allolog Form="марганцу"/>
 </Word>
 
-<Word Stem="нефт" Weight="0.00140765356217662">
+<Word Stem="нефт" Weight="0.00121419256781734">
 <Allolog Form="нефте"/>
 <Allolog Form="нефть"/>
 <Allolog Form="нефти"/>
@@ -229,38 +250,18 @@
 <Allolog Form="нефтя"/>
 </Word>
 
-<Word Stem="серебр" Weight="0.555755440065461">
+<Word Stem="серебр" Weight="0.554754847875935">
 <Allolog Form="серебро"/>
 <Allolog Form="серебра"/>
 <Allolog Form="серебром"/>
 <Allolog Form="серебру"/>
 <Allolog Form="серебре"/>
+<Allolog Form="серебрился"/>
 <Allolog Form="серебря"/>
 <Allolog Form="серебр"/>
 </Word>
 
-<Word Stem="изготавлива" Weight="0.00108763488089645">
-<Allolog Form="изготавливают"/>
-<Allolog Form="изготавливается"/>
-<Allolog Form="изготавливать"/>
-<Allolog Form="изготавливаемые"/>
-<Allolog Form="изготавливаемом"/>
-<Allolog Form="изготавливает"/>
-<Allolog Form="изготавливалась"/>
-<Allolog Form="изготавливаемое"/>
-<Allolog Form="изготавливаются"/>
-<Allolog Form="изготавливались"/>
-<Allolog Form="изготавливали"/>
-<Allolog Form="изготавливавшей"/>
-<Allolog Form="изготавливаемого"/>
-<Allolog Form="изготавливающих"/>
-<Allolog Form="изготавливаться"/>
-<Allolog Form="изготавливала"/>
-<Allolog Form="изготавливал"/>
-<Allolog Form="изготавливающего"/>
-</Word>
-
-<Word Stem="инертн" Weight="0.0521971158035258">
+<Word Stem="инертн" Weight="0.0516021143608294">
 <Allolog Form="инертность"/>
 <Allolog Form="инертны"/>
 <Allolog Form="инертности"/>
@@ -271,8 +272,9 @@
 <Allolog Form="инертного"/>
 <Allolog Form="инертным"/>
 <Allolog Form="инертные"/>
-<Allolog Form="инертный"/>
 <Allolog Form="инертном"/>
+<Allolog Form="инертный"/>
+<Allolog Form="инертная"/>
 <Allolog Form="инертно"/>
 </Word>
 
@@ -283,7 +285,7 @@
 <Allolog Form="нейтрализацией"/>
 </Word>
 
-<Word Stem="гальваническ" Weight="0.0632290338084319">
+<Word Stem="гальваническ" Weight="0.0632685088215966">
 <Allolog Form="гальванической"/>
 <Allolog Form="гальваническую"/>
 <Allolog Form="гальванического"/>
@@ -295,37 +297,33 @@
 <Allolog Form="гальваническая"/>
 </Word>
 
-<Word Stem="медн" Weight="0.509497081129673">
+<Word Stem="медн" Weight="0.509198740653522">
 <Allolog Form="медный"/>
 <Allolog Form="медную"/>
 <Allolog Form="медная"/>
+<Allolog Form="медным"/>
 <Allolog Form="медные"/>
 <Allolog Form="медной"/>
-<Allolog Form="медным"/>
 <Allolog Form="медного"/>
 <Allolog Form="медное"/>
 <Allolog Form="медною"/>
+<Allolog Form="медными"/>
 <Allolog Form="медно"/>
 <Allolog Form="медном"/>
 <Allolog Form="медны"/>
-<Allolog Form="медными"/>
 </Word>
 
-<Word Stem="желудок" Weight="0.00137060207351644">
-<Allolog Form="желудок"/>
-</Word>
-
-<Word Stem="кисл" Weight="0.00165096052002412">
+<Word Stem="кисл" Weight="0.00364609143845139">
 <Allolog Form="кислую"/>
 <Allolog Form="кислое"/>
 <Allolog Form="кислые"/>
 <Allolog Form="кислая"/>
 <Allolog Form="кислой"/>
 <Allolog Form="кислом"/>
+<Allolog Form="кисло"/>
 <Allolog Form="кислого"/>
 <Allolog Form="кислыми"/>
 <Allolog Form="кислее"/>
-<Allolog Form="кисло"/>
 <Allolog Form="кислый"/>
 <Allolog Form="кислым"/>
 <Allolog Form="кислил"/>
@@ -333,19 +331,7 @@
 <Allolog Form="кисл"/>
 </Word>
 
-<Word Stem="веществ" Weight="0.0106733686277822">
-<Allolog Form="веществ"/>
-<Allolog Form="вещество"/>
-<Allolog Form="вещества"/>
-<Allolog Form="веществами"/>
-<Allolog Form="веществах"/>
-<Allolog Form="веществе"/>
-<Allolog Form="веществом"/>
-<Allolog Form="веществам"/>
-<Allolog Form="веществу"/>
-</Word>
-
-<Word Stem="клиренс" Weight="0.0529569610398436">
+<Word Stem="клиренс" Weight="0.0530006091941502">
 <Allolog Form="клиренс"/>
 <Allolog Form="клиренса"/>
 <Allolog Form="клиренсом"/>
@@ -363,128 +349,129 @@
 <Allolog Form="осаждавшим"/>
 <Allolog Form="осаждающие"/>
 <Allolog Form="осаждало"/>
+<Allolog Form="осаждавшие"/>
+<Allolog Form="осаждаю"/>
+<Allolog Form="осаждал"/>
 <Allolog Form="осаждать"/>
 <Allolog Form="осаждает"/>
 <Allolog Form="осаждаем"/>
 <Allolog Form="осаждались"/>
 <Allolog Form="осаждаться"/>
-<Allolog Form="осаждал"/>
 </Word>
 
-<Word Stem="эмульс" Weight="0.0528561245842767">
+<Word Stem="высуш" Weight="0.00106895859751024">
+<Allolog Form="высушить"/>
+<Allolog Form="высушите"/>
+<Allolog Form="высушены"/>
+<Allolog Form="высуши"/>
+<Allolog Form="высушим"/>
+<Allolog Form="высушили"/>
+<Allolog Form="высушив"/>
+<Allolog Form="высушил"/>
+</Word>
+
+<Word Stem="эмульс" Weight="0.0519391309023363">
 <Allolog Form="эмульсией"/>
 <Allolog Form="эмульсии"/>
+<Allolog Form="эмульсиях"/>
 <Allolog Form="эмульсия"/>
 <Allolog Form="эмульсий"/>
 <Allolog Form="эмульсиями"/>
-<Allolog Form="эмульсиях"/>
 <Allolog Form="эмульсию"/>
 </Word>
 
-<Word Stem="нагрева" Weight="0.00234142191297715">
-<Allolog Form="нагревает"/>
-<Allolog Form="нагревается"/>
-<Allolog Form="нагреваются"/>
-<Allolog Form="нагревать"/>
-<Allolog Form="нагреваться"/>
-<Allolog Form="нагревающимся"/>
-<Allolog Form="нагревают"/>
-<Allolog Form="нагреваешь"/>
-<Allolog Form="нагревайте"/>
-<Allolog Form="нагреваем"/>
-<Allolog Form="нагревали"/>
-<Allolog Form="нагревался"/>
-<Allolog Form="нагреваемый"/>
-<Allolog Form="нагреваемой"/>
-<Allolog Form="нагреваемым"/>
-<Allolog Form="нагревалась"/>
-<Allolog Form="нагреваемом"/>
-<Allolog Form="нагреваемая"/>
-<Allolog Form="нагревающих"/>
-<Allolog Form="нагревающего"/>
-<Allolog Form="нагревались"/>
-</Word>
-
-<Word Stem="угольн" Weight="0.0601454752958788">
+<Word Stem="угольн" Weight="0.0586779482255173">
 <Allolog Form="угольного"/>
 <Allolog Form="угольный"/>
 <Allolog Form="угольная"/>
-<Allolog Form="угольной"/>
-<Allolog Form="угольные"/>
 <Allolog Form="угольным"/>
 <Allolog Form="угольном"/>
+<Allolog Form="угольно"/>
+<Allolog Form="угольной"/>
+<Allolog Form="угольные"/>
 <Allolog Form="угольную"/>
 <Allolog Form="угольными"/>
+<Allolog Form="угольное"/>
 </Word>
 
-<Word Stem="капельк" Weight="0.00101461372156762">
+<Word Stem="капельк" Weight="0.00105645794011867">
 <Allolog Form="капелька"/>
 <Allolog Form="капельки"/>
 <Allolog Form="капельку"/>
 <Allolog Form="капельками"/>
-<Allolog Form="капелькой"/>
-<Allolog Form="капелькам"/>
 <Allolog Form="капельках"/>
+<Allolog Form="капелькой"/>
+<Allolog Form="капельке"/>
+<Allolog Form="капелькам"/>
 </Word>
 
-<Word Stem="эквивалент" Weight="0.0529942069629206">
+<Word Stem="эквивалент" Weight="0.0522170787805984">
 <Allolog Form="эквивалент"/>
 <Allolog Form="эквиваленте"/>
 <Allolog Form="эквивалентов"/>
-<Allolog Form="эквивалента"/>
-<Allolog Form="эквивалентами"/>
 <Allolog Form="эквивалентом"/>
 <Allolog Form="эквиваленты"/>
-<Allolog Form="эквивалентам"/>
+<Allolog Form="эквивалента"/>
+<Allolog Form="эквивалентами"/>
 <Allolog Form="эквивалентах"/>
+<Allolog Form="эквивалентам"/>
 </Word>
 
-<Word Stem="олов" Weight="0.0675984037497591">
+<Word Stem="олов" Weight="0.0676531099036316">
 <Allolog Form="олова"/>
 <Allolog Form="олово"/>
 <Allolog Form="оловом"/>
 <Allolog Form="олову"/>
 </Word>
 
-<Word Stem="дистиллирова" Weight="0.0579513040755695">
+<Word Stem="дистиллирова" Weight="0.0580174678659601">
 <Allolog Form="дистиллированную"/>
 <Allolog Form="дистиллированная"/>
 <Allolog Form="дистиллированной"/>
 </Word>
 
-<Word Stem="конденсац" Weight="0.0566422940970922">
+<Word Stem="натяжен" Weight="0.00183802663772915">
+<Allolog Form="натяжение"/>
+<Allolog Form="натяжения"/>
+<Allolog Form="натяжении"/>
+<Allolog Form="натяжению"/>
+<Allolog Form="натяжением"/>
+</Word>
+
+<Word Stem="конденсац" Weight="0.0534938237523053">
 <Allolog Form="конденсации"/>
 <Allolog Form="конденсация"/>
 <Allolog Form="конденсацию"/>
 <Allolog Form="конденсацией"/>
+<Allolog Form="конденсаций"/>
 </Word>
 
 <Word Stem="окислител" Weight="0.537197370530704">
 <Allolog Form="окислитель"/>
 <Allolog Form="окислителя"/>
-<Allolog Form="окислителем"/>
 <Allolog Form="окислителей"/>
+<Allolog Form="окислителем"/>
 <Allolog Form="окислителями"/>
 <Allolog Form="окислител"/>
 <Allolog Form="окислителям"/>
 <Allolog Form="окислители"/>
 </Word>
 
-<Word Stem="алюминиев" Weight="0.50144648716439">
+<Word Stem="алюминиев" Weight="0.50166254941125">
 <Allolog Form="алюминиевого"/>
 <Allolog Form="алюминиевые"/>
 <Allolog Form="алюминиевую"/>
 <Allolog Form="алюминиевая"/>
 <Allolog Form="алюминиевой"/>
-<Allolog Form="алюминиевый"/>
 <Allolog Form="алюминиево"/>
+<Allolog Form="алюминиевом"/>
+<Allolog Form="алюминиевый"/>
 <Allolog Form="алюминиевыми"/>
 <Allolog Form="алюминиевое"/>
 <Allolog Form="алюминиевым"/>
-<Allolog Form="алюминиевом"/>
 </Word>
 
-<Word Stem="химическ" Weight="0.715506790291604">
+<Word Stem="химическ" Weight="0.633440704084444">
 <Allolog Form="химических"/>
 <Allolog Form="химические"/>
 <Allolog Form="химическим"/>
@@ -499,22 +486,22 @@
 <Allolog Form="химическая"/>
 </Word>
 
-<Word Stem="ртут" Weight="0.550926481515675">
+<Word Stem="ртут" Weight="0.549785398648394">
 <Allolog Form="ртуть"/>
 <Allolog Form="ртути"/>
 <Allolog Form="ртутью"/>
 </Word>
 
-<Word Stem="химик" Weight="0.587499471351396">
+<Word Stem="химик" Weight="0.581165450631278">
 <Allolog Form="химики"/>
 <Allolog Form="химиков"/>
 <Allolog Form="химик"/>
-<Allolog Form="химико"/>
+<Allolog Form="химику"/>
 <Allolog Form="химиками"/>
+<Allolog Form="химиком"/>
 <Allolog Form="химика"/>
 <Allolog Form="химикам"/>
-<Allolog Form="химиком"/>
-<Allolog Form="химику"/>
+<Allolog Form="химико"/>
 </Word>
 
 <Word Stem="ацетат" Weight="0.0594817910909865">
@@ -530,7 +517,7 @@
 <Allolog Form="аммоном"/>
 </Word>
 
-<Word Stem="уксусн" Weight="0.0695322641413074">
+<Word Stem="уксусн" Weight="0.0701819499326868">
 <Allolog Form="уксусной"/>
 <Allolog Form="уксусная"/>
 <Allolog Form="уксусную"/>
@@ -540,18 +527,19 @@
 <Allolog Form="уксусного"/>
 <Allolog Form="уксусным"/>
 <Allolog Form="уксусно"/>
+<Allolog Form="уксусном"/>
 </Word>
 
-<Word Stem="спирт" Weight="0.60813036448601">
+<Word Stem="спирт" Weight="0.607006225106851">
 <Allolog Form="спирт"/>
 <Allolog Form="спиртом"/>
 <Allolog Form="спирте"/>
 <Allolog Form="спиртами"/>
 <Allolog Form="спирта"/>
+<Allolog Form="спирты"/>
 <Allolog Form="спирто"/>
 <Allolog Form="спирту"/>
 <Allolog Form="спиртов"/>
-<Allolog Form="спирты"/>
 <Allolog Form="спиртах"/>
 </Word>
 
@@ -562,9 +550,10 @@
 <Allolog Form="жидкостном"/>
 <Allolog Form="жидкостной"/>
 <Allolog Form="жидкостно"/>
+<Allolog Form="жидкостный"/>
+<Allolog Form="жидкостные"/>
 <Allolog Form="жидкостная"/>
 <Allolog Form="жидкостную"/>
-<Allolog Form="жидкостный"/>
 </Word>
 
 <Word Stem="окисля" Weight="0.0747687604009443">
@@ -572,13 +561,14 @@
 <Allolog Form="окислять"/>
 <Allolog Form="окисляемое"/>
 <Allolog Form="окисляться"/>
+<Allolog Form="окисляет"/>
+<Allolog Form="окисляют"/>
+<Allolog Form="окисляющей"/>
 <Allolog Form="окисляются"/>
 <Allolog Form="окисляющуюся"/>
 <Allolog Form="окисляющейся"/>
-<Allolog Form="окисляет"/>
 <Allolog Form="окисляющим"/>
 <Allolog Form="окисляющий"/>
-<Allolog Form="окисляют"/>
 <Allolog Form="окислялся"/>
 <Allolog Form="окисляющихся"/>
 </Word>
@@ -589,7 +579,7 @@
 <Allolog Form="метанолом"/>
 </Word>
 
-<Word Stem="органическ" Weight="0.515030644333273">
+<Word Stem="органическ" Weight="0.5">
 <Allolog Form="органическим"/>
 <Allolog Form="органических"/>
 <Allolog Form="органическом"/>
@@ -617,7 +607,7 @@
 <Allolog Form="оксидам"/>
 </Word>
 
-<Word Stem="этилов" Weight="0.0751873352142043">
+<Word Stem="этилов" Weight="0.0752050141070673">
 <Allolog Form="этиловая"/>
 <Allolog Form="этиловой"/>
 <Allolog Form="этиловый"/>
@@ -626,7 +616,7 @@
 <Allolog Form="этиловом"/>
 </Word>
 
-<Word Stem="катализатор" Weight="0.079593012351633">
+<Word Stem="катализатор" Weight="0.0779877900098372">
 <Allolog Form="катализатором"/>
 <Allolog Form="катализаторами"/>
 <Allolog Form="катализаторов"/>
@@ -641,22 +631,23 @@
 <Allolog Form="свинец"/>
 </Word>
 
-<Word Stem="щелоч" Weight="0.548999400085152">
+<Word Stem="щелоч" Weight="0.549024457358921">
 <Allolog Form="щелочей"/>
+<Allolog Form="щелочам"/>
+<Allolog Form="щелочах"/>
 <Allolog Form="щелочами"/>
 <Allolog Form="щелочи"/>
 <Allolog Form="щелочь"/>
 <Allolog Form="щелочью"/>
-<Allolog Form="щелочах"/>
-<Allolog Form="щелочам"/>
 <Allolog Form="щелоч"/>
 </Word>
 
-<Word Stem="смол" Weight="0.0752282181168984">
+<Word Stem="смол" Weight="0.0753590457563875">
 <Allolog Form="смол"/>
 <Allolog Form="смолы"/>
 <Allolog Form="смолой"/>
 <Allolog Form="смола"/>
+<Allolog Form="смоль"/>
 <Allolog Form="смолу"/>
 <Allolog Form="смолами"/>
 <Allolog Form="смоло"/>
@@ -664,7 +655,6 @@
 <Allolog Form="смолам"/>
 <Allolog Form="смолах"/>
 <Allolog Form="смоля"/>
-<Allolog Form="смоль"/>
 <Allolog Form="смолою"/>
 <Allolog Form="смолье"/>
 <Allolog Form="смолов"/>
@@ -673,23 +663,25 @@
 <Word Stem="углеводород" Weight="0.533046740850734">
 <Allolog Form="углеводородов"/>
 <Allolog Form="углеводород"/>
-<Allolog Form="углеводороде"/>
 <Allolog Form="углеводороды"/>
-<Allolog Form="углеводорода"/>
 <Allolog Form="углеводородами"/>
+<Allolog Form="углеводорода"/>
+<Allolog Form="углеводороде"/>
+<Allolog Form="углеводородах"/>
 <Allolog Form="углеводородом"/>
 </Word>
 
 <Word Stem="латун" Weight="0.052844537327296">
 <Allolog Form="латунные"/>
 <Allolog Form="латунь"/>
+<Allolog Form="латунной"/>
 <Allolog Form="латунного"/>
 <Allolog Form="латуни"/>
 <Allolog Form="латунная"/>
-<Allolog Form="латунной"/>
+<Allolog Form="латунными"/>
 </Word>
 
-<Word Stem="алюмин" Weight="0.52988511347317">
+<Word Stem="алюмин" Weight="0.528131328674668">
 <Allolog Form="алюминий"/>
 <Allolog Form="алюминия"/>
 <Allolog Form="алюминием"/>
@@ -707,20 +699,20 @@
 <Allolog Form="графитовыми"/>
 </Word>
 
-<Word Stem="нитр" Weight="0.00100999793379721">
+<Word Stem="нитр" Weight="0.00105211250282769">
 <Allolog Form="нитро"/>
 <Allolog Form="нитрующую"/>
 <Allolog Form="нитрующей"/>
 <Allolog Form="нитрил"/>
 </Word>
 
-<Word Stem="хлорист" Weight="0.506837370417853">
+<Word Stem="хлорист" Weight="0.506857453427627">
 <Allolog Form="хлористый"/>
 <Allolog Form="хлористого"/>
 <Allolog Form="хлористым"/>
 </Word>
 
-<Word Stem="цинк" Weight="0.577530001780574">
+<Word Stem="цинк" Weight="0.577674992915566">
 <Allolog Form="цинк"/>
 <Allolog Form="цинка"/>
 <Allolog Form="цинком"/>
@@ -735,18 +727,21 @@
 <Allolog Form="изопропилового"/>
 </Word>
 
-<Word Stem="окис" Weight="0.0532141624452833">
+<Word Stem="окис" Weight="0.0521543263333625">
 <Allolog Form="окиси"/>
 <Allolog Form="окисью"/>
 <Allolog Form="окисей"/>
 <Allolog Form="окис"/>
 </Word>
 
-<Word Stem="углерод" Weight="0.570127277531677">
+<Word Stem="углерод" Weight="0.54455968587741">
 <Allolog Form="углерода"/>
 <Allolog Form="углерод"/>
 <Allolog Form="углероду"/>
 <Allolog Form="углеродом"/>
+<Allolog Form="углеродами"/>
+<Allolog Form="углероды"/>
+<Allolog Form="углеродов"/>
 <Allolog Form="углероде"/>
 </Word>
 
@@ -772,7 +767,7 @@
 <Allolog Form="текучесть"/>
 </Word>
 
-<Word Stem="нитрит" Weight="0.0581276644648756">
+<Word Stem="нитрит" Weight="0.0581552786033145">
 <Allolog Form="нитрита"/>
 <Allolog Form="нитриты"/>
 <Allolog Form="нитрит"/>
@@ -781,12 +776,13 @@
 <Allolog Form="нитритов"/>
 </Word>
 
-<Word Stem="натр" Weight="0.60663718812722">
+<Word Stem="натр" Weight="0.604558708952108">
 <Allolog Form="натрия"/>
+<Allolog Form="натрий"/>
 <Allolog Form="натрите"/>
 <Allolog Form="натрием"/>
 <Allolog Form="натри"/>
-<Allolog Form="натрий"/>
+<Allolog Form="натрое"/>
 <Allolog Form="натра"/>
 <Allolog Form="натр"/>
 <Allolog Form="натром"/>
@@ -803,18 +799,18 @@
 <Allolog Form="глицерин"/>
 </Word>
 
-<Word Stem="хром" Weight="0.076706409842574">
+<Word Stem="хром" Weight="0.0767213938097291">
 <Allolog Form="хромом"/>
 <Allolog Form="хрома"/>
-<Allolog Form="хроме"/>
 <Allolog Form="хромо"/>
+<Allolog Form="хроме"/>
+<Allolog Form="хромая"/>
 <Allolog Form="хрому"/>
 <Allolog Form="хромой"/>
 <Allolog Form="хромого"/>
-<Allolog Form="хромая"/>
 </Word>
 
-<Word Stem="порошок" Weight="0.00160127549364962">
+<Word Stem="порошок" Weight="0.00310862272356324">
 <Allolog Form="порошок"/>
 </Word>
 
@@ -822,7 +818,7 @@
 <Allolog Form="нерастворимых"/>
 </Word>
 
-<Word Stem="минеральных" Weight="0.502271511230003">
+<Word Stem="минеральных" Weight="0.502377362515352">
 <Allolog Form="минеральных"/>
 </Word>
 
@@ -832,15 +828,16 @@
 <Allolog Form="миллилитрах"/>
 <Allolog Form="миллилитрам"/>
 <Allolog Form="миллилитр"/>
+<Allolog Form="миллилитре"/>
 </Word>
 
-<Word Stem="азот" Weight="0.544146307434587">
+<Word Stem="азот" Weight="0.52729742715291">
 <Allolog Form="азот"/>
 <Allolog Form="азотом"/>
 <Allolog Form="азота"/>
-<Allolog Form="азоте"/>
 <Allolog Form="азоту"/>
 <Allolog Form="азоты"/>
+<Allolog Form="азоте"/>
 </Word>
 
 <Word Stem="хромов" Weight="0.0543358675938938">
@@ -852,16 +849,23 @@
 <Allolog Form="хромовый"/>
 </Word>
 
-<Word Stem="солян" Weight="0.103906981964114">
+<Word Stem="солян" Weight="0.103924660856977">
 <Allolog Form="соляного"/>
 <Allolog Form="соляной"/>
-<Allolog Form="соляным"/>
-<Allolog Form="соляная"/>
 <Allolog Form="соляную"/>
+<Allolog Form="соляная"/>
+<Allolog Form="соляным"/>
 <Allolog Form="соляные"/>
 <Allolog Form="соляном"/>
 <Allolog Form="соляными"/>
 <Allolog Form="соляное"/>
+</Word>
+
+<Word Stem="питьев" Weight="0.00100764466849871">
+<Allolog Form="питьевой"/>
+<Allolog Form="питьевая"/>
+<Allolog Form="питьевую"/>
+<Allolog Form="питьевого"/>
 </Word>
 
 <Word Stem="минерализац" Weight="0.0723632251052276">
@@ -883,7 +887,7 @@
 <Allolog Form="электродную"/>
 </Word>
 
-<Word Stem="кислородн" Weight="0.0516309992650312">
+<Word Stem="кислородн" Weight="0.05">
 <Allolog Form="кислородные"/>
 <Allolog Form="кислородная"/>
 <Allolog Form="кислородную"/>
@@ -891,6 +895,7 @@
 <Allolog Form="кислородной"/>
 <Allolog Form="кислородного"/>
 <Allolog Form="кислородно"/>
+<Allolog Form="кислородными"/>
 <Allolog Form="кислородный"/>
 <Allolog Form="кислородным"/>
 </Word>
@@ -901,22 +906,23 @@
 <Allolog Form="гипсу"/>
 <Allolog Form="гипсом"/>
 <Allolog Form="гипсе"/>
+<Allolog Form="гипсами"/>
 </Word>
 
 <Word Stem="свинцов" Weight="0.0631611683335821">
 <Allolog Form="свинцовым"/>
 <Allolog Form="свинцово"/>
-<Allolog Form="свинцовой"/>
 <Allolog Form="свинцовый"/>
-<Allolog Form="свинцовые"/>
-<Allolog Form="свинцового"/>
-<Allolog Form="свинцовая"/>
-<Allolog Form="свинцовую"/>
 <Allolog Form="свинцовыми"/>
+<Allolog Form="свинцового"/>
+<Allolog Form="свинцовую"/>
+<Allolog Form="свинцовой"/>
+<Allolog Form="свинцовые"/>
+<Allolog Form="свинцовая"/>
 <Allolog Form="свинцовом"/>
 </Word>
 
-<Word Stem="полимер" Weight="0.548982131288043">
+<Word Stem="полимер" Weight="0.544086184511164">
 <Allolog Form="полимеры"/>
 <Allolog Form="полимеров"/>
 <Allolog Form="полимерия"/>
@@ -924,33 +930,35 @@
 <Allolog Form="полимер"/>
 <Allolog Form="полимера"/>
 <Allolog Form="полимерии"/>
-<Allolog Form="полимере"/>
 <Allolog Form="полимером"/>
+<Allolog Form="полимере"/>
 <Allolog Form="полимерам"/>
 </Word>
 
 <Word Stem="канцероген" Weight="0.0517415534656914">
 <Allolog Form="канцероген"/>
+<Allolog Form="канцерогенами"/>
 <Allolog Form="канцерогенными"/>
 <Allolog Form="канцерогенным"/>
 <Allolog Form="канцерогенный"/>
 <Allolog Form="канцерогенного"/>
-<Allolog Form="канцерогенами"/>
 <Allolog Form="канцерогенные"/>
 <Allolog Form="канцерогеном"/>
+<Allolog Form="канцерогенов"/>
 </Word>
 
-<Word Stem="этиленгликол" Weight="0.0589034558482999">
+<Word Stem="этиленгликол" Weight="0.0589211347411628">
 <Allolog Form="этиленгликоль"/>
 <Allolog Form="этиленгликоля"/>
 <Allolog Form="этиленгликолем"/>
 <Allolog Form="этиленгликоле"/>
 </Word>
 
-<Word Stem="кислотн" Weight="0.520283403827268">
+<Word Stem="кислотн" Weight="0.52081493063964">
 <Allolog Form="кислотные"/>
 <Allolog Form="кислотность"/>
 <Allolog Form="кислотности"/>
+<Allolog Form="кислотной"/>
 <Allolog Form="кислотностью"/>
 <Allolog Form="кислотная"/>
 <Allolog Form="кислотно"/>
@@ -958,21 +966,28 @@
 <Allolog Form="кислотный"/>
 <Allolog Form="кислотными"/>
 <Allolog Form="кислотным"/>
-<Allolog Form="кислотной"/>
 <Allolog Form="кислотную"/>
 </Word>
 
-<Word Stem="серн" Weight="0.631052777865735">
+<Word Stem="серн" Weight="0.629013951025801">
 <Allolog Form="серной"/>
 <Allolog Form="серные"/>
 <Allolog Form="серный"/>
-<Allolog Form="серна"/>
-<Allolog Form="серны"/>
 <Allolog Form="серная"/>
 <Allolog Form="серную"/>
+<Allolog Form="серна"/>
+<Allolog Form="серны"/>
 <Allolog Form="серного"/>
 <Allolog Form="серн"/>
 <Allolog Form="серное"/>
+</Word>
+
+<Word Stem="горен" Weight="0.00105634241028029">
+<Allolog Form="горения"/>
+<Allolog Form="горение"/>
+<Allolog Form="горен"/>
+<Allolog Form="горении"/>
+<Allolog Form="горением"/>
 </Word>
 
 <Word Stem="асбестов" Weight="0.0531347962382445">
@@ -983,26 +998,11 @@
 <Allolog Form="асбестово"/>
 </Word>
 
-<Word Stem="молекулярн" Weight="0.00168309138479967">
-<Allolog Form="молекулярно"/>
-<Allolog Form="молекулярной"/>
-<Allolog Form="молекулярная"/>
-<Allolog Form="молекулярного"/>
-<Allolog Form="молекулярный"/>
-<Allolog Form="молекулярном"/>
-<Allolog Form="молекулярные"/>
-<Allolog Form="молекулярными"/>
-<Allolog Form="молекулярную"/>
-<Allolog Form="молекулярным"/>
-<Allolog Form="молекулярное"/>
-<Allolog Form="молекулярность"/>
-</Word>
-
-<Word Stem="молекулярных" Weight="0.0536611770571753">
+<Word Stem="молекулярных" Weight="0.0524840655586582">
 <Allolog Form="молекулярных"/>
 </Word>
 
-<Word Stem="замещен" Weight="0.0568313084355448">
+<Word Stem="замещен" Weight="0.0557972794336199">
 <Allolog Form="замещения"/>
 <Allolog Form="замещением"/>
 <Allolog Form="замещение"/>
@@ -1010,9 +1010,11 @@
 <Allolog Form="замещен"/>
 <Allolog Form="замещенные"/>
 <Allolog Form="замещенный"/>
+<Allolog Form="замещений"/>
+<Allolog Form="замещенное"/>
 </Word>
 
-<Word Stem="окислительн" Weight="0.550058932353679">
+<Word Stem="окислительн" Weight="0.550145028946424">
 <Allolog Form="окислительный"/>
 <Allolog Form="окислительным"/>
 <Allolog Form="окислительного"/>
@@ -1027,29 +1029,33 @@
 <Allolog Form="окислительными"/>
 </Word>
 
-<Word Stem="водород" Weight="0.549477477692226">
+<Word Stem="водород" Weight="0.5">
 <Allolog Form="водорода"/>
 <Allolog Form="водородом"/>
 <Allolog Form="водород"/>
-<Allolog Form="водородов"/>
 <Allolog Form="водороду"/>
+<Allolog Form="водородов"/>
+<Allolog Form="водороды"/>
+<Allolog Form="водородами"/>
 <Allolog Form="водороде"/>
+<Allolog Form="водородам"/>
+<Allolog Form="водородах"/>
 </Word>
 
 <Word Stem="низкомолекулярных" Weight="0.0522798518096324">
 <Allolog Form="низкомолекулярных"/>
 </Word>
 
-<Word Stem="неорганическ" Weight="0.518701541056479">
+<Word Stem="неорганическ" Weight="0.517636401899036">
 <Allolog Form="неорганических"/>
 <Allolog Form="неорганический"/>
 <Allolog Form="неорганические"/>
 <Allolog Form="неорганического"/>
-<Allolog Form="неорганическая"/>
 <Allolog Form="неорганическую"/>
-<Allolog Form="неорганическими"/>
 <Allolog Form="неорганической"/>
 <Allolog Form="неорганическим"/>
+<Allolog Form="неорганическая"/>
+<Allolog Form="неорганическими"/>
 <Allolog Form="неорганическое"/>
 <Allolog Form="неорганическом"/>
 </Word>
@@ -1060,11 +1066,11 @@
 <Allolog Form="диоксидом"/>
 </Word>
 
-<Word Stem="аммиак" Weight="0.5489998883611">
+<Word Stem="аммиак" Weight="0.538662482803324">
 <Allolog Form="аммиака"/>
 <Allolog Form="аммиак"/>
-<Allolog Form="аммиаком"/>
 <Allolog Form="аммиаке"/>
+<Allolog Form="аммиаком"/>
 </Word>
 
 <Word Stem="сероводород" Weight="0.512151442860617">
@@ -1073,7 +1079,7 @@
 <Allolog Form="сероводородом"/>
 </Word>
 
-<Word Stem="мономер" Weight="0.0520588386994895">
+<Word Stem="мономер" Weight="0.0522209511204892">
 <Allolog Form="мономеров"/>
 <Allolog Form="мономеры"/>
 <Allolog Form="мономерами"/>
@@ -1081,14 +1087,14 @@
 <Allolog Form="мономер"/>
 </Word>
 
-<Word Stem="полимеризац" Weight="0.0545147791171427">
+<Word Stem="полимеризац" Weight="0.0545546304486218">
 <Allolog Form="полимеризации"/>
 <Allolog Form="полимеризация"/>
 <Allolog Form="полимеризацию"/>
 <Allolog Form="полимеризацией"/>
 </Word>
 
-<Word Stem="мочевин" Weight="0.0528794054491556">
+<Word Stem="мочевин" Weight="0.0529484407952528">
 <Allolog Form="мочевину"/>
 <Allolog Form="мочевины"/>
 <Allolog Form="мочевина"/>
@@ -1096,22 +1102,22 @@
 <Allolog Form="мочевиной"/>
 </Word>
 
-<Word Stem="азотист" Weight="0.501385271186532">
+<Word Stem="азотист" Weight="0.50152361195531">
 <Allolog Form="азотистые"/>
 <Allolog Form="азотистое"/>
 <Allolog Form="азотистыми"/>
 <Allolog Form="азотистой"/>
 <Allolog Form="азотистого"/>
+<Allolog Form="азотистым"/>
 <Allolog Form="азотистая"/>
 <Allolog Form="азотистый"/>
-<Allolog Form="азотистым"/>
 </Word>
 
 <Word Stem="низкомолекулярн" Weight="0.504335867593894">
 <Allolog Form="низкомолекулярные"/>
+<Allolog Form="низкомолекулярного"/>
 <Allolog Form="низкомолекулярное"/>
 <Allolog Form="низкомолекулярными"/>
-<Allolog Form="низкомолекулярного"/>
 <Allolog Form="низкомолекулярной"/>
 <Allolog Form="низкомолекулярный"/>
 </Word>
@@ -1148,7 +1154,7 @@
 <Allolog Form="коллоидных"/>
 </Word>
 
-<Word Stem="химическом" Weight="0.505268199233716">
+<Word Stem="химическом" Weight="0.503434436661119">
 <Allolog Form="химическому"/>
 </Word>
 
@@ -1183,14 +1189,14 @@
 <Word Stem="слоист" Weight="0.0017415534656914">
 <Allolog Form="слоистую"/>
 <Allolog Form="слоистые"/>
+<Allolog Form="слоистостью"/>
 <Allolog Form="слоистого"/>
 <Allolog Form="слоистый"/>
 <Allolog Form="слоистой"/>
 <Allolog Form="слоистая"/>
-<Allolog Form="слоистостью"/>
 </Word>
 
-<Word Stem="барбитурат" Weight="0.0934400601982394">
+<Word Stem="барбитурат" Weight="0.093623980059223">
 <Allolog Form="барбитураты"/>
 <Allolog Form="барбитуратов"/>
 <Allolog Form="барбитуратами"/>
@@ -1199,26 +1205,26 @@
 <Allolog Form="барбитуратам"/>
 </Word>
 
-<Word Stem="кальц" Weight="0.521426461778051">
+<Word Stem="кальц" Weight="0.516993272540554">
 <Allolog Form="кальция"/>
 <Allolog Form="кальций"/>
 <Allolog Form="кальцием"/>
 </Word>
 
-<Word Stem="магн" Weight="0.527539667645674">
+<Word Stem="магн" Weight="0.523558678358606">
 <Allolog Form="магния"/>
 <Allolog Form="магний"/>
+<Allolog Form="магни"/>
 <Allolog Form="магнием"/>
 <Allolog Form="магна"/>
 <Allolog Form="магнии"/>
 <Allolog Form="магнию"/>
 <Allolog Form="магне"/>
-<Allolog Form="магни"/>
 <Allolog Form="магните"/>
 <Allolog Form="магн"/>
 </Word>
 
-<Word Stem="кислых" Weight="0.502150608778399">
+<Word Stem="кислых" Weight="0.502274152032715">
 <Allolog Form="кислых"/>
 </Word>
 
@@ -1231,7 +1237,7 @@
 <Allolog Form="пероксидами"/>
 </Word>
 
-<Word Stem="осмотическ" Weight="0.00116009777447438">
+<Word Stem="осмотическ" Weight="0.00156844853031771">
 <Allolog Form="осмотическую"/>
 <Allolog Form="осмотическим"/>
 <Allolog Form="осмотического"/>
@@ -1271,9 +1277,9 @@
 
 <Word Stem="суспенз" Weight="0.0540304523063144">
 <Allolog Form="суспензии"/>
+<Allolog Form="суспензией"/>
 <Allolog Form="суспензию"/>
 <Allolog Form="суспензиями"/>
-<Allolog Form="суспензией"/>
 <Allolog Form="суспензий"/>
 <Allolog Form="суспензия"/>
 </Word>
@@ -1287,7 +1293,7 @@
 <Allolog Form="агрегатной"/>
 </Word>
 
-<Word Stem="фосфат" Weight="0.50272440666441">
+<Word Stem="фосфат" Weight="0.502985046876227">
 <Allolog Form="фосфат"/>
 <Allolog Form="фосфата"/>
 <Allolog Form="фосфатом"/>
@@ -1304,7 +1310,7 @@
 <Allolog Form="гидроксо"/>
 </Word>
 
-<Word Stem="водородн" Weight="0.506890602285278">
+<Word Stem="водородн" Weight="0.502757160881318">
 <Allolog Form="водородными"/>
 <Allolog Form="водородные"/>
 <Allolog Form="водородным"/>
@@ -1313,8 +1319,16 @@
 <Allolog Form="водородную"/>
 <Allolog Form="водородная"/>
 <Allolog Form="водородный"/>
-<Allolog Form="водородное"/>
 <Allolog Form="водородно"/>
+<Allolog Form="водородное"/>
+</Word>
+
+<Word Stem="связыван" Weight="0.00128642530755083">
+<Allolog Form="связывания"/>
+<Allolog Form="связывание"/>
+<Allolog Form="связыванию"/>
+<Allolog Form="связывании"/>
+<Allolog Form="связыванием"/>
 </Word>
 
 <Word Stem="дезаминирован" Weight="0.0520069330414158">
@@ -1323,7 +1337,7 @@
 <Allolog Form="дезаминирование"/>
 </Word>
 
-<Word Stem="ковалентн" Weight="0.0593795744062076">
+<Word Stem="ковалентн" Weight="0.0597815402076782">
 <Allolog Form="ковалентной"/>
 <Allolog Form="ковалентные"/>
 <Allolog Form="ковалентная"/>
@@ -1336,11 +1350,11 @@
 <Allolog Form="ковалентным"/>
 </Word>
 
-<Word Stem="водородных" Weight="0.501075175807488">
+<Word Stem="водородных" Weight="0.501125995920826">
 <Allolog Form="водородных"/>
 </Word>
 
-<Word Stem="гидролиз" Weight="0.544325062369545">
+<Word Stem="гидролиз" Weight="0.544586401473088">
 <Allolog Form="гидролизе"/>
 <Allolog Form="гидролиза"/>
 <Allolog Form="гидролиз"/>
@@ -1358,7 +1372,7 @@
 <Allolog Form="диссоциацию"/>
 </Word>
 
-<Word Stem="гетероген" Weight="0.0530334659564672">
+<Word Stem="гетероген" Weight="0.0530957130775378">
 <Allolog Form="гетерогенную"/>
 <Allolog Form="гетерогенностью"/>
 <Allolog Form="гетерогенность"/>
@@ -1391,16 +1405,27 @@
 <Word Stem="кристаллизац" Weight="0.05">
 <Allolog Form="кристаллизацией"/>
 <Allolog Form="кристаллизации"/>
-<Allolog Form="кристаллизацию"/>
 <Allolog Form="кристаллизация"/>
+<Allolog Form="кристаллизацию"/>
+</Word>
+
+<Word Stem="хлорофилл" Weight="0.0012205445022834">
+<Allolog Form="хлорофилла"/>
+<Allolog Form="хлорофилл"/>
+<Allolog Form="хлорофиллом"/>
+<Allolog Form="хлорофиллами"/>
+<Allolog Form="хлорофиллы"/>
+<Allolog Form="хлорофиллам"/>
+<Allolog Form="хлорофиллов"/>
+<Allolog Form="хлорофилле"/>
 </Word>
 
 <Word Stem="реактив" Weight="0.135815374381618">
 <Allolog Form="реактивами"/>
 <Allolog Form="реактивов"/>
-<Allolog Form="реактивы"/>
-<Allolog Form="реактива"/>
 <Allolog Form="реактивом"/>
+<Allolog Form="реактива"/>
+<Allolog Form="реактивы"/>
 <Allolog Form="реактиву"/>
 <Allolog Form="реактивам"/>
 <Allolog Form="реактивах"/>
@@ -1409,11 +1434,11 @@
 <Word Stem="хроматографическ" Weight="0.0696215023801231">
 <Allolog Form="хроматографические"/>
 <Allolog Form="хроматографический"/>
+<Allolog Form="хроматографическую"/>
 <Allolog Form="хроматографического"/>
 <Allolog Form="хроматографических"/>
 <Allolog Form="хроматографическая"/>
 <Allolog Form="хроматографическое"/>
-<Allolog Form="хроматографическую"/>
 <Allolog Form="хроматографической"/>
 <Allolog Form="хроматографическом"/>
 </Word>
@@ -1424,7 +1449,7 @@
 <Allolog Form="азотсодержащие"/>
 </Word>
 
-<Word Stem="пипетк" Weight="0.0646278511726565">
+<Word Stem="пипетк" Weight="0.0646660454407654">
 <Allolog Form="пипеткой"/>
 <Allolog Form="пипетке"/>
 <Allolog Form="пипетку"/>
@@ -1440,7 +1465,7 @@
 <Allolog Form="фильтрату"/>
 </Word>
 
-<Word Stem="микроэлемент" Weight="0.0555691156166646">
+<Word Stem="микроэлемент" Weight="0.0555967297551035">
 <Allolog Form="микроэлемента"/>
 <Allolog Form="микроэлементов"/>
 <Allolog Form="микроэлементами"/>
@@ -1449,7 +1474,7 @@
 <Allolog Form="микроэлементом"/>
 </Word>
 
-<Word Stem="гомологическ" Weight="0.0511258160217861">
+<Word Stem="гомологическ" Weight="0.0511508194597588">
 <Allolog Form="гомологических"/>
 <Allolog Form="гомологическое"/>
 <Allolog Form="гомологическим"/>
@@ -1467,7 +1492,7 @@
 <Allolog Form="высокомолекулярных"/>
 </Word>
 
-<Word Stem="целлюлоз" Weight="0.0680606204638383">
+<Word Stem="целлюлоз" Weight="0.06815283842098">
 <Allolog Form="целлюлозы"/>
 <Allolog Form="целлюлоза"/>
 <Allolog Form="целлюлозу"/>
@@ -1487,9 +1512,10 @@
 <Allolog Form="кальциевые"/>
 </Word>
 
-<Word Stem="валентн" Weight="0.516360446490052">
+<Word Stem="валентн" Weight="0.517069093563755">
 <Allolog Form="валентности"/>
 <Allolog Form="валентностью"/>
+<Allolog Form="валентными"/>
 <Allolog Form="валентность"/>
 <Allolog Form="валентн"/>
 <Allolog Form="валентностей"/>
@@ -1499,7 +1525,6 @@
 <Allolog Form="валентного"/>
 <Allolog Form="валентном"/>
 <Allolog Form="валентностями"/>
-<Allolog Form="валентными"/>
 <Allolog Form="валентный"/>
 <Allolog Form="валентно"/>
 <Allolog Form="валентной"/>
@@ -1516,7 +1541,7 @@
 <Allolog Form="буферное"/>
 </Word>
 
-<Word Stem="пестицид" Weight="0.0906009087839579">
+<Word Stem="пестицид" Weight="0.0906209917937316">
 <Allolog Form="пестицидов"/>
 <Allolog Form="пестицидами"/>
 <Allolog Form="пестициды"/>
@@ -1542,10 +1567,10 @@
 <Allolog Form="инсектицид"/>
 </Word>
 
-<Word Stem="фосфор" Weight="0.516221300504481">
+<Word Stem="фосфор" Weight="0.515123462948424">
 <Allolog Form="фосфора"/>
-<Allolog Form="фосфором"/>
 <Allolog Form="фосфор"/>
+<Allolog Form="фосфором"/>
 <Allolog Form="фосфоро"/>
 <Allolog Form="фосфорите"/>
 <Allolog Form="фосфоре"/>
@@ -1610,10 +1635,13 @@
 <Allolog Form="талл"/>
 </Word>
 
-<Word Stem="кремн" Weight="0.511455637893584">
+<Word Stem="кремн" Weight="0.504902823933327">
 <Allolog Form="кремния"/>
-<Allolog Form="кремня"/>
 <Allolog Form="кремний"/>
+<Allolog Form="кремнии"/>
+<Allolog Form="кремня"/>
+<Allolog Form="кремне"/>
+<Allolog Form="кремню"/>
 <Allolog Form="кремн"/>
 <Allolog Form="кремнием"/>
 <Allolog Form="кремнев"/>
@@ -1622,25 +1650,26 @@
 
 <Word Stem="абсорбц" Weight="0.0552681992337165">
 <Allolog Form="абсорбция"/>
+<Allolog Form="абсорбции"/>
 <Allolog Form="абсорбцию"/>
 <Allolog Form="абсорбцией"/>
-<Allolog Form="абсорбции"/>
 </Word>
 
-<Word Stem="спектроскоп" Weight="0.0559007929190485">
+<Word Stem="спектроскоп" Weight="0.0542169020134216">
 <Allolog Form="спектроскопии"/>
 <Allolog Form="спектроскопия"/>
-<Allolog Form="спектроскопию"/>
-<Allolog Form="спектроскопом"/>
 <Allolog Form="спектроскоп"/>
+<Allolog Form="спектроскопом"/>
+<Allolog Form="спектроскопа"/>
+<Allolog Form="спектроскопию"/>
 <Allolog Form="спектроскопией"/>
 </Word>
 
-<Word Stem="ионизац" Weight="0.054634955837843">
+<Word Stem="ионизац" Weight="0.0527342872824115">
 <Allolog Form="ионизация"/>
 <Allolog Form="ионизации"/>
-<Allolog Form="ионизацию"/>
 <Allolog Form="ионизацией"/>
+<Allolog Form="ионизацию"/>
 </Word>
 
 <Word Stem="электроотрицательн" Weight="0.0568626620350758">
@@ -1652,7 +1681,7 @@
 <Allolog Form="электроотрицательный"/>
 </Word>
 
-<Word Stem="электростатическ" Weight="0.0524720666206304">
+<Word Stem="электростатическ" Weight="0.0525615269411862">
 <Allolog Form="электростатически"/>
 <Allolog Form="электростатического"/>
 <Allolog Form="электростатическое"/>
@@ -1667,7 +1696,7 @@
 <Allolog Form="электростатическая"/>
 </Word>
 
-<Word Stem="ковалентных" Weight="0.0518640705856837">
+<Word Stem="ковалентных" Weight="0.0518986523196118">
 <Allolog Form="ковалентных"/>
 </Word>
 
@@ -1714,14 +1743,15 @@
 <Allolog Form="нерастворимая"/>
 </Word>
 
-<Word Stem="констант" Weight="0.0619900477002057">
+<Word Stem="констант" Weight="0.0591595103194708">
 <Allolog Form="константы"/>
 <Allolog Form="константа"/>
 <Allolog Form="констант"/>
-<Allolog Form="константи"/>
-<Allolog Form="константой"/>
 <Allolog Form="константе"/>
 <Allolog Form="константу"/>
+<Allolog Form="константой"/>
+<Allolog Form="константах"/>
+<Allolog Form="константи"/>
 <Allolog Form="константами"/>
 </Word>
 
@@ -1729,22 +1759,23 @@
 <Allolog Form="изомеры"/>
 <Allolog Form="изомер"/>
 <Allolog Form="изомеров"/>
+<Allolog Form="изомерами"/>
 <Allolog Form="изомерия"/>
 <Allolog Form="изомера"/>
 <Allolog Form="изомерии"/>
 <Allolog Form="изомерией"/>
-<Allolog Form="изомерами"/>
 <Allolog Form="изомером"/>
 </Word>
 
-<Word Stem="углеродн" Weight="0.502279851809632">
+<Word Stem="углеродн" Weight="0.5">
 <Allolog Form="углеродного"/>
 <Allolog Form="углеродной"/>
 <Allolog Form="углеродная"/>
 <Allolog Form="углеродные"/>
+<Allolog Form="углеродно"/>
 <Allolog Form="углеродный"/>
-<Allolog Form="углеродны"/>
 <Allolog Form="углеродными"/>
+<Allolog Form="углеродны"/>
 </Word>
 
 <Word Stem="экстракц" Weight="0.0923926227301136">
@@ -1767,12 +1798,13 @@
 <Allolog Form="неполярное"/>
 </Word>
 
-<Word Stem="бензол" Weight="0.523163171357495">
+<Word Stem="бензол" Weight="0.523245464375286">
 <Allolog Form="бензолом"/>
 <Allolog Form="бензол"/>
 <Allolog Form="бензоле"/>
 <Allolog Form="бензола"/>
 <Allolog Form="бензолу"/>
+<Allolog Form="бензолов"/>
 </Word>
 
 <Word Stem="хлороформ" Weight="0.101410241168655">
@@ -1833,17 +1865,17 @@
 <Allolog Form="противоионами"/>
 </Word>
 
-<Word Stem="кристаллическ" Weight="0.0580336962927047">
+<Word Stem="кристаллическ" Weight="0.0577059728550299">
 <Allolog Form="кристаллической"/>
 <Allolog Form="кристаллическое"/>
 <Allolog Form="кристаллическим"/>
+<Allolog Form="кристаллическая"/>
+<Allolog Form="кристаллические"/>
+<Allolog Form="кристаллическую"/>
+<Allolog Form="кристаллических"/>
 <Allolog Form="кристаллический"/>
 <Allolog Form="кристаллического"/>
 <Allolog Form="кристаллическом"/>
-<Allolog Form="кристаллическая"/>
-<Allolog Form="кристаллическую"/>
-<Allolog Form="кристаллические"/>
-<Allolog Form="кристаллических"/>
 <Allolog Form="кристаллическими"/>
 <Allolog Form="кристаллически"/>
 </Word>
@@ -1852,11 +1884,12 @@
 <Allolog Form="межмолекулярных"/>
 </Word>
 
-<Word Stem="хроматограф" Weight="0.0654730412046617">
+<Word Stem="хроматограф" Weight="0.065661319533826">
 <Allolog Form="хроматография"/>
 <Allolog Form="хроматографии"/>
 <Allolog Form="хроматографией"/>
 <Allolog Form="хроматографию"/>
+<Allolog Form="хроматографами"/>
 <Allolog Form="хроматограф"/>
 <Allolog Form="хроматографа"/>
 <Allolog Form="хроматографе"/>
@@ -1870,8 +1903,8 @@
 <Word Stem="адсорбц" Weight="0.100369124380899">
 <Allolog Form="адсорбция"/>
 <Allolog Form="адсорбции"/>
-<Allolog Form="адсорбцию"/>
 <Allolog Form="адсорбцией"/>
+<Allolog Form="адсорбцию"/>
 </Word>
 
 <Word Stem="адсорбцион" Weight="0.0591510718469966">
@@ -1915,17 +1948,17 @@
 <Allolog Form="высокомолекулярное"/>
 </Word>
 
-<Word Stem="катод" Weight="0.0566517398155056">
+<Word Stem="катод" Weight="0.0570652092840301">
 <Allolog Form="катоду"/>
 <Allolog Form="катода"/>
+<Allolog Form="катодами"/>
+<Allolog Form="катоды"/>
 <Allolog Form="катоде"/>
 <Allolog Form="катодом"/>
 <Allolog Form="катод"/>
-<Allolog Form="катоды"/>
-<Allolog Form="катодами"/>
 </Word>
 
-<Word Stem="анод" Weight="0.0632849525910889">
+<Word Stem="анод" Weight="0.0635443881524381">
 <Allolog Form="аноду"/>
 <Allolog Form="анодом"/>
 <Allolog Form="аноде"/>
@@ -1950,7 +1983,7 @@
 <Allolog Form="электродных"/>
 </Word>
 
-<Word Stem="электропроводн" Weight="0.0513304318360245">
+<Word Stem="электропроводн" Weight="0.0513918441186627">
 <Allolog Form="электропроводностью"/>
 <Allolog Form="электропроводность"/>
 <Allolog Form="электропроводности"/>
@@ -1982,7 +2015,7 @@
 <Allolog Form="растворимых"/>
 </Word>
 
-<Word Stem="натриев" Weight="0.0533054870591387">
+<Word Stem="натриев" Weight="0.0533208282471603">
 <Allolog Form="натриево"/>
 <Allolog Form="натриевую"/>
 <Allolog Form="натриевой"/>
@@ -1996,10 +2029,11 @@
 
 <Word Stem="гомоген" Weight="0.0543358675938938">
 <Allolog Form="гомогенного"/>
+<Allolog Form="гомогенную"/>
+<Allolog Form="гомогенной"/>
 <Allolog Form="гомогенное"/>
 <Allolog Form="гомогенность"/>
 <Allolog Form="гомогенные"/>
-<Allolog Form="гомогенной"/>
 <Allolog Form="гомогенны"/>
 <Allolog Form="гомогенном"/>
 <Allolog Form="гомогенная"/>
@@ -2009,9 +2043,9 @@
 
 <Word Stem="концентрирован" Weight="0.0575110075110075">
 <Allolog Form="концентрирование"/>
+<Allolog Form="концентрирования"/>
 <Allolog Form="концентрированого"/>
 <Allolog Form="концентрированн"/>
-<Allolog Form="концентрирования"/>
 <Allolog Form="концентрированием"/>
 <Allolog Form="концентрированой"/>
 <Allolog Form="концентрированность"/>
@@ -2036,7 +2070,7 @@
 <Allolog Form="ксенобиотик"/>
 </Word>
 
-<Word Stem="этанол" Weight="0.093501360460842">
+<Word Stem="этанол" Weight="0.093519039353705">
 <Allolog Form="этанола"/>
 <Allolog Form="этанол"/>
 <Allolog Form="этанолом"/>
@@ -2065,36 +2099,36 @@
 <Allolog Form="конъюгата"/>
 </Word>
 
-<Word Stem="хлор" Weight="0.521021231885096">
+<Word Stem="хлор" Weight="0.521330939806837">
 <Allolog Form="хлоро"/>
+<Allolog Form="хлор"/>
 <Allolog Form="хлора"/>
 <Allolog Form="хлором"/>
-<Allolog Form="хлор"/>
 <Allolog Form="хлоре"/>
 <Allolog Form="хлори"/>
 <Allolog Form="хлорам"/>
 <Allolog Form="хлору"/>
 </Word>
 
-<Word Stem="кобальт" Weight="0.518494679099449">
+<Word Stem="кобальт" Weight="0.51862865852259">
 <Allolog Form="кобальт"/>
 <Allolog Form="кобальта"/>
 <Allolog Form="кобальтом"/>
 <Allolog Form="кобальте"/>
 </Word>
 
-<Word Stem="никел" Weight="0.524856374191674">
+<Word Stem="никел" Weight="0.523734470363871">
 <Allolog Form="никель"/>
-<Allolog Form="никелем"/>
 <Allolog Form="никеля"/>
+<Allolog Form="никелем"/>
 <Allolog Form="никелю"/>
 <Allolog Form="никеле"/>
 </Word>
 
 <Word Stem="платин" Weight="0.505268199233716">
 <Allolog Form="платину"/>
-<Allolog Form="платины"/>
 <Allolog Form="платина"/>
+<Allolog Form="платины"/>
 <Allolog Form="платино"/>
 <Allolog Form="платиний"/>
 <Allolog Form="платиной"/>
@@ -2104,6 +2138,7 @@
 
 <Word Stem="ионизирова" Weight="0.0575110075110075">
 <Allolog Form="ионизированной"/>
+<Allolog Form="ионизированный"/>
 <Allolog Form="ионизированные"/>
 <Allolog Form="ионизированном"/>
 <Allolog Form="ионизированная"/>
@@ -2126,16 +2161,405 @@
 <Allolog Form="пропанол"/>
 </Word>
 
-<Word Stem="кофеин" Weight="0.00101260100751063">
+<Word Stem="диссоциирует" Weight="0.0522798518096324">
+<Allolog Form="диссоциируется"/>
+<Allolog Form="диссоциирует"/>
+</Word>
+
+<Word Stem="кристаллик" Weight="0.0010890034464687">
+<Allolog Form="кристалликов"/>
+<Allolog Form="кристаллики"/>
+<Allolog Form="кристалликом"/>
+<Allolog Form="кристалликами"/>
+<Allolog Form="кристаллика"/>
+<Allolog Form="кристаллик"/>
+</Word>
+
+<Word Stem="газообразн" Weight="0.0584274688717249">
+<Allolog Form="газообразный"/>
+<Allolog Form="газообразная"/>
+<Allolog Form="газообразное"/>
+<Allolog Form="газообразной"/>
+<Allolog Form="газообразном"/>
+<Allolog Form="газообразные"/>
+<Allolog Form="газообразным"/>
+<Allolog Form="газообразного"/>
+<Allolog Form="газообразны"/>
+<Allolog Form="газообразными"/>
+<Allolog Form="газообразную"/>
+</Word>
+
+<Word Stem="азотн" Weight="0.56843015080563">
+<Allolog Form="азотный"/>
+<Allolog Form="азотную"/>
+<Allolog Form="азотными"/>
+<Allolog Form="азотного"/>
+<Allolog Form="азотное"/>
+<Allolog Form="азотной"/>
+<Allolog Form="азотная"/>
+<Allolog Form="азотн"/>
+<Allolog Form="азотном"/>
+<Allolog Form="азотные"/>
+<Allolog Form="азотно"/>
+</Word>
+
+<Word Stem="agcl" Weight="0.0534295206709">
+<Allolog Form="agcl"/>
+</Word>
+
+<Word Stem="анодн" Weight="0.0559007929190485">
+<Allolog Form="анодный"/>
+<Allolog Form="анодно"/>
+<Allolog Form="анодное"/>
+<Allolog Form="анодного"/>
+<Allolog Form="анодн"/>
+<Allolog Form="анодном"/>
+<Allolog Form="анодные"/>
+<Allolog Form="анодным"/>
+<Allolog Form="анодной"/>
+<Allolog Form="анодную"/>
+</Word>
+
+<Word Stem="менделеев" Weight="0.506330606062703">
+<Allolog Form="менделеева"/>
+<Allolog Form="менделеевым"/>
+<Allolog Form="менделеевы"/>
+</Word>
+
+<Word Stem="карбид" Weight="0.510478346685243">
+<Allolog Form="карбидов"/>
+<Allolog Form="карбида"/>
+<Allolog Form="карбид"/>
+<Allolog Form="карбидом"/>
+<Allolog Form="карбиду"/>
+<Allolog Form="карбиды"/>
+</Word>
+
+<Word Stem="синильн" Weight="0.0623476813636313">
+<Allolog Form="синильную"/>
+<Allolog Form="синильная"/>
+<Allolog Form="синильной"/>
+</Word>
+
+<Word Stem="формальдегид" Weight="0.0693974319437622">
+<Allolog Form="формальдегид"/>
+<Allolog Form="формальдегида"/>
+<Allolog Form="формальдегидом"/>
+<Allolog Form="формальдегиду"/>
+</Word>
+
+<Word Stem="кремниев" Weight="0.502559326397407">
+<Allolog Form="кремниевой"/>
+<Allolog Form="кремниевая"/>
+<Allolog Form="кремниевые"/>
+<Allolog Form="кремниевую"/>
+</Word>
+
+<Word Stem="галоген" Weight="0.505900792919049">
+<Allolog Form="галогенов"/>
+<Allolog Form="галоген"/>
+<Allolog Form="галогенами"/>
+<Allolog Form="галогенам"/>
+<Allolog Form="галогенные"/>
+</Word>
+
+<Word Stem="альдегид" Weight="0.52133402995472">
+<Allolog Form="альдегидов"/>
+<Allolog Form="альдегиды"/>
+<Allolog Form="альдегид"/>
+<Allolog Form="альдегида"/>
+<Allolog Form="альдегидам"/>
+<Allolog Form="альдегидами"/>
+<Allolog Form="альдегидом"/>
+</Word>
+
+<Word Stem="кетон" Weight="0.0537282144561838">
+<Allolog Form="кетонов"/>
+<Allolog Form="кетоны"/>
+<Allolog Form="кетонная"/>
+<Allolog Form="кетонах"/>
+<Allolog Form="кетоне"/>
+<Allolog Form="кетон"/>
+</Word>
+
+<Word Stem="карбоновых" Weight="0.502006933041416">
+<Allolog Form="карбоновых"/>
+</Word>
+
+<Word Stem="сульфид" Weight="0.524080934739242">
+<Allolog Form="сульфиды"/>
+<Allolog Form="сульфидов"/>
+<Allolog Form="сульфид"/>
+<Allolog Form="сульфида"/>
+<Allolog Form="сульфидом"/>
+<Allolog Form="сульфидах"/>
+</Word>
+
+<Word Stem="аммиачн" Weight="0.055170675213944">
+<Allolog Form="аммиачная"/>
+<Allolog Form="аммиачной"/>
+<Allolog Form="аммиачные"/>
+<Allolog Form="аммиачном"/>
+<Allolog Form="аммиачный"/>
+<Allolog Form="аммиачную"/>
+<Allolog Form="аммиачными"/>
+<Allolog Form="аммиачно"/>
+<Allolog Form="аммиачного"/>
+<Allolog Form="аммиачным"/>
+</Word>
+
+<Word Stem="фтор" Weight="0.0588211708099439">
+<Allolog Form="фтор"/>
+<Allolog Form="фтора"/>
+<Allolog Form="фтором"/>
+<Allolog Form="фторо"/>
+</Word>
+
+<Word Stem="бром" Weight="0.502559326397407">
+<Allolog Form="брома"/>
+<Allolog Form="бромом"/>
+<Allolog Form="броми"/>
+</Word>
+
+<Word Stem="галог" Weight="0.052844537327296">
+<Allolog Form="галогены"/>
+<Allolog Form="галогена"/>
+<Allolog Form="галоге"/>
+</Word>
+
+<Word Stem="силикат" Weight="0.0552355527741773">
+<Allolog Form="силикатов"/>
+<Allolog Form="силикаты"/>
+<Allolog Form="силикат"/>
+<Allolog Form="силикатами"/>
+<Allolog Form="силиката"/>
+<Allolog Form="силикатах"/>
+</Word>
+
+<Word Stem="карбонат" Weight="0.526925949618705">
+<Allolog Form="карбонатов"/>
+<Allolog Form="карбонат"/>
+<Allolog Form="карбоната"/>
+<Allolog Form="карбонаты"/>
+<Allolog Form="карбонатом"/>
+<Allolog Form="карбонатами"/>
+</Word>
+
+<Word Stem="сернист" Weight="0.504644142575177">
+<Allolog Form="сернистый"/>
+<Allolog Form="сернистого"/>
+<Allolog Form="сернистой"/>
+<Allolog Form="сернистым"/>
+<Allolog Form="сернистая"/>
+<Allolog Form="сернистые"/>
+<Allolog Form="сернистом"/>
+<Allolog Form="сернистое"/>
+</Word>
+
+<Word Stem="хлорид" Weight="0.571001010523504">
+<Allolog Form="хлорида"/>
+<Allolog Form="хлоридов"/>
+<Allolog Form="хлориды"/>
+<Allolog Form="хлорид"/>
+<Allolog Form="хлоридом"/>
+</Word>
+
+<Word Stem="кварцев" Weight="0.0537282144561838">
+<Allolog Form="кварцевая"/>
+<Allolog Form="кварцевой"/>
+<Allolog Form="кварцевым"/>
+<Allolog Form="кварцевую"/>
+<Allolog Form="кварцевое"/>
+<Allolog Form="кварцевого"/>
+<Allolog Form="кварцевый"/>
+<Allolog Form="кварцевые"/>
+<Allolog Form="кварцевом"/>
+</Word>
+
+<Word Stem="реакт" Weight="0.063498567037587">
+<Allolog Form="реактив"/>
+<Allolog Form="реакто"/>
+</Word>
+
+<Word Stem="нераствор" Weight="0.0520069330414158">
+<Allolog Form="нерастворим"/>
+<Allolog Form="нерастворившийся"/>
+</Word>
+
+<Word Stem="перекис" Weight="0.0531347962382445">
+<Allolog Form="перекиси"/>
+<Allolog Form="перекисью"/>
+</Word>
+
+<Word Stem="поликонденсац" Weight="0.0525593263974074">
+<Allolog Form="поликонденсации"/>
+<Allolog Form="поликонденсацию"/>
+</Word>
+
+<Word Stem="молибден" Weight="0.0549550005056123">
+<Allolog Form="молибден"/>
+<Allolog Form="молибденом"/>
+<Allolog Form="молибдену"/>
+</Word>
+
+<Word Stem="молибд" Weight="0.503728214456184">
+<Allolog Form="молибдена"/>
+</Word>
+
+<Word Stem="ртутн" Weight="0.501385599158459">
+<Allolog Form="ртутного"/>
+<Allolog Form="ртутный"/>
+<Allolog Form="ртутным"/>
+<Allolog Form="ртутные"/>
+<Allolog Form="ртутной"/>
+<Allolog Form="ртутными"/>
+<Allolog Form="ртутно"/>
+<Allolog Form="ртутная"/>
+<Allolog Form="ртутном"/>
+<Allolog Form="ртутную"/>
+</Word>
+
+<Word Stem="метилов" Weight="0.063498567037587">
+<Allolog Form="метиловый"/>
+<Allolog Form="метилового"/>
+<Allolog Form="метиловым"/>
+<Allolog Form="метиловую"/>
+</Word>
+
+<Word Stem="эфирных" Weight="0.0511655760370481">
+<Allolog Form="эфирных"/>
+</Word>
+
+<Word Stem="кокс" Weight="0.504644142575177">
+<Allolog Form="коксу"/>
+<Allolog Form="кокса"/>
+<Allolog Form="коксом"/>
+<Allolog Form="коксующихся"/>
+<Allolog Form="коксо"/>
+<Allolog Form="кокс"/>
+<Allolog Form="коксующегося"/>
+</Word>
+
+<Word Stem="толуол" Weight="0.0537282144561838">
+<Allolog Form="толуоле"/>
+<Allolog Form="толуола"/>
+<Allolog Form="толуол"/>
+<Allolog Form="толуолом"/>
+</Word>
+
+<Word Stem="электролиз" Weight="0.0851213282247765">
+<Allolog Form="электролиз"/>
+<Allolog Form="электролиза"/>
+<Allolog Form="электролизом"/>
+<Allolog Form="электролизе"/>
+<Allolog Form="электролизу"/>
+</Word>
+
+<Word Stem="цианид" Weight="0.0611459421804249">
+<Allolog Form="цианид"/>
+<Allolog Form="цианидов"/>
+<Allolog Form="цианидом"/>
+<Allolog Form="цианидами"/>
+<Allolog Form="цианиды"/>
+<Allolog Form="цианида"/>
+</Word>
+
+<Word Stem="дистилляц" Weight="0.0534295206709">
+<Allolog Form="дистилляции"/>
+<Allolog Form="дистилляция"/>
+<Allolog Form="дистилляцию"/>
+<Allolog Form="дистилляцией"/>
+</Word>
+
+<Word Stem="метанов" Weight="0.506862662035076">
+<Allolog Form="метановым"/>
+<Allolog Form="метанового"/>
+<Allolog Form="метановые"/>
+<Allolog Form="метановый"/>
+<Allolog Form="метановая"/>
+<Allolog Form="метановой"/>
+<Allolog Form="метановую"/>
+</Word>
+
+<Word Stem="амид" Weight="0.0517415534656914">
+<Allolog Form="амиде"/>
+<Allolog Form="амидов"/>
+<Allolog Form="амид"/>
+<Allolog Form="амиды"/>
+</Word>
+
+<Word Stem="мышьяк" Weight="0.0998849731872387">
+<Allolog Form="мышьяка"/>
+<Allolog Form="мышьяк"/>
+<Allolog Form="мышьяком"/>
+<Allolog Form="мышьяку"/>
+</Word>
+
+<Word Stem="парафин" Weight="0.0564652826601561">
+<Allolog Form="парафин"/>
+<Allolog Form="парафином"/>
+<Allolog Form="парафина"/>
+<Allolog Form="парафине"/>
+<Allolog Form="парафинов"/>
+<Allolog Form="парафины"/>
+<Allolog Form="парафиня"/>
+</Word>
+
+<Word Stem="мрамор" Weight="0.0525593263974074">
+<Allolog Form="мрамора"/>
+<Allolog Form="мрамор"/>
+<Allolog Form="мрамором"/>
+<Allolog Form="мрамору"/>
+<Allolog Form="мраморе"/>
+</Word>
+
+<Word Stem="номенклатур" Weight="0.0526189267684256">
+<Allolog Form="номенклатуре"/>
+<Allolog Form="номенклатуру"/>
+<Allolog Form="номенклатура"/>
+<Allolog Form="номенклатуры"/>
+<Allolog Form="номенклатурой"/>
+</Word>
+
+<Word Stem="гидроксид" Weight="0.561827800143921">
+<Allolog Form="гидроксидов"/>
+<Allolog Form="гидроксид"/>
+<Allolog Form="гидроксида"/>
+<Allolog Form="гидроксидом"/>
+<Allolog Form="гидроксиды"/>
+<Allolog Form="гидроксиду"/>
+<Allolog Form="гидроксидам"/>
+</Word>
+
+<Word Stem="сульфат" Weight="0.104755016475566">
+<Allolog Form="сульфатов"/>
+<Allolog Form="сульфат"/>
+<Allolog Form="сульфата"/>
+<Allolog Form="сульфатом"/>
+<Allolog Form="сульфаты"/>
+<Allolog Form="сульфатам"/>
+<Allolog Form="сульфату"/>
+<Allolog Form="сульфате"/>
+</Word>
+
+<Word Stem="прокаливан" Weight="0.0517415534656914">
+<Allolog Form="прокаливания"/>
+<Allolog Form="прокаливании"/>
+<Allolog Form="прокаливанию"/>
+<Allolog Form="прокаливанием"/>
+</Word>
+
+<Word Stem="байер" Weight="0.0515086998479853">
+<Allolog Form="байер"/>
+<Allolog Form="байера"/>
+<Allolog Form="байером"/>
+</Word>
+
+<Word Stem="кофеин" Weight="0.00134490582960104">
 <Allolog Form="кофеина"/>
 <Allolog Form="кофеин"/>
 <Allolog Form="кофеине"/>
-</Word>
-
-<Word Stem="синильн" Weight="0.0641744741394069">
-<Allolog Form="синильной"/>
-<Allolog Form="синильная"/>
-<Allolog Form="синильную"/>
+<Allolog Form="кофеином"/>
 </Word>
 
 <Word Stem="сероводородн" Weight="0.0522798518096324">
@@ -2145,16 +2569,6 @@
 <Allolog Form="сероводородная"/>
 <Allolog Form="сероводородном"/>
 <Allolog Form="сероводородные"/>
-</Word>
-
-<Word Stem="парафин" Weight="0.0563886412028283">
-<Allolog Form="парафином"/>
-<Allolog Form="парафин"/>
-<Allolog Form="парафина"/>
-<Allolog Form="парафине"/>
-<Allolog Form="парафинов"/>
-<Allolog Form="парафины"/>
-<Allolog Form="парафиня"/>
 </Word>
 
 <Word Stem="полиэтилен" Weight="0.0517415534656914">
@@ -2171,7 +2585,7 @@
 <Allolog Form="щавелевую"/>
 </Word>
 
-<Word Stem="подкислен" Weight="0.0615902623055859">
+<Word Stem="подкислен" Weight="0.0616995320078325">
 <Allolog Form="подкисленной"/>
 <Allolog Form="подкисленным"/>
 <Allolog Form="подкисленную"/>
@@ -2192,20 +2606,11 @@
 <Allolog Form="муравьиные"/>
 </Word>
 
-<Word Stem="карбонат" Weight="0.526908270725842">
-<Allolog Form="карбонат"/>
-<Allolog Form="карбоната"/>
-<Allolog Form="карбонаты"/>
-<Allolog Form="карбонатом"/>
-<Allolog Form="карбонатов"/>
-<Allolog Form="карбонатами"/>
-</Word>
-
 <Word Stem="щелочных" Weight="0.516550035358813">
 <Allolog Form="щелочных"/>
 </Word>
 
-<Word Stem="спиртов" Weight="0.0608767396353125">
+<Word Stem="спиртов" Weight="0.0609017969090811">
 <Allolog Form="спиртового"/>
 <Allolog Form="спиртовой"/>
 <Allolog Form="спиртовым"/>
@@ -2225,13 +2630,6 @@
 <Allolog Form="фильтровальн"/>
 </Word>
 
-<Word Stem="дистилляц" Weight="0.0534295206709">
-<Allolog Form="дистилляции"/>
-<Allolog Form="дистилляцию"/>
-<Allolog Form="дистилляцией"/>
-<Allolog Form="дистилляция"/>
-</Word>
-
 <Word Stem="дистиллят" Weight="0.0624875833688094">
 <Allolog Form="дистиллят"/>
 <Allolog Form="дистиллята"/>
@@ -2240,7 +2638,7 @@
 <Allolog Form="дистиллятов"/>
 </Word>
 
-<Word Stem="нитрат" Weight="0.528532962955975">
+<Word Stem="нитрат" Weight="0.528690758032769">
 <Allolog Form="нитратами"/>
 <Allolog Form="нитраты"/>
 <Allolog Form="нитрата"/>
@@ -2250,7 +2648,7 @@
 <Allolog Form="нитратах"/>
 </Word>
 
-<Word Stem="салицилов" Weight="0.0653052580415276">
+<Word Stem="салицилов" Weight="0.06535086287564">
 <Allolog Form="салициловой"/>
 <Allolog Form="салициловая"/>
 <Allolog Form="салициловую"/>
@@ -2265,11 +2663,6 @@
 <Allolog Form="хлорную"/>
 <Allolog Form="хлорного"/>
 <Allolog Form="хлорным"/>
-</Word>
-
-<Word Stem="перекис" Weight="0.0531347962382445">
-<Allolog Form="перекиси"/>
-<Allolog Form="перекисью"/>
 </Word>
 
 <Word Stem="денатурат" Weight="0.0555835259597015">
@@ -2288,13 +2681,13 @@
 
 <Word Stem="формалин" Weight="0.0591510718469966">
 <Allolog Form="формалина"/>
+<Allolog Form="формалине"/>
 <Allolog Form="формалином"/>
 <Allolog Form="формалин"/>
-<Allolog Form="формалине"/>
 <Allolog Form="формалину"/>
 </Word>
 
-<Word Stem="ацетон" Weight="0.524780642692036">
+<Word Stem="ацетон" Weight="0.524827049785802">
 <Allolog Form="ацетоном"/>
 <Allolog Form="ацетона"/>
 <Allolog Form="ацетон"/>
@@ -2315,43 +2708,12 @@
 <Allolog Form="каучуков"/>
 </Word>
 
-<Word Stem="мрамор" Weight="0.0525593263974074">
-<Allolog Form="мрамора"/>
-<Allolog Form="мрамор"/>
-<Allolog Form="мрамором"/>
-<Allolog Form="мрамору"/>
-<Allolog Form="мраморе"/>
-</Word>
-
-<Word Stem="эфирных" Weight="0.0511300721447695">
-<Allolog Form="эфирных"/>
-</Word>
-
-<Word Stem="метилов" Weight="0.063498567037587">
-<Allolog Form="метилового"/>
-<Allolog Form="метиловым"/>
-<Allolog Form="метиловый"/>
-<Allolog Form="метиловую"/>
-</Word>
-
 <Word Stem="бензойн" Weight="0.052844537327296">
 <Allolog Form="бензойного"/>
 <Allolog Form="бензойной"/>
 <Allolog Form="бензойная"/>
 <Allolog Form="бензойную"/>
 <Allolog Form="бензойно"/>
-</Word>
-
-<Word Stem="ртутн" Weight="0.501337441823271">
-<Allolog Form="ртутный"/>
-<Allolog Form="ртутным"/>
-<Allolog Form="ртутные"/>
-<Allolog Form="ртутного"/>
-<Allolog Form="ртутной"/>
-<Allolog Form="ртутными"/>
-<Allolog Form="ртутно"/>
-<Allolog Form="ртутная"/>
-<Allolog Form="ртутном"/>
 </Word>
 
 <Word Stem="лакмусов" Weight="0.057186199563695">
@@ -2374,72 +2736,17 @@
 <Allolog Form="помутнений"/>
 </Word>
 
-<Word Stem="сернист" Weight="0.504644142575177">
-<Allolog Form="сернистой"/>
-<Allolog Form="сернистым"/>
-<Allolog Form="сернистого"/>
-<Allolog Form="сернистый"/>
-<Allolog Form="сернистая"/>
-<Allolog Form="сернистые"/>
-<Allolog Form="сернистом"/>
-<Allolog Form="сернистое"/>
-</Word>
-
-<Word Stem="молибден" Weight="0.0549550005056123">
-<Allolog Form="молибденом"/>
-<Allolog Form="молибден"/>
-<Allolog Form="молибдену"/>
-</Word>
-
-<Word Stem="номенклатур" Weight="0.0581640628318509">
-<Allolog Form="номенклатура"/>
-<Allolog Form="номенклатуре"/>
-<Allolog Form="номенклатуру"/>
-<Allolog Form="номенклатуры"/>
-<Allolog Form="номенклатурой"/>
-</Word>
-
 <Word Stem="вольфрам" Weight="0.0540304523063144">
 <Allolog Form="вольфрама"/>
 <Allolog Form="вольфраму"/>
 </Word>
 
-<Word Stem="деструкц" Weight="0.0533271691556915">
+<Word Stem="деструкц" Weight="0.0533497140320015">
 <Allolog Form="деструкцию"/>
 <Allolog Form="деструкции"/>
 <Allolog Form="деструкция"/>
 <Allolog Form="деструкци"/>
 <Allolog Form="деструкцией"/>
-</Word>
-
-<Word Stem="менделеев" Weight="0.506103085870286">
-<Allolog Form="менделеева"/>
-<Allolog Form="менделеевым"/>
-<Allolog Form="менделеевы"/>
-</Word>
-
-<Word Stem="сульфат" Weight="0.104642049545589">
-<Allolog Form="сульфат"/>
-<Allolog Form="сульфата"/>
-<Allolog Form="сульфатом"/>
-<Allolog Form="сульфаты"/>
-<Allolog Form="сульфатам"/>
-<Allolog Form="сульфатов"/>
-<Allolog Form="сульфату"/>
-<Allolog Form="сульфате"/>
-</Word>
-
-<Word Stem="азотн" Weight="0.56843015080563">
-<Allolog Form="азотное"/>
-<Allolog Form="азотной"/>
-<Allolog Form="азотная"/>
-<Allolog Form="азотную"/>
-<Allolog Form="азотн"/>
-<Allolog Form="азотный"/>
-<Allolog Form="азотном"/>
-<Allolog Form="азотные"/>
-<Allolog Form="азотными"/>
-<Allolog Form="азотно"/>
 </Word>
 
 <Word Stem="перл" Weight="0.052844537327296">
@@ -2449,6 +2756,7 @@
 <Allolog Form="перлы"/>
 <Allolog Form="перло"/>
 <Allolog Form="перле"/>
+<Allolog Form="перлов"/>
 </Word>
 
 <Word Stem="марганец" Weight="0.0618157704364601">
@@ -2468,84 +2776,17 @@
 <Allolog Form="электролитическую"/>
 </Word>
 
-<Word Stem="газообразн" Weight="0.0583234276183592">
-<Allolog Form="газообразном"/>
-<Allolog Form="газообразным"/>
-<Allolog Form="газообразный"/>
-<Allolog Form="газообразного"/>
-<Allolog Form="газообразны"/>
-<Allolog Form="газообразное"/>
-<Allolog Form="газообразными"/>
-<Allolog Form="газообразные"/>
-<Allolog Form="газообразную"/>
-<Allolog Form="газообразная"/>
-<Allolog Form="газообразной"/>
-</Word>
-
-<Word Stem="карбид" Weight="0.510478346685243">
-<Allolog Form="карбида"/>
-<Allolog Form="карбид"/>
-<Allolog Form="карбидом"/>
-<Allolog Form="карбиду"/>
-<Allolog Form="карбиды"/>
-<Allolog Form="карбидов"/>
-</Word>
-
-<Word Stem="электролиз" Weight="0.0851213282247765">
-<Allolog Form="электролизе"/>
-<Allolog Form="электролизом"/>
-<Allolog Form="электролиз"/>
-<Allolog Form="электролиза"/>
-<Allolog Form="электролизу"/>
-</Word>
-
 <Word Stem="электрохим" Weight="0.0525593263974074">
 <Allolog Form="электрохимии"/>
 <Allolog Form="электрохимию"/>
 <Allolog Form="электрохимия"/>
 </Word>
 
-<Word Stem="анодн" Weight="0.0559007929190485">
-<Allolog Form="анодно"/>
-<Allolog Form="анодное"/>
-<Allolog Form="анодного"/>
-<Allolog Form="анодн"/>
-<Allolog Form="анодном"/>
-<Allolog Form="анодный"/>
-<Allolog Form="анодные"/>
-<Allolog Form="анодным"/>
-<Allolog Form="анодной"/>
-<Allolog Form="анодную"/>
-</Word>
-
-<Word Stem="цианид" Weight="0.0611459421804249">
-<Allolog Form="цианидом"/>
-<Allolog Form="цианидов"/>
-<Allolog Form="цианидами"/>
-<Allolog Form="цианиды"/>
-<Allolog Form="цианид"/>
-<Allolog Form="цианида"/>
-</Word>
-
-<Word Stem="фтор" Weight="0.0588211708099439">
-<Allolog Form="фтор"/>
-<Allolog Form="фтором"/>
-<Allolog Form="фтора"/>
-<Allolog Form="фторо"/>
-</Word>
-
-<Word Stem="кокаин" Weight="0.0579716173983344">
+<Word Stem="кокаин" Weight="0.05820168232483">
 <Allolog Form="кокаин"/>
 <Allolog Form="кокаина"/>
 <Allolog Form="кокаином"/>
 <Allolog Form="кокаине"/>
-</Word>
-
-<Word Stem="мышьяк" Weight="0.0998696319992171">
-<Allolog Form="мышьяк"/>
-<Allolog Form="мышьяка"/>
-<Allolog Form="мышьяком"/>
-<Allolog Form="мышьяку"/>
 </Word>
 
 <Word Stem="тигельн" Weight="0.0522798518096324">
@@ -2558,16 +2799,6 @@
 <Allolog Form="тигельн"/>
 <Allolog Form="тигельном"/>
 <Allolog Form="тигельные"/>
-</Word>
-
-<Word Stem="кокс" Weight="0.504644142575177">
-<Allolog Form="кокса"/>
-<Allolog Form="коксу"/>
-<Allolog Form="коксом"/>
-<Allolog Form="коксующихся"/>
-<Allolog Form="коксо"/>
-<Allolog Form="кокс"/>
-<Allolog Form="коксующегося"/>
 </Word>
 
 <Word Stem="анилин" Weight="0.0618157704364601">
@@ -2583,15 +2814,7 @@
 <Allolog Form="цитратом"/>
 </Word>
 
-<Word Stem="хлорид" Weight="0.570715993166046">
-<Allolog Form="хлоридов"/>
-<Allolog Form="хлорид"/>
-<Allolog Form="хлорида"/>
-<Allolog Form="хлоридом"/>
-<Allolog Form="хлориды"/>
-</Word>
-
-<Word Stem="изотерм" Weight="0.0531506160576379">
+<Word Stem="изотерм" Weight="0.0533308463387897">
 <Allolog Form="изотермы"/>
 <Allolog Form="изотермой"/>
 <Allolog Form="изотерм"/>
@@ -2606,12 +2829,6 @@
 <Allolog Form="вольфрам"/>
 </Word>
 
-<Word Stem="метанов" Weight="0.506862662035076">
-<Allolog Form="метановая"/>
-<Allolog Form="метановой"/>
-<Allolog Form="метановую"/>
-</Word>
-
 <Word Stem="платинов" Weight="0.0525593263974074">
 <Allolog Form="платиновой"/>
 <Allolog Form="платинового"/>
@@ -2620,12 +2837,30 @@
 <Allolog Form="платиновую"/>
 <Allolog Form="платиновом"/>
 <Allolog Form="платиновым"/>
+<Allolog Form="платиновый"/>
+<Allolog Form="платиновое"/>
 </Word>
 
 <Word Stem="пиролюзит" Weight="0.0525593263974074">
 <Allolog Form="пиролюзит"/>
 <Allolog Form="пиролюзита"/>
 <Allolog Form="пиролюзитом"/>
+</Word>
+
+<Word Stem="отфильтровыва" Weight="0.0522798518096324">
+<Allolog Form="отфильтровываем"/>
+<Allolog Form="отфильтровывали"/>
+<Allolog Form="отфильтровывают"/>
+<Allolog Form="отфильтровываю"/>
+<Allolog Form="отфильтровывать"/>
+</Word>
+
+<Word Stem="индикаторн" Weight="0.0522798518096324">
+<Allolog Form="индикаторный"/>
+<Allolog Form="индикаторной"/>
+<Allolog Form="индикаторная"/>
+<Allolog Form="индикаторные"/>
+<Allolog Form="индикаторную"/>
 </Word>
 
 <Word Stem="алка" Weight="0.503134796238245">
@@ -2651,19 +2886,6 @@
 <Allolog Form="соон"/>
 </Word>
 
-<Word Stem="галоген" Weight="0.505900792919049">
-<Allolog Form="галогенов"/>
-<Allolog Form="галогенами"/>
-<Allolog Form="галоген"/>
-<Allolog Form="галогенам"/>
-</Word>
-
-<Word Stem="галог" Weight="0.052844537327296">
-<Allolog Form="галогена"/>
-<Allolog Form="галогены"/>
-<Allolog Form="галоге"/>
-</Word>
-
 <Word Stem="алифатическ" Weight="0.0543358675938938">
 <Allolog Form="алифатических"/>
 <Allolog Form="алифатического"/>
@@ -2673,7 +2895,7 @@
 <Allolog Form="алифатическом"/>
 </Word>
 
-<Word Stem="фенол" Weight="0.0925879655221165">
+<Word Stem="фенол" Weight="0.0926033067101381">
 <Allolog Form="фенолы"/>
 <Allolog Form="фенолов"/>
 <Allolog Form="фенола"/>
@@ -2685,34 +2907,11 @@
 <Allolog Form="феноле"/>
 </Word>
 
-<Word Stem="карбоновых" Weight="0.502006933041416">
-<Allolog Form="карбоновых"/>
-</Word>
-
 <Word Stem="этерификац" Weight="0.0517415534656914">
 <Allolog Form="этерификация"/>
 <Allolog Form="этерификацией"/>
 <Allolog Form="этерификацию"/>
 <Allolog Form="этерификации"/>
-</Word>
-
-<Word Stem="альдегид" Weight="0.52133402995472">
-<Allolog Form="альдегиды"/>
-<Allolog Form="альдегидов"/>
-<Allolog Form="альдегид"/>
-<Allolog Form="альдегида"/>
-<Allolog Form="альдегидам"/>
-<Allolog Form="альдегидами"/>
-<Allolog Form="альдегидом"/>
-</Word>
-
-<Word Stem="кетон" Weight="0.0537282144561838">
-<Allolog Form="кетоны"/>
-<Allolog Form="кетонов"/>
-<Allolog Form="кетонная"/>
-<Allolog Form="кетонах"/>
-<Allolog Form="кетоне"/>
-<Allolog Form="кетон"/>
 </Word>
 
 <Word Stem="карбонов" Weight="0.0522798518096324">
@@ -2721,21 +2920,6 @@
 <Allolog Form="карбоновой"/>
 <Allolog Form="карбоновыми"/>
 <Allolog Form="карбоновым"/>
-</Word>
-
-<Word Stem="амид" Weight="0.0517415534656914">
-<Allolog Form="амидов"/>
-<Allolog Form="амид"/>
-<Allolog Form="амиды"/>
-</Word>
-
-<Word Stem="сульфид" Weight="0.524080934739242">
-<Allolog Form="сульфиды"/>
-<Allolog Form="сульфидов"/>
-<Allolog Form="сульфид"/>
-<Allolog Form="сульфида"/>
-<Allolog Form="сульфидом"/>
-<Allolog Form="сульфидах"/>
 </Word>
 
 <Word Stem="нитросоединен" Weight="0.0517415534656914">
@@ -2757,26 +2941,11 @@
 <Allolog Form="полистироле"/>
 </Word>
 
-<Word Stem="нераствор" Weight="0.0520069330414158">
-<Allolog Form="нерастворим"/>
-<Allolog Form="нерастворившийся"/>
-</Word>
-
 <Word Stem="азеотропн" Weight="0.0520069330414158">
 <Allolog Form="азеотропная"/>
 <Allolog Form="азеотропные"/>
 <Allolog Form="азеотропными"/>
 <Allolog Form="азеотропную"/>
-</Word>
-
-<Word Stem="гидроксид" Weight="0.561827800143921">
-<Allolog Form="гидроксид"/>
-<Allolog Form="гидроксида"/>
-<Allolog Form="гидроксидом"/>
-<Allolog Form="гидроксиды"/>
-<Allolog Form="гидроксидов"/>
-<Allolog Form="гидроксиду"/>
-<Allolog Form="гидроксидам"/>
 </Word>
 
 <Word Stem="фенолфталеин" Weight="0.0594817910909865">
@@ -2788,15 +2957,6 @@
 <Word Stem="кристаллизацион" Weight="0.0517415534656914">
 <Allolog Form="кристаллизационную"/>
 <Allolog Form="кристаллизационной"/>
-</Word>
-
-<Word Stem="силикат" Weight="0.0568626620350758">
-<Allolog Form="силикатами"/>
-<Allolog Form="силиката"/>
-<Allolog Form="силикаты"/>
-<Allolog Form="силикатах"/>
-<Allolog Form="силикатов"/>
-<Allolog Form="силикат"/>
 </Word>
 
 <Word Stem="хлорат" Weight="0.052844537327296">
@@ -2851,16 +3011,6 @@
 <Allolog Form="йодидов"/>
 </Word>
 
-<Word Stem="аммиачн" Weight="0.0565405007933744">
-<Allolog Form="аммиачного"/>
-<Allolog Form="аммиачный"/>
-<Allolog Form="аммиачная"/>
-<Allolog Form="аммиачном"/>
-<Allolog Form="аммиачным"/>
-<Allolog Form="аммиачные"/>
-<Allolog Form="аммиачно"/>
-</Word>
-
 <Word Stem="этен" Weight="0.0517415534656914">
 <Allolog Form="этен"/>
 </Word>
@@ -2873,11 +3023,7 @@
 <Allolog Form="ангидридами"/>
 </Word>
 
-<Word Stem="диссоциирует" Weight="0.0522798518096324">
-<Allolog Form="диссоциирует"/>
-</Word>
-
-<Word Stem="гидрокарбонат" Weight="0.502374860543932">
+<Word Stem="гидрокарбонат" Weight="0.502529650907709">
 <Allolog Form="гидрокарбонат"/>
 <Allolog Form="гидрокарбонаты"/>
 <Allolog Form="гидрокарбоната"/>
@@ -2937,10 +3083,6 @@
 <Allolog Form="лакмусу"/>
 </Word>
 
-<Word Stem="agcl" Weight="0.0534295206709">
-<Allolog Form="agcl"/>
-</Word>
-
 <Word Stem="титрован" Weight="0.0658699059561129">
 <Allolog Form="титрования"/>
 <Allolog Form="титровании"/>
@@ -2980,24 +3122,6 @@
 <Allolog Form="хлористоводородные"/>
 </Word>
 
-<Word Stem="кварцев" Weight="0.0537282144561838">
-<Allolog Form="кварцевой"/>
-<Allolog Form="кварцевым"/>
-<Allolog Form="кварцевую"/>
-<Allolog Form="кварцевое"/>
-<Allolog Form="кварцевого"/>
-<Allolog Form="кварцевый"/>
-<Allolog Form="кварцевые"/>
-<Allolog Form="кварцевая"/>
-<Allolog Form="кварцевом"/>
-</Word>
-
-<Word Stem="прокаливан" Weight="0.0517415534656914">
-<Allolog Form="прокаливания"/>
-<Allolog Form="прокаливании"/>
-<Allolog Form="прокаливанием"/>
-</Word>
-
 <Word Stem="сульфит" Weight="0.0537282144561838">
 <Allolog Form="сульфитов"/>
 <Allolog Form="сульфита"/>
@@ -3006,14 +3130,7 @@
 <Allolog Form="сульфиты"/>
 </Word>
 
-<Word Stem="толуол" Weight="0.0537282144561838">
-<Allolog Form="толуола"/>
-<Allolog Form="толуол"/>
-<Allolog Form="толуоле"/>
-<Allolog Form="толуолом"/>
-</Word>
-
-<Word Stem="валентных" Weight="0.502526194837158">
+<Word Stem="валентных" Weight="0.502587607119796">
 <Allolog Form="валентных"/>
 </Word>
 
@@ -3087,17 +3204,6 @@
 <Allolog Form="бромида"/>
 </Word>
 
-<Word Stem="индикаторн" Weight="0.0522798518096324">
-<Allolog Form="индикаторной"/>
-<Allolog Form="индикаторная"/>
-<Allolog Form="индикаторные"/>
-<Allolog Form="индикаторную"/>
-</Word>
-
-<Word Stem="молибд" Weight="0.503728214456184">
-<Allolog Form="молибдена"/>
-</Word>
-
 <Word Stem="роданид" Weight="0.0552681992337165">
 <Allolog Form="роданида"/>
 <Allolog Form="роданидом"/>
@@ -3116,35 +3222,11 @@
 <Allolog Form="бромную"/>
 </Word>
 
-<Word Stem="отфильтровыва" Weight="0.0522798518096324">
-<Allolog Form="отфильтровываем"/>
-<Allolog Form="отфильтровывали"/>
-<Allolog Form="отфильтровывают"/>
-<Allolog Form="отфильтровываю"/>
-</Word>
-
 <Word Stem="этин" Weight="0.0584921464231809">
 <Allolog Form="этин"/>
 <Allolog Form="этина"/>
 <Allolog Form="этине"/>
 <Allolog Form="этину"/>
-</Word>
-
-<Word Stem="байер" Weight="0.0514886168382116">
-<Allolog Form="байера"/>
-<Allolog Form="байером"/>
-<Allolog Form="байер"/>
-</Word>
-
-<Word Stem="реакт" Weight="0.063498567037587">
-<Allolog Form="реактив"/>
-<Allolog Form="реакто"/>
-</Word>
-
-<Word Stem="бром" Weight="0.502559326397407">
-<Allolog Form="брома"/>
-<Allolog Form="бромом"/>
-<Allolog Form="броми"/>
 </Word>
 
 <Word Stem="полукоксован" Weight="0.0522798518096324">
@@ -3192,13 +3274,6 @@
 <Allolog Form="метаналь"/>
 <Allolog Form="метаналя"/>
 <Allolog Form="метаналем"/>
-</Word>
-
-<Word Stem="формальдегид" Weight="0.0706485723727103">
-<Allolog Form="формальдегид"/>
-<Allolog Form="формальдегида"/>
-<Allolog Form="формальдегидом"/>
-<Allolog Form="формальдегиду"/>
 </Word>
 
 <Word Stem="этанов" Weight="0.0522798518096324">
@@ -3259,7 +3334,7 @@
 <Allolog Form="крезол"/>
 </Word>
 
-<Word Stem="морфин" Weight="0.0650413130187751">
+<Word Stem="морфин" Weight="0.0652262000084415">
 <Allolog Form="морфин"/>
 <Allolog Form="морфина"/>
 <Allolog Form="морфином"/>
@@ -3276,7 +3351,7 @@
 <Allolog Form="дедерона"/>
 </Word>
 
-<Word Stem="камфор" Weight="0.0518930101952331">
+<Word Stem="камфор" Weight="0.0519083513832547">
 <Allolog Form="камфору"/>
 <Allolog Form="камфоры"/>
 <Allolog Form="камфора"/>
@@ -3294,11 +3369,6 @@
 <Allolog Form="этилацетата"/>
 <Allolog Form="этилацетат"/>
 <Allolog Form="этилацетате"/>
-</Word>
-
-<Word Stem="поликонденсац" Weight="0.0525593263974074">
-<Allolog Form="поликонденсации"/>
-<Allolog Form="поликонденсацию"/>
 </Word>
 
 <Word Stem="гексаметилентетрамин" Weight="0.0520069330414158">
@@ -3326,7 +3396,7 @@
 <Allolog Form="осадительные"/>
 </Word>
 
-<Word Stem="хинин" Weight="0.058685742426819">
+<Word Stem="хинин" Weight="0.0587010836148406">
 <Allolog Form="хинин"/>
 <Allolog Form="хинина"/>
 <Allolog Form="хинином"/>
@@ -3359,7 +3429,7 @@
 <Allolog Form="гидриду"/>
 </Word>
 
-<Word Stem="пенициллин" Weight="0.0513013326707122">
+<Word Stem="пенициллин" Weight="0.0513395269388211">
 <Allolog Form="пенициллине"/>
 <Allolog Form="пенициллина"/>
 <Allolog Form="пенициллин"/>
@@ -3431,6 +3501,8 @@
 <Allolog Form="фунгицидов"/>
 <Allolog Form="фунгицидам"/>
 <Allolog Form="фунгицидами"/>
+<Allolog Form="фунгицидом"/>
+<Allolog Form="фунгицид"/>
 </Word>
 
 <Word Stem="орбита" Weight="0.0555835259597015">
@@ -3464,7 +3536,7 @@
 <Allolog Form="дисперсионный"/>
 </Word>
 
-<Word Stem="энтальп" Weight="0.0510610531254044">
+<Word Stem="энтальп" Weight="0.0511724915869964">
 <Allolog Form="энтальпией"/>
 <Allolog Form="энтальпия"/>
 <Allolog Form="энтальпии"/>
@@ -3503,7 +3575,7 @@
 <Allolog Form="радикал"/>
 </Word>
 
-<Word Stem="сорбент" Weight="0.0557742574019131">
+<Word Stem="сорбент" Weight="0.0557968022782231">
 <Allolog Form="сорбентом"/>
 <Allolog Form="сорбента"/>
 <Allolog Form="сорбентов"/>
@@ -3551,13 +3623,6 @@
 <Allolog Form="фосфида"/>
 </Word>
 
-<Word Stem="кремниев" Weight="0.502559326397407">
-<Allolog Form="кремниевой"/>
-<Allolog Form="кремниевые"/>
-<Allolog Form="кремниевая"/>
-<Allolog Form="кремниевую"/>
-</Word>
-
 <Word Stem="глюкуронов" Weight="0.0525593263974074">
 <Allolog Form="глюкуроновой"/>
 <Allolog Form="глюкуроновая"/>
@@ -3601,7 +3666,7 @@
 <Allolog Form="сулемы"/>
 </Word>
 
-<Word Stem="атропин" Weight="0.059068346060379">
+<Word Stem="атропин" Weight="0.059271391195959">
 <Allolog Form="атропина"/>
 <Allolog Form="атропин"/>
 <Allolog Form="атропином"/>
@@ -3620,7 +3685,7 @@
 <Allolog Form="анабазина"/>
 </Word>
 
-<Word Stem="новокаин" Weight="0.051269842428433">
+<Word Stem="новокаин" Weight="0.0513218219831415">
 <Allolog Form="новокаину"/>
 <Allolog Form="новокаин"/>
 <Allolog Form="новокаина"/>
@@ -3628,7 +3693,7 @@
 <Allolog Form="новокаино"/>
 </Word>
 
-<Word Stem="промедол" Weight="0.0520304817075702">
+<Word Stem="промедол" Weight="0.0520686759756792">
 <Allolog Form="промедол"/>
 <Allolog Form="промедола"/>
 <Allolog Form="промедолу"/>
@@ -3675,7 +3740,7 @@
 <Allolog Form="стрихнина"/>
 </Word>
 
-<Word Stem="эфедрин" Weight="0.0552480092214926">
+<Word Stem="эфедрин" Weight="0.0552680922312663">
 <Allolog Form="эфедрином"/>
 <Allolog Form="эфедрин"/>
 <Allolog Form="эфедрина"/>
@@ -3686,14 +3751,14 @@
 <Allolog Form="дихлорэтана"/>
 </Word>
 
-<Word Stem="гликозид" Weight="0.0511309943259359">
+<Word Stem="гликозид" Weight="0.0512528774197351">
 <Allolog Form="гликозиды"/>
 <Allolog Form="гликозидами"/>
 <Allolog Form="гликозида"/>
 <Allolog Form="гликозидов"/>
 </Word>
 
-<Word Stem="резерпин" Weight="0.0512211229026436">
+<Word Stem="резерпин" Weight="0.0513193065059818">
 <Allolog Form="резерпин"/>
 <Allolog Form="резерпина"/>
 <Allolog Form="резерпином"/>
@@ -3765,7 +3830,7 @@
 <Allolog Form="пахикарпина"/>
 </Word>
 
-<Word Stem="аминазин" Weight="0.0592098638998371">
+<Word Stem="аминазин" Weight="0.0592427054060463">
 <Allolog Form="аминазином"/>
 <Allolog Form="аминазин"/>
 <Allolog Form="аминазина"/>

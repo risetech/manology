@@ -28,7 +28,10 @@ namespace VKInfo.Models
 		public string Date { get; set; }
 		public string Interests { get; set; }
 		public string Themes { get; set; }
+		public string PsyResult { get; set; }
+		public string PsyType { get; set; }
 		public List<string> WatchList { get; set; }
+		public string PopularityError { get; set; }
 
 		public ManologyUser()
 		{
