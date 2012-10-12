@@ -9,6 +9,8 @@ Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "VKInfo.Azure1", "VKInfo.Azu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextClassificator", "TextClassificator\TextClassificator.csproj", "{3CE2FDF5-4042-4701-9CAA-0440088EB520}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manology", "Manology\Manology.csproj", "{12A4686A-AECF-4A56-B590-B3C223CBFB14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,16 @@ Global
 		{3CE2FDF5-4042-4701-9CAA-0440088EB520}.Release|Mixed Platforms.Build.0 = Release|x86
 		{3CE2FDF5-4042-4701-9CAA-0440088EB520}.Release|x86.ActiveCfg = Release|x86
 		{3CE2FDF5-4042-4701-9CAA-0440088EB520}.Release|x86.Build.0 = Release|x86
+		{12A4686A-AECF-4A56-B590-B3C223CBFB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A4686A-AECF-4A56-B590-B3C223CBFB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A4686A-AECF-4A56-B590-B3C223CBFB14}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{12A4686A-AECF-4A56-B590-B3C223CBFB14}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{12A4686A-AECF-4A56-B590-B3C223CBFB14}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{12A4686A-AECF-4A56-B590-B3C223CBFB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A4686A-AECF-4A56-B590-B3C223CBFB14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12A4686A-AECF-4A56-B590-B3C223CBFB14}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{12A4686A-AECF-4A56-B590-B3C223CBFB14}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{12A4686A-AECF-4A56-B590-B3C223CBFB14}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

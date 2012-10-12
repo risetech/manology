@@ -1691,7 +1691,7 @@ function groupby(data, property, topCount, nosort, handler) {
 
 function getWhoLikedPosts() {
 	var counter = 0;
-	for (var i = 0; i < likedContent.length; i++) { //&& i < 1000
+	for (var i = 0; i < likedContent.length && i <= 1000; i++) {
 		$.ajax({
 			url: "https://api.vk.com/method/likes.getList?type=post&filter=likes&count=1000&item_id=" + likedContent[i].content.id + user_id + "&" + access_token,
 			beforeSend: function () {
@@ -1715,7 +1715,7 @@ function getWhoLikedPosts() {
 						}
 					}
 				}
-				if (counter === likedContent.length - 1) {
+				if (counter === likedContent.length - 1 || counter === 1000) {
 					getWhoRepostedPosts();
 				}
 				counter++;
@@ -1726,7 +1726,7 @@ function getWhoLikedPosts() {
 
 function getWhoRepostedPosts() {
 	var counter = 0;
-	for (var i = 0; i < likedContent.length; i++) { //&& i < 1000
+	for (var i = 0; i < likedContent.length && i <= 1000; i++) { //
 		$.ajax({
 			url: "https://api.vk.com/method/likes.getList?type=post&filter=copies&count=1000&item_id=" + likedContent[i].content.id + user_id + "&" + access_token,
 			beforeSend: function () {
@@ -1751,7 +1751,7 @@ function getWhoRepostedPosts() {
 						}
 					}
 				}
-				if (counter === likedContent.length - 1) {
+				if (counter === likedContent.length - 1 || counter === 1000) {
 					renderContentRating('post');
 					getLikedPhotos([], 0);
 				}
