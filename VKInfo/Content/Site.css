@@ -821,3 +821,7 @@ p.size-m
 	margin-top: -72px;
 	margin-bottom: 0px;
 }
+
+.container-border .form-actions {
+	background-color: transparent;
+}
