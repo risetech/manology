@@ -1,13 +1,11 @@
 ﻿/// <reference path="jquery-1.7.2-vsdoc.js" />
 
-var app = {
-	appId: 3016703,
-	appSecret: "Zz8fFBdaRDyMBQ0NDElV",
-	redirectUri: "http://manology.info/User/Auth"
-
-	/*appId: 2995743,
-	appSecret: "5pxH8x5L8rT977WflGn0",
-	redirectUri: "http://127.0.0.1:4621/User/Auth"*/
+var app;
+if (location.hostname == 'localhost' || (location.hostname.indexOf('127.0.0.1') + 1)) {
+	app = { appId: 2995743, appSecret: '5pxH8x5L8rT977WflGn0', redirectUri: 'http://127.0.0.1:4621/User/Auth' }
+}
+else {
+	app = { appId: 3016703, appSecret: 'Zz8fFBdaRDyMBQ0NDElV', redirectUri: 'http://manology.info/User/Auth' }
 }
 
 getSVG = function (charts) {
@@ -46,7 +44,7 @@ var user_id = localStorage['user_id'] || "";
 var user_link = localStorage['user_link'] || "";
 
 var scope = "friends,wall,video,photos,groups,pages";
-var auth = function () {
+function auth() {
 	location.href = "http://oauth.vk.com/authorize?client_id=" + app.appId + "&display=page&scope=" + scope + "&redirect_uri=" + app.redirectUri + "&response_type=token";
 }
 var access_token = getCookie("access_token") || "";
@@ -222,7 +220,11 @@ function loadData(userId) {
 
 				renderInterests(JSON.parse(userObj.Interests));
 				renderThemes(JSON.parse(userObj.Themes));
-				savePsyType(JSON.parse(userObj.PsyResult), JSON.parse(userObj.PsyType));
+				var psyContentLoaded = JSON.parse(userObj.PsyResult);
+				var psyContentStatic = result.filter(function (item) {
+					return $.inArray(item.type, psyContentLoaded) != -1;
+				});
+				savePsyType(psyContentStatic, JSON.parse(userObj.PsyType));
 
 				dataLoaded();
 			}
@@ -348,18 +350,16 @@ function toNormalTitle(word) {
 				return "Медицина";
 			case "it":
 				return "Информационные технологии";
-
 			case "auto":
 				return "Автомобили";
 			case "biologiy":
 				return "Биология";
 			case "culinariy":
-				return "Еда";
+				return "Кулинария";
 			case "cultura":
 				return "Культура, искусство";
 			case "economica":
 				return "Экономика";
-
 			case "himiy":
 				return "Химия";
 			case "philosof":
@@ -370,6 +370,19 @@ function toNormalTitle(word) {
 				return "Музыка";
 			case "sport":
 				return "Спорт";
+
+			case "Cosmos":
+				return "Космос";
+			case "Ezoter":
+				return "Эзотерика";
+			case "PR":
+				return "Пиар";
+			case "Samosov":
+				return "Самосовершенствование";
+			case "sEX":
+				return "Секс";
+			case "Ur":
+				return "Юриспруденция";
 			default:
 				return "Неизвестно";
 		}
@@ -414,10 +427,13 @@ function loadAllPosts(offset) {
 
 				renderGroupReposts(allPosts);
 				var str = '';
+				var strNoReposts = '';
 				for (var i = 0; i < allPosts.length; i++) {
 					str += allPosts[i].text + ' ';
+					//strNoReposts += (!allPosts[i].copy_owner_id ? allPosts[i].text : '') + ' ';
 				}
 				requestThemes(str);
+
 				getDescription(str, savePsyType);
 				if (likedContent && likedContent.length == 0) {
 					renderContentRating('post');
@@ -2307,8 +2323,8 @@ function setOwnerId(id) {
 			else {
 				localStorage['user_id'] = "&owner_id=" + data.response[0].uid;
 				localStorage['user_link'] = data.response[0].uid;
-		
-					addToWatchList(data.response[0].uid);
+
+				addToWatchList(data.response[0].uid);
 			}
 		}
 	});
@@ -2499,6 +2515,9 @@ function renderPsyType() {
 		gr.find('.accordion-inner').append(hr);
 		gr.append('</div></div>');
 	}
+	if (psyContent.length == 1) {
+		$('.accordion-body.collapse').addClass('in');
+	}
 }
 
 $(function () {
@@ -2551,6 +2570,8 @@ $(function () {
 			$('#show-my-rating').show();
 			$('#current-user').show();
 			$('#recalculate-button').show();
+			//localStorage['user_link'] = "";
+			localStorage['owner_id'] = "";
 		}
 		else {
 			location.hash = viewer_id;
@@ -2561,12 +2582,17 @@ $(function () {
 					var model = data.response[0];
 					$('#tell-friends > div').append(VK.Share.button({
 						url: location.href,
-						title: model.first_name + ' ' + model.last_name + ' на Manology.info'
+						title: model.first_name + ' ' + model.last_name + ' на Manology.info',
+						image: 'http://manology.info/content/images/question.jpg'
 					},
 					{
 						type: 'custom',
 						text: "<img src=\"http://vk.com/images/vk32.png?1\" />"
 					}));
+					$('#tell-friends').click(function (e) {
+						if (!$(e.target).is('a') && !$(e.target).is('img'))
+							$('#tell-friends a').click();
+					});
 					ko.applyBindings(new CurrentUserModel(model), $('#current-user')[0]);
 				}
 			});
@@ -2601,8 +2627,8 @@ $(function () {
 			if (key.keyCode === 13) {
 				$('#search-warning').hide();
 				var id = link.lastIndexOf('/') != -1 ? link.substr(link.lastIndexOf('/') + 1) : link;
-				
-					setOwnerId(id);
+
+				setOwnerId(id);
 			}
 		})
 
@@ -2617,7 +2643,8 @@ $(function () {
 		$('.body-info, .subhead.custom, .navbar-search').hide();
 		$('#tell-friends > div').append(VK.Share.button({
 			url: location.href,
-			title: 'Manology.info'
+			title: 'Manology.info',
+			image: 'http://127.0.0.1:4621/content/images/question.jpg'
 		},
 					{
 						type: 'custom',
