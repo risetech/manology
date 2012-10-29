@@ -34,6 +34,7 @@ namespace TextClassifierLib
 		public static TextClassificator Instance { get; set; }							//Singleton
 		private static TextClassificator _learnedInstance { get; set; }					//Singleton
 		private static Dictionary<string, TextClassificator> _learnedInstances { get; set; }
+		private static Dictionary<string, TextClassificator> _loadedInstances { get; set; }
 
 		private Dictionary<string, string> _groupsTexts;								//имя группы, все тексты в виде одной строки
 		private Dictionary<string, Dictionary<string, Int64>> _wordsCountInGroups;		//имя группы, <слово, количество вхождений слова в группу>
@@ -157,7 +158,7 @@ namespace TextClassifierLib
 			return string.Join(" ", answer);
 		}
 
-		private static TextClassificator DefaultLoad()
+		private static TextClassificator DefaultLoad(string groupPostfix)
 		{
 			var separators = new List<string>();
 			var fs = (string)Resource.ResourceManager.GetObject(TextClassificator.SeparatorsFileName);
@@ -169,21 +170,31 @@ namespace TextClassifierLib
 
 			var instance = new TextClassificator(separators, stopWords);
 			var files = new List<System.Collections.DictionaryEntry>();
-			var findString = "_export";
+			var findString = groupPostfix;
 			foreach (System.Collections.DictionaryEntry file in Resource.ResourceManager.GetResourceSet(new System.Globalization.CultureInfo("ru-RU"), true, true))
 				if (file.Key.ToString().Length >= findString.Length && file.Key.ToString().Substring(file.Key.ToString().Length - findString.Length, findString.Length) == findString)
 					files.Add(file);
-			var filesPath = files.ToDictionary(f => f.Key.ToString().Substring(0, f.Key.ToString().IndexOf('_')), f => Resource.ResourceManager.GetObject(f.Key.ToString()).ToString());
+			var filesPath = files.ToDictionary(f => f.Key.ToString().Substring(0, f.Key.ToString().IndexOf(groupPostfix)), f => Resource.ResourceManager.GetObject(f.Key.ToString()).ToString());
 			instance.ImportFromXmlsString(filesPath);
 
 			return instance;
 		}
+
+		public static TextClassificator GetLoadInstance(string groupPostfix)
+		{
+			if (_loadedInstances == null)
+				_loadedInstances = new Dictionary<string, TextClassificator>();
+			if (!_loadedInstances.ContainsKey(groupPostfix))
+				_loadedInstances.Add(groupPostfix, DefaultLoad(groupPostfix));
+			return _loadedInstances[groupPostfix];
+		}
+
 		public static TextClassificator LearnedInstance
 		{
 			get
 			{
 				if (_learnedInstance == null)
-					_learnedInstance = DefaultLoad();
+					_learnedInstance = DefaultLoad("_export");
 				return _learnedInstance;
 			}
 		}

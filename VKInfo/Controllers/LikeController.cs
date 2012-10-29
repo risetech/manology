@@ -35,7 +35,7 @@ namespace VKInfo.Views
 		[HttpPost, ValidateInput(false)]
 		public ActionResult TextAnalisysForGroupText(string groupTextName, string text)
 		{
-			var tc = TextClassifierLib.TextClassificator.CreateLearnedInstance(groupTextName);
+			var tc = TextClassifierLib.TextClassificator.GetLoadInstance(groupTextName);
 			var result = new List<object>();
 			if (tc != null && text != null)
 			{

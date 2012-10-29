@@ -134,8 +134,7 @@ namespace TextClassifierLib.Properties {
         ///&lt;Allolog Form=&quot;атмосферу&quot;/&gt;
         ///&lt;Allolog Form=&quot;атмосфер&quot;/&gt;
         ///&lt;Allolog Form=&quot;атмосфере&quot;/&gt;
-        ///&lt;Allolog Form=&quot;атмосферы&quot;/&gt;
-        /// [rest of string was truncated]&quot;;.
+        ///&lt;Allolog Form=&quot;атмосферы&quot;/&gt;        /// [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Cosmos_export {
             get {
@@ -230,6 +229,78 @@ namespace TextClassifierLib.Properties {
         /// <summary>
         ///   Looks up a localized string similar to &lt;Words&gt;
         ///
+        ///&lt;Word Stem=&quot;счаст&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;счастье&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;любов&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;любовь&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;счастлив&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;счастливой&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;эмоциональн&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;эмоциональную&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;любв&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;любви&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;безразличн&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;безразлично&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;сознан&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog F [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string etica_le {
+            get {
+                return ResourceManager.GetString("etica_le", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;Words&gt;
+        ///
+        ///&lt;Word Stem=&quot;танц&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog Form=&quot;танцуй&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;громк&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog Form=&quot;громко&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;активн&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog Form=&quot;активно&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;смея&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog Form=&quot;смеяться&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;спрашива&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;спрашивать&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;рассказа&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog Form=&quot;рассказать&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;друз&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;друзья [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string extra_ei {
+            get {
+                return ResourceManager.GetString("extra_ei", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;Words&gt;
+        ///
         ///&lt;Word Stem=&quot;маневр&quot; Weight=&quot;0.05&quot;&gt;
         ///&lt;Allolog Form=&quot;маневры&quot;/&gt;
         ///&lt;Allolog Form=&quot;маневр&quot;/&gt;
@@ -287,6 +358,114 @@ namespace TextClassifierLib.Properties {
         /// <summary>
         ///   Looks up a localized string similar to &lt;Words&gt;
         ///
+        ///&lt;Word Stem=&quot;памя&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog Form=&quot;память&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;слуша&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;слушать&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;личн&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;личное&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;ответствен&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;ответственность&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;собствен&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;собственное&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;услыша&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;услышать&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;забыва&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot; [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string intra_ei {
+            get {
+                return ResourceManager.GetString("intra_ei", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;Words&gt;
+        ///
+        ///&lt;Word Stem=&quot;счаст&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;счастье&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;любов&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;любовь&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;друз&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog Form=&quot;друзьям&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;прекрасн&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;прекрасный&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;эмоц&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog Form=&quot;эмоции&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;эмоциональн&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;эмоциональную&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;любв&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;любви [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string intuit_si {
+            get {
+                return ResourceManager.GetString("intuit_si", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;Words&gt;
+        ///
+        ///&lt;Word Stem=&quot;любя&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;любящий&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;обманыва&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog Form=&quot;обманывают&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;музык&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog Form=&quot;музыку&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;любит&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;любит&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;тайн&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog Form=&quot;тайна&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;красот&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog Form=&quot;красоту&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;эмоциональн&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog Form=&quot;эмоционал [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string irracional_ri {
+            get {
+                return ResourceManager.GetString("irracional_ri", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;Words&gt;
+        ///
         ///&lt;Word Stem=&quot;машин&quot; Weight=&quot;0.05&quot;&gt;
         ///&lt;Allolog Form=&quot;машины&quot;/&gt;
         ///&lt;Allolog Form=&quot;машин&quot;/&gt;
@@ -310,6 +489,42 @@ namespace TextClassifierLib.Properties {
         internal static string it_export {
             get {
                 return ResourceManager.GetString("it_export", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;Words&gt;
+        ///
+        ///&lt;Word Stem=&quot;информац&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;информация&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;сумм&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog Form=&quot;сумму&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;фрейд&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;фрейд&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;систем&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;систему&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;доказа&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;доказано&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;функц&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;функцию&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;аргумент&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;аргумент&quot;/&gt;        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string logica_le {
+            get {
+                return ResourceManager.GetString("logica_le", resourceCulture);
             }
         }
         
@@ -417,8 +632,7 @@ namespace TextClassifierLib.Properties {
         ///
         ///&lt;Word Stem=&quot;сократ&quot; Weight=&quot;0.05&quot;&gt;
         ///&lt;Allolog Form=&quot;сократить&quot;/&gt;
-        ///&lt;Allolog Form=&quot;сократила&quot;/&gt;
-        /// [rest of string was truncated]&quot;;.
+        ///&lt;Allolog Form=&quot;сократила&quot;/&gt;        /// [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string philosof_export {
             get {
@@ -502,8 +716,7 @@ namespace TextClassifierLib.Properties {
         ///&lt;Allolog Form=&quot;покупательского&quot;/&gt;
         ///&lt;Allolog Form=&quot;покупательский&quot;/&gt;
         ///&lt;Allolog Form=&quot;покупательским&quot;/&gt;
-        ///&lt;Allolog Form=&quot;покупательские&quot;/&gt;
-        /// [rest of string was truncated]&quot;;.
+        ///&lt;Allolog Form=&quot;покупательские&quot;/&gt;        /// [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string PR_export {
             get {
@@ -542,6 +755,42 @@ namespace TextClassifierLib.Properties {
         /// <summary>
         ///   Looks up a localized string similar to &lt;Words&gt;
         ///
+        ///&lt;Word Stem=&quot;систем&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;систему&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;доказа&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;доказано&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;обнаружива&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog Form=&quot;обнаруживайте&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;процесс&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;процесс&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;физик&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog Form=&quot;физики&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;эволюц&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;эволюция&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;математик&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog Fo [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string racional_ri {
+            get {
+                return ResourceManager.GetString("racional_ri", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;Words&gt;
+        ///
         ///&lt;Word Stem=&quot;рецепт&quot; Weight=&quot;0.05&quot;&gt;
         ///&lt;Allolog Form=&quot;рецепт&quot;/&gt;
         ///&lt;Allolog Form=&quot;рецепты&quot;/&gt;
@@ -566,6 +815,41 @@ namespace TextClassifierLib.Properties {
         internal static string Samosov_export {
             get {
                 return ResourceManager.GetString("Samosov_export", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;Words&gt;
+        ///
+        ///&lt;Word Stem=&quot;соответств&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog Form=&quot;соответствующие&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;определен&quot; Weight=&quot;0.5&quot;&gt;
+        ///&lt;Allolog Form=&quot;определённым&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;категор&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog Form=&quot;категория&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;систем&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog Form=&quot;систему&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;доказа&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog Form=&quot;доказано&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;мудрец&quot; Weight=&quot;0.05&quot;&gt;
+        ///&lt;Allolog Form=&quot;мудреца&quot;/&gt;
+        ///&lt;/Word&gt;
+        ///
+        ///&lt;Word Stem=&quot;развит&quot; Weight=&quot;0.5&quot;&gt;        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string sensor_si {
+            get {
+                return ResourceManager.GetString("sensor_si", resourceCulture);
             }
         }
         

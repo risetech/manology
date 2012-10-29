@@ -19,7 +19,7 @@ function getDescription(text, callback) {
     */
 	psy = []
 	$.ajax({
-		url: "/Like/TextAnalisysForGroupText?groupTextName=sensor-intuit",
+		url: "/Like/TextAnalisysForGroupText?groupTextName=.si",
 		type: 'POST',
 		data: { text: text },
 		success: function (dataSI) {
@@ -37,7 +37,7 @@ function getDescription(text, callback) {
 				});
 			}
 			$.ajax({
-				url: "/Like/TextAnalisysForGroupText?groupTextName=logic-etic",
+				url: "/Like/TextAnalisysForGroupText?groupTextName=.le",
 				type: 'POST',
 				data: { text: text },
 				success: function (dataLE) {
@@ -55,7 +55,7 @@ function getDescription(text, callback) {
 						});
 					}
 					$.ajax({
-						url: "/Like/TextAnalisysForGroupText?groupTextName=extra-intra",
+						url: "/Like/TextAnalisysForGroupText?groupTextName=.ei",
 						type: 'POST',
 						data: { text: text },
 						success: function (dataEI) {
@@ -73,7 +73,7 @@ function getDescription(text, callback) {
 								});
 							}
 							$.ajax({
-								url: "/Like/TextAnalisysForGroupText?groupTextName=racional-irracional",
+								url: "/Like/TextAnalisysForGroupText?groupTextName=.ri",
 								type: 'POST',
 								data: { text: text },
 								success: function (dataRI) {
