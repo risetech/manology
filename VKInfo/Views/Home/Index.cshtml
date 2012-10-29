@@ -9,7 +9,7 @@
 	<title>Manology</title>
 	<link href="@Url.Content("~/Content/custom.css")" rel="stylesheet" />
 	<script src="@Url.Content("~/scripts/jquery-1.7.2.min.js")"></script>
-	<script src="@Url.Content("~/scripts/app.js")?v11"></script>
+	<script src="@Url.Content("~/scripts/app.js")?v12"></script>
 	<script type="text/javascript" src="http://vkontakte.ru/js/api/share.js?9" charset="windows-1251"></script>
 </head>
 <body>
@@ -20,14 +20,15 @@
 			}
 		});
 	</script>
-	<div class="container" style="overflow: hidden; height: 100%">
+	<div class="container">
 		<div class="center content">
 			<img src="@Url.Content("~/Content/images/bg.png")" alt="Manology" class="centeredImage" />
 			<div id="info">
-				<h1>Manology – узнай лучше себя и своих друзей
+				<h1>Manology<sup style="color:red" title="Альфа-версия"> α</sup> – узнай лучше себя и своих друзей
 				</h1>
 				<em>Анализ человека по его профилю в социальных сетях</em>
 				@Html.Partial("_VkLoginButton")
+				<h2 style="font-size:18px; font-family:'Segoe UI'">Альфа версия</h2>
 			</div>
 			<div class="tip" data-info="infoblock">i</div>
 			<div id="infoblock"></div>

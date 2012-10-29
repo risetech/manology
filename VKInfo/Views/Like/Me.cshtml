@@ -49,7 +49,9 @@
 </header>
 <div class="clear">
 </div>
-
+<div class="alert alert-error" id="javascript-error" style="display: none">
+	Что-то пошло не так, нажмите "Пересчитать", чтобы повторить попытку.
+</div>
 <div class="loader well">
 	<p>Данные загружаются, пожалуйста, подождите...</p>
 </div>
@@ -60,7 +62,7 @@
 		</div>
 		<section id="liked-me">
 			<div id="top-liked-me-users" class="well">
-				
+
 				<h2>Пользователи, <small>которым я понравился:</small>
 				</h2>
 				<div class="alert alert-error" id="error-bar" style="display: none">
@@ -508,6 +510,7 @@
 	<div class="modal-footer">
 		<a href="#" class="btn" data-dismiss="modal">Закрыть</a>
 	</div>
+	<div id="logging" style="display: none"></div>
 </div>
 <script type="text/javascript">
 	$(function () {
@@ -522,5 +525,6 @@
 			localStorage['sentUserId'] = location.hash.substring(1);
 			location.href = '/';
 		}
+
 	});
 </script>
