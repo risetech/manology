@@ -23,7 +23,6 @@ getSVG = function (charts) {
 
 		svgArr.push(svg);
 	});
-
 	return '<svg height="' + top + '" width="' + width + '" version="1.1" xmlns="http://www.w3.org/2000/svg">' + svgArr.join('') + '</svg>';
 };
 
@@ -171,6 +170,9 @@ function loadData(userId) {
 		success: function (user) {
 			currentUserModel = JSON.parse(user);
 			if (user != "null" && !recalcUser) {
+				$('body').ajaxStop(function () {
+					dataLoaded();
+				});
 				var userObj = JSON.parse(user);
 				if (userObj.PopularityError && userObj.PopularityError == 'yes') {
 					showErrorBar = true;
@@ -225,8 +227,6 @@ function loadData(userId) {
 					return $.inArray(item.type, psyContentLoaded) != -1;
 				});
 				savePsyType(psyContentStatic, JSON.parse(userObj.PsyType));
-
-				dataLoaded();
 			}
 			else {
 				if (userId === viewer_id || !localStorage['user_id']) {
@@ -1976,17 +1976,20 @@ function LikedMeRating(data) {
 function LikedMeRatingModel(model) {
 	var self = this;
 	self.currentLength = ko.observable(4);
+	self.currentLength.subscribe(function () {
+		self.showedLikedMe(mappedLikedMe.slice(0, self.currentLength()))
+	});
 	self.showedLikedMe = ko.observableArray([]);
 	var mappedLikedMe = $.map(model, function (item) { return new LikedMeRating(item) });
 	self.maxLength = ko.observable(mappedLikedMe.length);
 	self.showedLikedMe(mappedLikedMe.slice(0, self.currentLength()));
 	self.expand = function () {
 		self.currentLength(self.currentLength() + 4);
-		self.showedLikedMe(mappedLikedMe.slice(0, self.currentLength()));
+		//self.showedLikedMe(mappedLikedMe.slice(0, self.currentLength()));
 	};
 	self.collapse = function () {
 		self.currentLength(4);
-		self.showedLikedMe(mappedLikedMe.slice(0, self.currentLength()));
+		//self.showedLikedMe(mappedLikedMe.slice(0, self.currentLength()));
 	};
 	ShowErrorBar();
 }
