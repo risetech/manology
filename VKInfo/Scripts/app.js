@@ -8,10 +8,23 @@ else {
 	app = { appId: 3016703, appSecret: 'Zz8fFBdaRDyMBQ0NDElV', redirectUri: 'http://manology.info/User/Auth' }
 }
 
+function wait(interval) {
+	interval = interval || 1000;
+	var currentTime = new Date();
+	var time = parseFloat(currentTime.setMilliseconds(currentTime.getMilliseconds() + interval));
+	while (parseFloat(Date.parse(Date())) < time) {
+	}
+	return;
+}
+
+
+$(document).ajaxError(function () {
+	showJavascriptError();
+});
 getSVG = function (charts) {
 	var svgArr = [],
-        top = 0,
-        width = 0;
+		top = 0,
+		width = 0;
 
 	$.each(charts, function (i, chart) {
 		var svg = chart.getSVG();
@@ -23,7 +36,6 @@ getSVG = function (charts) {
 
 		svgArr.push(svg);
 	});
-
 	return '<svg height="' + top + '" width="' + width + '" version="1.1" xmlns="http://www.w3.org/2000/svg">' + svgArr.join('') + '</svg>';
 };
 
@@ -46,7 +58,7 @@ var user_link = localStorage['user_link'] || "";
 var scope = "friends,wall,video,photos,groups,pages";
 function auth() {
 	location.href = "http://oauth.vk.com/authorize?client_id=" + app.appId + "&display=page&scope=" + scope + "&redirect_uri=" + app.redirectUri + "&response_type=token";
-}
+};
 var access_token = getCookie("access_token") || "";
 
 var wallText = {}; 	 //слова постов со стены
@@ -62,6 +74,10 @@ function getCookie(name) {
 	  "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
 	))
 	return matches ? decodeURIComponent(matches[1]) : undefined
+}
+
+function showJavascriptError() {
+	$('#javascript-error').show();
 }
 
 function setCookie(name, value, props) {
@@ -171,6 +187,9 @@ function loadData(userId) {
 		success: function (user) {
 			currentUserModel = JSON.parse(user);
 			if (user != "null" && !recalcUser) {
+				$('body').ajaxStop(function () {
+					dataLoaded();
+				});
 				var userObj = JSON.parse(user);
 				if (userObj.PopularityError && userObj.PopularityError == 'yes') {
 					showErrorBar = true;
@@ -225,8 +244,6 @@ function loadData(userId) {
 					return $.inArray(item.type, psyContentLoaded) != -1;
 				});
 				savePsyType(psyContentStatic, JSON.parse(userObj.PsyType));
-
-				dataLoaded();
 			}
 			else {
 				if (userId === viewer_id || !localStorage['user_id']) {
@@ -1715,7 +1732,7 @@ function groupby(data, property, topCount, nosort, handler) {
 
 function getWhoLikedPosts() {
 	var counter = 0;
-	for (var i = 0; i < likedContent.length; i++) { //&& i < 1000
+	for (var i = 0; i < likedContent.length && i <= 1000; i++) {
 		$.ajax({
 			url: "https://api.vk.com/method/likes.getList?type=post&filter=likes&count=1000&item_id=" + likedContent[i].content.id + user_id + "&" + access_token,
 			beforeSend: function () {
@@ -1739,10 +1756,13 @@ function getWhoLikedPosts() {
 						}
 					}
 				}
-				if (counter === likedContent.length - 1) {
+				if (counter === likedContent.length - 1 || counter === 1000) {
 					getWhoRepostedPosts();
 				}
 				counter++;
+			},
+			error: function () {
+				getWhoRepostedPosts();
 			}
 		});
 	}
@@ -1750,7 +1770,7 @@ function getWhoLikedPosts() {
 
 function getWhoRepostedPosts() {
 	var counter = 0;
-	for (var i = 0; i < likedContent.length; i++) { //&& i < 1000
+	for (var i = 0; i < likedContent.length && i <= 1000; i++) { //
 		$.ajax({
 			url: "https://api.vk.com/method/likes.getList?type=post&filter=copies&count=1000&item_id=" + likedContent[i].content.id + user_id + "&" + access_token,
 			beforeSend: function () {
@@ -1775,11 +1795,15 @@ function getWhoRepostedPosts() {
 						}
 					}
 				}
-				if (counter === likedContent.length - 1) {
+				if (counter === likedContent.length - 1 || counter === 1000) {
 					renderContentRating('post');
 					getLikedPhotos([], 0);
 				}
 				counter++;
+			},
+			error: function () {
+				renderContentRating('post');
+				getLikedPhotos([], 0);
 			}
 		});
 	}
@@ -1808,16 +1832,35 @@ function getLikedPhotos(mas, offset) {
 					getWhoLikedPhoto();
 				}
 			}
+		},
+		error: function () {
+			if (likedContent.length == 0) {
+				renderContentRating('photo');
+				getLikedVideos([], 0);
+			}
+			else {
+				renderContentRating('photo');
+				getWhoLikedPhoto();
+			}
 		}
 	});
 }
 
 function getWhoLikedPhoto() {
 	var counter = 0;
-	var length = likedContent.length;
+	var sumRequests = 0;
+
+	var array = likedContent.filter(function (item, idx) {
+		if (item.type == 'photo') {
+			item.oldIndex = idx;
+			return true;
+		}
+		return false;
+	});
+	var length = array.length;
 	for (var i = 0; i < length; i++) {
 		$.ajax({
-			url: "https://api.vk.com/method/likes.getList?filter=likes&type=photo&count=1000&item_id=" + likedContent[i].content.pid + user_id + "&" + access_token,
+			url: "https://api.vk.com/method/likes.getList?filter=likes&type=photo&count=1000&item_id=" + array[i].content.pid + user_id + "&" + access_token,
 			dataType: "jsonp",
 			beforeSend: function () {
 				$(this).data('index', i);
@@ -1827,15 +1870,15 @@ function getWhoLikedPhoto() {
 					if (data.response && data.response.count > 1000) {
 						showErrorBar = true;
 					}
-					likedContent[$(this).data('index')].liked = data.response.users;
+					likedContent[array[$(this).data('index')].oldIndex].liked = data.response.users;
 					for (var j = 0; j < data.response.count && j < 1000; j++) {
 						if (likedMeUsers[data.response.users[j]]) {
-							likedMeUsers[data.response.users[j]].liked.push(likedContent[$(this).data('index')]);
+							likedMeUsers[data.response.users[j]].liked.push(array[$(this).data('index')]);
 						}
 						else {
 							if (data.response.users[j] > 0) {
 								likedMeUsers[data.response.users[j]] = { reposts: [], liked: [] };
-								likedMeUsers[data.response.users[j]].liked.push(likedContent[$(this).data('index')]);
+								likedMeUsers[data.response.users[j]].liked.push(array[$(this).data('index')]);
 							}
 						}
 					}
@@ -1844,13 +1887,15 @@ function getWhoLikedPhoto() {
 					getLikedVideos([], 0);
 				}
 				counter++;
+			},
+			error: function () {
+				getLikedVideos([], 0);
 			}
 		});
 	}
 }
 
 function getLikedVideos(mas, offset) {//, likedData) {
-	var a = 5;
 	$.ajax({
 		url: "https://api.vk.com/method/video.get?" + access_token + "&offset=" + offset + user_id + "&count=200",
 		dataType: "jsonp",
@@ -1870,6 +1915,15 @@ function getLikedVideos(mas, offset) {//, likedData) {
 				else {
 					getWhoLikedVideo(mas);
 				}
+			}
+		},
+		error: function () {
+			if (mas.length === 0) {
+				renderPostsAndLikesByMonthsGraph(likedContent);
+				renderUsersInfo(likedMeUsers);
+			}
+			else {
+				getWhoLikedVideo(mas);
 			}
 		}
 	});
@@ -1976,17 +2030,20 @@ function LikedMeRating(data) {
 function LikedMeRatingModel(model) {
 	var self = this;
 	self.currentLength = ko.observable(4);
+	self.currentLength.subscribe(function () {
+		self.showedLikedMe(mappedLikedMe.slice(0, self.currentLength()))
+	});
 	self.showedLikedMe = ko.observableArray([]);
 	var mappedLikedMe = $.map(model, function (item) { return new LikedMeRating(item) });
 	self.maxLength = ko.observable(mappedLikedMe.length);
 	self.showedLikedMe(mappedLikedMe.slice(0, self.currentLength()));
 	self.expand = function () {
 		self.currentLength(self.currentLength() + 4);
-		self.showedLikedMe(mappedLikedMe.slice(0, self.currentLength()));
+		//self.showedLikedMe(mappedLikedMe.slice(0, self.currentLength()));
 	};
 	self.collapse = function () {
 		self.currentLength(4);
-		self.showedLikedMe(mappedLikedMe.slice(0, self.currentLength()));
+		//self.showedLikedMe(mappedLikedMe.slice(0, self.currentLength()));
 	};
 	ShowErrorBar();
 }
@@ -2239,9 +2296,9 @@ function FavouriteUsersRatingModel(model) {
 
 function LinguisticAnalysisModel(model) {
 	var self = this;
-	self.badLanguageWordsCount = ko.observable(model.badLanguageWordsCount);
-	self.uniqueWordsInPosts = ko.observable(model.uniqueWordsInPosts);
-	self.uniqueWordsInReposts = ko.observable(model.uniqueWordsInReposts);
+	self.badLanguageWordsCount = ko.observable(model ? model.badLanguageWordsCount : []);
+	self.uniqueWordsInPosts = ko.observable(model ? model.uniqueWordsInPosts : []);
+	self.uniqueWordsInReposts = ko.observable(model ? model.uniqueWordsInReposts : []);
 	self.topWords = ko.observableArray([]);
 	//var topWordsArray = [];
 	//for (var i = 1; i <= model.topWords.length - 1; i += 3) {
@@ -2249,12 +2306,16 @@ function LinguisticAnalysisModel(model) {
 	//}
 	//self.topWords(topWordsArray);
 	self.badLanguagePosts = ko.observableArray([]);
-	model.badLanguagePosts = model.badLanguagePosts.filter(function (itm, i, a) { return i == a.indexOf(itm); });
-	var mappedBadLanguagePosts = $.map(model.badLanguagePosts, function (item) {
-		return { link: "http://vk.com/wall" + item.to_id + "_" + item.id, text: item.text };
-	});
+	var mappedBadLanguagePosts = [];
+	if (model) {
+		model.badLanguagePosts = model.badLanguagePosts.filter(function (itm, i, a) { return i == a.indexOf(itm); });
+		mappedBadLanguagePosts = $.map(model.badLanguagePosts, function (item) {
+			return { link: "http://vk.com/wall" + item.to_id + "_" + item.id, text: item.text };
+		});
+	}
 	self.badLanguagePosts(mappedBadLanguagePosts);
 	ShowErrorBar();
+
 }
 
 function CurrentUserModel(model) {
@@ -2303,6 +2364,9 @@ function addToWatchList(id) {
 					data: { userId: viewer_id, watchedUser: JSON.stringify(data.response[0]) },
 					success: function () {
 						location.href = "/Like/Me";
+					},
+					error: function () {
+						showJavascriptError();
 					}
 				});
 			}

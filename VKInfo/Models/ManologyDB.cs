@@ -36,6 +36,21 @@ namespace VKInfo.Models
 		public ManologyUser()
 		{
 			WatchList = new List<string>();
+			LikedMeUsers = "[]";
+			PopularPhotos = "[]";
+			PopularPosts = "[]";
+			FavouriteUsers = "[]";
+			FavouriteGroups = "[]";
+			LinguisticAnalysis = "[]";
+			UniversityRating = "[]";
+			CityRating = "[]";
+			Friends = "[]";
+			AllPosts = "[]";
+			LikedContent = "[]";
+			Interests = "[]";
+			Themes = "[]";
+			PsyResult = "[]";
+			PsyType = "[]";
 		}
 
 

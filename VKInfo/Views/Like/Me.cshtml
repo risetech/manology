@@ -2,6 +2,7 @@
 @{
 	ViewBag.Title = "Manology.info";
 }
+<script type="text/javascript" src="../../Scripts/vk_api/vk_api.js"></script>
 <script type="text/javascript" src="http://highcharts.com/js/testing-exporting.js"></script>
 <div class="well" id="search-warning">
 	<h2 class="alert alert-error">На данный момент поддерживается поиск только по <strong>ВКонтакте</strong>.
@@ -49,7 +50,9 @@
 </header>
 <div class="clear">
 </div>
-
+<div class="alert alert-error" id="javascript-error" style="display: none">
+	Что-то пошло не так, нажмите "Пересчитать", чтобы повторить попытку.
+</div>
 <div class="loader well">
 	<p>Данные загружаются, пожалуйста, подождите...</p>
 </div>
@@ -60,88 +63,59 @@
 		</div>
 		<section id="liked-me">
 			<div id="top-liked-me-users" class="well">
-				
+
 				<h2>Пользователи, <small>которым я понравился:</small>
 				</h2>
 				<div class="alert alert-error" id="error-bar" style="display: none">
 					Популярные пользователи на данный момент могут анализироваться неверно.
 				</div>
-				<div id="likedme-rating" data-bind="foreach: showedLikedMe, visible: showedLikedMe().length > 0">
-					<div class="content-container">
-						<a data-bind="attr: {href: link}" target="_blank">
-							<div class="content">
-								<img data-bind="attr: {src: photo}" />
-								<div class="content-header">
-									<p data-bind="text: username">
-									</p>
-								</div>
+				<ul id="likedme-rating" class="thumbnails" data-bind="foreach: showedLikedMe, visible: showedLikedMe().length > 0">
+					<li style="width: 200px;">
+						<a data-bind="attr: {href: link}" target="_blank" class="thumbnail">
+							<div style="min-height: 190px; text-align: center;">
+								<img data-bind="attr: {src: photo}" style="max-width: 190px; max-height: 190px;" />
+							</div>
+							<div class="caption">
+								<h3 data-bind="text: username" style="text-align: center;"></h3>
+								<p>
+									<button data-bind="click: likedMeRatingModal" class="btn btn-secondary" style="width: 100%;">
+										<span><i class="icon-heart"></i></span>&nbsp<span data-bind="text: likesCount">
+										</span>&nbsp&nbsp&nbsp<span><i class="icon-retweet"></i></span>&nbsp<span
+											data-bind="text: repostsCount"></span>
+									</button>
+									<button data-bind="click: analyzeUser" class="btn btn-primary" style="width: 100%;">Анализировать</button>
+								</p>
 							</div>
 						</a>
-						<button data-bind="click: likedMeRatingModal" class="btn btn-secondary likes-list">
-							<span><i class="icon-heart"></i></span>&nbsp<span data-bind="text: likesCount">
-							</span>&nbsp&nbsp&nbsp<span><i class="icon-retweet"></i></span>&nbsp<span
-								data-bind="text: repostsCount"></span>
-						</button>
-						<button data-bind="click: analyzeUser" class="btn btn-primary manology-open">Анализировать</button>
-						<div class="clear"></div>
-					</div>
-					<div class="modal hide fade">
-						<div class="modal-header">
-							<button type="button" class="close" data-dismiss="modal">
-								×</button>
-							<h3 data-bind="text: username"></h3>
-						</div>
-						<div class="modal-body">
-							<h4>Лайки:</h4>
-							<div data-bind="foreach: likedContentList">
-								<p>
-									<a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
-									</a>
-								</p>
+						<div class="modal hide fade">
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal">
+									×</button>
+								<h3 data-bind="text: username"></h3>
 							</div>
-							<h4 data-bind="visible: repostedContentList().length > 0">Репосты:</h4>
-							<div data-bind="foreach: repostedContentList">
-								<p>
-									<a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
-									</a>
-								</p>
-							</div>
-						</div>
-						<div class="modal-footer">
-							<button class="btn btn-danger" data-dismiss="modal">
-								Закрыть</button>
-						</div>
-					</div>
-				</div>
-				<div style="clear: both">
-				</div>
-				<div class="form-actions">
-					<button class="btn expander" data-bind="click: expand, visible: currentLength() < maxLength()">
-						Еще</button>
-					<button class="btn collapser" data-bind="click: collapse, visible: currentLength() > 4">
-						Свернуть</button>
-				</div>
-			</div>
-			<div id="most-liked-photo" class="well">
-				<h2>Рейтинг моих фотографий:</h2>
-				<div id="likedphotos-rating" data-bind="foreach: showedLikedPhotos, visible: showedLikedPhotos().length > 0">
-					<div class="content-container">
-						<a data-bind="attr: {href: link}" target="_blank">
-							<div class="content">
-								<img data-bind="attr: {src: source}" />
-								<div class="content-footer">
+							<div class="modal-body">
+								<h4>Лайки:</h4>
+								<div data-bind="foreach: likedContentList">
 									<p>
-										<span><i class="icon-heart icon-white"></i></span>&nbsp<span data-bind="text: likesCount">
-										</span>&nbsp&nbsp&nbsp@*<span><i class="icon-retweet icon-white"></i></span>&nbsp<span
-											data-bind="text: repostsCount"> </span>*@
+										<a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
+										</a>
+									</p>
+								</div>
+								<h4 data-bind="visible: repostedContentList().length > 0">Репосты:</h4>
+								<div data-bind="foreach: repostedContentList">
+									<p>
+										<a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
+										</a>
 									</p>
 								</div>
 							</div>
-						</a>
-					</div>
-				</div>
-				<div style="clear: both">
-				</div>
+							<div class="modal-footer">
+								<button class="btn btn-danger" data-dismiss="modal">
+									Закрыть</button>
+							</div>
+						</div>
+					</li>
+				</ul>
 				<div class="form-actions">
 					<button class="btn expander" data-bind="click: expand, visible: currentLength() < maxLength()">
 						Еще</button>
@@ -149,7 +123,33 @@
 						Свернуть</button>
 				</div>
 			</div>
-			<div id="most-liked-post" class="well">
+			<div id="most-liked-photo" class="container-border">
+				<h2>Рейтинг моих фотографий:</h2>
+				<ul class="thumbnails" id="likedphotos-rating" data-bind="foreach: showedLikedPhotos, visible: showedLikedPhotos().length > 0">
+					<li style="width: 200px;">
+						<a class="thumbnail" data-bind="attr: {href: link}" target="_blank">
+							<div style="min-height: 190px; text-align: center;">
+								<img data-bind="attr: {src: source}" style="max-width: 190px; max-height: 190px;" />
+							</div>
+							<div class="caption">
+								<p>
+									<button class="btn btn-secondary" style="width: 100%;">
+										<span><i class="icon-heart"></i></span>&nbsp<span data-bind="text: likesCount">
+										</span>
+									</button>
+								</p>
+							</div>
+						</a>
+					</li>
+				</ul>
+				<div class="form-actions">
+					<button class="btn expander" data-bind="click: expand, visible: currentLength() < maxLength()">
+						Еще</button>
+					<button class="btn collapser" data-bind="click: collapse, visible: currentLength() > 4">
+						Свернуть</button>
+				</div>
+			</div>
+			<div id="most-liked-post" class="container-border">
 				<h2>Рейтинг моих постов:</h2>
 				<div id="likedposts-rating" data-bind="foreach: showedLikedPosts, visible: showedLikedPosts().length > 0">
 					<div class="content-container">
@@ -178,64 +178,52 @@
 						Свернуть</button>
 				</div>
 			</div>
-			@*<div id="posts-by-month" class="well">
-					<h2>
-						Посты на стене:</h2>
-						<div id="posts-by-month-chart">
-				</div>
-			</div>*@
 		</section>
 	</div>
 	<div class="tab-pane fade" id="like-you">
 		<section id="i-liked">
-			<div id="top-liked-users" class="well">
+			<div id="top-liked-users" class="container-border">
 				<h2>Пользователи, <small>которые мне понравились:</small>
 				</h2>
-				<div id="favourite-users-rating" data-bind="foreach: showedUsers, visible: showedUsers().length > 0">
-					<div class="content-container">
-						<a data-bind="attr: {href: link}" target="_blank">
-							<div class="content">
-								<img data-bind="attr: {src: photo}" />
-								<div class="content-header">
-									<p data-bind="text: displayed">
+				<ul class="thumbnails" id="favourite-users-rating" data-bind="foreach: showedUsers, visible: showedUsers().length > 0">
+					<li style="width: 200px;">
+						<a data-bind="attr: {href: link}" target="_blank" class="thumbnail">
+							<div style="min-height: 190px; text-align: center;">
+								<img data-bind="attr: {src: photo}" style="max-width: 190px; max-height: 190px;" />
+							</div>
+							<div class="caption">
+								<h3 data-bind="text: displayed" style="text-align: center; max-height: 27px;"></h3>
+								<p>
+									<button style="width: 100%" data-bind="click: favouriteUsersRatingModal" class="btn btn-secondary">
+										<span><i class="icon-heart"></i></span>&nbsp<span data-bind="text: contentCount">
+										</span>
+									</button>
+									<button style="width: 100%" data-bind="click: analyzeUser" class="btn btn-primary">Анализировать</button>
+								</p>
+							</div>
+						</a>
+						<div class="modal hide fade">
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal">
+									×</button>
+								<h3 data-bind="text: displayed"></h3>
+							</div>
+							<div class="modal-body">
+								<h4>Лайки:</h4>
+								<div data-bind="foreach: contentList">
+									<p>
+										<a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
+										</a>
 									</p>
 								</div>
 							</div>
-						</a>
-						<div>
-							<p>
-								<button data-bind="click: favouriteUsersRatingModal" class="btn btn-secondary likes-list">
-									<span><i class="icon-heart"></i></span>&nbsp<span data-bind="text: contentCount">
-									</span>
-								</button>
-								<button data-bind="click: analyzeUser" class="btn btn-primary manology-open">Анализировать</button>
-							</p>
-							<div style="clear: both"></div>
-						</div>
-					</div>
-					<div class="modal hide fade">
-						<div class="modal-header">
-							<button type="button" class="close" data-dismiss="modal">
-								×</button>
-							<h3 data-bind="text: displayed"></h3>
-						</div>
-						<div class="modal-body">
-							<h4>Лайки:</h4>
-							<div data-bind="foreach: contentList">
-								<p>
-									<a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
-									</a>
-								</p>
+							<div class="modal-footer">
+								<button class="btn btn-danger" data-dismiss="modal">
+									Закрыть</button>
 							</div>
 						</div>
-						<div class="modal-footer">
-							<button class="btn btn-danger" data-dismiss="modal">
-								Закрыть</button>
-						</div>
-					</div>
-				</div>
-				<div style="clear: both">
-				</div>
+					</li>
+				</ul>
 				<div class="form-actions">
 					<button class="btn expander" data-bind="click: expand, visible: currentLength() < maxLength()">
 						Еще</button>
@@ -243,50 +231,47 @@
 						Свернуть</button>
 				</div>
 			</div>
-			<div id="top-liked-pages" class="well">
+			<div id="top-liked-pages" class="container-border">
 				<h2>Страницы, <small>которые мне понравились:</small>
 				</h2>
-				<div id="favourite-groups-rating" data-bind="foreach: showedGroups, visible: showedGroups().length > 0">
-					<div class="content-container">
-						<div class="content">
-							<a data-bind="attr: {href: link}" target="_blank">
-								<img data-bind="attr: {src: photo}" />
-								<div class="content-header">
-									<p data-bind="text: displayed">
-									</p>
-								</div>
-							</a>
-						</div>
-						<div>
-							<p>
-								<button data-bind="click: favouriteGroupsRatingModal" class="btn btn-secondary likes-list" style="float: none; width: 100%;">
-									<span><i class="icon-heart"></i></span>&nbsp<span data-bind="text: contentCount">
-									</span>
-								</button>
-							</p>
-						</div>
-					</div>
-					<div class="modal hide fade">
-						<div class="modal-header">
-							<button type="button" class="close" data-dismiss="modal">
-								×</button>
-							<h3 data-bind="text: displayed"></h3>
-						</div>
-						<div class="modal-body">
-							<h4>Лайки:</h4>
-							<div data-bind="foreach: contentList">
+				<ul class="thumbnails" id="favourite-groups-rating" data-bind="foreach: showedGroups, visible: showedGroups().length > 0">
+					<li style="width: 200px;">
+						<a data-bind="attr: {href: link}" target="_blank" class="thumbnail">
+							<div style="min-height: 190px; text-align: center;">
+								<img data-bind="attr: {src: photo}" style="max-width: 190px; max-height: 190px;" />
+							</div>
+							<div class="caption">
+								<h3 data-bind="text: displayed" style="text-align: center; max-height: 27px;"></h3>
 								<p>
-									<a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
-									</a>
+									<button style="width: 100%" data-bind="click: favouriteGroupsRatingModal" class="btn btn-secondary">
+										<span><i class="icon-heart"></i></span>&nbsp<span data-bind="text: contentCount">
+										</span>
+									</button>
 								</p>
 							</div>
+						</a>
+						<div class="modal hide fade">
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal">
+									×</button>
+								<h3 data-bind="text: displayed"></h3>
+							</div>
+							<div class="modal-body">
+								<h4>Лайки:</h4>
+								<div data-bind="foreach: contentList">
+									<p>
+										<a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
+										</a>
+									</p>
+								</div>
+							</div>
+							<div class="modal-footer">
+								<button class="btn btn-danger" data-dismiss="modal">
+									Закрыть</button>
+							</div>
 						</div>
-						<div class="modal-footer">
-							<button class="btn btn-danger" data-dismiss="modal">
-								Закрыть</button>
-						</div>
-					</div>
-				</div>
+					</li>
+				</ul>
 				<div style="clear: both">
 				</div>
 				<div class="form-actions">
@@ -508,6 +493,7 @@
 	<div class="modal-footer">
 		<a href="#" class="btn" data-dismiss="modal">Закрыть</a>
 	</div>
+	<div id="logging" style="display: none"></div>
 </div>
 <script type="text/javascript">
 	$(function () {
@@ -522,5 +508,6 @@
 			localStorage['sentUserId'] = location.hash.substring(1);
 			location.href = '/';
 		}
+
 	});
 </script>

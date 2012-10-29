@@ -21,7 +21,7 @@ namespace VKInfo.Controllers
 			get
 			{
 				if (_server == null)
-					_server = MongoServer.Create("mongodb://127.0.0.1:27017/");
+					_server = MongoServer.Create("mongodb://manology-db.cloudapp.net:27017/");
 				return _server;
 			}
 		}
