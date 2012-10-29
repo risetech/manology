@@ -129,13 +129,13 @@ function recalculateStats() {
 	recalcUser = true;
 	var userId = user_id ? user_id.split('=')[1] : viewer_id;
 	localStorage['recalcUserId'] = userId;
-	location.href = "/Like/Me";
+	location.href = "/like/me";
 	//$.ajax({
 	//	type: 'POST',
 	//	url: '/Database/DeleteData',
 	//	data: { userId: userId },
 	//	success: function () {
-	//		location.href = "/Like/Me";
+	//		location.href = "/like/me";
 	//	}
 	//});
 }
@@ -2349,7 +2349,7 @@ function hideProgressbar(parent) {
 
 function backToMyStats() {
 	localStorage['user_id'] = "";
-	location.href = "/Like/Me";
+	location.href = "/like/me";
 }
 
 function addToWatchList(id) {
@@ -2363,7 +2363,7 @@ function addToWatchList(id) {
 					url: '/Database/AddToWatchList',
 					data: { userId: viewer_id, watchedUser: JSON.stringify(data.response[0]) },
 					success: function () {
-						location.href = "/Like/Me";
+						location.href = "/like/me";
 					},
 					error: function () {
 						showJavascriptError();
@@ -2373,7 +2373,7 @@ function addToWatchList(id) {
 		})
 	}
 	else
-		location.href = "/Like/Me";
+		location.href = "/like/me";
 }
 
 function setOwnerId(id) {
@@ -2498,7 +2498,7 @@ function renderSmallAndBigChart(item) {
 				{
 					renderPsyType();
 					$('#chart-comment').hide();
-					return;
+					break;
 				}
 		}
 	}

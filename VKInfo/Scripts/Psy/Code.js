@@ -19,7 +19,7 @@ function getDescription(text, callback) {
     */
 	psy = []
 	$.ajax({
-		url: "/Like/TextAnalisysForGroupText?groupTextName=.si",
+		url: "/Like/TextAnalisysForGroupText?groupTextName=_si",
 		type: 'POST',
 		data: { text: text },
 		success: function (dataSI) {
@@ -37,11 +37,11 @@ function getDescription(text, callback) {
 				});
 			}
 			$.ajax({
-				url: "/Like/TextAnalisysForGroupText?groupTextName=.le",
+				url: "/Like/TextAnalisysForGroupText?groupTextName=_le",
 				type: 'POST',
 				data: { text: text },
 				success: function (dataLE) {
-					compareResult = ComparePsy(dataLE[0].logica, dataLE[0].etica)
+				    compareResult = ComparePsy(dataLE[0].logica, dataLE[0].etica)
 					if (compareResult == -1) {
 						psy.push("логик")
 						result = $.grep(result, function (el) {
@@ -55,7 +55,7 @@ function getDescription(text, callback) {
 						});
 					}
 					$.ajax({
-						url: "/Like/TextAnalisysForGroupText?groupTextName=.ei",
+						url: "/Like/TextAnalisysForGroupText?groupTextName=_ei",
 						type: 'POST',
 						data: { text: text },
 						success: function (dataEI) {
@@ -73,7 +73,7 @@ function getDescription(text, callback) {
 								});
 							}
 							$.ajax({
-								url: "/Like/TextAnalisysForGroupText?groupTextName=.ri",
+								url: "/Like/TextAnalisysForGroupText?groupTextName=_ri",
 								type: 'POST',
 								data: { text: text },
 								success: function (dataRI) {
@@ -94,6 +94,7 @@ function getDescription(text, callback) {
 										return item.type;
 									})), 'PsyResult');
 									saveDataToMongoDB(JSON.stringify(psy), 'PsyType');
+									console.log([result, psy])
 									callback(result, psy);
 								}
 							});
