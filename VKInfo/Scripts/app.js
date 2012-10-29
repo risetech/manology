@@ -2450,6 +2450,7 @@ function renderSmallAndBigChart(item) {
 function savePsyType(mas, words) {
 	psyContent = mas;
 	psyType = words;
+	renderPsyType();
 }
 
 function getPsyName(psy) {
@@ -2473,6 +2474,7 @@ function getPsySummary(psyType) {
 }
 
 function renderPsyType() {
+    $('#psyContainer').empty();
 	if (psyContent.length > 4) {
 		$('#target-chart-container').append($('<div />', {
 			'id': 'activitiesContainer'

@@ -41,7 +41,7 @@ function getDescription(text, callback) {
 				type: 'POST',
 				data: { text: text },
 				success: function (dataLE) {
-					compareResult = ComparePsy(dataLE[0].logica, dataLE[0].etica)
+				    compareResult = ComparePsy(dataLE[0].logica, dataLE[0].etica)
 					if (compareResult == -1) {
 						psy.push("логик")
 						result = $.grep(result, function (el) {
@@ -94,6 +94,7 @@ function getDescription(text, callback) {
 										return item.type;
 									})), 'PsyResult');
 									saveDataToMongoDB(JSON.stringify(psy), 'PsyType');
+									console.log([result, psy])
 									callback(result, psy);
 								}
 							});
