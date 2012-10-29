@@ -1,0 +1,583 @@
+﻿<Words>
+
+<Word Stem="счаст" Weight="0.5">
+<Allolog Form="счастье"/>
+</Word>
+
+<Word Stem="любов" Weight="0.5">
+<Allolog Form="любовь"/>
+</Word>
+
+<Word Stem="счастлив" Weight="0.5">
+<Allolog Form="счастливой"/>
+</Word>
+
+<Word Stem="эмоциональн" Weight="0.5">
+<Allolog Form="эмоциональную"/>
+</Word>
+
+<Word Stem="любв" Weight="0.5">
+<Allolog Form="любви"/>
+</Word>
+
+<Word Stem="безразличн" Weight="0.5">
+<Allolog Form="безразлично"/>
+</Word>
+
+<Word Stem="сознан" Weight="0.05">
+<Allolog Form="сознанием"/>
+</Word>
+
+<Word Stem="блаженств" Weight="0.5">
+<Allolog Form="блаженства"/>
+</Word>
+
+<Word Stem="подл" Weight="0.5">
+<Allolog Form="подлости"/>
+</Word>
+
+<Word Stem="ощущен" Weight="0.5">
+<Allolog Form="ощущениям"/>
+</Word>
+
+<Word Stem="уважа" Weight="0.05">
+<Allolog Form="уважают"/>
+</Word>
+
+<Word Stem="совест" Weight="0.5">
+<Allolog Form="совесть"/>
+</Word>
+
+<Word Stem="индивидуальн" Weight="0.05">
+<Allolog Form="индивидуальный"/>
+</Word>
+
+<Word Stem="ненавист" Weight="0.5">
+<Allolog Form="ненависти"/>
+</Word>
+
+<Word Stem="переживан" Weight="0.5">
+<Allolog Form="переживания"/>
+</Word>
+
+<Word Stem="психологическ" Weight="0.05">
+<Allolog Form="психологической"/>
+</Word>
+
+<Word Stem="духовн" Weight="0.5">
+<Allolog Form="духовно"/>
+</Word>
+
+<Word Stem="идеальных" Weight="0.05">
+<Allolog Form="идеальных"/>
+</Word>
+
+<Word Stem="мудрец" Weight="0.05">
+<Allolog Form="мудреца"/>
+</Word>
+
+<Word Stem="воспринима" Weight="0.05">
+<Allolog Form="воспринимаю"/>
+</Word>
+
+<Word Stem="твор" Weight="0.05">
+<Allolog Form="творить"/>
+</Word>
+
+<Word Stem="творческ" Weight="0.5">
+<Allolog Form="творческая"/>
+</Word>
+
+<Word Stem="идеа" Weight="0.5">
+<Allolog Form="идеал"/>
+</Word>
+
+<Word Stem="удовлетворен" Weight="0.05">
+<Allolog Form="удовлетворённость"/>
+</Word>
+
+<Word Stem="благородн" Weight="0.5">
+<Allolog Form="благородный"/>
+</Word>
+
+<Word Stem="чувствен" Weight="0.5">
+<Allolog Form="чувственным"/>
+</Word>
+
+<Word Stem="моральн" Weight="0.5">
+<Allolog Form="морально"/>
+</Word>
+
+<Word Stem="позитивн" Weight="0.05">
+<Allolog Form="позитивное"/>
+</Word>
+
+<Word Stem="восприят" Weight="0.5">
+<Allolog Form="восприятия"/>
+</Word>
+
+<Word Stem="сознательн" Weight="0.05">
+<Allolog Form="сознательную"/>
+</Word>
+
+<Word Stem="нравствен" Weight="0.5">
+<Allolog Form="нравственность"/>
+</Word>
+
+<Word Stem="инстинкт" Weight="0.5">
+<Allolog Form="инстинкт"/>
+</Word>
+
+<Word Stem="божествен" Weight="0.5">
+<Allolog Form="божественная"/>
+</Word>
+
+<Word Stem="космическ" Weight="0.05">
+<Allolog Form="космической"/>
+</Word>
+
+<Word Stem="религ" Weight="0.5">
+<Allolog Form="религии"/>
+</Word>
+
+<Word Stem="возвышен" Weight="0.5">
+<Allolog Form="возвышенное"/>
+</Word>
+
+<Word Stem="ощутим" Weight="0.5">
+<Allolog Form="ощутимого"/>
+</Word>
+
+<Word Stem="религиозн" Weight="0.5">
+<Allolog Form="религиозные"/>
+</Word>
+
+<Word Stem="храбр" Weight="0.5">
+<Allolog Form="храброе"/>
+</Word>
+
+<Word Stem="потенц" Weight="0.05">
+<Allolog Form="потенцию"/>
+</Word>
+
+<Word Stem="негативн" Weight="0.05">
+<Allolog Form="негативные"/>
+</Word>
+
+<Word Stem="этик" Weight="0.5">
+<Allolog Form="этика"/>
+</Word>
+
+<Word Stem="моральных" Weight="0.5">
+<Allolog Form="моральных"/>
+</Word>
+
+<Word Stem="феномен" Weight="0.05">
+<Allolog Form="феномен"/>
+</Word>
+
+<Word Stem="феном" Weight="0.05">
+<Allolog Form="феномена"/>
+</Word>
+
+<Word Stem="дифференциац" Weight="0.05">
+<Allolog Form="дифференциация"/>
+</Word>
+
+<Word Stem="аффект" Weight="0.05">
+<Allolog Form="аффекта"/>
+</Word>
+
+<Word Stem="личностн" Weight="0.05">
+<Allolog Form="личностной"/>
+</Word>
+
+<Word Stem="альтруизм" Weight="0.05">
+<Allolog Form="альтруизм"/>
+</Word>
+
+<Word Stem="этическ" Weight="0.5">
+<Allolog Form="этической"/>
+</Word>
+
+<Word Stem="иррациональн" Weight="0.05">
+<Allolog Form="иррациональным"/>
+</Word>
+
+<Word Stem="субъективн" Weight="0.05">
+<Allolog Form="субъективное"/>
+</Word>
+
+<Word Stem="эгоизм" Weight="0.5">
+<Allolog Form="эгоизм"/>
+</Word>
+
+<Word Stem="мора" Weight="0.5">
+<Allolog Form="морали"/>
+</Word>
+
+<Word Stem="детерминац" Weight="0.05">
+<Allolog Form="детерминации"/>
+</Word>
+
+<Word Stem="превосходств" Weight="0.05">
+<Allolog Form="превосходство"/>
+</Word>
+
+<Word Stem="спонта" Weight="0.05">
+<Allolog Form="спонтанной"/>
+</Word>
+
+<Word Stem="самосознан" Weight="0.05">
+<Allolog Form="самосознания"/>
+</Word>
+
+<Word Stem="абстракц" Weight="0.05">
+<Allolog Form="абстракция"/>
+</Word>
+
+<Word Stem="презрен" Weight="0.5">
+<Allolog Form="презрения"/>
+</Word>
+
+<Word Stem="инициатив" Weight="0.05">
+<Allolog Form="инициатива"/>
+</Word>
+
+<Word Stem="ценностн" Weight="0.05">
+<Allolog Form="ценностными"/>
+</Word>
+
+<Word Stem="эстетическ" Weight="0.05">
+<Allolog Form="эстетического"/>
+</Word>
+
+<Word Stem="духовных" Weight="0.5">
+<Allolog Form="духовных"/>
+</Word>
+
+<Word Stem="ценностных" Weight="0.05">
+<Allolog Form="ценностных"/>
+</Word>
+
+<Word Stem="воззрен" Weight="0.05">
+<Allolog Form="воззрения"/>
+</Word>
+
+<Word Stem="самообладан" Weight="0.05">
+<Allolog Form="самообладание"/>
+</Word>
+
+<Word Stem="формализм" Weight="0.05">
+<Allolog Form="формализмы"/>
+</Word>
+
+<Word Stem="детерминирова" Weight="0.05">
+<Allolog Form="детерминировано"/>
+</Word>
+
+<Word Stem="трансцендентн" Weight="0.05">
+<Allolog Form="трансцендентное"/>
+</Word>
+
+<Word Stem="человечн" Weight="0.5">
+<Allolog Form="человечнее"/>
+</Word>
+
+<Word Stem="мужеств" Weight="0.5">
+<Allolog Form="мужеством"/>
+</Word>
+
+<Word Stem="благородств" Weight="0.5">
+<Allolog Form="благородством"/>
+</Word>
+
+<Word Stem="христианств" Weight="0.05">
+<Allolog Form="христианством"/>
+</Word>
+
+<Word Stem="предвиден" Weight="0.05">
+<Allolog Form="предвидения"/>
+</Word>
+
+<Word Stem="христианск" Weight="0.5">
+<Allolog Form="христианской"/>
+</Word>
+
+<Word Stem="творен" Weight="0.05">
+<Allolog Form="творенья"/>
+</Word>
+
+<Word Stem="добродетел" Weight="0.5">
+<Allolog Form="добродетелей"/>
+</Word>
+
+<Word Stem="характер" Weight="0.5">
+<Allolog Form="характер"/>
+</Word>
+
+<Word Stem="чувств" Weight="0.5">
+<Allolog Form="чувство"/>
+</Word>
+
+<Word Stem="антином" Weight="0.05">
+<Allolog Form="антиномиях"/>
+</Word>
+
+<Word Stem="иллюз" Weight="0.5">
+<Allolog Form="иллюзий"/>
+</Word>
+
+<Word Stem="желан" Weight="0.5">
+<Allolog Form="желание"/>
+</Word>
+
+<Word Stem="идеальн" Weight="0.5">
+<Allolog Form="идеальный"/>
+</Word>
+
+<Word Stem="интенц" Weight="0.05">
+<Allolog Form="интенция"/>
+</Word>
+
+<Word Stem="феноменолог" Weight="0.05">
+<Allolog Form="феноменологии"/>
+</Word>
+
+<Word Stem="категориальн" Weight="0.05">
+<Allolog Form="категориально"/>
+</Word>
+
+<Word Stem="морал" Weight="0.5">
+<Allolog Form="мораль"/>
+</Word>
+
+<Word Stem="философск" Weight="0.05">
+<Allolog Form="философская"/>
+</Word>
+
+<Word Stem="аксиологическ" Weight="0.05">
+<Allolog Form="аксиологического"/>
+</Word>
+
+<Word Stem="страдан" Weight="0.5">
+<Allolog Form="страданий"/>
+</Word>
+
+<Word Stem="божеств" Weight="0.05">
+<Allolog Form="божеством"/>
+</Word>
+
+<Word Stem="идеал" Weight="0.05">
+<Allolog Form="идеале"/>
+</Word>
+
+<Word Stem="нравственных" Weight="0.5">
+<Allolog Form="нравственных"/>
+</Word>
+
+<Word Stem="стоик" Weight="0.05">
+<Allolog Form="стоиков"/>
+</Word>
+
+<Word Stem="индифферентн" Weight="0.05">
+<Allolog Form="индифферентна"/>
+</Word>
+
+<Word Stem="рассудк" Weight="0.05">
+<Allolog Form="рассудку"/>
+</Word>
+
+<Word Stem="метафизическ" Weight="0.05">
+<Allolog Form="метафизические"/>
+</Word>
+
+<Word Stem="онтологическ" Weight="0.05">
+<Allolog Form="онтологическая"/>
+</Word>
+
+<Word Stem="платоновск" Weight="0.05">
+<Allolog Form="платоновской"/>
+</Word>
+
+<Word Stem="гносеологическ" Weight="0.05">
+<Allolog Form="гносеологическая"/>
+</Word>
+
+<Word Stem="умонастроен" Weight="0.05">
+<Allolog Form="умонастроении"/>
+</Word>
+
+<Word Stem="двусмыслен" Weight="0.05">
+<Allolog Form="двусмысленности"/>
+</Word>
+
+<Word Stem="логос" Weight="0.05">
+<Allolog Form="логос"/>
+</Word>
+
+<Word Stem="трансцендентальн" Weight="0.05">
+<Allolog Form="трансцендентального"/>
+</Word>
+
+<Word Stem="самоцен" Weight="0.05">
+<Allolog Form="самоценность"/>
+</Word>
+
+<Word Stem="полаган" Weight="0.05">
+<Allolog Form="полаганием"/>
+</Word>
+
+<Word Stem="предопределен" Weight="0.05">
+<Allolog Form="предопределенности"/>
+</Word>
+
+<Word Stem="познаваем" Weight="0.05">
+<Allolog Form="познаваемость"/>
+</Word>
+
+<Word Stem="телеологическ" Weight="0.05">
+<Allolog Form="телеологическом"/>
+</Word>
+
+<Word Stem="телеолог" Weight="0.05">
+<Allolog Form="телеологии"/>
+</Word>
+
+<Word Stem="персонализм" Weight="0.05">
+<Allolog Form="персонализм"/>
+</Word>
+
+<Word Stem="волен" Weight="0.05">
+<Allolog Form="воление"/>
+</Word>
+
+<Word Stem="реляцион" Weight="0.05">
+<Allolog Form="реляционную"/>
+</Word>
+
+<Word Stem="субъективизм" Weight="0.05">
+<Allolog Form="субъективизм"/>
+</Word>
+
+<Word Stem="целеполаган" Weight="0.05">
+<Allolog Form="целеполагания"/>
+</Word>
+
+<Word Stem="ирреальн" Weight="0.05">
+<Allolog Form="ирреальна"/>
+</Word>
+
+<Word Stem="страст" Weight="0.5">
+<Allolog Form="страсть"/>
+</Word>
+
+<Word Stem="забот" Weight="0.05">
+<Allolog Form="заботу"/>
+</Word>
+
+<Word Stem="достоинств" Weight="0.05">
+<Allolog Form="достоинству"/>
+</Word>
+
+<Word Stem="уважен" Weight="0.5">
+<Allolog Form="уважения"/>
+</Word>
+
+<Word Stem="мудр" Weight="0.05">
+<Allolog Form="мудрость"/>
+</Word>
+
+<Word Stem="душевн" Weight="0.5">
+<Allolog Form="душевное"/>
+</Word>
+
+<Word Stem="чувствован" Weight="0.05">
+<Allolog Form="чувствованием"/>
+</Word>
+
+<Word Stem="вменя" Weight="0.05">
+<Allolog Form="вменяемым"/>
+</Word>
+
+<Word Stem="удовольств" Weight="0.5">
+<Allolog Form="удовольствия"/>
+</Word>
+
+<Word Stem="априоризм" Weight="0.05">
+<Allolog Form="априоризма"/>
+</Word>
+
+<Word Stem="ценностном" Weight="0.05">
+<Allolog Form="ценностному"/>
+</Word>
+
+<Word Stem="антиномичн" Weight="0.05">
+<Allolog Form="антиномично"/>
+</Word>
+
+<Word Stem="чувст" Weight="0.05">
+<Allolog Form="чувст"/>
+</Word>
+
+<Word Stem="апостериорн" Weight="0.05">
+<Allolog Form="апостериорным"/>
+</Word>
+
+<Word Stem="контрцен" Weight="0.05">
+<Allolog Form="контрценное"/>
+</Word>
+
+<Word Stem="эвдемонизм" Weight="0.05">
+<Allolog Form="эвдемонизм"/>
+</Word>
+
+<Word Stem="женствован" Weight="0.05">
+<Allolog Form="женствованию"/>
+</Word>
+
+<Word Stem="неудовольств" Weight="0.05">
+<Allolog Form="неудовольствием"/>
+</Word>
+
+<Word Stem="эвдемон" Weight="0.05">
+<Allolog Form="эвдемония"/>
+</Word>
+
+<Word Stem="конститутивн" Weight="0.05">
+<Allolog Form="конститутивным"/>
+</Word>
+
+<Word Stem="нецен" Weight="0.05">
+<Allolog Form="неценностью"/>
+</Word>
+
+<Word Stem="рессентимент" Weight="0.05">
+<Allolog Form="рессентимента"/>
+</Word>
+
+<Word Stem="детерминир" Weight="0.05">
+<Allolog Form="детерминирующими"/>
+</Word>
+
+<Word Stem="гармон" Weight="0.05">
+<Allolog Form="гармонию"/>
+</Word>
+
+<Word Stem="фундирован" Weight="0.05">
+<Allolog Form="фундирования"/>
+</Word>
+
+<Word Stem="фундирова" Weight="0.05">
+<Allolog Form="фундирована"/>
+</Word>
+
+<Word Stem="фундир" Weight="0.05">
+<Allolog Form="фундирующей"/>
+</Word>
+
+<Word Stem="стоическ" Weight="0.05">
+<Allolog Form="стоической"/>
+</Word>
+
+</Words>

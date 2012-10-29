@@ -258,6 +258,8 @@
     <Content Include="Scripts\modernizr-2.5.3.js" />
     <Content Include="Scripts\Psy\Code.js" />
     <Content Include="Scripts\Psy\Mass.js" />
+    <Content Include="Scripts\viewmodels\viewmodels.js" />
+    <Content Include="Scripts\vk_api\vk_api.js" />
     <Content Include="trainingFolder\auto.txt" />
     <Content Include="trainingFolder\biologiy.txt" />
     <Content Include="trainingFolder\culinariy.txt" />

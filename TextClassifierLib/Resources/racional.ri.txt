@@ -1,0 +1,591 @@
+﻿<Words>
+
+<Word Stem="систем" Weight="0.5">
+<Allolog Form="систему"/>
+</Word>
+
+<Word Stem="доказа" Weight="0.5">
+<Allolog Form="доказано"/>
+</Word>
+
+<Word Stem="обнаружива" Weight="0.05">
+<Allolog Form="обнаруживайте"/>
+</Word>
+
+<Word Stem="процесс" Weight="0.5">
+<Allolog Form="процесс"/>
+</Word>
+
+<Word Stem="физик" Weight="0.05">
+<Allolog Form="физики"/>
+</Word>
+
+<Word Stem="эволюц" Weight="0.5">
+<Allolog Form="эволюция"/>
+</Word>
+
+<Word Stem="математик" Weight="0.05">
+<Allolog Form="математики"/>
+</Word>
+
+<Word Stem="теор" Weight="0.5">
+<Allolog Form="теорию"/>
+</Word>
+
+<Word Stem="объективн" Weight="0.5">
+<Allolog Form="объективную"/>
+</Word>
+
+<Word Stem="исследован" Weight="0.05">
+<Allolog Form="исследованию"/>
+</Word>
+
+<Word Stem="исследова" Weight="0.05">
+<Allolog Form="исследовать"/>
+</Word>
+
+<Word Stem="механизм" Weight="0.5">
+<Allolog Form="механизмов"/>
+</Word>
+
+<Word Stem="следовательн" Weight="0.05">
+<Allolog Form="следовательно"/>
+</Word>
+
+<Word Stem="формул" Weight="0.5">
+<Allolog Form="формулы"/>
+</Word>
+
+<Word Stem="эксперимент" Weight="0.05">
+<Allolog Form="эксперимента"/>
+</Word>
+
+<Word Stem="химическ" Weight="0.05">
+<Allolog Form="химический"/>
+</Word>
+
+<Word Stem="динамическ" Weight="0.05">
+<Allolog Form="динамической"/>
+</Word>
+
+<Word Stem="механическ" Weight="0.05">
+<Allolog Form="механической"/>
+</Word>
+
+<Word Stem="логическ" Weight="0.05">
+<Allolog Form="логической"/>
+</Word>
+
+<Word Stem="синтез" Weight="0.05">
+<Allolog Form="синтез"/>
+</Word>
+
+<Word Stem="последовательн" Weight="0.05">
+<Allolog Form="последовательность"/>
+</Word>
+
+<Word Stem="исходн" Weight="0.05">
+<Allolog Form="исходная"/>
+</Word>
+
+<Word Stem="аспект" Weight="0.05">
+<Allolog Form="аспекта"/>
+</Word>
+
+<Word Stem="электричеств" Weight="0.05">
+<Allolog Form="электричество"/>
+</Word>
+
+<Word Stem="исследовател" Weight="0.5">
+<Allolog Form="исследователей"/>
+</Word>
+
+<Word Stem="коэффициент" Weight="0.05">
+<Allolog Form="коэффициент"/>
+</Word>
+
+<Word Stem="систематическ" Weight="0.5">
+<Allolog Form="систематические"/>
+</Word>
+
+<Word Stem="синтетическ" Weight="0.05">
+<Allolog Form="синтетических"/>
+</Word>
+
+<Word Stem="рациональн" Weight="0.05">
+<Allolog Form="рациональным"/>
+</Word>
+
+<Word Stem="научн" Weight="0.05">
+<Allolog Form="научный"/>
+</Word>
+
+<Word Stem="математическ" Weight="0.05">
+<Allolog Form="математические"/>
+</Word>
+
+<Word Stem="опытн" Weight="0.05">
+<Allolog Form="опытная"/>
+</Word>
+
+<Word Stem="ясност" Weight="0.05">
+<Allolog Form="ясность"/>
+</Word>
+
+<Word Stem="измерен" Weight="0.05">
+<Allolog Form="измерения"/>
+</Word>
+
+<Word Stem="первичн" Weight="0.05">
+<Allolog Form="первичная"/>
+</Word>
+
+<Word Stem="эйнштейн" Weight="0.05">
+<Allolog Form="эйнштейна"/>
+</Word>
+
+<Word Stem="экспериментальн" Weight="0.05">
+<Allolog Form="экспериментальным"/>
+</Word>
+
+<Word Stem="гипотез" Weight="0.05">
+<Allolog Form="гипотез"/>
+</Word>
+
+<Word Stem="иерарх" Weight="0.05">
+<Allolog Form="иерарх"/>
+</Word>
+
+<Word Stem="рассужден" Weight="0.05">
+<Allolog Form="рассуждениям"/>
+</Word>
+
+<Word Stem="индуктивн" Weight="0.05">
+<Allolog Form="индуктивное"/>
+</Word>
+
+<Word Stem="статистическ" Weight="0.5">
+<Allolog Form="статистически"/>
+</Word>
+
+<Word Stem="экспериментальных" Weight="0.05">
+<Allolog Form="экспериментальных"/>
+</Word>
+
+<Word Stem="научных" Weight="0.5">
+<Allolog Form="научных"/>
+</Word>
+
+<Word Stem="фактическ" Weight="0.5">
+<Allolog Form="фактически"/>
+</Word>
+
+<Word Stem="подтвержден" Weight="0.05">
+<Allolog Form="подтверждение"/>
+</Word>
+
+<Word Stem="атом" Weight="0.05">
+<Allolog Form="атомов"/>
+</Word>
+
+<Word Stem="аналитическ" Weight="0.05">
+<Allolog Form="аналитический"/>
+</Word>
+
+<Word Stem="электрон" Weight="0.5">
+<Allolog Form="электронный"/>
+</Word>
+
+<Word Stem="теорем" Weight="0.05">
+<Allolog Form="теорема"/>
+</Word>
+
+<Word Stem="эмпирическ" Weight="0.05">
+<Allolog Form="эмпирически"/>
+</Word>
+
+<Word Stem="чисел" Weight="0.05">
+<Allolog Form="чисел"/>
+</Word>
+
+<Word Stem="специализац" Weight="0.05">
+<Allolog Form="специализация"/>
+</Word>
+
+<Word Stem="конструирован" Weight="0.05">
+<Allolog Form="конструированием"/>
+</Word>
+
+<Word Stem="геометрическ" Weight="0.05">
+<Allolog Form="геометрической"/>
+</Word>
+
+<Word Stem="интеллектуальн" Weight="0.05">
+<Allolog Form="интеллектуальной"/>
+</Word>
+
+<Word Stem="формальн" Weight="0.05">
+<Allolog Form="формальные"/>
+</Word>
+
+<Word Stem="реалистическ" Weight="0.05">
+<Allolog Form="реалистических"/>
+</Word>
+
+<Word Stem="методологическ" Weight="0.05">
+<Allolog Form="методологическим"/>
+</Word>
+
+<Word Stem="уравнен" Weight="0.05">
+<Allolog Form="уравнение"/>
+</Word>
+
+<Word Stem="детерминизм" Weight="0.05">
+<Allolog Form="детерминизм"/>
+</Word>
+
+<Word Stem="рационализац" Weight="0.05">
+<Allolog Form="рационализация"/>
+</Word>
+
+<Word Stem="механик" Weight="0.05">
+<Allolog Form="механиком"/>
+</Word>
+
+<Word Stem="диалектическ" Weight="0.05">
+<Allolog Form="диалектического"/>
+</Word>
+
+<Word Stem="геометр" Weight="0.05">
+<Allolog Form="геометрии"/>
+</Word>
+
+<Word Stem="аксиом" Weight="0.05">
+<Allolog Form="аксиому"/>
+</Word>
+
+<Word Stem="рациональных" Weight="0.05">
+<Allolog Form="рациональных"/>
+</Word>
+
+<Word Stem="евклид" Weight="0.05">
+<Allolog Form="евклидом"/>
+</Word>
+
+<Word Stem="евклидов" Weight="0.05">
+<Allolog Form="евклидовой"/>
+</Word>
+
+<Word Stem="ньютон" Weight="0.05">
+<Allolog Form="ньютона"/>
+</Word>
+
+<Word Stem="арифметик" Weight="0.05">
+<Allolog Form="арифметика"/>
+</Word>
+
+<Word Stem="траектор" Weight="0.05">
+<Allolog Form="траектории"/>
+</Word>
+
+<Word Stem="лобачевск" Weight="0.05">
+<Allolog Form="лобачевский"/>
+</Word>
+
+<Word Stem="постулат" Weight="0.05">
+<Allolog Form="постулаты"/>
+</Word>
+
+<Word Stem="ньютоновск" Weight="0.05">
+<Allolog Form="ньютоновской"/>
+</Word>
+
+<Word Stem="квантов" Weight="0.05">
+<Allolog Form="квантовой"/>
+</Word>
+
+<Word Stem="релятивистск" Weight="0.05">
+<Allolog Form="релятивистская"/>
+</Word>
+
+<Word Stem="прикладн" Weight="0.05">
+<Allolog Form="прикладная"/>
+</Word>
+
+<Word Stem="детерминирова" Weight="0.05">
+<Allolog Form="детерминировано"/>
+</Word>
+
+<Word Stem="квантовых" Weight="0.05">
+<Allolog Form="квантовых"/>
+</Word>
+
+<Word Stem="реорганизац" Weight="0.05">
+<Allolog Form="реорганизации"/>
+</Word>
+
+<Word Stem="схем" Weight="0.05">
+<Allolog Form="схема"/>
+</Word>
+
+<Word Stem="структур" Weight="0.05">
+<Allolog Form="структура"/>
+</Word>
+
+<Word Stem="класс" Weight="0.5">
+<Allolog Form="класс"/>
+</Word>
+
+<Word Stem="сравнен" Weight="0.5">
+<Allolog Form="сравнение"/>
+</Word>
+
+<Word Stem="связн" Weight="0.05">
+<Allolog Form="связность"/>
+</Word>
+
+<Word Stem="анализ" Weight="0.05">
+<Allolog Form="анализ"/>
+</Word>
+
+<Word Stem="функциональн" Weight="0.05">
+<Allolog Form="функциональный"/>
+</Word>
+
+<Word Stem="искусствен" Weight="0.05">
+<Allolog Form="искусственной"/>
+</Word>
+
+<Word Stem="операц" Weight="0.05">
+<Allolog Form="операций"/>
+</Word>
+
+<Word Stem="амбивалентн" Weight="0.05">
+<Allolog Form="амбивалентные"/>
+</Word>
+
+<Word Stem="диалектик" Weight="0.05">
+<Allolog Form="диалектика"/>
+</Word>
+
+<Word Stem="плюрализм" Weight="0.05">
+<Allolog Form="плюрализмом"/>
+</Word>
+
+<Word Stem="субстанц" Weight="0.05">
+<Allolog Form="субстанция"/>
+</Word>
+
+<Word Stem="техническ" Weight="0.5">
+<Allolog Form="технические"/>
+</Word>
+
+<Word Stem="электрическ" Weight="0.05">
+<Allolog Form="электрическими"/>
+</Word>
+
+<Word Stem="наук" Weight="0.5">
+<Allolog Form="наук"/>
+</Word>
+
+<Word Stem="рационализм" Weight="0.05">
+<Allolog Form="рационализма"/>
+</Word>
+
+<Word Stem="рационалистическ" Weight="0.05">
+<Allolog Form="рационалистический"/>
+</Word>
+
+<Word Stem="обоснова" Weight="0.05">
+<Allolog Form="обосновать"/>
+</Word>
+
+<Word Stem="реализм" Weight="0.05">
+<Allolog Form="реализм"/>
+</Word>
+
+<Word Stem="драм" Weight="0.05">
+<Allolog Form="драмы"/>
+</Word>
+
+<Word Stem="материализм" Weight="0.05">
+<Allolog Form="материализму"/>
+</Word>
+
+<Word Stem="здрав" Weight="0.05">
+<Allolog Form="здравый"/>
+</Word>
+
+<Word Stem="реалист" Weight="0.05">
+<Allolog Form="реалист"/>
+</Word>
+
+<Word Stem="метафизическ" Weight="0.05">
+<Allolog Form="метафизические"/>
+</Word>
+
+<Word Stem="неевклидов" Weight="0.05">
+<Allolog Form="неевклидовой"/>
+</Word>
+
+<Word Stem="эмпиризм" Weight="0.05">
+<Allolog Form="эмпиризма"/>
+</Word>
+
+<Word Stem="априорн" Weight="0.05">
+<Allolog Form="априорно"/>
+</Word>
+
+<Word Stem="рационалист" Weight="0.05">
+<Allolog Form="рационалист"/>
+</Word>
+
+<Word Stem="атомизм" Weight="0.05">
+<Allolog Form="атомизм"/>
+</Word>
+
+<Word Stem="объективац" Weight="0.05">
+<Allolog Form="объективацию"/>
+</Word>
+
+<Word Stem="субстанциальн" Weight="0.05">
+<Allolog Form="субстанциального"/>
+</Word>
+
+<Word Stem="кантианств" Weight="0.05">
+<Allolog Form="кантианство"/>
+</Word>
+
+<Word Stem="факт" Weight="0.5">
+<Allolog Form="факт"/>
+</Word>
+
+<Word Stem="реальн" Weight="0.5">
+<Allolog Form="реальности"/>
+</Word>
+
+<Word Stem="техник" Weight="0.5">
+<Allolog Form="технике"/>
+</Word>
+
+<Word Stem="опыт" Weight="0.5">
+<Allolog Form="опыту"/>
+</Word>
+
+<Word Stem="теоретическ" Weight="0.5">
+<Allolog Form="теоретическим"/>
+</Word>
+
+<Word Stem="связанных" Weight="0.05">
+<Allolog Form="связанных"/>
+</Word>
+
+<Word Stem="гейзенберг" Weight="0.05">
+<Allolog Form="гейзенберга"/>
+</Word>
+
+<Word Stem="связа" Weight="0.5">
+<Allolog Form="связанное"/>
+</Word>
+
+<Word Stem="физическ" Weight="0.5">
+<Allolog Form="физические"/>
+</Word>
+
+<Word Stem="разумеет" Weight="0.05">
+<Allolog Form="разумеется"/>
+</Word>
+
+<Word Stem="изуча" Weight="0.05">
+<Allolog Form="изучается"/>
+</Word>
+
+<Word Stem="связыва" Weight="0.05">
+<Allolog Form="связывает"/>
+</Word>
+
+<Word Stem="план" Weight="0.05">
+<Allolog Form="плане"/>
+</Word>
+
+<Word Stem="объяснен" Weight="0.05">
+<Allolog Form="объяснении"/>
+</Word>
+
+<Word Stem="материальн" Weight="0.05">
+<Allolog Form="материальная"/>
+</Word>
+
+<Word Stem="первоначальн" Weight="0.05">
+<Allolog Form="первоначальные"/>
+</Word>
+
+<Word Stem="доказыва" Weight="0.5">
+<Allolog Form="доказывал"/>
+</Word>
+
+<Word Stem="priori" Weight="0.05">
+<Allolog Form="priori"/>
+</Word>
+
+<Word Stem="индетерминизм" Weight="0.05">
+<Allolog Form="индетерминизм"/>
+</Word>
+
+<Word Stem="неаристотелевск" Weight="0.05">
+<Allolog Form="неаристотелевская"/>
+</Word>
+
+<Word Stem="ноуменальн" Weight="0.05">
+<Allolog Form="ноуменальным"/>
+</Word>
+
+<Word Stem="ноумен" Weight="0.05">
+<Allolog Form="ноумен"/>
+</Word>
+
+<Word Stem="субстанциалистск" Weight="0.05">
+<Allolog Form="субстанциалистской"/>
+</Word>
+
+<Word Stem="реалистск" Weight="0.05">
+<Allolog Form="реалистской"/>
+</Word>
+
+<Word Stem="аксиоматик" Weight="0.05">
+<Allolog Form="аксиоматики"/>
+</Word>
+
+<Word Stem="изуч" Weight="0.05">
+<Allolog Form="изучить"/>
+</Word>
+
+<Word Stem="субстанциальных" Weight="0.05">
+<Allolog Form="субстанциальных"/>
+</Word>
+
+<Word Stem="микрофизик" Weight="0.05">
+<Allolog Form="микрофизика"/>
+</Word>
+
+<Word Stem="эйнштейновск" Weight="0.05">
+<Allolog Form="эйнштейновская"/>
+</Word>
+
+<Word Stem="концептуализац" Weight="0.05">
+<Allolog Form="концептуализация"/>
+</Word>
+
+<Word Stem="диалектизирова" Weight="0.05">
+<Allolog Form="диалектизировать"/>
+</Word>
+
+<Word Stem="дисперсирова" Weight="0.05">
+<Allolog Form="дисперсированную"/>
+</Word>
+
+<Word Stem="диалектизац" Weight="0.05">
+<Allolog Form="диалектизация"/>
+</Word>
+
+</Words>

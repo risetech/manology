@@ -60,24 +60,6 @@ namespace VKInfo.Controllers
 		{
 			return View();
 		}
-		private string ToNormalWord(string word)
-		{
-			switch (word)
-			{
-				case "psy":
-					return "Психология";
-				case "policy":
-					return "Политика";
-				case "mathematics":
-					return "Математика";
-				case "medicine":
-					return "Медицина";
-				case "it":
-					return "Информационные технологии";
-				default:
-					return "Неизвестно";
-			}
-		}
 
 		public ActionResult Analisys(List<Post> posts)
 		{

@@ -2,6 +2,7 @@
 @{
 	ViewBag.Title = "Manology.info";
 }
+<script type="text/javascript" src="../../Scripts/vk_api/vk_api.js"></script>
 <script type="text/javascript" src="http://highcharts.com/js/testing-exporting.js"></script>
 <div class="well" id="search-warning">
 	<h2 class="alert alert-error">На данный момент поддерживается поиск только по <strong>ВКонтакте</strong>.
@@ -68,8 +69,53 @@
 				<div class="alert alert-error" id="error-bar" style="display: none">
 					Популярные пользователи на данный момент могут анализироваться неверно.
 				</div>
-				<div id="likedme-rating" data-bind="foreach: showedLikedMe, visible: showedLikedMe().length > 0">
-					<div class="content-container">
+				<ul id="likedme-rating" class="thumbnails" data-bind="foreach: showedLikedMe, visible: showedLikedMe().length > 0">
+					<li style="width: 200px;">
+						<a data-bind="attr: {href: link}" target="_blank" class="thumbnail">
+							<div style="min-height: 190px; text-align: center;">
+								<img data-bind="attr: {src: photo}" style="max-width: 190px; max-height: 190px;" />
+							</div>
+							<div class="caption">
+								<h3 data-bind="text: username" style="text-align: center;"></h3>
+								<p>
+									<button data-bind="click: likedMeRatingModal" class="btn btn-secondary" style="width: 100%;">
+										<span><i class="icon-heart"></i></span>&nbsp<span data-bind="text: likesCount">
+										</span>&nbsp&nbsp&nbsp<span><i class="icon-retweet"></i></span>&nbsp<span
+											data-bind="text: repostsCount"></span>
+									</button>
+									<button data-bind="click: analyzeUser" class="btn btn-primary" style="width: 100%;">Анализировать</button>
+								</p>
+							</div>
+						</a>
+						<div class="modal hide fade">
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal">
+									×</button>
+								<h3 data-bind="text: username"></h3>
+							</div>
+							<div class="modal-body">
+								<h4>Лайки:</h4>
+								<div data-bind="foreach: likedContentList">
+									<p>
+										<a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
+										</a>
+									</p>
+								</div>
+								<h4 data-bind="visible: repostedContentList().length > 0">Репосты:</h4>
+								<div data-bind="foreach: repostedContentList">
+									<p>
+										<a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
+										</a>
+									</p>
+								</div>
+							</div>
+							<div class="modal-footer">
+								<button class="btn btn-danger" data-dismiss="modal">
+									Закрыть</button>
+							</div>
+						</div>
+					</li>
+					@*<div class="content-container">
 						<a data-bind="attr: {href: link}" target="_blank">
 							<div class="content">
 								<img data-bind="attr: {src: photo}" />
@@ -86,37 +132,10 @@
 						</button>
 						<button data-bind="click: analyzeUser" class="btn btn-primary manology-open">Анализировать</button>
 						<div class="clear"></div>
-					</div>
-					<div class="modal hide fade">
-						<div class="modal-header">
-							<button type="button" class="close" data-dismiss="modal">
-								×</button>
-							<h3 data-bind="text: username"></h3>
-						</div>
-						<div class="modal-body">
-							<h4>Лайки:</h4>
-							<div data-bind="foreach: likedContentList">
-								<p>
-									<a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
-									</a>
-								</p>
-							</div>
-							<h4 data-bind="visible: repostedContentList().length > 0">Репосты:</h4>
-							<div data-bind="foreach: repostedContentList">
-								<p>
-									<a data-bind="attr: {href: link}" target="_blank"><span data-bind="text: link"></span>
-									</a>
-								</p>
-							</div>
-						</div>
-						<div class="modal-footer">
-							<button class="btn btn-danger" data-dismiss="modal">
-								Закрыть</button>
-						</div>
-					</div>
-				</div>
-				<div style="clear: both">
-				</div>
+					</div>*@
+				</ul>
+				@*	<div style="clear: both">
+				</div>*@
 				<div class="form-actions">
 					<button class="btn expander" data-bind="click: expand, visible: currentLength() < maxLength()">
 						Еще</button>

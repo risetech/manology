@@ -1,0 +1,791 @@
+﻿<Words>
+
+<Word Stem="любя" Weight="0.5">
+<Allolog Form="любящий"/>
+</Word>
+
+<Word Stem="обманыва" Weight="0.05">
+<Allolog Form="обманывают"/>
+</Word>
+
+<Word Stem="музык" Weight="0.05">
+<Allolog Form="музыку"/>
+</Word>
+
+<Word Stem="любит" Weight="0.5">
+<Allolog Form="любит"/>
+</Word>
+
+<Word Stem="тайн" Weight="0.05">
+<Allolog Form="тайна"/>
+</Word>
+
+<Word Stem="красот" Weight="0.05">
+<Allolog Form="красоту"/>
+</Word>
+
+<Word Stem="эмоциональн" Weight="0.05">
+<Allolog Form="эмоциональную"/>
+</Word>
+
+<Word Stem="культурн" Weight="0.05">
+<Allolog Form="культурно"/>
+</Word>
+
+<Word Stem="любв" Weight="0.5">
+<Allolog Form="любви"/>
+</Word>
+
+<Word Stem="ангел" Weight="0.5">
+<Allolog Form="ангел"/>
+</Word>
+
+<Word Stem="судьб" Weight="0.05">
+<Allolog Form="судьба"/>
+</Word>
+
+<Word Stem="вдохновля" Weight="0.05">
+<Allolog Form="вдохновляйтесь"/>
+</Word>
+
+<Word Stem="свят" Weight="0.5">
+<Allolog Form="святой"/>
+</Word>
+
+<Word Stem="воскресен" Weight="0.05">
+<Allolog Form="воскресенье"/>
+</Word>
+
+<Word Stem="духовн" Weight="0.5">
+<Allolog Form="духовно"/>
+</Word>
+
+<Word Stem="заблужден" Weight="0.05">
+<Allolog Form="заблуждения"/>
+</Word>
+
+<Word Stem="страстн" Weight="0.5">
+<Allolog Form="страстно"/>
+</Word>
+
+<Word Stem="фантаз" Weight="0.5">
+<Allolog Form="фантазия"/>
+</Word>
+
+<Word Stem="неизвестн" Weight="0.05">
+<Allolog Form="неизвестно"/>
+</Word>
+
+<Word Stem="культур" Weight="0.05">
+<Allolog Form="культуры"/>
+</Word>
+
+<Word Stem="твор" Weight="0.05">
+<Allolog Form="творить"/>
+</Word>
+
+<Word Stem="молитв" Weight="0.5">
+<Allolog Form="молитва"/>
+</Word>
+
+<Word Stem="идеа" Weight="0.05">
+<Allolog Form="идеал"/>
+</Word>
+
+<Word Stem="церков" Weight="0.5">
+<Allolog Form="церковь"/>
+</Word>
+
+<Word Stem="интуиц" Weight="0.5">
+<Allolog Form="интуиция"/>
+</Word>
+
+<Word Stem="чувствен" Weight="0.05">
+<Allolog Form="чувственным"/>
+</Word>
+
+<Word Stem="моральн" Weight="0.05">
+<Allolog Form="морально"/>
+</Word>
+
+<Word Stem="намек" Weight="0.05">
+<Allolog Form="намеков"/>
+</Word>
+
+<Word Stem="священник" Weight="0.05">
+<Allolog Form="священник"/>
+</Word>
+
+<Word Stem="нравствен" Weight="0.05">
+<Allolog Form="нравственность"/>
+</Word>
+
+<Word Stem="бессознательн" Weight="0.05">
+<Allolog Form="бессознательного"/>
+</Word>
+
+<Word Stem="инстинкт" Weight="0.05">
+<Allolog Form="инстинкт"/>
+</Word>
+
+<Word Stem="божествен" Weight="0.5">
+<Allolog Form="божественная"/>
+</Word>
+
+<Word Stem="ментальн" Weight="0.05">
+<Allolog Form="ментальной"/>
+</Word>
+
+<Word Stem="интуитивн" Weight="0.05">
+<Allolog Form="интуитивно"/>
+</Word>
+
+<Word Stem="религ" Weight="0.5">
+<Allolog Form="религии"/>
+</Word>
+
+<Word Stem="магическ" Weight="0.05">
+<Allolog Form="магические"/>
+</Word>
+
+<Word Stem="ложн" Weight="0.05">
+<Allolog Form="ложную"/>
+</Word>
+
+<Word Stem="созерцан" Weight="0.05">
+<Allolog Form="созерцание"/>
+</Word>
+
+<Word Stem="возрожден" Weight="0.05">
+<Allolog Form="возрождение"/>
+</Word>
+
+<Word Stem="монастыр" Weight="0.05">
+<Allolog Form="монастыре"/>
+</Word>
+
+<Word Stem="восточн" Weight="0.05">
+<Allolog Form="восточный"/>
+</Word>
+
+<Word Stem="религиозн" Weight="0.05">
+<Allolog Form="религиозные"/>
+</Word>
+
+<Word Stem="традиц" Weight="0.05">
+<Allolog Form="традиций"/>
+</Word>
+
+<Word Stem="порч" Weight="0.05">
+<Allolog Form="порчу"/>
+</Word>
+
+<Word Stem="иисус" Weight="0.05">
+<Allolog Form="иисуса"/>
+</Word>
+
+<Word Stem="святых" Weight="0.5">
+<Allolog Form="святых"/>
+</Word>
+
+<Word Stem="пророк" Weight="0.05">
+<Allolog Form="пророки"/>
+</Word>
+
+<Word Stem="церкв" Weight="0.05">
+<Allolog Form="церкви"/>
+</Word>
+
+<Word Stem="христос" Weight="0.05">
+<Allolog Form="христос"/>
+</Word>
+
+<Word Stem="интерпретац" Weight="0.05">
+<Allolog Form="интерпретации"/>
+</Word>
+
+<Word Stem="мистик" Weight="0.05">
+<Allolog Form="мистики"/>
+</Word>
+
+<Word Stem="христ" Weight="0.05">
+<Allolog Form="христа"/>
+</Word>
+
+<Word Stem="апостол" Weight="0.05">
+<Allolog Form="апостолов"/>
+</Word>
+
+<Word Stem="блажен" Weight="0.05">
+<Allolog Form="блаженной"/>
+</Word>
+
+<Word Stem="искушен" Weight="0.05">
+<Allolog Form="искушением"/>
+</Word>
+
+<Word Stem="божьем" Weight="0.05">
+<Allolog Form="божьему"/>
+</Word>
+
+<Word Stem="троиц" Weight="0.05">
+<Allolog Form="троицу"/>
+</Word>
+
+<Word Stem="преподобн" Weight="0.05">
+<Allolog Form="преподобные"/>
+</Word>
+
+<Word Stem="этик" Weight="0.05">
+<Allolog Form="этика"/>
+</Word>
+
+<Word Stem="абстрактн" Weight="0.05">
+<Allolog Form="абстрактно"/>
+</Word>
+
+<Word Stem="мотив" Weight="0.05">
+<Allolog Form="мотивы"/>
+</Word>
+
+<Word Stem="этическ" Weight="0.05">
+<Allolog Form="этической"/>
+</Word>
+
+<Word Stem="подразумева" Weight="0.05">
+<Allolog Form="подразумеваем"/>
+</Word>
+
+<Word Stem="символическ" Weight="0.05">
+<Allolog Form="символическую"/>
+</Word>
+
+<Word Stem="спонта" Weight="0.05">
+<Allolog Form="спонтанной"/>
+</Word>
+
+<Word Stem="дуализм" Weight="0.05">
+<Allolog Form="дуализм"/>
+</Word>
+
+<Word Stem="абстракц" Weight="0.05">
+<Allolog Form="абстракция"/>
+</Word>
+
+<Word Stem="создател" Weight="0.05">
+<Allolog Form="создатель"/>
+</Word>
+
+<Word Stem="сочинен" Weight="0.05">
+<Allolog Form="сочинения"/>
+</Word>
+
+<Word Stem="эстетическ" Weight="0.05">
+<Allolog Form="эстетического"/>
+</Word>
+
+<Word Stem="предвосхищен" Weight="0.05">
+<Allolog Form="предвосхищения"/>
+</Word>
+
+<Word Stem="трансцендентн" Weight="0.05">
+<Allolog Form="трансцендентное"/>
+</Word>
+
+<Word Stem="проповед" Weight="0.05">
+<Allolog Form="проповедь"/>
+</Word>
+
+<Word Stem="толкован" Weight="0.05">
+<Allolog Form="толкования"/>
+</Word>
+
+<Word Stem="литературн" Weight="0.05">
+<Allolog Form="литературный"/>
+</Word>
+
+<Word Stem="церковн" Weight="0.05">
+<Allolog Form="церковном"/>
+</Word>
+
+<Word Stem="христианств" Weight="0.05">
+<Allolog Form="христианством"/>
+</Word>
+
+<Word Stem="завет" Weight="0.05">
+<Allolog Form="заветов"/>
+</Word>
+
+<Word Stem="религиозных" Weight="0.05">
+<Allolog Form="религиозных"/>
+</Word>
+
+<Word Stem="христианск" Weight="0.05">
+<Allolog Form="христианской"/>
+</Word>
+
+<Word Stem="евангел" Weight="0.05">
+<Allolog Form="евангелии"/>
+</Word>
+
+<Word Stem="творц" Weight="0.05">
+<Allolog Form="творцов"/>
+</Word>
+
+<Word Stem="священ" Weight="0.5">
+<Allolog Form="священном"/>
+</Word>
+
+<Word Stem="епископ" Weight="0.05">
+<Allolog Form="епископ"/>
+</Word>
+
+<Word Stem="мистическ" Weight="0.05">
+<Allolog Form="мистические"/>
+</Word>
+
+<Word Stem="таинствен" Weight="0.05">
+<Allolog Form="таинственность"/>
+</Word>
+
+<Word Stem="спасител" Weight="0.05">
+<Allolog Form="спаситель"/>
+</Word>
+
+<Word Stem="католик" Weight="0.05">
+<Allolog Form="католиков"/>
+</Word>
+
+<Word Stem="католическ" Weight="0.05">
+<Allolog Form="католической"/>
+</Word>
+
+<Word Stem="еретик" Weight="0.05">
+<Allolog Form="еретика"/>
+</Word>
+
+<Word Stem="библейск" Weight="0.05">
+<Allolog Form="библейские"/>
+</Word>
+
+<Word Stem="церковных" Weight="0.05">
+<Allolog Form="церковных"/>
+</Word>
+
+<Word Stem="священных" Weight="0.05">
+<Allolog Form="священных"/>
+</Word>
+
+<Word Stem="протестантск" Weight="0.05">
+<Allolog Form="протестантской"/>
+</Word>
+
+<Word Stem="внутрен" Weight="0.05">
+<Allolog Form="внутренняя"/>
+</Word>
+
+<Word Stem="чувств" Weight="0.5">
+<Allolog Form="чувство"/>
+</Word>
+
+<Word Stem="совпаден" Weight="0.05">
+<Allolog Form="совпадение"/>
+</Word>
+
+<Word Stem="риторик" Weight="0.05">
+<Allolog Form="риторика"/>
+</Word>
+
+<Word Stem="идеальн" Weight="0.05">
+<Allolog Form="идеальный"/>
+</Word>
+
+<Word Stem="настроен" Weight="0.05">
+<Allolog Form="настроения"/>
+</Word>
+
+<Word Stem="морал" Weight="0.05">
+<Allolog Form="мораль"/>
+</Word>
+
+<Word Stem="чувственных" Weight="0.05">
+<Allolog Form="чувственных"/>
+</Word>
+
+<Word Stem="искусств" Weight="0.05">
+<Allolog Form="искусство"/>
+</Word>
+
+<Word Stem="языческ" Weight="0.05">
+<Allolog Form="языческих"/>
+</Word>
+
+<Word Stem="сверхъестествен" Weight="0.05">
+<Allolog Form="сверхъестественного"/>
+</Word>
+
+<Word Stem="возлюблен" Weight="0.5">
+<Allolog Form="возлюбленного"/>
+</Word>
+
+<Word Stem="бессмыслен" Weight="0.05">
+<Allolog Form="бессмыслен"/>
+</Word>
+
+<Word Stem="сакральн" Weight="0.05">
+<Allolog Form="сакральным"/>
+</Word>
+
+<Word Stem="библ" Weight="0.05">
+<Allolog Form="библии"/>
+</Word>
+
+<Word Stem="язычеств" Weight="0.05">
+<Allolog Form="язычества"/>
+</Word>
+
+<Word Stem="идеал" Weight="0.05">
+<Allolog Form="идеале"/>
+</Word>
+
+<Word Stem="бессмертн" Weight="0.05">
+<Allolog Form="бессмертны"/>
+</Word>
+
+<Word Stem="стоицизм" Weight="0.05">
+<Allolog Form="стоицизма"/>
+</Word>
+
+<Word Stem="бессмерт" Weight="0.05">
+<Allolog Form="бессмертие"/>
+</Word>
+
+<Word Stem="стоик" Weight="0.05">
+<Allolog Form="стоиков"/>
+</Word>
+
+<Word Stem="христиа" Weight="0.05">
+<Allolog Form="христиан"/>
+</Word>
+
+<Word Stem="теолог" Weight="0.05">
+<Allolog Form="теологами"/>
+</Word>
+
+<Word Stem="ерес" Weight="0.05">
+<Allolog Form="ересью"/>
+</Word>
+
+<Word Stem="филолог" Weight="0.05">
+<Allolog Form="филологию"/>
+</Word>
+
+<Word Stem="гуман" Weight="0.05">
+<Allolog Form="гумани"/>
+</Word>
+
+<Word Stem="шопенгауэр" Weight="0.05">
+<Allolog Form="шопенгауэр"/>
+</Word>
+
+<Word Stem="догм" Weight="0.05">
+<Allolog Form="догмой"/>
+</Word>
+
+<Word Stem="истолкован" Weight="0.05">
+<Allolog Form="истолкования"/>
+</Word>
+
+<Word Stem="религиоз" Weight="0.05">
+<Allolog Form="религиоз"/>
+</Word>
+
+<Word Stem="творец" Weight="0.05">
+<Allolog Form="творец"/>
+</Word>
+
+<Word Stem="теологическ" Weight="0.05">
+<Allolog Form="теологического"/>
+</Word>
+
+<Word Stem="небыт" Weight="0.05">
+<Allolog Form="небытию"/>
+</Word>
+
+<Word Stem="несовершен" Weight="0.05">
+<Allolog Form="несовершенным"/>
+</Word>
+
+<Word Stem="протестантизм" Weight="0.05">
+<Allolog Form="протестантизма"/>
+</Word>
+
+<Word Stem="прозрен" Weight="0.05">
+<Allolog Form="прозрении"/>
+</Word>
+
+<Word Stem="двусмыслен" Weight="0.05">
+<Allolog Form="двусмысленности"/>
+</Word>
+
+<Word Stem="проницательн" Weight="0.05">
+<Allolog Form="проницательность"/>
+</Word>
+
+<Word Stem="христианин" Weight="0.05">
+<Allolog Form="христианина"/>
+</Word>
+
+<Word Stem="эманац" Weight="0.05">
+<Allolog Form="эманации"/>
+</Word>
+
+<Word Stem="провиден" Weight="0.05">
+<Allolog Form="провидение"/>
+</Word>
+
+<Word Stem="вечном" Weight="0.05">
+<Allolog Form="вечному"/>
+</Word>
+
+<Word Stem="абсурдн" Weight="0.05">
+<Allolog Form="абсурдность"/>
+</Word>
+
+<Word Stem="божественных" Weight="0.05">
+<Allolog Form="божественных"/>
+</Word>
+
+<Word Stem="микрокосм" Weight="0.05">
+<Allolog Form="микрокосма"/>
+</Word>
+
+<Word Stem="эрос" Weight="0.05">
+<Allolog Form="эрос"/>
+</Word>
+
+<Word Stem="неразумн" Weight="0.05">
+<Allolog Form="неразумно"/>
+</Word>
+
+<Word Stem="божественном" Weight="0.05">
+<Allolog Form="божественному"/>
+</Word>
+
+<Word Stem="филологическ" Weight="0.05">
+<Allolog Form="филологических"/>
+</Word>
+
+<Word Stem="христиан" Weight="0.05">
+<Allolog Form="христиане"/>
+</Word>
+
+<Word Stem="язычник" Weight="0.05">
+<Allolog Form="язычники"/>
+</Word>
+
+<Word Stem="иррационализм" Weight="0.05">
+<Allolog Form="иррационализма"/>
+</Word>
+
+<Word Stem="озарен" Weight="0.05">
+<Allolog Form="озарение"/>
+</Word>
+
+<Word Stem="бестелесн" Weight="0.05">
+<Allolog Form="бестелесно"/>
+</Word>
+
+<Word Stem="псалм" Weight="0.05">
+<Allolog Form="псалмы"/>
+</Word>
+
+<Word Stem="страст" Weight="0.5">
+<Allolog Form="страсть"/>
+</Word>
+
+<Word Stem="веден" Weight="0.05">
+<Allolog Form="ведении"/>
+</Word>
+
+<Word Stem="платоническ" Weight="0.05">
+<Allolog Form="платонической"/>
+</Word>
+
+<Word Stem="фортун" Weight="0.05">
+<Allolog Form="фортуна"/>
+</Word>
+
+<Word Stem="невидим" Weight="0.05">
+<Allolog Form="невидимую"/>
+</Word>
+
+<Word Stem="ошибочн" Weight="0.05">
+<Allolog Form="ошибочность"/>
+</Word>
+
+<Word Stem="господ" Weight="0.5">
+<Allolog Form="господу"/>
+</Word>
+
+<Word Stem="нематериальн" Weight="0.05">
+<Allolog Form="нематериальное"/>
+</Word>
+
+<Word Stem="заповед" Weight="0.05">
+<Allolog Form="заповеди"/>
+</Word>
+
+<Word Stem="символ" Weight="0.05">
+<Allolog Form="символов"/>
+</Word>
+
+<Word Stem="сомнева" Weight="0.05">
+<Allolog Form="сомневается"/>
+</Word>
+
+<Word Stem="литератур" Weight="0.05">
+<Allolog Form="литературе"/>
+</Word>
+
+<Word Stem="слеп" Weight="0.05">
+<Allolog Form="слепой"/>
+</Word>
+
+<Word Stem="грех" Weight="0.5">
+<Allolog Form="грех"/>
+</Word>
+
+<Word Stem="исповедник" Weight="0.05">
+<Allolog Form="исповедник"/>
+</Word>
+
+<Word Stem="дидаскаликон" Weight="0.05">
+<Allolog Form="дидаскаликон"/>
+</Word>
+
+<Word Stem="теократ" Weight="0.05">
+<Allolog Form="теократии"/>
+</Word>
+
+<Word Stem="зороастр" Weight="0.05">
+<Allolog Form="зороастр"/>
+</Word>
+
+<Word Stem="мирандол" Weight="0.05">
+<Allolog Form="мирандола"/>
+</Word>
+
+<Word Stem="каббал" Weight="0.05">
+<Allolog Form="каббалой"/>
+</Word>
+
+<Word Stem="кабба" Weight="0.05">
+<Allolog Form="каббала"/>
+</Word>
+
+<Word Stem="пророческ" Weight="0.05">
+<Allolog Form="пророческих"/>
+</Word>
+
+<Word Stem="демиург" Weight="0.05">
+<Allolog Form="демиурга"/>
+</Word>
+
+<Word Stem="всевышн" Weight="0.05">
+<Allolog Form="всевышнего"/>
+</Word>
+
+<Word Stem="возлюб" Weight="0.05">
+<Allolog Form="возлюбил"/>
+</Word>
+
+<Word Stem="иуде" Weight="0.05">
+<Allolog Form="иудеев"/>
+</Word>
+
+<Word Stem="евангельск" Weight="0.05">
+<Allolog Form="евангельское"/>
+</Word>
+
+<Word Stem="христов" Weight="0.5">
+<Allolog Form="христова"/>
+</Word>
+
+<Word Stem="еретическ" Weight="0.05">
+<Allolog Form="еретических"/>
+</Word>
+
+<Word Stem="халдейск" Weight="0.05">
+<Allolog Form="халдейские"/>
+</Word>
+
+<Word Stem="греш" Weight="0.05">
+<Allolog Form="грешили"/>
+</Word>
+
+<Word Stem="теоф" Weight="0.05">
+<Allolog Form="теофил"/>
+</Word>
+
+<Word Stem="таинств" Weight="0.05">
+<Allolog Form="таинства"/>
+</Word>
+
+<Word Stem="эриуген" Weight="0.05">
+<Allolog Form="эриугеной"/>
+</Word>
+
+<Word Stem="божест" Weight="0.05">
+<Allolog Form="божест"/>
+</Word>
+
+<Word Stem="credo" Weight="0.05">
+<Allolog Form="credo"/>
+</Word>
+
+<Word Stem="манихе" Weight="0.05">
+<Allolog Form="манихеев"/>
+</Word>
+
+<Word Stem="вдохновлен" Weight="0.05">
+<Allolog Form="вдохновленная"/>
+</Word>
+
+<Word Stem="архиепископ" Weight="0.05">
+<Allolog Form="архиепископа"/>
+</Word>
+
+<Word Stem="аббатств" Weight="0.05">
+<Allolog Form="аббатств"/>
+</Word>
+
+<Word Stem="папск" Weight="0.05">
+<Allolog Form="папской"/>
+</Word>
+
+<Word Stem="понтификат" Weight="0.05">
+<Allolog Form="понтификата"/>
+</Word>
+
+<Word Stem="литератор" Weight="0.05">
+<Allolog Form="литератором"/>
+</Word>
+
+<Word Stem="аверроист" Weight="0.05">
+<Allolog Form="аверроистов"/>
+</Word>
+
+<Word Stem="opus" Weight="0.05">
+<Allolog Form="opus"/>
+</Word>
+
+<Word Stem="оракул" Weight="0.05">
+<Allolog Form="оракулы"/>
+</Word>
+
+<Word Stem="schopenhauer" Weight="0.05">
+<Allolog Form="schopenhauer"/>
+</Word>
+
+</Words>

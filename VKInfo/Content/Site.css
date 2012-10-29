@@ -371,8 +371,8 @@ p.size-m
 
 #likedme-rating, #likedphotos-rating, #likedposts-rating, #favourite-users-rating, #favourite-groups-rating
 {
-	display: none;
-	overflow: hidden;
+	/*display: none;*/
+	/*overflow: hidden;*/
 }
 
 	#likedme-rating .content-footer:hover, #favourite-users-rating .content-footer:hover, #favourite-groups-rating .content-footer:hover

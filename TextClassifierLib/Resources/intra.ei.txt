@@ -1,0 +1,299 @@
+﻿<Words>
+
+<Word Stem="памя" Weight="0.05">
+<Allolog Form="память"/>
+</Word>
+
+<Word Stem="слуша" Weight="0.5">
+<Allolog Form="слушать"/>
+</Word>
+
+<Word Stem="личн" Weight="0.5">
+<Allolog Form="личное"/>
+</Word>
+
+<Word Stem="ответствен" Weight="0.5">
+<Allolog Form="ответственность"/>
+</Word>
+
+<Word Stem="собствен" Weight="0.5">
+<Allolog Form="собственное"/>
+</Word>
+
+<Word Stem="услыша" Weight="0.5">
+<Allolog Form="услышать"/>
+</Word>
+
+<Word Stem="забыва" Weight="0.5">
+<Allolog Form="забывают"/>
+</Word>
+
+<Word Stem="одиночеств" Weight="0.5">
+<Allolog Form="одиночестве"/>
+</Word>
+
+<Word Stem="слыша" Weight="0.5">
+<Allolog Form="слышать"/>
+</Word>
+
+<Word Stem="смотр" Weight="0.05">
+<Allolog Form="смотри"/>
+</Word>
+
+<Word Stem="напиш" Weight="0.05">
+<Allolog Form="напишу"/>
+</Word>
+
+<Word Stem="велик" Weight="0.05">
+<Allolog Form="великих"/>
+</Word>
+
+<Word Stem="памят" Weight="0.05">
+<Allolog Form="памяти"/>
+</Word>
+
+<Word Stem="успокаива" Weight="0.05">
+<Allolog Form="успокаивает"/>
+</Word>
+
+<Word Stem="депресс" Weight="0.05">
+<Allolog Form="депрессию"/>
+</Word>
+
+<Word Stem="собственных" Weight="0.05">
+<Allolog Form="собственных"/>
+</Word>
+
+<Word Stem="расслаб" Weight="0.05">
+<Allolog Form="расслабиться"/>
+</Word>
+
+<Word Stem="избега" Weight="0.05">
+<Allolog Form="избегайте"/>
+</Word>
+
+<Word Stem="сбор" Weight="0.05">
+<Allolog Form="сбор"/>
+</Word>
+
+<Word Stem="напряжен" Weight="0.05">
+<Allolog Form="напряжению"/>
+</Word>
+
+<Word Stem="мыслен" Weight="0.05">
+<Allolog Form="мысленно"/>
+</Word>
+
+<Word Stem="величайш" Weight="0.05">
+<Allolog Form="величайший"/>
+</Word>
+
+<Word Stem="сосредоточен" Weight="0.5">
+<Allolog Form="сосредоточен"/>
+</Word>
+
+<Word Stem="торможен" Weight="0.05">
+<Allolog Form="торможение"/>
+</Word>
+
+<Word Stem="вовнутр" Weight="0.5">
+<Allolog Form="вовнутрь"/>
+</Word>
+
+<Word Stem="контролирует" Weight="0.05">
+<Allolog Form="контролирует"/>
+</Word>
+
+<Word Stem="парасимпатическ" Weight="0.05">
+<Allolog Form="парасимпатической"/>
+</Word>
+
+<Word Stem="долгосрочн" Weight="0.05">
+<Allolog Form="долгосрочным"/>
+</Word>
+
+<Word Stem="отчужден" Weight="0.5">
+<Allolog Form="отчужденности"/>
+</Word>
+
+<Word Stem="экстраверт" Weight="0.05">
+<Allolog Form="экстраверт"/>
+</Word>
+
+<Word Stem="полн" Weight="0.5">
+<Allolog Form="полные"/>
+</Word>
+
+<Word Stem="внутрен" Weight="0.5">
+<Allolog Form="внутренняя"/>
+</Word>
+
+<Word Stem="ограничен" Weight="0.05">
+<Allolog Form="ограниченное"/>
+</Word>
+
+<Word Stem="глубок" Weight="0.5">
+<Allolog Form="глубок"/>
+</Word>
+
+<Word Stem="голов" Weight="0.05">
+<Allolog Form="голове"/>
+</Word>
+
+<Word Stem="интроверт" Weight="0.05">
+<Allolog Form="интроверта"/>
+</Word>
+
+<Word Stem="вниман" Weight="0.5">
+<Allolog Form="вниманию"/>
+</Word>
+
+<Word Stem="пауз" Weight="0.05">
+<Allolog Form="паузу"/>
+</Word>
+
+<Word Stem="замедля" Weight="0.05">
+<Allolog Form="замедляет"/>
+</Word>
+
+<Word Stem="застенчив" Weight="0.5">
+<Allolog Form="застенчивость"/>
+</Word>
+
+<Word Stem="сосредоточива" Weight="0.05">
+<Allolog Form="сосредоточиваются"/>
+</Word>
+
+<Word Stem="спокойств" Weight="0.05">
+<Allolog Form="спокойствия"/>
+</Word>
+
+<Word Stem="глубин" Weight="0.05">
+<Allolog Form="глубины"/>
+</Word>
+
+<Word Stem="точн" Weight="0.5">
+<Allolog Form="точности"/>
+</Word>
+
+<Word Stem="внимательн" Weight="0.5">
+<Allolog Form="внимательное"/>
+</Word>
+
+<Word Stem="уход" Weight="0.05">
+<Allolog Form="уходить"/>
+</Word>
+
+<Word Stem="важн" Weight="0.5">
+<Allolog Form="важное"/>
+</Word>
+
+<Word Stem="мудр" Weight="0.05">
+<Allolog Form="мудрость"/>
+</Word>
+
+<Word Stem="медлен" Weight="0.05">
+<Allolog Form="медленно"/>
+</Word>
+
+<Word Stem="интровертн" Weight="0.05">
+<Allolog Form="интровертной"/>
+</Word>
+
+<Word Stem="внутр" Weight="0.5">
+<Allolog Form="внутр"/>
+</Word>
+
+<Word Stem="вглуб" Weight="0.5">
+<Allolog Form="вглуб"/>
+</Word>
+
+<Word Stem="сильн" Weight="0.05">
+<Allolog Form="сильн"/>
+</Word>
+
+<Word Stem="жив" Weight="0.5">
+<Allolog Form="жив"/>
+</Word>
+
+<Word Stem="долг" Weight="0.5">
+<Allolog Form="долгого"/>
+</Word>
+
+<Word Stem="трудн" Weight="0.05">
+<Allolog Form="трудного"/>
+</Word>
+
+<Word Stem="чита" Weight="0.05">
+<Allolog Form="читаю"/>
+</Word>
+
+<Word Stem="внутренник" Weight="0.05">
+<Allolog Form="внутренником"/>
+</Word>
+
+<Word Stem="качеств" Weight="0.5">
+<Allolog Form="качества"/>
+</Word>
+
+<Word Stem="интровертных" Weight="0.05">
+<Allolog Form="интровертных"/>
+</Word>
+
+<Word Stem="избежа" Weight="0.05">
+<Allolog Form="избежать"/>
+</Word>
+
+<Word Stem="получ" Weight="0.05">
+<Allolog Form="получить"/>
+</Word>
+
+<Word Stem="нужда" Weight="0.05">
+<Allolog Form="нуждаются"/>
+</Word>
+
+<Word Stem="поразмышля" Weight="0.05">
+<Allolog Form="поразмышлять"/>
+</Word>
+
+<Word Stem="опустошен" Weight="0.05">
+<Allolog Form="опустошенными"/>
+</Word>
+
+<Word Stem="сосредоточ" Weight="0.5">
+<Allolog Form="сосредоточиться"/>
+</Word>
+
+<Word Stem="вернут" Weight="0.05">
+<Allolog Form="вернуться"/>
+</Word>
+
+<Word Stem="рамк" Weight="0.05">
+<Allolog Form="рамки"/>
+</Word>
+
+<Word Stem="термин" Weight="0.05">
+<Allolog Form="терминах"/>
+</Word>
+
+<Word Stem="истоща" Weight="0.05">
+<Allolog Form="истощает"/>
+</Word>
+
+<Word Stem="теря" Weight="0.05">
+<Allolog Form="теряют"/>
+</Word>
+
+<Word Stem="сохраня" Weight="0.05">
+<Allolog Form="сохраняет"/>
+</Word>
+
+<Word Stem="серьезн" Weight="0.5">
+<Allolog Form="серьезный"/>
+</Word>
+
+<Word Stem="ожида" Weight="0.05">
+<Allolog Form="ожидает"/>
+</Word>
+
+</Words>
