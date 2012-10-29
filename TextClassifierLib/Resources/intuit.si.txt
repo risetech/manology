@@ -1,0 +1,339 @@
+﻿<Words>
+
+<Word Stem="счаст" Weight="0.5">
+<Allolog Form="счастье"/>
+</Word>
+
+<Word Stem="любов" Weight="0.5">
+<Allolog Form="любовь"/>
+</Word>
+
+<Word Stem="друз" Weight="0.05">
+<Allolog Form="друзьям"/>
+</Word>
+
+<Word Stem="прекрасн" Weight="0.5">
+<Allolog Form="прекрасный"/>
+</Word>
+
+<Word Stem="эмоц" Weight="0.05">
+<Allolog Form="эмоции"/>
+</Word>
+
+<Word Stem="эмоциональн" Weight="0.5">
+<Allolog Form="эмоциональную"/>
+</Word>
+
+<Word Stem="любв" Weight="0.5">
+<Allolog Form="любви"/>
+</Word>
+
+<Word Stem="сексуальн" Weight="0.05">
+<Allolog Form="сексуальной"/>
+</Word>
+
+<Word Stem="ощущен" Weight="0.05">
+<Allolog Form="ощущениям"/>
+</Word>
+
+<Word Stem="фрейд" Weight="0.05">
+<Allolog Form="фрейд"/>
+</Word>
+
+<Word Stem="самооценк" Weight="0.05">
+<Allolog Form="самооценка"/>
+</Word>
+
+<Word Stem="депресс" Weight="0.05">
+<Allolog Form="депрессию"/>
+</Word>
+
+<Word Stem="духовн" Weight="0.5">
+<Allolog Form="духовно"/>
+</Word>
+
+<Word Stem="заблужден" Weight="0.5">
+<Allolog Form="заблуждения"/>
+</Word>
+
+<Word Stem="воспринима" Weight="0.05">
+<Allolog Form="воспринимаю"/>
+</Word>
+
+<Word Stem="случайных" Weight="0.05">
+<Allolog Form="случайных"/>
+</Word>
+
+<Word Stem="творческ" Weight="0.5">
+<Allolog Form="творческая"/>
+</Word>
+
+<Word Stem="положительн" Weight="0.5">
+<Allolog Form="положительный"/>
+</Word>
+
+<Word Stem="интуиц" Weight="0.5">
+<Allolog Form="интуиция"/>
+</Word>
+
+<Word Stem="позитивн" Weight="0.5">
+<Allolog Form="позитивное"/>
+</Word>
+
+<Word Stem="стереотип" Weight="0.05">
+<Allolog Form="стереотипы"/>
+</Word>
+
+<Word Stem="бессознательн" Weight="0.05">
+<Allolog Form="бессознательного"/>
+</Word>
+
+<Word Stem="насил" Weight="0.05">
+<Allolog Form="насилия"/>
+</Word>
+
+<Word Stem="сигнал" Weight="0.05">
+<Allolog Form="сигналы"/>
+</Word>
+
+<Word Stem="импульс" Weight="0.05">
+<Allolog Form="импульсом"/>
+</Word>
+
+<Word Stem="интуитивн" Weight="0.05">
+<Allolog Form="интуитивно"/>
+</Word>
+
+<Word Stem="ассоциац" Weight="0.05">
+<Allolog Form="ассоциации"/>
+</Word>
+
+<Word Stem="чувствительн" Weight="0.05">
+<Allolog Form="чувствительную"/>
+</Word>
+
+<Word Stem="религиозн" Weight="0.5">
+<Allolog Form="религиозные"/>
+</Word>
+
+<Word Stem="предсказыва" Weight="0.05">
+<Allolog Form="предсказывали"/>
+</Word>
+
+<Word Stem="имплицитн" Weight="0.05">
+<Allolog Form="имплицитная"/>
+</Word>
+
+<Word Stem="творчеств" Weight="0.5">
+<Allolog Form="творчество"/>
+</Word>
+
+<Word Stem="поразительн" Weight="0.5">
+<Allolog Form="поразительная"/>
+</Word>
+
+<Word Stem="иррациональн" Weight="0.5">
+<Allolog Form="иррациональным"/>
+</Word>
+
+<Word Stem="искажен" Weight="0.5">
+<Allolog Form="искаженное"/>
+</Word>
+
+<Word Stem="эмпат" Weight="0.05">
+<Allolog Form="эмпатии"/>
+</Word>
+
+<Word Stem="реагирова" Weight="0.05">
+<Allolog Form="реагировать"/>
+</Word>
+
+<Word Stem="предположен" Weight="0.05">
+<Allolog Form="предположении"/>
+</Word>
+
+<Word Stem="спонта" Weight="0.05">
+<Allolog Form="спонтанной"/>
+</Word>
+
+<Word Stem="переоценива" Weight="0.5">
+<Allolog Form="переоценивают"/>
+</Word>
+
+<Word Stem="неявн" Weight="0.05">
+<Allolog Form="неявные"/>
+</Word>
+
+<Word Stem="парапсихолог" Weight="0.05">
+<Allolog Form="парапсихологи"/>
+</Word>
+
+<Word Stem="невербальн" Weight="0.05">
+<Allolog Form="невербальное"/>
+</Word>
+
+<Word Stem="оптимизм" Weight="0.05">
+<Allolog Form="оптимизма"/>
+</Word>
+
+<Word Stem="предрассудк" Weight="0.5">
+<Allolog Form="предрассудки"/>
+</Word>
+
+<Word Stem="случайн" Weight="0.5">
+<Allolog Form="случайной"/>
+</Word>
+
+<Word Stem="чувств" Weight="0.05">
+<Allolog Form="чувство"/>
+</Word>
+
+<Word Stem="карт" Weight="0.05">
+<Allolog Form="карты"/>
+</Word>
+
+<Word Stem="иллюз" Weight="0.5">
+<Allolog Form="иллюзий"/>
+</Word>
+
+<Word Stem="настроен" Weight="0.5">
+<Allolog Form="настроения"/>
+</Word>
+
+<Word Stem="неудач" Weight="0.05">
+<Allolog Form="неудач"/>
+</Word>
+
+<Word Stem="зрител" Weight="0.05">
+<Allolog Form="зрителей"/>
+</Word>
+
+<Word Stem="иллюзорн" Weight="0.05">
+<Allolog Form="иллюзорной"/>
+</Word>
+
+<Word Stem="озарен" Weight="0.5">
+<Allolog Form="озарение"/>
+</Word>
+
+<Word Stem="экстрасенсорн" Weight="0.05">
+<Allolog Form="экстрасенсорное"/>
+</Word>
+
+<Word Stem="предчувств" Weight="0.5">
+<Allolog Form="предчувствия"/>
+</Word>
+
+<Word Stem="азартн" Weight="0.05">
+<Allolog Form="азартные"/>
+</Word>
+
+<Word Stem="тонк" Weight="0.05">
+<Allolog Form="тонкий"/>
+</Word>
+
+<Word Stem="предсказан" Weight="0.5">
+<Allolog Form="предсказание"/>
+</Word>
+
+<Word Stem="удивительн" Weight="0.5">
+<Allolog Form="удивительно"/>
+</Word>
+
+<Word Stem="чувствова" Weight="0.05">
+<Allolog Form="чувствовать"/>
+</Word>
+
+<Word Stem="ощуща" Weight="0.05">
+<Allolog Form="ощущала"/>
+</Word>
+
+<Word Stem="впечатлен" Weight="0.05">
+<Allolog Form="впечатлений"/>
+</Word>
+
+<Word Stem="симпат" Weight="0.5">
+<Allolog Form="симпатиям"/>
+</Word>
+
+<Word Stem="невидим" Weight="0.05">
+<Allolog Form="невидимую"/>
+</Word>
+
+<Word Stem="ошибочн" Weight="0.05">
+<Allolog Form="ошибочность"/>
+</Word>
+
+<Word Stem="предсказа" Weight="0.5">
+<Allolog Form="предсказал"/>
+</Word>
+
+<Word Stem="вспомина" Weight="0.05">
+<Allolog Form="вспоминает"/>
+</Word>
+
+<Word Stem="увидет" Weight="0.05">
+<Allolog Form="увидеть"/>
+</Word>
+
+<Word Stem="вспомн" Weight="0.05">
+<Allolog Form="вспомнила"/>
+</Word>
+
+<Word Stem="игра" Weight="0.05">
+<Allolog Form="играли"/>
+</Word>
+
+<Word Stem="удовольств" Weight="0.5">
+<Allolog Form="удовольствия"/>
+</Word>
+
+<Word Stem="страх" Weight="0.5">
+<Allolog Form="страха"/>
+</Word>
+
+<Word Stem="страда" Weight="0.05">
+<Allolog Form="страдают"/>
+</Word>
+
+<Word Stem="почувствова" Weight="0.05">
+<Allolog Form="почувствовать"/>
+</Word>
+
+<Word Stem="воспоминан" Weight="0.05">
+<Allolog Form="воспоминания"/>
+</Word>
+
+<Word Stem="успешн" Weight="0.05">
+<Allolog Form="успешнее"/>
+</Word>
+
+<Word Stem="явлен" Weight="0.05">
+<Allolog Form="явление"/>
+</Word>
+
+<Word Stem="intuition" Weight="0.05">
+<Allolog Form="intuition"/>
+</Word>
+
+<Word Stem="intuitive" Weight="0.05">
+<Allolog Form="intuitive"/>
+</Word>
+
+<Word Stem="удивлен" Weight="0.5">
+<Allolog Form="удивление"/>
+</Word>
+
+<Word Stem="лотер" Weight="0.05">
+<Allolog Form="лотерею"/>
+</Word>
+
+<Word Stem="интуитивных" Weight="0.05">
+<Allolog Form="интуитивных"/>
+</Word>
+
+<Word Stem="лотерейн" Weight="0.05">
+<Allolog Form="лотерейные"/>
+</Word>
+
+</Words>

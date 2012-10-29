@@ -39,6 +39,11 @@ namespace TextClassifierLib
 			//_tc = TextClassificator.CreateLearnedInstance();
 			System.Threading.Thread.CurrentThread.CurrentCulture = new CultureInfo("ru-RU");
 			_tc = TextClassificator.LearnedInstance;
+
+			TextClassificator.GetLoadInstance("_ri");
+			TextClassificator.GetLoadInstance("_le");
+			TextClassificator.GetLoadInstance("_ei");
+			TextClassificator.GetLoadInstance("_si");
 		}
 
 		private void FormMain_Load(object sender, EventArgs e)
@@ -60,7 +65,8 @@ namespace TextClassifierLib
 					buttonImport.Enabled =
 					buttonLearn.Enabled =
 					buttonMassLearn.Enabled =
-					newState;
+					buttonLoadLexicalizedWords.Enabled =
+						newState;
 			}));
 			
 		}

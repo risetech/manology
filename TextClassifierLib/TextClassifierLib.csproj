@@ -98,9 +98,15 @@
     <Content Include="Resources\culinariy.export.txt" />
     <Content Include="Resources\cultura.export.txt" />
     <Content Include="Resources\economica.export.txt" />
+    <None Include="Resources\etica.le.txt" />
+    <None Include="Resources\extra.ei.txt" />
     <Content Include="Resources\Ezoter.export.txt" />
     <Content Include="Resources\himiy.export.txt" />
+    <None Include="Resources\intra.ei.txt" />
+    <None Include="Resources\intuit.si.txt" />
+    <None Include="Resources\irracional.ri.txt" />
     <Content Include="Resources\it.export.txt" />
+    <None Include="Resources\logica.le.txt" />
     <Content Include="Resources\mathematics.export.txt" />
     <Content Include="Resources\medicine.export.txt" />
     <Content Include="Resources\muzica.export.txt" />
@@ -109,7 +115,9 @@
     <Content Include="Resources\policy.export.txt" />
     <Content Include="Resources\PR.export.txt" />
     <Content Include="Resources\psy.export.txt" />
+    <None Include="Resources\racional.ri.txt" />
     <Content Include="Resources\Samosov.export.txt" />
+    <None Include="Resources\sensor.si.txt" />
     <Content Include="Resources\sEX.export.txt" />
     <Content Include="Resources\sport.export.txt" />
     <Content Include="Resources\tp.export.txt" />

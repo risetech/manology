@@ -190,4 +190,28 @@
   <data name="Ur_export" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ur.export.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
+  <data name="etica_le" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\etica.le.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="extra_ei" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\extra.ei.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="intra_ei" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\intra.ei.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="intuit_si" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\intuit.si.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="irracional_ri" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\irracional.ri.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="logica_le" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logica.le.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="racional_ri" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\racional.ri.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="sensor_si" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sensor.si.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
 </root>
