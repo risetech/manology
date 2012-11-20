@@ -2514,6 +2514,7 @@ function renderSmallAndBigChart(item) {
 function savePsyType(mas, words) {
 	psyContent = mas;
 	psyType = words;
+	renderPsyType();
 }
 
 function getPsyName(psy) {
